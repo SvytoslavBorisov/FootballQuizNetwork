@@ -1,0 +1,86 @@
+{
+  "id": "matchday",
+  "titleRu": "Матч тура",
+  "packs": [
+    {
+      "id": "matchday_fallback_world",
+      "titleRu": "Матч тура: мировой футбол (fallback)",
+      "items": [
+        {
+          "id": "matchday_fallback_world_1",
+          "type": 0,
+          "questionText": "Сколько игроков в стартовом составе одной команды?",
+          "comment": "В начале матча в поле у каждой команды 11 игроков, включая вратаря.",
+          "media": {
+            "questionSlug": "no_pic",
+            "dialogSlug": "no_pic",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "id": "ans_1",
+              "text": "11",
+              "slug": "no_pic",
+              "isCorrect": true
+            },
+            {
+              "id": "ans_2",
+              "text": "10",
+              "slug": "no_pic",
+              "isCorrect": false
+            },
+            {
+              "id": "ans_3",
+              "text": "12",
+              "slug": "no_pic",
+              "isCorrect": false
+            },
+            {
+              "id": "ans_4",
+              "text": "9",
+              "slug": "no_pic",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "matchday_fallback_world_2",
+          "type": 0,
+          "questionText": "Сколько минут длится основное время футбольного матча?",
+          "comment": "Стандартная длительность матча — 2 тайма по 45 минут.",
+          "media": {
+            "questionSlug": "no_pic",
+            "dialogSlug": "no_pic",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "id": "ans_1",
+              "text": "90 минут",
+              "slug": "no_pic",
+              "isCorrect": true
+            },
+            {
+              "id": "ans_2",
+              "text": "80 минут",
+              "slug": "no_pic",
+              "isCorrect": false
+            },
+            {
+              "id": "ans_3",
+              "text": "100 минут",
+              "slug": "no_pic",
+              "isCorrect": false
+            },
+            {
+              "id": "ans_4",
+              "text": "120 минут",
+              "slug": "no_pic",
+              "isCorrect": false
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

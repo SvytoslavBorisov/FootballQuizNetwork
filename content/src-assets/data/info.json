@@ -1,0 +1,19 @@
+{
+  "sections": [
+    {
+      "id": "clubs",
+      "titleRu": "Клубы",
+      "paragraphs": []
+    },
+    {
+      "id": "stadiums",
+      "titleRu": "Стадионы",
+      "paragraphs": []
+    },
+    {
+      "id": "cup",
+      "titleRu": "Трофеи/Кубок",
+      "paragraphs": []
+    }
+  ]
+}

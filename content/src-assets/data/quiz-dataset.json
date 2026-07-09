@@ -1,0 +1,1176 @@
+{
+  "id": "world-football-quiz",
+  "version": 3,
+  "updatedAt": "2026-02-25T00:00:00.000Z",
+  "categories": [
+    {
+      "id": "matchday",
+      "titleRu": "Матч тура",
+      "packs": [
+        {
+          "id": "dev_test",
+          "titleRu": "Dev Test Pack",
+          "items": [
+            {
+              "id": "dev_multi_1",
+              "type": 0,
+              "kind": "multi_choice",
+              "payload": {},
+              "questionText": "Какая страна выиграла ЧМ 2018?",
+              "comment": "Финал: Франция 4:2 Хорватия.",
+              "media": {
+                "questionSlug": "no_pic",
+                "dialogSlug": "no_pic",
+                "correctSlug": "no_pic"
+              },
+              "answers": [
+                {
+                  "id": "ans_1",
+                  "text": "Франция",
+                  "slug": "no_pic",
+                  "isCorrect": true
+                },
+                {
+                  "id": "ans_2",
+                  "text": "Хорватия",
+                  "slug": "no_pic",
+                  "isCorrect": false
+                },
+                {
+                  "id": "ans_3",
+                  "text": "Бразилия",
+                  "slug": "no_pic",
+                  "isCorrect": false
+                },
+                {
+                  "id": "ans_4",
+                  "text": "Германия",
+                  "slug": "no_pic",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "id": "dev_multi_2",
+              "type": 0,
+              "kind": "multi_choice",
+              "payload": {},
+              "questionText": "Сколько игроков в стартовом составе команды?",
+              "comment": "На поле одновременно играют 11 футболистов от команды.",
+              "media": {
+                "questionSlug": "no_pic",
+                "dialogSlug": "no_pic",
+                "correctSlug": "no_pic"
+              },
+              "answers": [
+                {
+                  "id": "ans_1",
+                  "text": "11",
+                  "slug": "no_pic",
+                  "isCorrect": true
+                },
+                {
+                  "id": "ans_2",
+                  "text": "10",
+                  "slug": "no_pic",
+                  "isCorrect": false
+                },
+                {
+                  "id": "ans_3",
+                  "text": "12",
+                  "slug": "no_pic",
+                  "isCorrect": false
+                },
+                {
+                  "id": "ans_4",
+                  "text": "9",
+                  "slug": "no_pic",
+                  "isCorrect": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "dev_test_new_types",
+          "titleRu": "Dev Test New Types",
+          "items": [
+            {
+              "id": "dev_new_1",
+              "type": 301,
+              "kind": "order_sequence",
+              "payload": {
+                "title": "???????? ????????",
+                "items": [
+                  {
+                    "id": "a",
+                    "text": "?????? ? ????????"
+                  },
+                  {
+                    "id": "b",
+                    "text": "??????? ????????"
+                  },
+                  {
+                    "id": "c",
+                    "text": "???? ?? ???????"
+                  },
+                  {
+                    "id": "d",
+                    "text": "??? ?????? ?? ?????"
+                  }
+                ],
+                "correctOrder": [
+                  "d",
+                  "b",
+                  "a",
+                  "c"
+                ]
+              },
+              "questionText": "???????? ?????????? ??????????????????: ???????? ????????",
+              "media": {
+                "questionSlug": "no_pic",
+                "dialogSlug": "no_pic",
+                "correctSlug": "no_pic"
+              }
+            },
+            {
+              "id": "dev_new_2",
+              "type": 302,
+              "kind": "order_sequence",
+              "payload": {
+                "title": "????????",
+                "items": [
+                  {
+                    "id": "a",
+                    "text": "??????? ???????"
+                  },
+                  {
+                    "id": "b",
+                    "text": "?????????? ?????"
+                  },
+                  {
+                    "id": "c",
+                    "text": "????"
+                  },
+                  {
+                    "id": "d",
+                    "text": "??? ? ????? / ????"
+                  }
+                ],
+                "correctOrder": [
+                  "a",
+                  "b",
+                  "c",
+                  "d"
+                ]
+              },
+              "questionText": "???????? ?????????? ??????????????????: ????????",
+              "media": {
+                "questionSlug": "no_pic",
+                "dialogSlug": "no_pic",
+                "correctSlug": "no_pic"
+              }
+            },
+            {
+              "id": "dev_new_3",
+              "type": 303,
+              "kind": "word_build",
+              "payload": {
+                "prompt": "?????? ?????: ??????? ?????? ?????? (????.)",
+                "answer": "CHAMPIONS",
+                "letters": [
+                  "C",
+                  "H",
+                  "A",
+                  "M",
+                  "P",
+                  "I",
+                  "O",
+                  "N",
+                  "S",
+                  "X",
+                  "R",
+                  "L"
+                ],
+                "maxLen": 9
+              },
+              "questionText": "?????? ????? ?? ????",
+              "media": {
+                "questionSlug": "no_pic",
+                "dialogSlug": "no_pic",
+                "correctSlug": "no_pic"
+              }
+            },
+            {
+              "id": "dev_new_4",
+              "type": 304,
+              "kind": "word_build",
+              "payload": {
+                "prompt": "?????? ?????: ?????????? ?????? (????.)",
+                "answer": "OFFSIDE",
+                "letters": [
+                  "O",
+                  "F",
+                  "F",
+                  "S",
+                  "I",
+                  "D",
+                  "E",
+                  "A",
+                  "T",
+                  "K"
+                ],
+                "maxLen": 7
+              },
+              "questionText": "?????? ????? ?? ????",
+              "media": {
+                "questionSlug": "no_pic",
+                "dialogSlug": "no_pic",
+                "correctSlug": "no_pic"
+              }
+            },
+            {
+              "id": "dev_new_5",
+              "type": 305,
+              "kind": "true_false_series",
+              "payload": {
+                "title": "??????/????: ???????",
+                "statements": [
+                  {
+                    "id": "s1",
+                    "text": "? ????? ??? ????? ?? 45 ?????.",
+                    "isTrue": true
+                  },
+                  {
+                    "id": "s2",
+                    "text": "?????? ???????????, ???? ????? ?? ????? ???????? ????.",
+                    "isTrue": false
+                  },
+                  {
+                    "id": "s3",
+                    "text": "???????? ??????????? ? 11 ??????.",
+                    "isTrue": true
+                  },
+                  {
+                    "id": "s4",
+                    "text": "??????? ?????????, ???? ??? ???? ?? ??????? ?? ?????????.",
+                    "isTrue": true
+                  },
+                  {
+                    "id": "s5",
+                    "text": "??????? ?? ????? ????? ??? ?????? ? ????? ????????.",
+                    "isTrue": false
+                  },
+                  {
+                    "id": "s6",
+                    "text": "?????? ???????? ??????? ?????? ???????? ?? ?????.",
+                    "isTrue": false
+                  },
+                  {
+                    "id": "s7",
+                    "text": "VAR ????? ???????? ????? ? ???????? ????????.",
+                    "isTrue": true
+                  },
+                  {
+                    "id": "s8",
+                    "text": "??? ???????? ?????.",
+                    "isTrue": false
+                  },
+                  {
+                    "id": "s9",
+                    "text": "??? ?????????????, ???? ??? ????????? ??????? ????? ?????.",
+                    "isTrue": true
+                  },
+                  {
+                    "id": "s10",
+                    "text": "???? ?????? ????????????? ?? ?????? 0:0.",
+                    "isTrue": false
+                  }
+                ]
+              },
+              "questionText": "????? ??????/????",
+              "media": {
+                "questionSlug": "no_pic",
+                "dialogSlug": "no_pic",
+                "correctSlug": "no_pic"
+              }
+            },
+            {
+              "id": "dev_new_6",
+              "type": 306,
+              "kind": "true_false_series",
+              "payload": {
+                "title": "??????/????: ??????? ???????",
+                "statements": [
+                  {
+                    "id": "t1",
+                    "text": "???-???? ? ??? ??? ???? ?????? ?????? ? ?????.",
+                    "isTrue": true
+                  },
+                  {
+                    "id": "t2",
+                    "text": "???????? ? ??? ???? ???????.",
+                    "isTrue": false
+                  },
+                  {
+                    "id": "t3",
+                    "text": "??? ????? ???????? ? ????????? ?????.",
+                    "isTrue": true
+                  },
+                  {
+                    "id": "t4",
+                    "text": "??????? ???????? ???????? ????????.",
+                    "isTrue": true
+                  },
+                  {
+                    "id": "t5",
+                    "text": "???? ? ??? ???? ?? ???????.",
+                    "isTrue": false
+                  },
+                  {
+                    "id": "t6",
+                    "text": "??????? ?? ???? ?????? ? ??????? 15 ???????.",
+                    "isTrue": false
+                  },
+                  {
+                    "id": "t7",
+                    "text": "???????? ? ??? ???????.",
+                    "isTrue": true
+                  },
+                  {
+                    "id": "t8",
+                    "text": "???????????? ? ??? ????? ?????.",
+                    "isTrue": true
+                  },
+                  {
+                    "id": "t9",
+                    "text": "?????? ? ??? ????? ???????? ????? ????? ????????.",
+                    "isTrue": true
+                  },
+                  {
+                    "id": "t10",
+                    "text": "???????? ?????? ?????????? ? ????? ????? ????.",
+                    "isTrue": false
+                  }
+                ]
+              },
+              "questionText": "????? ??????/????",
+              "media": {
+                "questionSlug": "no_pic",
+                "dialogSlug": "no_pic",
+                "correctSlug": "no_pic"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cup",
+      "titleRu": "Кубок",
+      "packs": [
+        {
+          "id": "cup_offline",
+          "titleRu": "?????: ?????? ???",
+          "items": [
+            {
+              "id": "cup_q_1",
+              "type": 0,
+              "kind": "multi_choice",
+              "payload": {},
+              "questionText": "??????? ????? ?????? ???????? ????? ??????????? ??????",
+              "comment": "90 ?????",
+              "media": {
+                "questionSlug": "no_pic",
+                "dialogSlug": "no_pic",
+                "correctSlug": "no_pic"
+              },
+              "answers": [
+                {
+                  "id": "ans_1",
+                  "text": "90 ?????",
+                  "slug": "no_pic",
+                  "isCorrect": true
+                },
+                {
+                  "id": "ans_2",
+                  "text": "80 ?????",
+                  "slug": "no_pic",
+                  "isCorrect": false
+                },
+                {
+                  "id": "ans_3",
+                  "text": "100 ?????",
+                  "slug": "no_pic",
+                  "isCorrect": false
+                },
+                {
+                  "id": "ans_4",
+                  "text": "120 ?????",
+                  "slug": "no_pic",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "id": "cup_q_2",
+              "type": 0,
+              "kind": "multi_choice",
+              "payload": {},
+              "questionText": "??????? ??????? ? ??????? ?? ???? ? ?????? ??????",
+              "comment": "11",
+              "media": {
+                "questionSlug": "no_pic",
+                "dialogSlug": "no_pic",
+                "correctSlug": "no_pic"
+              },
+              "answers": [
+                {
+                  "id": "ans_1",
+                  "text": "11",
+                  "slug": "no_pic",
+                  "isCorrect": true
+                },
+                {
+                  "id": "ans_2",
+                  "text": "10",
+                  "slug": "no_pic",
+                  "isCorrect": false
+                },
+                {
+                  "id": "ans_3",
+                  "text": "12",
+                  "slug": "no_pic",
+                  "isCorrect": false
+                },
+                {
+                  "id": "ans_4",
+                  "text": "9",
+                  "slug": "no_pic",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "id": "cup_q_3",
+              "type": 0,
+              "kind": "multi_choice",
+              "payload": {},
+              "questionText": "??? ?????????? ???????? ???? ????????",
+              "comment": "?????",
+              "media": {
+                "questionSlug": "no_pic",
+                "dialogSlug": "no_pic",
+                "correctSlug": "no_pic"
+              },
+              "answers": [
+                {
+                  "id": "ans_1",
+                  "text": "?????",
+                  "slug": "no_pic",
+                  "isCorrect": true
+                },
+                {
+                  "id": "ans_2",
+                  "text": "????-??",
+                  "slug": "no_pic",
+                  "isCorrect": false
+                },
+                {
+                  "id": "ans_3",
+                  "text": "????????? ????",
+                  "slug": "no_pic",
+                  "isCorrect": false
+                },
+                {
+                  "id": "ans_4",
+                  "text": "????????????",
+                  "slug": "no_pic",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "id": "cup_q_4",
+              "type": 0,
+              "kind": "multi_choice",
+              "payload": {},
+              "questionText": "??????? ????? ?????? ?? ?????? ? ??????? ??????",
+              "comment": "3",
+              "media": {
+                "questionSlug": "no_pic",
+                "dialogSlug": "no_pic",
+                "correctSlug": "no_pic"
+              },
+              "answers": [
+                {
+                  "id": "ans_1",
+                  "text": "3",
+                  "slug": "no_pic",
+                  "isCorrect": true
+                },
+                {
+                  "id": "ans_2",
+                  "text": "2",
+                  "slug": "no_pic",
+                  "isCorrect": false
+                },
+                {
+                  "id": "ans_3",
+                  "text": "1",
+                  "slug": "no_pic",
+                  "isCorrect": false
+                },
+                {
+                  "id": "ans_4",
+                  "text": "0",
+                  "slug": "no_pic",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "id": "cup_q_5",
+              "type": 0,
+              "kind": "multi_choice",
+              "payload": {},
+              "questionText": "????? ????? ?????? ???????? ? ??????? ?? ??????",
+              "comment": "????????? ?????",
+              "media": {
+                "questionSlug": "no_pic",
+                "dialogSlug": "no_pic",
+                "correctSlug": "no_pic"
+              },
+              "answers": [
+                {
+                  "id": "ans_1",
+                  "text": "????????? ?????",
+                  "slug": "no_pic",
+                  "isCorrect": true
+                },
+                {
+                  "id": "ans_2",
+                  "text": "??????",
+                  "slug": "no_pic",
+                  "isCorrect": false
+                },
+                {
+                  "id": "ans_3",
+                  "text": "???????",
+                  "slug": "no_pic",
+                  "isCorrect": false
+                },
+                {
+                  "id": "ans_4",
+                  "text": "???????",
+                  "slug": "no_pic",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "id": "cup_q_6",
+              "type": 0,
+              "kind": "multi_choice",
+              "payload": {},
+              "questionText": "??? ?????????? ???? ? 11 ???????",
+              "comment": "????????",
+              "media": {
+                "questionSlug": "no_pic",
+                "dialogSlug": "no_pic",
+                "correctSlug": "no_pic"
+              },
+              "answers": [
+                {
+                  "id": "ans_1",
+                  "text": "????????",
+                  "slug": "no_pic",
+                  "isCorrect": true
+                },
+                {
+                  "id": "ans_2",
+                  "text": "???",
+                  "slug": "no_pic",
+                  "isCorrect": false
+                },
+                {
+                  "id": "ans_3",
+                  "text": "???????",
+                  "slug": "no_pic",
+                  "isCorrect": false
+                },
+                {
+                  "id": "ans_4",
+                  "text": "?????????",
+                  "slug": "no_pic",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "id": "cup_q_7",
+              "type": 0,
+              "kind": "multi_choice",
+              "payload": {},
+              "questionText": "??????? ?????? ? ??????????? ??????",
+              "comment": "2",
+              "media": {
+                "questionSlug": "no_pic",
+                "dialogSlug": "no_pic",
+                "correctSlug": "no_pic"
+              },
+              "answers": [
+                {
+                  "id": "ans_1",
+                  "text": "2",
+                  "slug": "no_pic",
+                  "isCorrect": true
+                },
+                {
+                  "id": "ans_2",
+                  "text": "3",
+                  "slug": "no_pic",
+                  "isCorrect": false
+                },
+                {
+                  "id": "ans_3",
+                  "text": "4",
+                  "slug": "no_pic",
+                  "isCorrect": false
+                },
+                {
+                  "id": "ans_4",
+                  "text": "1",
+                  "slug": "no_pic",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "id": "cup_q_8",
+              "type": 0,
+              "kind": "multi_choice",
+              "payload": {},
+              "questionText": "??? ?????????, ???? ??? ????????? ??????? ??????? ????? ?? ??????????",
+              "comment": "???????",
+              "media": {
+                "questionSlug": "no_pic",
+                "dialogSlug": "no_pic",
+                "correctSlug": "no_pic"
+              },
+              "answers": [
+                {
+                  "id": "ans_1",
+                  "text": "???????",
+                  "slug": "no_pic",
+                  "isCorrect": true
+                },
+                {
+                  "id": "ans_2",
+                  "text": "????????",
+                  "slug": "no_pic",
+                  "isCorrect": false
+                },
+                {
+                  "id": "ans_3",
+                  "text": "???",
+                  "slug": "no_pic",
+                  "isCorrect": false
+                },
+                {
+                  "id": "ans_4",
+                  "text": "??????? ???",
+                  "slug": "no_pic",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "id": "cup_q_9",
+              "type": 0,
+              "kind": "multi_choice",
+              "payload": {},
+              "questionText": "????? ???????? ???????? ???????? ???????",
+              "comment": "???????",
+              "media": {
+                "questionSlug": "no_pic",
+                "dialogSlug": "no_pic",
+                "correctSlug": "no_pic"
+              },
+              "answers": [
+                {
+                  "id": "ans_1",
+                  "text": "???????",
+                  "slug": "no_pic",
+                  "isCorrect": true
+                },
+                {
+                  "id": "ans_2",
+                  "text": "??????",
+                  "slug": "no_pic",
+                  "isCorrect": false
+                },
+                {
+                  "id": "ans_3",
+                  "text": "???????",
+                  "slug": "no_pic",
+                  "isCorrect": false
+                },
+                {
+                  "id": "ans_4",
+                  "text": "?????",
+                  "slug": "no_pic",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "id": "cup_q_10",
+              "type": 0,
+              "kind": "multi_choice",
+              "payload": {},
+              "questionText": "??? ????? ?????? ?????? ? ????? ?????????",
+              "comment": "???????",
+              "media": {
+                "questionSlug": "no_pic",
+                "dialogSlug": "no_pic",
+                "correctSlug": "no_pic"
+              },
+              "answers": [
+                {
+                  "id": "ans_1",
+                  "text": "???????",
+                  "slug": "no_pic",
+                  "isCorrect": true
+                },
+                {
+                  "id": "ans_2",
+                  "text": "????? ????????",
+                  "slug": "no_pic",
+                  "isCorrect": false
+                },
+                {
+                  "id": "ans_3",
+                  "text": "???????",
+                  "slug": "no_pic",
+                  "isCorrect": false
+                },
+                {
+                  "id": "ans_4",
+                  "text": "?????",
+                  "slug": "no_pic",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "id": "cup_q_11",
+              "type": 0,
+              "kind": "multi_choice",
+              "payload": {},
+              "questionText": "??????? ?????? ??????? ? ?????? ??? ?????????",
+              "comment": "????? ?? ???????????",
+              "media": {
+                "questionSlug": "no_pic",
+                "dialogSlug": "no_pic",
+                "correctSlug": "no_pic"
+              },
+              "answers": [
+                {
+                  "id": "ans_1",
+                  "text": "????? ?? ???????????",
+                  "slug": "no_pic",
+                  "isCorrect": true
+                },
+                {
+                  "id": "ans_2",
+                  "text": "????? 2",
+                  "slug": "no_pic",
+                  "isCorrect": false
+                },
+                {
+                  "id": "ans_3",
+                  "text": "????? 4",
+                  "slug": "no_pic",
+                  "isCorrect": false
+                },
+                {
+                  "id": "ans_4",
+                  "text": "????? 6",
+                  "slug": "no_pic",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "id": "cup_q_12",
+              "type": 0,
+              "kind": "multi_choice",
+              "payload": {},
+              "questionText": "??? ?????????? ??? ?????? ? ???????? ????? ????? 90 ??????",
+              "comment": "????? ???? ???. ?????/????????",
+              "media": {
+                "questionSlug": "no_pic",
+                "dialogSlug": "no_pic",
+                "correctSlug": "no_pic"
+              },
+              "answers": [
+                {
+                  "id": "ans_1",
+                  "text": "????? ???? ???. ?????/????????",
+                  "slug": "no_pic",
+                  "isCorrect": true
+                },
+                {
+                  "id": "ans_2",
+                  "text": "?????????????? ?????? ??????",
+                  "slug": "no_pic",
+                  "isCorrect": false
+                },
+                {
+                  "id": "ans_3",
+                  "text": "???? ??????????",
+                  "slug": "no_pic",
+                  "isCorrect": false
+                },
+                {
+                  "id": "ans_4",
+                  "text": "????????? ????? ?????",
+                  "slug": "no_pic",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "id": "cup_q_13",
+              "type": 0,
+              "kind": "multi_choice",
+              "payload": {},
+              "questionText": "??????? ????? ? ??????? ????? ??????????",
+              "comment": "0",
+              "media": {
+                "questionSlug": "no_pic",
+                "dialogSlug": "no_pic",
+                "correctSlug": "no_pic"
+              },
+              "answers": [
+                {
+                  "id": "ans_1",
+                  "text": "0",
+                  "slug": "no_pic",
+                  "isCorrect": true
+                },
+                {
+                  "id": "ans_2",
+                  "text": "1",
+                  "slug": "no_pic",
+                  "isCorrect": false
+                },
+                {
+                  "id": "ans_3",
+                  "text": "2",
+                  "slug": "no_pic",
+                  "isCorrect": false
+                },
+                {
+                  "id": "ans_4",
+                  "text": "3",
+                  "slug": "no_pic",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "id": "cup_q_14",
+              "type": 0,
+              "kind": "multi_choice",
+              "payload": {},
+              "questionText": "??? ?????????? ???????? ???? ?????????",
+              "comment": "???",
+              "media": {
+                "questionSlug": "no_pic",
+                "dialogSlug": "no_pic",
+                "correctSlug": "no_pic"
+              },
+              "answers": [
+                {
+                  "id": "ans_1",
+                  "text": "???",
+                  "slug": "no_pic",
+                  "isCorrect": true
+                },
+                {
+                  "id": "ans_2",
+                  "text": "???",
+                  "slug": "no_pic",
+                  "isCorrect": false
+                },
+                {
+                  "id": "ans_3",
+                  "text": "????",
+                  "slug": "no_pic",
+                  "isCorrect": false
+                },
+                {
+                  "id": "ans_4",
+                  "text": "??????",
+                  "slug": "no_pic",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "id": "cup_q_15",
+              "type": 0,
+              "kind": "multi_choice",
+              "payload": {},
+              "questionText": "??? ???????? ??????, ??????? ????? ??? ?????",
+              "comment": "??????? ???-????",
+              "media": {
+                "questionSlug": "no_pic",
+                "dialogSlug": "no_pic",
+                "correctSlug": "no_pic"
+              },
+              "answers": [
+                {
+                  "id": "ans_1",
+                  "text": "??????? ???-????",
+                  "slug": "no_pic",
+                  "isCorrect": true
+                },
+                {
+                  "id": "ans_2",
+                  "text": "?????? ?????",
+                  "slug": "no_pic",
+                  "isCorrect": false
+                },
+                {
+                  "id": "ans_3",
+                  "text": "??????? ??????",
+                  "slug": "no_pic",
+                  "isCorrect": false
+                },
+                {
+                  "id": "ans_4",
+                  "text": "?????? ?? ????",
+                  "slug": "no_pic",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "id": "cup_q_16",
+              "type": 0,
+              "kind": "multi_choice",
+              "payload": {},
+              "questionText": "??? ????????? ????",
+              "comment": "??-?? ??????? ?????",
+              "media": {
+                "questionSlug": "no_pic",
+                "dialogSlug": "no_pic",
+                "correctSlug": "no_pic"
+              },
+              "answers": [
+                {
+                  "id": "ans_1",
+                  "text": "??-?? ??????? ?????",
+                  "slug": "no_pic",
+                  "isCorrect": true
+                },
+                {
+                  "id": "ans_2",
+                  "text": "? ?????? ????",
+                  "slug": "no_pic",
+                  "isCorrect": false
+                },
+                {
+                  "id": "ans_3",
+                  "text": "?? ??????????",
+                  "slug": "no_pic",
+                  "isCorrect": false
+                },
+                {
+                  "id": "ans_4",
+                  "text": "? ???????? ???????",
+                  "slug": "no_pic",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "id": "cup_q_17",
+              "type": 0,
+              "kind": "multi_choice",
+              "payload": {},
+              "questionText": "??? ???????? ??????? ???? ? ???????",
+              "comment": "???????? ????? ??????????",
+              "media": {
+                "questionSlug": "no_pic",
+                "dialogSlug": "no_pic",
+                "correctSlug": "no_pic"
+              },
+              "answers": [
+                {
+                  "id": "ans_1",
+                  "text": "???????? ????? ??????????",
+                  "slug": "no_pic",
+                  "isCorrect": true
+                },
+                {
+                  "id": "ans_2",
+                  "text": "??????? ??????",
+                  "slug": "no_pic",
+                  "isCorrect": false
+                },
+                {
+                  "id": "ans_3",
+                  "text": "????? ??????? ?????",
+                  "slug": "no_pic",
+                  "isCorrect": false
+                },
+                {
+                  "id": "ans_4",
+                  "text": "??????????",
+                  "slug": "no_pic",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "id": "cup_q_18",
+              "type": 0,
+              "kind": "multi_choice",
+              "payload": {},
+              "questionText": "??? ????????? VAR?",
+              "comment": "??????? ???????? ???????",
+              "media": {
+                "questionSlug": "no_pic",
+                "dialogSlug": "no_pic",
+                "correctSlug": "no_pic"
+              },
+              "answers": [
+                {
+                  "id": "ans_1",
+                  "text": "??????? ???????? ???????",
+                  "slug": "no_pic",
+                  "isCorrect": true
+                },
+                {
+                  "id": "ans_2",
+                  "text": "???????? ???????",
+                  "slug": "no_pic",
+                  "isCorrect": false
+                },
+                {
+                  "id": "ans_3",
+                  "text": "???? ?? ??????",
+                  "slug": "no_pic",
+                  "isCorrect": false
+                },
+                {
+                  "id": "ans_4",
+                  "text": "?????? ?? ????????",
+                  "slug": "no_pic",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "id": "cup_q_19",
+              "type": 0,
+              "kind": "multi_choice",
+              "payload": {},
+              "questionText": "??????? ????? ?????? ? ???? ? ?? ?????? ? ???????????? ????????",
+              "comment": "1 ??????? ? 2 ??????????",
+              "media": {
+                "questionSlug": "no_pic",
+                "dialogSlug": "no_pic",
+                "correctSlug": "no_pic"
+              },
+              "answers": [
+                {
+                  "id": "ans_1",
+                  "text": "1 ??????? ? 2 ??????????",
+                  "slug": "no_pic",
+                  "isCorrect": true
+                },
+                {
+                  "id": "ans_2",
+                  "text": "3 ???????",
+                  "slug": "no_pic",
+                  "isCorrect": false
+                },
+                {
+                  "id": "ans_3",
+                  "text": "2 ??????? ? 1 ?????????",
+                  "slug": "no_pic",
+                  "isCorrect": false
+                },
+                {
+                  "id": "ans_4",
+                  "text": "?????? 1 ???????",
+                  "slug": "no_pic",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "id": "cup_q_20",
+              "type": 0,
+              "kind": "multi_choice",
+              "payload": {},
+              "questionText": "????? ????????? ?????, ????? ?????? ?????? ? ????-????",
+              "comment": "?????? ?????? ?????????",
+              "media": {
+                "questionSlug": "no_pic",
+                "dialogSlug": "no_pic",
+                "correctSlug": "no_pic"
+              },
+              "answers": [
+                {
+                  "id": "ans_1",
+                  "text": "?????? ?????? ?????????",
+                  "slug": "no_pic",
+                  "isCorrect": true
+                },
+                {
+                  "id": "ans_2",
+                  "text": "????? ?????? ???????",
+                  "slug": "no_pic",
+                  "isCorrect": false
+                },
+                {
+                  "id": "ans_3",
+                  "text": "?????? ??????? ?????",
+                  "slug": "no_pic",
+                  "isCorrect": false
+                },
+                {
+                  "id": "ans_4",
+                  "text": "????? ?????? ?????",
+                  "slug": "no_pic",
+                  "isCorrect": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "clubs",
+      "titleRu": "Клубы",
+      "packs": []
+    },
+    {
+      "id": "stadiums",
+      "titleRu": "Стадионы",
+      "packs": []
+    },
+    {
+      "id": "logos",
+      "titleRu": "Эмблемы",
+      "packs": []
+    }
+  ]
+}
