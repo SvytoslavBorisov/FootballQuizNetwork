@@ -1,0 +1,11 @@
+{
+  "name": "football-quiz-network",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "validate": "node ./scripts/validate-quiz-content.js"
+  },
+  "dependencies": {
+    "xlsx": "^0.18.5"
+  }
+}

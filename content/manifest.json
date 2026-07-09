@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "updatedAt": "2026-07-09T06:21:04.317Z",
+  "bundles": {
+    "logos": {
+      "path": "content/bundles/logos-packs.json",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/bundles/logos-packs.json",
+      "sha256": "c37bc339cec2d2f10e0b799c280433ebb6e1786bde7923af05a16ccf6170356d",
+      "bytes": 228804
+    },
+    "stadiums": {
+      "path": "content/bundles/stadiums-packs.json",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/bundles/stadiums-packs.json",
+      "sha256": "39e0ec1c5720cf051f2a3973fcc84a613d2750b2cdc8ab3369fa13435c87d0e2",
+      "bytes": 119862
+    }
+  },
+  "mediaBaseUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/media/questions/"
+}

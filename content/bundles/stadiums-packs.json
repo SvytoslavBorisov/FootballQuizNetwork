@@ -1,0 +1,4124 @@
+{
+  "version": 1,
+  "generatedAt": "2026-07-09T06:17:05.426Z",
+  "packs": [
+    {
+      "id": "stadium_fnl",
+      "titleRu": "Первая лига",
+      "items": [
+        {
+          "id": "stadium_fnl_1",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Как называется стадион?",
+          "media": {
+            "questionSlug": "std_arsenal",
+            "dialogSlug": "std_arsenal",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Арсенал",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Локомотив",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Фишт",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Ростех Арена",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Нефтяник",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Шинник",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ]
+        },
+        {
+          "id": "stadium_fnl_2",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Как называется стадион?",
+          "media": {
+            "questionSlug": "std_fisht",
+            "dialogSlug": "std_fisht",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Фишт",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Ростех Арена",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "КАМАЗ",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Ахмат Арена",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Сапсан Арена",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Екатеринбург Арена",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ]
+        },
+        {
+          "id": "stadium_fnl_3",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Как называется стадион?",
+          "media": {
+            "questionSlug": "std_ural",
+            "dialogSlug": "std_ural",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Екатеринбург Арена",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Фишт",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "РЖД Арена",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Краснодар",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Нефтяник",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Геолог",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ]
+        },
+        {
+          "id": "stadium_fnl_4",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Как называется стадион?",
+          "media": {
+            "questionSlug": "std_ufa",
+            "dialogSlug": "std_ufa",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Нефтяник",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Геолог",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "КАМАЗ",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "имени В.И.Ленина",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Центральный",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Шинник",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ]
+        },
+        {
+          "id": "stadium_fnl_5",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Как называется стадион?",
+          "media": {
+            "questionSlug": "std_shinnik",
+            "dialogSlug": "std_shinnik",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Шинник",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Нефтяник",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Сокол",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Динамо",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Спартак",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Лукойл Арена",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ]
+        },
+        {
+          "id": "stadium_fnl_6",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Как называется стадион?",
+          "media": {
+            "questionSlug": "std_kamaz",
+            "dialogSlug": "std_kamaz",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "КАМАЗ",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Геолог",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Авангард",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Кировец",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Трудовые резервы",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Торпедо",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ]
+        },
+        {
+          "id": "stadium_fnl_7",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Как называется стадион?",
+          "media": {
+            "questionSlug": "std_rotor",
+            "dialogSlug": "std_rotor",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Волгоград Арена",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Екатеринбург Арена",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Фишт",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Ростов Арена",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Ростех Арена",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Ахмат Арена",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ]
+        },
+        {
+          "id": "stadium_fnl_8",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Как называется стадион?",
+          "media": {
+            "questionSlug": "std_enisey",
+            "dialogSlug": "std_enisey",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Центральный",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Арсенал",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Нефтяник",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Сапсан Арена",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Шинник",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Торпедо",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ]
+        },
+        {
+          "id": "stadium_fnl_9",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "На каком из этих стадионов проходил ЧМ?",
+          "media": {
+            "questionSlug": "pic_wc2018",
+            "dialogSlug": "std_ural",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Екатеринбург Арена",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Краснодар",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Авангард",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Арсенал",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Сапсан Арена",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Шинник",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ]
+        },
+        {
+          "id": "stadium_fnl_10",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "На каком из этих стадионов проходил ЧМ?",
+          "media": {
+            "questionSlug": "pic_wc2018",
+            "dialogSlug": "std_rotor",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Волгоград Арена",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Нефтяник",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Локомотив",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Форте Арена",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Центральный",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Арена Чертаново",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ]
+        },
+        {
+          "id": "stadium_fnl_11",
+          "type": 3,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "К какому большому событию был построен стадион Фишт?",
+          "media": {
+            "questionSlug": "no_pic",
+            "dialogSlug": "std_fisht",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Зимняя олимпиада",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Чемпионат мира",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Универсиада",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Спартакиада",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Чемпионат Европы",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Летняя олимпиада",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ]
+        },
+        {
+          "id": "stadium_fnl_12",
+          "type": 3,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Ранее этот стадион носил название Малая спортивная арена «Локомотив»",
+          "media": {
+            "questionSlug": "no_pic",
+            "dialogSlug": "std_rodina",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Сапсан Арена",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "ЖелДорСтрой",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Темп",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Стрелка",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Южное депо",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Олимп",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ]
+        },
+        {
+          "id": "stadium_fnl_13",
+          "type": 3,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Этот стадион станет домашним для ФК Алания Владикавказ в сезоне 24/25",
+          "media": {
+            "questionSlug": "no_pic",
+            "dialogSlug": "std_akhmat",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Ахмат Арена",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Спартак",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Авангард",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Волгоград Арена",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Ростех Арена",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Анжи Арена",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ]
+        },
+        {
+          "id": "stadium_fnl_14",
+          "type": 3,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Этот стадион находится на берегу Балтийского моря",
+          "media": {
+            "questionSlug": "no_pic",
+            "dialogSlug": "std_baltika",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Ростех Арена",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Волгоград Арена",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Черноморец",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Ростов Арена",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Сапсан Арена",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Торпедо",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ]
+        },
+        {
+          "id": "stadium_fnl_15",
+          "type": 3,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Этот стадион самый восточный в ФНЛ в сезоне 24/25",
+          "media": {
+            "questionSlug": "no_pic",
+            "dialogSlug": "std_ska_hab",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Стадион имени Ленина",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Динамо",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Геолог",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Ростех Арена",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Звезда",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Стадион ЦСК",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ]
+        },
+        {
+          "id": "stadium_fnl_16",
+          "type": 3,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Как называется место у подножия которого расположен стадион Волгоград Арена?",
+          "media": {
+            "questionSlug": "no_pic",
+            "dialogSlug": "std_mamaev",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Мамаев Курган",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Соколовая гора",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Скопинский курган",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Воробьевы горы",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Жигулевские горы",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Утес Степана Разина",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ]
+        },
+        {
+          "id": "stadium_fnl_17",
+          "type": 3,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "На этом стадионе боковые трибуны находятся за его пределами",
+          "media": {
+            "questionSlug": "no_pic",
+            "dialogSlug": "std_ural",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Екатеринбург Арена",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Волгоград Арена",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Ростех Арена",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "РЖД Арена",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Ахмат Арена",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Анжи Арена",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ]
+        },
+        {
+          "id": "stadium_fnl_18",
+          "type": 2,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Для какой команды стадион Арена Химки является домашним?",
+          "media": {
+            "questionSlug": "std_khimki",
+            "dialogSlug": "logo_torpedo",
+            "correctSlug": "logo_torpedo"
+          },
+          "answers": [
+            {
+              "text": "Торпедо Москва",
+              "slug": "logo_torpedo",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Космос Долгопрудный",
+              "slug": "logo_kosmos",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Чертаново Москва",
+              "slug": "logo_chertanovo",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Ротор Волгоград",
+              "slug": "logo_rotor",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Спартак Тамбов",
+              "slug": "logo_spartak_tam",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Тверь",
+              "slug": "logo_tver",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ]
+        },
+        {
+          "id": "stadium_fnl_19",
+          "type": 2,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Для какой команды стадион Сапсан Арена является домашним?",
+          "media": {
+            "questionSlug": "std_rodina",
+            "dialogSlug": "logo_rodina",
+            "correctSlug": "logo_rodina"
+          },
+          "answers": [
+            {
+              "text": "Родина Москва",
+              "slug": "logo_rodina",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Космос Долгопрудный",
+              "slug": "logo_kosmos",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Строгино Москва",
+              "slug": "logo_strogino",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Арсенал",
+              "slug": "logo_arsenal",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Носта Новотроицк",
+              "slug": "logo_nosta",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Коломна",
+              "slug": "logo_kolomna",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ]
+        },
+        {
+          "id": "stadium_fnl_20",
+          "type": 2,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Для какой команды стадион Геолог является домашним?",
+          "media": {
+            "questionSlug": "std_tumen",
+            "dialogSlug": "logo_tumen",
+            "correctSlug": "logo_tumen"
+          },
+          "answers": [
+            {
+              "text": "Тюмень",
+              "slug": "logo_tumen",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Урал Екатеринбург",
+              "slug": "logo_ural",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "КАМАЗ",
+              "slug": "logo_kamaz",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Ленинградец",
+              "slug": "logo_leningradez",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Енисей Красноярск",
+              "slug": "logo_enisey",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "СКА Хабаровск",
+              "slug": "logo_ska_hab",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ]
+        },
+        {
+          "id": "stadium_fnl_21",
+          "type": 2,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Для какой команды стадион Екатеринбург Арена является домашним?",
+          "media": {
+            "questionSlug": "std_ural",
+            "dialogSlug": "logo_ural",
+            "correctSlug": "logo_ural"
+          },
+          "answers": [
+            {
+              "text": "Урал",
+              "slug": "logo_ural",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Тюмень",
+              "slug": "logo_tumen",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Челябинск",
+              "slug": "logo_cheliabinsk",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Родина",
+              "slug": "logo_rodina",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Акрон",
+              "slug": "logo_akron",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Нефтехимик",
+              "slug": "logo_neftehimik",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ]
+        },
+        {
+          "id": "stadium_fnl_22",
+          "type": 2,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Для какой команды Центральный стадион имени И. П. Чайки является домашним?",
+          "media": {
+            "questionSlug": "std_chayka_pes",
+            "dialogSlug": "logo_chayka_pes",
+            "correctSlug": "logo_chayka_pes"
+          },
+          "answers": [
+            {
+              "text": "Чайка Песчанокопское",
+              "slug": "logo_chayka_pes",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Черноморец Новороссийск",
+              "slug": "logo_chernomorez",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Сочи",
+              "slug": "logo_sochi",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Сокол Саратов",
+              "slug": "logo_sokol",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Балтика Калининград",
+              "slug": "logo_baltika",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Динамо Владивосток",
+              "slug": "logo_dynamo_vlad",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ]
+        },
+        {
+          "id": "stadium_fnl_23",
+          "type": 3,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Этот стадион носил названия: \"Пищевик\", \"Тульские Лужники\", \"Труд\" и \"Центральный стадион имени 50-летия Ленинского комсомола\"",
+          "media": {
+            "questionSlug": "no_pic",
+            "dialogSlug": "std_arsenal",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Арсенал",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Локомотив",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Екатеринбург Арена",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Волгоград Арена",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Фишт",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Стадион имени Ленина",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ]
+        },
+        {
+          "id": "stadium_fnl_24",
+          "type": 3,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "На этом стадионе в 2016 году прошли XI Всероссийские летние сельские игры в Саратове",
+          "media": {
+            "questionSlug": "no_pic",
+            "dialogSlug": "std_sokol",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Локомотив",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Арсенал",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Динамо",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Ростех Арена",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Спартак",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Авангард",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ]
+        },
+        {
+          "id": "stadium_fnl_25",
+          "type": 3,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Этот стадион является домашним для ФК Сокол Саратов",
+          "media": {
+            "questionSlug": "no_pic",
+            "dialogSlug": "std_sokol",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Локомотив",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Сокол",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Динамо",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Спартак",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Темп",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Авангард",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "stadium_pfl",
+      "titleRu": "Вторая лига",
+      "items": [
+        {
+          "id": "stadium_pfl_1",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Как называется стадион?",
+          "media": {
+            "questionSlug": "std_torpedo_vla",
+            "dialogSlug": "std_torpedo_vla",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Торпедо",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Динамо",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Трудовые резервы",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Центральный",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Владимир",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Спартак",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ]
+        },
+        {
+          "id": "stadium_pfl_2",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Как называется стадион?",
+          "media": {
+            "questionSlug": "std_dinamo_stav",
+            "dialogSlug": "std_dinamo_stav",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Динамо",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Металлург",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Спартак",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Фишт",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Строгино Арена",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Сокол",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ]
+        },
+        {
+          "id": "stadium_pfl_3",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Как называется стадион?",
+          "media": {
+            "questionSlug": "std_irkutsk",
+            "dialogSlug": "std_irkutsk",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Труд",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Иркутск Арена",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Торпедо",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Звезда",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Локомотив",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Барнаул Арена",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ]
+        },
+        {
+          "id": "stadium_pfl_4",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "В каком городе находится этот стадион?",
+          "media": {
+            "questionSlug": "std_cheliabinsk",
+            "dialogSlug": "std_cheliabinsk",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Челябинск",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Саратов",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Волгоград",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Пермь",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Иркутск",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Москва",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ]
+        },
+        {
+          "id": "stadium_pfl_5",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Как называется стадион?",
+          "media": {
+            "questionSlug": "std_leon",
+            "dialogSlug": "std_leon",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Леон Арена",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Арена Химки",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Центральный",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Торпедо",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Лукойл Арена",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Кировец",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ]
+        },
+        {
+          "id": "stadium_pfl_6",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Как называется стадион?",
+          "media": {
+            "questionSlug": "std_spartak_nal",
+            "dialogSlug": "std_spartak_nal",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Спартак",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Динамо",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Торпедо",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Локомотив",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Центральный",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Зенит",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ]
+        },
+        {
+          "id": "stadium_pfl_7",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Как называется стадион?",
+          "media": {
+            "questionSlug": "std_metallurg_lip",
+            "dialogSlug": "std_metallurg_lip",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Металлург",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Липецк Арена",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Спартак",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Сталевар",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Темп",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Динамо",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ]
+        },
+        {
+          "id": "stadium_pfl_8",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Этот стадион находится на берегу Амурского залива?",
+          "media": {
+            "questionSlug": "std_dynamo_vlad",
+            "dialogSlug": "std_dynamo_vlad",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Динамо",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Спартак",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Владивосток",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Амур Арена",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Трудовые резервы",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Сахалин",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ]
+        },
+        {
+          "id": "stadium_pfl_9",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Как называется домашний стадион ФК Рязань?",
+          "media": {
+            "questionSlug": "logo_ryazan",
+            "dialogSlug": "std_ryazan",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Спартак",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Рязань Арена",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Динамо",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Центральный",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Локомотив",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "РЖД Арена",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ]
+        },
+        {
+          "id": "stadium_pfl_10",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Как называется домашний стадион ФК Амкар Пермь ?",
+          "media": {
+            "questionSlug": "logo_amkar",
+            "dialogSlug": "std_amkar",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Звезда",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Амкар",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Пермь Арена",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Спартак",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Динамо",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Труд",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ]
+        },
+        {
+          "id": "stadium_pfl_11",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Как называется домашний стадион ФК Новосибирск ?",
+          "media": {
+            "questionSlug": "logo_novosibirsk",
+            "dialogSlug": "std_novosibirsk",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Спартак",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Сибирь",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Динамо",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Звезда",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Газовик",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Локомотив",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ]
+        },
+        {
+          "id": "stadium_pfl_12",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Как называется домашний стадион ФК Авангард ?",
+          "media": {
+            "questionSlug": "logo_avangard_kur",
+            "dialogSlug": "std_avangard_kur",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Трудовые резервы",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Авангард",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Спартак",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "имени В.И.Ленина",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Дружба",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Олимпийский",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ]
+        },
+        {
+          "id": "stadium_pfl_13",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Как называется домашний стадион ФК Динамо Санкт-Петербург ?",
+          "media": {
+            "questionSlug": "logo_dinamo_spb",
+            "dialogSlug": "std_dinamo_spb",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Кировец",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Олимпийский",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Спартак",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Трудовые резервы",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Металлург",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Смена",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ]
+        },
+        {
+          "id": "stadium_pfl_14",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "В каком городе находится этот стадион?",
+          "media": {
+            "questionSlug": "std_forte",
+            "dialogSlug": "std_forte",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Таганрог",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Смоленск",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Ростов",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Челябинск",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Красноярск",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Москва",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ]
+        },
+        {
+          "id": "stadium_pfl_15",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "В каком городе находится этот стадион?",
+          "media": {
+            "questionSlug": "std_volgar",
+            "dialogSlug": "std_volgar",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Астрахань",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Саратов",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Каспийск",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Махачкала",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Пятигорск",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Геленджик",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ]
+        },
+        {
+          "id": "stadium_pfl_16",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "На этом стадионе в 2014 году в Челябинске прошла вторая в истории отечественного хоккея Русская классика?",
+          "media": {
+            "questionSlug": "std_cheliabinsk",
+            "dialogSlug": "std_cheliabinsk",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Центральный стадион",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Труд",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Спартак",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Лидер",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Сигнал",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Восход",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ]
+        },
+        {
+          "id": "stadium_pfl_17",
+          "type": 3,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Поле этого стадиона в Тольятти было признано Международной федерацией футбола одним из лучших тренировочных в России?",
+          "media": {
+            "questionSlug": "no_pic",
+            "dialogSlug": "std_lada",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Торпедо",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Звезда",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Форте Арена",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Кристалл",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Спартак",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Автозавод",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ]
+        },
+        {
+          "id": "stadium_pfl_18",
+          "type": 3,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Самый крупный стадион в Алтайском крае и Барнауле?",
+          "media": {
+            "questionSlug": "no_pic",
+            "dialogSlug": "std_dinamo_bar",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Динамо",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Леон Арена",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Форте Арена",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Центральный",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Газовик",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Сахалин",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ]
+        },
+        {
+          "id": "stadium_pfl_19",
+          "type": 3,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Как называется домашний стадион ФК Иртыш Омск?",
+          "media": {
+            "questionSlug": "no_pic",
+            "dialogSlug": "logo_irtish",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Красная звезда",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Олимпийский",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Центральный",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Кристалл",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Динамо",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Зенит",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ]
+        },
+        {
+          "id": "stadium_pfl_20",
+          "type": 3,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Как называется домашний стадион ФК Орел?",
+          "media": {
+            "questionSlug": "no_pic",
+            "dialogSlug": "std_orel",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Центральный",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Форте Арена",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Динамо",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Волгоград Арена",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Трудовые резервы",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Сокол",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ]
+        },
+        {
+          "id": "stadium_pfl_21",
+          "type": 2,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Для какой команды Адыгейский республиканский стадион является домашним?",
+          "media": {
+            "questionSlug": "std_druzhba",
+            "dialogSlug": "logo_druzhba",
+            "correctSlug": "logo_druzhba"
+          },
+          "answers": [
+            {
+              "text": "Дружба Майкоп",
+              "slug": "logo_druzhba",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Ангушт Назрань",
+              "slug": "logo_angusht",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Зенит Пенза",
+              "slug": "logo_zenit_pen",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Победа Хасавюрт",
+              "slug": "logo_pobeda",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Легион Махачкала",
+              "slug": "logo_legion",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Нарт Черкесск",
+              "slug": "logo_nart",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ]
+        },
+        {
+          "id": "stadium_pfl_22",
+          "type": 2,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Для какой команды стадион Леон Арена является домашним?",
+          "media": {
+            "questionSlug": "std_leon",
+            "dialogSlug": "logo_leon",
+            "correctSlug": "logo_leon"
+          },
+          "answers": [
+            {
+              "text": "Леон-Сатурн Раменское",
+              "slug": "logo_leon",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Зенит Пенза",
+              "slug": "logo_zenit_pen",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Динамо Киров",
+              "slug": "logo_dinamo_kir",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Муром",
+              "slug": "logo_murom",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Лада Тольятти",
+              "slug": "logo_lada",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Динамо Вологда",
+              "slug": "logo_dynamo_vol",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ]
+        },
+        {
+          "id": "stadium_pfl_23",
+          "type": 2,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Для какой команды стадион Кировец в Санкт-Петербурге является домашним?",
+          "media": {
+            "questionSlug": "std_dinamo_spb",
+            "dialogSlug": "logo_zvezda_spb",
+            "correctSlug": "logo_zvezda_spb"
+          },
+          "answers": [
+            {
+              "text": "Звезда СПб",
+              "slug": "logo_zvezda_spb",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Зенит СПб",
+              "slug": "logo_zenit",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Тосно",
+              "slug": "logo_tosno",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Строгино Москва",
+              "slug": "logo_strogino",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Динамо Киров",
+              "slug": "logo_dinamo_kir",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Динамо Вологда",
+              "slug": "logo_dynamo_vol",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ]
+        },
+        {
+          "id": "stadium_pfl_24",
+          "type": 2,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Для какой команды стадион Янтарь на северо-западе Москвы является домашним?",
+          "media": {
+            "questionSlug": "std_strogino",
+            "dialogSlug": "logo_strogino",
+            "correctSlug": "logo_strogino"
+          },
+          "answers": [
+            {
+              "text": "Строгино Москва",
+              "slug": "logo_strogino",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Чертаново Москва",
+              "slug": "logo_chertanovo",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Тверь",
+              "slug": "logo_tver",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Космос Долгопрудный",
+              "slug": "logo_kosmos",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Спартак Тамбов",
+              "slug": "logo_spartak_tam",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Коломна",
+              "slug": "logo_kolomna",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ]
+        },
+        {
+          "id": "stadium_pfl_25",
+          "type": 2,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Для какой команды Центральный стадион имени Рашида Аушева является домашним?",
+          "media": {
+            "questionSlug": "std_angusht",
+            "dialogSlug": "logo_angusht",
+            "correctSlug": "logo_angusht"
+          },
+          "answers": [
+            {
+              "text": "Ангушт Назрань",
+              "slug": "logo_angusht",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Динамо Киров",
+              "slug": "logo_dinamo_kir",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Динамо Вологда",
+              "slug": "logo_dynamo_vol",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Орел",
+              "slug": "logo_orel",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Носта Новотроицк",
+              "slug": "logo_nosta",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Квант Обнинск",
+              "slug": "logo_kvant",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "stadium_rpl",
+      "titleRu": "РПЛ",
+      "items": [
+        {
+          "id": "stadium_rpl_1",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Как называется стадион?",
+          "media": {
+            "questionSlug": "std_gazprom",
+            "dialogSlug": "std_gazprom",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Газпром Арена",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Анжи Арена",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Ростов Арена",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Нижний Новгород",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Краснодар",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Ахмат Арена",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ]
+        },
+        {
+          "id": "stadium_rpl_2",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Как называется стадион?",
+          "media": {
+            "questionSlug": "std_anzhi",
+            "dialogSlug": "std_anzhi",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Анжи Арена",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Газпром Арена",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Ахмат Арена",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "ВТБ Арена",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "ВЭБ Арена",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Краснодар",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ]
+        },
+        {
+          "id": "stadium_rpl_3",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Как называется стадион?",
+          "media": {
+            "questionSlug": "std_rostov",
+            "dialogSlug": "std_rostov",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Ростов Арена",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Нижний Новгород",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Газпром Арена",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "АкБарс Арена",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Арена Химки",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Самара Арена",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ]
+        },
+        {
+          "id": "stadium_rpl_4",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Как называется стадион?",
+          "media": {
+            "questionSlug": "std_nizhnov",
+            "dialogSlug": "std_nizhnov",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Нижний Новгород",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Краснодар",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Газпром Арена",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Ростов Арена",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Анжи Арена",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "РЖД Арена",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ]
+        },
+        {
+          "id": "stadium_rpl_5",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Как называется стадион?",
+          "media": {
+            "questionSlug": "std_krasnodar",
+            "dialogSlug": "std_krasnodar",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Краснодар",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Арена Химки",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "ВЭБ Арена",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Нижний Новгород",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Ахмат Арена",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "АкБарс Арена",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ]
+        },
+        {
+          "id": "stadium_rpl_6",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Как называется стадион?",
+          "media": {
+            "questionSlug": "std_khimki",
+            "dialogSlug": "std_khimki",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Арена Химки",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Ахмат Арена",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "ВЭБ Арена",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Краснодар",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Ростов Арена",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Самара Арена",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ]
+        },
+        {
+          "id": "stadium_rpl_7",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Как называется стадион?",
+          "media": {
+            "questionSlug": "std_akhmat",
+            "dialogSlug": "std_akhmat",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Ахмат Арена",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Лукойл Арена",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Газпром Арена",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Арена Химки",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "АкБарс Арена",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Ростов Арена",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ]
+        },
+        {
+          "id": "stadium_rpl_8",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Как называется стадион?",
+          "media": {
+            "questionSlug": "std_spartak",
+            "dialogSlug": "std_spartak",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Лукойл Арена",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "РЖД Арена",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Газпром Арена",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Анжи Арена",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Ростов Арена",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Нижний Новгород",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ]
+        },
+        {
+          "id": "stadium_rpl_9",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Как называется стадион?",
+          "media": {
+            "questionSlug": "std_rzd",
+            "dialogSlug": "std_rzd",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "РЖД Арена",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Лужники",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Ахмат Арена",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Нижний Новгород",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Газпром Арена",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "ВЭБ Арена",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ]
+        },
+        {
+          "id": "stadium_rpl_10",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Как называется стадион, на котором состоялся финал ЧМ-2018?",
+          "media": {
+            "questionSlug": "pic_wc2018",
+            "dialogSlug": "std_lujniki",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Лужники",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Анжи Арена",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Ростов Арена",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Нижний Новгород",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Краснодар",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Ахмат Арена",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ]
+        },
+        {
+          "id": "stadium_rpl_11",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "На этом стадионе состоялось Открытие Игр XXII Олимпиады в 1980 году?",
+          "media": {
+            "questionSlug": "pic_oi1980",
+            "dialogSlug": "std_lujniki",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Лужники",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "РЖД Арена",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Нижний Новгород",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Ростов Арена",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Краснодар",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Ахмат Арена",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ]
+        },
+        {
+          "id": "stadium_rpl_12",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Как до 2024 года назывался стадион Лукойл Арена?",
+          "media": {
+            "questionSlug": "std_spartak",
+            "dialogSlug": "std_spartak",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Открытие Банк Арена",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Стадион Спартак",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Гладиатор Арена",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Арена Химки",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Стадион Тушино",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Красная Пресня",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ]
+        },
+        {
+          "id": "stadium_rpl_13",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "На каком стадионе находится этот памятник?",
+          "media": {
+            "questionSlug": "std_starostin",
+            "dialogSlug": "std_spartak",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Лукойл Арена",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Ахмат Арена",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Арена Химки",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Лужники",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "ВТБ Арена",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "ВЭБ Арена",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ]
+        },
+        {
+          "id": "stadium_rpl_14",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "На каком из этих стадионов НЕ проходил ЧМ?",
+          "media": {
+            "questionSlug": "pic_wc2018",
+            "dialogSlug": "std_krasnodar",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Краснодар",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Нижний Новгород",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Ростов Арена",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Лужники",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Газпром Арена",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Самара Арена",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ]
+        },
+        {
+          "id": "stadium_rpl_15",
+          "type": 3,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "В каком году был построен стадион Лужники?",
+          "media": {
+            "questionSlug": "no_pic",
+            "dialogSlug": "std_lujniki",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "1956",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "1959",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "1940",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "1961",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "1980",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "1970",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ]
+        },
+        {
+          "id": "stadium_rpl_16",
+          "type": 3,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Что по форме напоминает стадион Солидарность Самара Арена?",
+          "media": {
+            "questionSlug": "no_pic",
+            "dialogSlug": "std_samara",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Летающую тарелку",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Шар",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Цветок",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Чашу",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Пончик",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Паруса кораблей",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ]
+        },
+        {
+          "id": "stadium_rpl_17",
+          "type": 3,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "К какому большому событию был построен стадион Ак Барс Арена в Казани?",
+          "media": {
+            "questionSlug": "no_pic",
+            "dialogSlug": "std_universiada",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Универсиада",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Чемпионат мира",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Чемпионат Европы",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Олимпиада",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Кубок России",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "1000-лет городу",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ]
+        },
+        {
+          "id": "stadium_rpl_18",
+          "type": 3,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "На берегу какой реки расположен стадион Ростов Арена?",
+          "media": {
+            "questionSlug": "no_pic",
+            "dialogSlug": "std_rostov",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Дон",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Волга",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Кама",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Ока",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Днепр",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Урал",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ]
+        },
+        {
+          "id": "stadium_rpl_19",
+          "type": 3,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Автором проекта этого стадиона является японский архитектор Кисё Курокава?",
+          "media": {
+            "questionSlug": "no_pic",
+            "dialogSlug": "std_gazprom",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Газпром Арена",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Ростов Арена",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Лукойл Арена",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Краснодар",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Ахмат Арена",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Анжи Арена",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ]
+        },
+        {
+          "id": "stadium_rpl_20",
+          "type": 3,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "На этом стадионе снимали фильм \"Мужская женская игра\", повествующий о женском футболе?",
+          "media": {
+            "questionSlug": "no_pic",
+            "dialogSlug": "std_voronezh",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Центральный стадион профсоюзов",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Лукойл Арена",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Ахмат Арена",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Арена Химки",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "ВТБ Арена",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Ростов Арена",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ]
+        },
+        {
+          "id": "stadium_rpl_21",
+          "type": 3,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Этот стадион находится в городе Грозном?",
+          "media": {
+            "questionSlug": "no_pic",
+            "dialogSlug": "std_akhmat",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Ахмат Арена",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Анжи Арена",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "ВЭБ Арена",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Стадион Фишт",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Стадион Локомотив",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "ВТБ Арена",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ]
+        },
+        {
+          "id": "stadium_rpl_22",
+          "type": 3,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "На этом стадионе снимали утопическую комедию \"Игра\", в которой сборная России выиграла чемпионат мира?",
+          "media": {
+            "questionSlug": "no_pic",
+            "dialogSlug": "std_rzd",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "РЖД Арена",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Лукойл Арена",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Стадион Фишт",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Нижний Новгород",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Краснодар",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Ахмат Арена",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ]
+        },
+        {
+          "id": "stadium_rpl_23",
+          "type": 3,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Это стадион под одной крышей объединяет футбольную и хоккейную арены?",
+          "media": {
+            "questionSlug": "no_pic",
+            "dialogSlug": "std_vtb",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "ВТБ Арена",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Волгоград Арена",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Стадион Фишт",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Нижний Новгород",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Краснодар",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Ахмат Арена",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ]
+        },
+        {
+          "id": "stadium_rpl_24",
+          "type": 3,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Какой стадион находится в месте слияния рек Оки и Волги?",
+          "media": {
+            "questionSlug": "no_pic",
+            "dialogSlug": "std_nizhnov",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Нижний Новгород",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Волгоград Арена",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Ростов Арена",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Краснодар",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Самара Арена",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "АкБарс Арена",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ]
+        },
+        {
+          "id": "stadium_rpl_25",
+          "type": 4,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "На скольких стадионах проходил чемпионат мира по футболу 2018?",
+          "media": {
+            "questionSlug": "no_pic",
+            "dialogSlug": "pic_wc2018",
+            "correctSlug": "num_12"
+          },
+          "answers": [
+            {
+              "text": "12",
+              "slug": "num_12",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "10",
+              "slug": "num_10",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "9",
+              "slug": "num_9",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "8",
+              "slug": "num_8",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "11",
+              "slug": "num_11",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "7",
+              "slug": "num_7",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ]
+        },
+        {
+          "id": "stadium_rpl_26",
+          "type": 5,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Для какой команды стадион Солидарность Самара Арена является домашним?",
+          "media": {
+            "questionSlug": "no_pic",
+            "dialogSlug": "logo_akron",
+            "correctSlug": "logo_akron"
+          },
+          "answers": [
+            {
+              "text": "Акрон",
+              "slug": "logo_akron",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Факел",
+              "slug": "logo_fakel",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Химки",
+              "slug": "logo_khimki",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Пари",
+              "slug": "logo_pari",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Тюмень",
+              "slug": "logo_tumen",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Оренбург",
+              "slug": "logo_orenburg",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ]
+        },
+        {
+          "id": "stadium_rpl_27",
+          "type": 5,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Для какой команды стадион Солидарность Самара Арена является домашним?",
+          "media": {
+            "questionSlug": "no_pic",
+            "dialogSlug": "logo_ks",
+            "correctSlug": "logo_ks"
+          },
+          "answers": [
+            {
+              "text": "КрыльяСоветов",
+              "slug": "logo_ks",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Факел",
+              "slug": "logo_fakel",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Химки",
+              "slug": "logo_khimki",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Пари",
+              "slug": "logo_pari",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Рубин",
+              "slug": "logo_rubin",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Оренбург",
+              "slug": "logo_orenburg",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ]
+        },
+        {
+          "id": "stadium_rpl_28",
+          "type": 5,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Для какой команды Центральный стадион профсоюзов является домашним?",
+          "media": {
+            "questionSlug": "no_pic",
+            "dialogSlug": "std_voronezh",
+            "correctSlug": "logo_fakel"
+          },
+          "answers": [
+            {
+              "text": "Факел",
+              "slug": "logo_fakel",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Акрон",
+              "slug": "logo_akron",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Пари",
+              "slug": "logo_pari",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Ростов",
+              "slug": "logo_rostov",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Динамо",
+              "slug": "logo_dinamo",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Локомотив",
+              "slug": "logo_lokomotiv",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ]
+        },
+        {
+          "id": "stadium_rpl_29",
+          "type": 5,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Для какой команды стадион ВЭБ Арена является домашним?",
+          "media": {
+            "questionSlug": "no_pic",
+            "dialogSlug": "logo_cska",
+            "correctSlug": "logo_cska"
+          },
+          "answers": [
+            {
+              "text": "ЦСКА",
+              "slug": "logo_cska",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Зенит",
+              "slug": "logo_zenit",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Динамо",
+              "slug": "logo_dinamo",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Локомотив",
+              "slug": "logo_lokomotiv",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Спартак",
+              "slug": "logo_spartak",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Уфа",
+              "slug": "logo_ufa",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ]
+        },
+        {
+          "id": "stadium_rpl_30",
+          "type": 5,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Для какой команды стадион ВТБ Арена является домашним?",
+          "media": {
+            "questionSlug": "no_pic",
+            "dialogSlug": "logo_dinamo",
+            "correctSlug": "logo_dinamo"
+          },
+          "answers": [
+            {
+              "text": "Динамо",
+              "slug": "logo_dinamo",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "ЦСКА",
+              "slug": "logo_cska",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Зенит",
+              "slug": "logo_zenit",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Спартак",
+              "slug": "logo_spartak",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Ахмат",
+              "slug": "logo_akhmat",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Уфа",
+              "slug": "logo_ufa",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ]
+        },
+        {
+          "id": "stadium_rpl_31",
+          "type": 5,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Для какой команды стадион Газовик является домашним?",
+          "media": {
+            "questionSlug": "no_pic",
+            "dialogSlug": "logo_orenburg",
+            "correctSlug": "logo_orenburg"
+          },
+          "answers": [
+            {
+              "text": "Оренбург",
+              "slug": "logo_orenburg",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Факел",
+              "slug": "logo_fakel",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Ростов",
+              "slug": "logo_rostov",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "ЦСКА",
+              "slug": "logo_cska",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Балтика",
+              "slug": "logo_baltika",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Химки",
+              "slug": "logo_khimki",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ]
+        },
+        {
+          "id": "stadium_rpl_32",
+          "type": 5,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Для какой команды стадион Ак Барс Арена является домашним?",
+          "media": {
+            "questionSlug": "no_pic",
+            "dialogSlug": "logo_rubin",
+            "correctSlug": "logo_rubin"
+          },
+          "answers": [
+            {
+              "text": "Рубин",
+              "slug": "logo_rubin",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Факел",
+              "slug": "logo_fakel",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Торпедо",
+              "slug": "logo_torpedo",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Ахмат",
+              "slug": "logo_akhmat",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Ростов",
+              "slug": "logo_rostov",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Спартак",
+              "slug": "logo_spartak",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
