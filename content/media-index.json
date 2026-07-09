@@ -1,0 +1,3073 @@
+{
+  "version": 1,
+  "generatedAt": "2026-07-09T06:47:35.075Z",
+  "basePath": "content/src-assets/media",
+  "bySlug": {
+    "клубы": {
+      "path": "content/src-assets/media/images/Клубы.png",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/images/Клубы.png",
+      "sha256": "1c8c101c9ffd866298b41cd525d0e4b4397a4bf45b4686f85696c156c922fc0a",
+      "bytes": 709575
+    },
+    "клубы2": {
+      "path": "content/src-assets/media/images/клубы2.png",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/images/клубы2.png",
+      "sha256": "782670b94c18512e7ded57062c5da30df5661968a4877092553f9ec3fcf51de0",
+      "bytes": 1396151
+    },
+    "кубок": {
+      "path": "content/src-assets/media/images/кубок.png",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/images/кубок.png",
+      "sha256": "c09c5ce8bf3500e05786cd180871bc95a101875ec0e6ca1e5c2c0ec210de66bc",
+      "bytes": 673571
+    },
+    "кубок2": {
+      "path": "content/src-assets/media/images/кубок2.png",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/images/кубок2.png",
+      "sha256": "d1d80c80c0a14d35fdc60221bedfcd56b0878b484c6dd6462fe008c126bd3095",
+      "bytes": 2908943
+    },
+    "матч тура": {
+      "path": "content/src-assets/media/images/матч тура.png",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/images/матч тура.png",
+      "sha256": "70a1a7d6fe4de81c086c801ee85c57a5349bf3085350c06207727f3423029ff2",
+      "bytes": 1712272
+    },
+    "матч тура 2": {
+      "path": "content/src-assets/media/images/матч тура 2.png",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/images/матч тура 2.png",
+      "sha256": "a706d43cb097d0e204c106a17f402768840d68c22e11fa89a586416e5514bb82",
+      "bytes": 3359107
+    },
+    "ствдионы": {
+      "path": "content/src-assets/media/images/ствдионы.png",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/images/ствдионы.png",
+      "sha256": "9215da21f8ccf4c21dae2a909dd0389fe9f93a897d1677255bbb7b64a5971d6d",
+      "bytes": 8105486
+    },
+    "ajax": {
+      "path": "content/src-assets/media/questions/logos/ajax.jpg",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/ajax.jpg",
+      "sha256": "c4d6ac5e9e7a05de48873e0c3de871c9e99a591c6a0a3af032451d1be427869b",
+      "bytes": 40956
+    },
+    "ajax_r": {
+      "path": "content/src-assets/media/questions/logos/ajax_r.jpg",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/ajax_r.jpg",
+      "sha256": "719cf4e7ab2191d663ecf823a4197b02261c14d5b9f9b646e56a238c550fa5de",
+      "bytes": 48467
+    },
+    "akron_arevalo": {
+      "path": "content/src-assets/media/questions/clubs/akron/akron_arevalo.png",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/clubs/akron/akron_arevalo.png",
+      "sha256": "cd0b8e804e86aa5911039ca5693a80c5771553cbfe81b8c0a055ac4fbed4b83e",
+      "bytes": 278468
+    },
+    "akron_bazilevskiy": {
+      "path": "content/src-assets/media/questions/clubs/akron/akron_bazilevskiy.png",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/clubs/akron/akron_bazilevskiy.png",
+      "sha256": "272f391350700eac029459ec89dc16f175ae778ffd5ad6773e9ba17a07394ed5",
+      "bytes": 250830
+    },
+    "akron_benshimol": {
+      "path": "content/src-assets/media/questions/clubs/akron/akron_benshimol.png",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/clubs/akron/akron_benshimol.png",
+      "sha256": "41e7ae1baccd76d0e803e6b74f60de00eb410b2bb36bb31c5d46c55849d0699f",
+      "bytes": 255721
+    },
+    "akron_bistrovich": {
+      "path": "content/src-assets/media/questions/clubs/akron/akron_bistrovich.png",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/clubs/akron/akron_bistrovich.png",
+      "sha256": "da9104028ee288289acd64f05dc641c767c304608b09b964f3c3eb662abbdad6",
+      "bytes": 286855
+    },
+    "akron_blagoevich": {
+      "path": "content/src-assets/media/questions/clubs/akron/akron_blagoevich.png",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/clubs/akron/akron_blagoevich.png",
+      "sha256": "b72a8ea80229504f206802386c8bd8e5727a2f02430d6c904abb68c464ae5c65",
+      "bytes": 863599
+    },
+    "akron_bokoev": {
+      "path": "content/src-assets/media/questions/clubs/akron/akron_bokoev.png",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/clubs/akron/akron_bokoev.png",
+      "sha256": "d6efea5a44e494dfe64733ef58e82eb880b48674dc470b68f6ff8f83b48054f2",
+      "bytes": 269562
+    },
+    "akron_boldyrev": {
+      "path": "content/src-assets/media/questions/clubs/akron/akron_boldyrev.png",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/clubs/akron/akron_boldyrev.png",
+      "sha256": "91e15574ebd4a6b3fa2599433e9df6b20ace2e183b1b62493d43ea3b69f630e0",
+      "bytes": 241413
+    },
+    "akron_dmitriev": {
+      "path": "content/src-assets/media/questions/clubs/akron/akron_dmitriev.png",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/clubs/akron/akron_dmitriev.png",
+      "sha256": "01e9fc381a207fb43e09e0a3a9919484f3995a37bc62dc2b6e75a3b5dfbae62e",
+      "bytes": 244971
+    },
+    "akron_dzhurasovich": {
+      "path": "content/src-assets/media/questions/clubs/akron/akron_dzhurasovich.png",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/clubs/akron/akron_dzhurasovich.png",
+      "sha256": "52e3732ff99e5c025915d6efbd539f0b7403952bb71dcce72a2632be1c734b12",
+      "bytes": 253286
+    },
+    "akron_eskoval": {
+      "path": "content/src-assets/media/questions/clubs/akron/akron_eskoval.png",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/clubs/akron/akron_eskoval.png",
+      "sha256": "b3f984b0dd45240b56ba98310db26cb25993a70aa05e28f5ceb65bf552edd96b",
+      "bytes": 257643
+    },
+    "akron_fernandes": {
+      "path": "content/src-assets/media/questions/clubs/akron/akron_fernandes.png",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/clubs/akron/akron_fernandes.png",
+      "sha256": "853e1066587c03140d364ac571fee00aa6569261bcd9ea42c55cadf9a17237e2",
+      "bytes": 244389
+    },
+    "akron_gudiev": {
+      "path": "content/src-assets/media/questions/clubs/akron/akron_gudiev.png",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/clubs/akron/akron_gudiev.png",
+      "sha256": "a3ee89fbc20fad3ab8afd58bd943aed7e8b03fcd52bbb979c3a0d1f142427db4",
+      "bytes": 290846
+    },
+    "akron_khosonov": {
+      "path": "content/src-assets/media/questions/clubs/akron/akron_khosonov.png",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/clubs/akron/akron_khosonov.png",
+      "sha256": "be96f6f94bf81796e86eaa97157fb1ebfc26ad1b4a20f8deb5dee7386e836c9c",
+      "bytes": 296863
+    },
+    "akron_kondakov": {
+      "path": "content/src-assets/media/questions/clubs/akron/akron_kondakov.png",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/clubs/akron/akron_kondakov.png",
+      "sha256": "178b461e651a6514251da2cec34ab914cf4459d6614eebbffce670aadb56a439",
+      "bytes": 288126
+    },
+    "akron_kuzmenko": {
+      "path": "content/src-assets/media/questions/clubs/akron/akron_kuzmenko.png",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/clubs/akron/akron_kuzmenko.png",
+      "sha256": "54c17f25d03fa8419336ea7c222945b8ce9f386e3af9d7318910c1ade8f94bcb",
+      "bytes": 281334
+    },
+    "akron_lonchar": {
+      "path": "content/src-assets/media/questions/clubs/akron/akron_lonchar.png",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/clubs/akron/akron_lonchar.png",
+      "sha256": "9a56ad41f26038c42b4bbd312a3aaf0aa6c5a0bb5ee23afbe6a37c94291127b2",
+      "bytes": 258206
+    },
+    "akron_morozov": {
+      "path": "content/src-assets/media/questions/clubs/akron/akron_morozov.png",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/clubs/akron/akron_morozov.png",
+      "sha256": "b1894a1c65377dd64316161d1d390e12b5a6f4577f717c3a701708b8c2d32dd4",
+      "bytes": 276722
+    },
+    "akron_nedelcharu": {
+      "path": "content/src-assets/media/questions/clubs/akron/akron_nedelcharu.png",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/clubs/akron/akron_nedelcharu.png",
+      "sha256": "d2eea5ca2a761819bbf5ba34864f0e4fc2a112a088eb010a2855640b779e363d",
+      "bytes": 276589
+    },
+    "akron_pestryakov": {
+      "path": "content/src-assets/media/questions/clubs/akron/akron_pestryakov.png",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/clubs/akron/akron_pestryakov.png",
+      "sha256": "5db186d5b220130ba88b3833b82b750b3a3102b1e936c4b628c4bdb30ad185b8",
+      "bytes": 254341
+    },
+    "akron_platon": {
+      "path": "content/src-assets/media/questions/clubs/akron/akron_platon.png",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/clubs/akron/akron_platon.png",
+      "sha256": "ffe3df085612e81c08fc40c5d71c782cb79863d6dbd221c02d83a74e17d23fac",
+      "bytes": 285787
+    },
+    "akron_popenkov": {
+      "path": "content/src-assets/media/questions/clubs/akron/akron_popenkov.png",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/clubs/akron/akron_popenkov.png",
+      "sha256": "1160edf20fbb89cb38c5f905ed40f9eb89abda593802039f112ecd0e6a77e255",
+      "bytes": 252038
+    },
+    "akron_rocha": {
+      "path": "content/src-assets/media/questions/clubs/akron/akron_rocha.png",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/clubs/akron/akron_rocha.png",
+      "sha256": "c8b2e836cf3d916d95f6dcd2a477af456824b0aff023d06490080d58a879625e",
+      "bytes": 317911
+    },
+    "anderlecht": {
+      "path": "content/src-assets/media/questions/logos/anderlecht.jpg",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/anderlecht.jpg",
+      "sha256": "d331439f70377a4af2dfc071965302c74fedaec9a383f386a1e7689073cdd039",
+      "bytes": 65433
+    },
+    "arsenal": {
+      "path": "content/src-assets/media/questions/logos/arsenal.jpg",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/arsenal.jpg",
+      "sha256": "102427f80b9e51927b6d25b2942107e64550c612d0fff4f757a72ba4615d93bf",
+      "bytes": 52921
+    },
+    "arsenal_r": {
+      "path": "content/src-assets/media/questions/logos/arsenal_r.jpg",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/arsenal_r.jpg",
+      "sha256": "0d1dda3792f7bbb0c35eedd2231763d6543b46b77de36a01d49dcd20996222e4",
+      "bytes": 61701
+    },
+    "aston_villa": {
+      "path": "content/src-assets/media/questions/logos/aston_villa.jpg",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/aston_villa.jpg",
+      "sha256": "3280b81e52a03de520d838df41e7600ee32f8d59da0f8b3de500aa63ba1084fe",
+      "bytes": 42905
+    },
+    "aston_villa_r": {
+      "path": "content/src-assets/media/questions/logos/aston_villa_r.jpg",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/aston_villa_r.jpg",
+      "sha256": "0141e688e6f2f30b0989f0041b6d4cda0e9cc5a8f7a365487fd005004d7f0127",
+      "bytes": 46043
+    },
+    "atletico": {
+      "path": "content/src-assets/media/questions/logos/atletico.jpg",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/atletico.jpg",
+      "sha256": "17995422dd8548a0680b7f4562b43ad9d62bba37a10d0ad79bb89b36c7e2a946",
+      "bytes": 62991
+    },
+    "background": {
+      "path": "content/src-assets/media/images/background.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/images/background.webp",
+      "sha256": "e0ef1d6e33872dce2798b6ec4fe8ddfd8931f1634e83e23fbcc09bd2969b78b0",
+      "bytes": 11298
+    },
+    "background_logo": {
+      "path": "content/src-assets/media/images/background_logo.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/images/background_logo.webp",
+      "sha256": "863c33e742bf62d4d8bd77a4173c471d0ea4c8997ba29be6bdb5eb2ad09a07e1",
+      "bytes": 303164
+    },
+    "baer": {
+      "path": "content/src-assets/media/questions/logos/baer.jpg",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/baer.jpg",
+      "sha256": "69dd415cb8142ff77a5e74e257178cabb3174db735a5fb0e1508b07c4ab71b81",
+      "bytes": 42860
+    },
+    "baer_r": {
+      "path": "content/src-assets/media/questions/logos/baer_r.jpg",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/baer_r.jpg",
+      "sha256": "e096089c26c212d2690d4033f4ee96b00f1f22d856ed40a8b6294b7f4b25e07f",
+      "bytes": 52972
+    },
+    "barcelona": {
+      "path": "content/src-assets/media/questions/logos/barcelona.jpg",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/barcelona.jpg",
+      "sha256": "eac93c037353111b08bb2ab17ac5a3f6d64a586680cf0624ee967514423c2466",
+      "bytes": 47142
+    },
+    "basel": {
+      "path": "content/src-assets/media/questions/logos/basel.jpg",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/basel.jpg",
+      "sha256": "34f9d34413b5fec5b4265d54af0b28c53c25b696eba18bec45ddef01995e6d72",
+      "bytes": 53728
+    },
+    "bate": {
+      "path": "content/src-assets/media/questions/logos/bate.jpg",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/bate.jpg",
+      "sha256": "f06939fe7ed9839d8fc0d0958350c1d89ec3c0c556871687d71237ac20de6057",
+      "bytes": 54640
+    },
+    "bate_r": {
+      "path": "content/src-assets/media/questions/logos/bate_r.jpg",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/bate_r.jpg",
+      "sha256": "0df558930365c9e0551972341dba3cd2d58686922272cae1f4b966f2f2340189",
+      "bytes": 62907
+    },
+    "bayern": {
+      "path": "content/src-assets/media/questions/logos/bayern.jpg",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/bayern.jpg",
+      "sha256": "3a4ac946859e0849708d24120d2809fa98ab6985021fb0f8a4f0fffe07f8e7b1",
+      "bytes": 48734
+    },
+    "bayern_r": {
+      "path": "content/src-assets/media/questions/logos/bayern_r.jpg",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/bayern_r.jpg",
+      "sha256": "35d4a541fc03523eb628d8d435b2fe31529572254dfdca5a066f1539e39f4a2c",
+      "bytes": 460804
+    },
+    "benfica": {
+      "path": "content/src-assets/media/questions/logos/benfica.jpg",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/benfica.jpg",
+      "sha256": "f257fef0ba77ae616f36de279e47cbd3e4fe3d5eb589055a288266319aa781c5",
+      "bytes": 419372
+    },
+    "beshichtach": {
+      "path": "content/src-assets/media/questions/logos/beshichtach.jpg",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/beshichtach.jpg",
+      "sha256": "e5ae2bcee6355c442c43ede54591e4ad924c6a3f0775214acc677cd0701f6a9e",
+      "bytes": 34511
+    },
+    "borrusia_dortmund": {
+      "path": "content/src-assets/media/questions/logos/borrusia_dortmund.jpg",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/borrusia_dortmund.jpg",
+      "sha256": "3c7688f716dc5964e45ea9e546ba8b996230a1120fa501bbeced390d6938637b",
+      "bytes": 36005
+    },
+    "brugge": {
+      "path": "content/src-assets/media/questions/logos/brugge.jpg",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/brugge.jpg",
+      "sha256": "16bb60fda1cb368d68534b372601a8bc30ebeb309485db3b01af2904f148c580",
+      "bytes": 42357
+    },
+    "brugge_r": {
+      "path": "content/src-assets/media/questions/logos/brugge_r.jpg",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/brugge_r.jpg",
+      "sha256": "20d751a995ddb58a430382c21aff19c5a8d184757003b9ec8276216c73a3c5b5",
+      "bytes": 45409
+    },
+    "celtic": {
+      "path": "content/src-assets/media/questions/logos/celtic.jpg",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/celtic.jpg",
+      "sha256": "e50ee8435a4b2f4636b80515747e33aae9b38aa9cf9b668b55518c09f1d94093",
+      "bytes": 79008
+    },
+    "celtic_r": {
+      "path": "content/src-assets/media/questions/logos/celtic_r.jpg",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/celtic_r.jpg",
+      "sha256": "bf56b831cb31aebfed40798ee2629cdd5ac277ba47d5489a3a904e7e332ed4ab",
+      "bytes": 81800
+    },
+    "chelsea": {
+      "path": "content/src-assets/media/questions/logos/chelsea.jpg",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/chelsea.jpg",
+      "sha256": "e3ad7be920f89cffe812eba31dcdca9e59faa1b31315ea7b93a0c2efdc74ed3b",
+      "bytes": 62720
+    },
+    "chelsea_r": {
+      "path": "content/src-assets/media/questions/logos/chelsea_r.jpg",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/chelsea_r.jpg",
+      "sha256": "35e13ffb56ec2159774151b0ba2dc51f9b950f47e24f3215a5778a5e2c87110d",
+      "bytes": 71473
+    },
+    "clubs_card": {
+      "path": "content/src-assets/media/cards/clubs_card.png",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/cards/clubs_card.png",
+      "sha256": "d62f24352ecb357f4711b2758bb61342e50b052fcfc1c98823d1921f6be487c7",
+      "bytes": 5287
+    },
+    "clubs_card_new": {
+      "path": "content/src-assets/media/cards/clubs_card_new.png",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/cards/clubs_card_new.png",
+      "sha256": "1c8c101c9ffd866298b41cd525d0e4b4397a4bf45b4686f85696c156c922fc0a",
+      "bytes": 709575
+    },
+    "crvena_zvezda": {
+      "path": "content/src-assets/media/questions/logos/crvena_zvezda.jpg",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/crvena_zvezda.jpg",
+      "sha256": "41cf3348e1b6fdea4e5be8c850da81f770d89b87d1d8b6f14baaebb2281b19e1",
+      "bytes": 39737
+    },
+    "cska": {
+      "path": "content/src-assets/media/questions/logos/cska.jpg",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/cska.jpg",
+      "sha256": "edc2169621b4612aaa2e078b1603a3560c8c918a8af092d12a4f4ab06bd148d0",
+      "bytes": 75334
+    },
+    "cska_akinfeev": {
+      "path": "content/src-assets/media/questions/clubs/cska/cska_akinfeev.png",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/clubs/cska/cska_akinfeev.png",
+      "sha256": "21cb2cd881b95fec7ec6f69284c31ddb8e12860998e8871c8c24019091cdedc5",
+      "bytes": 294207
+    },
+    "cska_alves": {
+      "path": "content/src-assets/media/questions/clubs/cska/cska_alves.png",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/clubs/cska/cska_alves.png",
+      "sha256": "902702c1e9b81c98922a2262fa166cd4e38850ab7c7bbfd2d62854d77e8bf4fe",
+      "bytes": 281327
+    },
+    "cska_gajic": {
+      "path": "content/src-assets/media/questions/clubs/cska/cska_gajic.png",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/clubs/cska/cska_gajic.png",
+      "sha256": "f2cb37aedf5119a62dbf5ff4288e77296b731550485d97414bf636cfcaf3f4c8",
+      "bytes": 338593
+    },
+    "cska_glebov": {
+      "path": "content/src-assets/media/questions/clubs/cska/cska_glebov.png",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/clubs/cska/cska_glebov.png",
+      "sha256": "a586553bdafc8852537c512fa6eb139ddf8ef7a47c47b67e634384f31441d3ef",
+      "bytes": 331441
+    },
+    "cska_kislyak": {
+      "path": "content/src-assets/media/questions/clubs/cska/cska_kislyak.png",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/clubs/cska/cska_kislyak.png",
+      "sha256": "60e8101f4e38f30a326ff9a757324d68e962aa1ff99cbb9d3985d90823bcbe2a",
+      "bytes": 408394
+    },
+    "cska_krugovoy": {
+      "path": "content/src-assets/media/questions/clubs/cska/cska_krugovoy.png",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/clubs/cska/cska_krugovoy.png",
+      "sha256": "fd746bb3a0200edfcbedc9052da317d2cde652f943946fec81bf433f3ad3271c",
+      "bytes": 358331
+    },
+    "cska_lukin": {
+      "path": "content/src-assets/media/questions/clubs/cska/cska_lukin.png",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/clubs/cska/cska_lukin.png",
+      "sha256": "9f83cf88da2c636e675f528dd56ea25439d6677ef9ffd81a2c5cbdac1225b69b",
+      "bytes": 428281
+    },
+    "cska_moises": {
+      "path": "content/src-assets/media/questions/clubs/cska/cska_moises.png",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/clubs/cska/cska_moises.png",
+      "sha256": "4577e0252d43222c32701c47fe35a239128d6af9e670fcbb9b35996f5013df1e",
+      "bytes": 363797
+    },
+    "cska_musaev": {
+      "path": "content/src-assets/media/questions/clubs/cska/cska_musaev.png",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/clubs/cska/cska_musaev.png",
+      "sha256": "04adbd273c0fb3f29745f97fc4d731a2f957909e0bf093af305d3c32603fcaaf",
+      "bytes": 380075
+    },
+    "cska_oblyakov": {
+      "path": "content/src-assets/media/questions/clubs/cska/cska_oblyakov.png",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/clubs/cska/cska_oblyakov.png",
+      "sha256": "b56ede403909f20d2aca2c8c1a1083755c8d970eb1b1b9ef3d264c1b7f488542",
+      "bytes": 518202
+    },
+    "cska_r": {
+      "path": "content/src-assets/media/questions/logos/cska_r.jpg",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/cska_r.jpg",
+      "sha256": "4aef08d9dc528603f48001549166f08442ea7b8901f84a5fe93135bfb2eb5585",
+      "bytes": 85468
+    },
+    "cska_shumanskiy": {
+      "path": "content/src-assets/media/questions/clubs/cska/cska_shumanskiy.png",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/clubs/cska/cska_shumanskiy.png",
+      "sha256": "544790ac939e82a1792cab4ae7ab613fce397b3704e2fc09d87e373704f14e3b",
+      "bytes": 307062
+    },
+    "cska_torop": {
+      "path": "content/src-assets/media/questions/clubs/cska/cska_torop.png",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/clubs/cska/cska_torop.png",
+      "sha256": "75087372e02c4773dbf952b649c8977754b0ee797fc10aba2f4a9cf596005c5e",
+      "bytes": 290416
+    },
+    "cup_card": {
+      "path": "content/src-assets/media/cards/cup_card.png",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/cards/cup_card.png",
+      "sha256": "1c95ef2d7c4187c50061bf2bc01c590ca8c1596081b6dc53d2d099d1cdb0b119",
+      "bytes": 5369
+    },
+    "cup_card_new": {
+      "path": "content/src-assets/media/cards/cup_card_new.png",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/cards/cup_card_new.png",
+      "sha256": "c09c5ce8bf3500e05786cd180871bc95a101875ec0e6ca1e5c2c0ec210de66bc",
+      "bytes": 673571
+    },
+    "dynamo_kiev": {
+      "path": "content/src-assets/media/questions/logos/dynamo_kiev.jpg",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/dynamo_kiev.jpg",
+      "sha256": "059b851f7fc84f6afbcd54eed03e147288d3fe9eca33133992ab9a3f1a53789d",
+      "bytes": 53866
+    },
+    "dynamo_kiev_r": {
+      "path": "content/src-assets/media/questions/logos/dynamo_kiev_r.jpg",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/dynamo_kiev_r.jpg",
+      "sha256": "dcfeb3855fad1a215ef48ac7ce84165e2c1fd6138f3909fb5edb751c655276e2",
+      "bytes": 55104
+    },
+    "dynamo_zagreb": {
+      "path": "content/src-assets/media/questions/logos/dynamo_zagreb.jpg",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/dynamo_zagreb.jpg",
+      "sha256": "dac9f6d38d34cf84953e0600ed647b22e11c219cd2d93e85ac52b5bfb244fd36",
+      "bytes": 31149
+    },
+    "everton": {
+      "path": "content/src-assets/media/questions/logos/everton.jpg",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/everton.jpg",
+      "sha256": "d25f2b1b6ef2f2d52f518c9e357e0dbba61905c8273de836e36172f77b1de6ec",
+      "bytes": 59459
+    },
+    "everton_r": {
+      "path": "content/src-assets/media/questions/logos/everton_r.jpg",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/everton_r.jpg",
+      "sha256": "1e9becb89c708d63e9328c1c2cafe139c439af47f6a7110284c6c300573fc2c4",
+      "bytes": 64105
+    },
+    "feneba": {
+      "path": "content/src-assets/media/questions/logos/feneba.jpg",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/feneba.jpg",
+      "sha256": "e23d9ad5635b2a8fe0c0bf494af96d1e5dda8a18d36dccbce3a1d1a7e67a5a80",
+      "bytes": 62570
+    },
+    "feneba_r": {
+      "path": "content/src-assets/media/questions/logos/feneba_r.jpg",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/feneba_r.jpg",
+      "sha256": "ef42ae02c311497be91cb0f4f7bfdc16ed82c8052e5cdfbddf903c306187b163",
+      "bytes": 71994
+    },
+    "feyenoord": {
+      "path": "content/src-assets/media/questions/logos/feyenoord.jpg",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/feyenoord.jpg",
+      "sha256": "a401610f78cc9814afce2ba7a551cb7721be36e87a787e4604620081b7e774af",
+      "bytes": 38471
+    },
+    "feyenoord_r": {
+      "path": "content/src-assets/media/questions/logos/feyenoord_r.jpg",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/feyenoord_r.jpg",
+      "sha256": "a4371a217695e326d3e9675599d4bf0e8d213e3ba1a3eb7edceaa1e897ec508c",
+      "bytes": 45649
+    },
+    "galatasaray": {
+      "path": "content/src-assets/media/questions/logos/galatasaray.jpg",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/galatasaray.jpg",
+      "sha256": "8dbbdecedb3a178c617c11a691b07f0398ea1792c68534fa94469ac217f9010f",
+      "bytes": 27264
+    },
+    "geterborg": {
+      "path": "content/src-assets/media/questions/logos/geterborg.jpg",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/geterborg.jpg",
+      "sha256": "800d0cffbc94f906719ac88742476089e89ac779f5374676770add4771da58cd",
+      "bytes": 50269
+    },
+    "hamburg": {
+      "path": "content/src-assets/media/questions/logos/hamburg.jpg",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/hamburg.jpg",
+      "sha256": "7cfb215569e40596a79a3ad67630126ff62010c8d8d8dfc3a676855a3416eaa3",
+      "bytes": 21957
+    },
+    "inter": {
+      "path": "content/src-assets/media/questions/logos/inter.jpg",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/inter.jpg",
+      "sha256": "84e392fe7ff93a888f49f6c2142cca14da9ce8de7257d130baaac9635e118df9",
+      "bytes": 34001
+    },
+    "juventus": {
+      "path": "content/src-assets/media/questions/logos/juventus.jpg",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/juventus.jpg",
+      "sha256": "ba1116e54ba6f438d8c029d3cbb8876806fa585ae2f98750363eea53939a1547",
+      "bytes": 18637
+    },
+    "krasnodar": {
+      "path": "content/src-assets/media/questions/logos/krasnodar.jpg",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/krasnodar.jpg",
+      "sha256": "1fe6a2b748cd69a1ad940fe22c342f78e70c3f9859c620f577d05c279a95e2ba",
+      "bytes": 55316
+    },
+    "krasnodar_r": {
+      "path": "content/src-assets/media/questions/logos/krasnodar_r.jpg",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/krasnodar_r.jpg",
+      "sha256": "7af81e0bd813d4291440110938a0021c9f1c36cc3c4f2e43b05640f77d725252",
+      "bytes": 64046
+    },
+    "lazio": {
+      "path": "content/src-assets/media/questions/logos/lazio.jpg",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/lazio.jpg",
+      "sha256": "d2b48d59c25030144463f8f776b3343e6a6cb8b75a50fdc852a6f5854f152fa5",
+      "bytes": 30120
+    },
+    "lazio_r": {
+      "path": "content/src-assets/media/questions/logos/lazio_r.jpg",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/lazio_r.jpg",
+      "sha256": "6bdbd51057036fc98cc052ed75317f9b6e926d9ad9ea9edf00bff98c1c3ab385",
+      "bytes": 33081
+    },
+    "leaster": {
+      "path": "content/src-assets/media/questions/logos/leaster.jpg",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/leaster.jpg",
+      "sha256": "4c3bf869b2d3b43393969f84051a5dd94d3399b28d7e08dd22c672233351a065",
+      "bytes": 58591
+    },
+    "leaster_r": {
+      "path": "content/src-assets/media/questions/logos/leaster_r.jpg",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/leaster_r.jpg",
+      "sha256": "7df45dc77e609c572fa74c40a4dbc2b016ffd4e6411130de1cc6aafb45ab1145",
+      "bytes": 67284
+    },
+    "leeds": {
+      "path": "content/src-assets/media/questions/logos/leeds.jpg",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/leeds.jpg",
+      "sha256": "575d65259d05b9476cc254a9e01f19e9cd67a8d3e75b8228d5cf29e83d0f05c2",
+      "bytes": 34751
+    },
+    "leeds_r": {
+      "path": "content/src-assets/media/questions/logos/leeds_r.jpg",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/leeds_r.jpg",
+      "sha256": "0804f9bb9b52ace1db6a86a258c005649c49059bad9b1df51082c04677a6ded1",
+      "bytes": 36400
+    },
+    "leipzig": {
+      "path": "content/src-assets/media/questions/logos/leipzig.jpg",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/leipzig.jpg",
+      "sha256": "857677d81103c76aca30b498a0e804f439d31baab039e0842b3c63f29dfa4bc7",
+      "bytes": 42685
+    },
+    "leipzig_r": {
+      "path": "content/src-assets/media/questions/logos/leipzig_r.jpg",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/leipzig_r.jpg",
+      "sha256": "bf6a00e7afdbd2b8a62816fcfc746f2b573f53cb7e17926dab00a5ce7faa69ea",
+      "bytes": 46306
+    },
+    "liverpool": {
+      "path": "content/src-assets/media/questions/logos/liverpool.jpg",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/liverpool.jpg",
+      "sha256": "074f305b40dc09b16bbb6acaed3a603f759bd9320169596a85009fd0c9624840",
+      "bytes": 61423
+    },
+    "liverpool_r": {
+      "path": "content/src-assets/media/questions/logos/liverpool_r.jpg",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/liverpool_r.jpg",
+      "sha256": "3c38ad268e83572829286bf50bfe292575c356bb4d883c99f68c2519de4e9ad6",
+      "bytes": 65658
+    },
+    "logo_akhmat": {
+      "path": "content/src-assets/media/questions/logos/logo_akhmat.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_akhmat.webp",
+      "sha256": "633b73ef3f183ed058afae84b8f259b0921596e7bb479821a2c19cd27c0d4864",
+      "bytes": 75356
+    },
+    "logo_akhmat_t": {
+      "path": "content/src-assets/media/questions/logos/logo_akhmat_t.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_akhmat_t.webp",
+      "sha256": "40a71fd49b14d80af9de142a32d89ec48e40d784ad2d338d96d565a75db309d4",
+      "bytes": 69594
+    },
+    "logo_akron": {
+      "path": "content/src-assets/media/questions/logos/logo_akron.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_akron.webp",
+      "sha256": "1a569770f17bfd05eb26a6d13b6b7b5650748f1013844358bd8c8498b789541f",
+      "bytes": 41020
+    },
+    "logo_alania": {
+      "path": "content/src-assets/media/questions/logos/logo_alania.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_alania.webp",
+      "sha256": "8f63b43a99aee78700e42a10e0c9c8ef7dd2247bbe61bf30638e2b9166513520",
+      "bytes": 62640
+    },
+    "logo_alania_t": {
+      "path": "content/src-assets/media/questions/logos/logo_alania_t.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_alania_t.webp",
+      "sha256": "3b2ce99df3db4fdaf5b838d4cba2d0c2c294ed91a470375f7532a2d585cb8454",
+      "bytes": 52446
+    },
+    "logo_amkal": {
+      "path": "content/src-assets/media/questions/logos/logo_amkal.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_amkal.webp",
+      "sha256": "82d72d958e26f5540215ef00035c9fc927f85c68a4c6020e7687c1420aed3770",
+      "bytes": 2966
+    },
+    "logo_amkal_t": {
+      "path": "content/src-assets/media/questions/logos/logo_amkal_t.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_amkal_t.webp",
+      "sha256": "b0f05696e1d2b72785c98f9075758b5c56840dd40c82eb8865beb8154565501d",
+      "bytes": 2520
+    },
+    "logo_amkar": {
+      "path": "content/src-assets/media/questions/logos/logo_amkar.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_amkar.webp",
+      "sha256": "b2e55dfea63a49ba645b48d86bca2b324eb05e69411c896dee7ccef8dc2f076a",
+      "bytes": 16104
+    },
+    "logo_angusht": {
+      "path": "content/src-assets/media/questions/logos/logo_angusht.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_angusht.webp",
+      "sha256": "2bfb826847aceda671c08c353a31bfeb0c03380ee54a4c46b3a2d687e0c8dac1",
+      "bytes": 64002
+    },
+    "logo_angusht_t": {
+      "path": "content/src-assets/media/questions/logos/logo_angusht_t.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_angusht_t.webp",
+      "sha256": "c3a06bfe3637c07683390f89729520e72722fac3126e6fb5fcf4eb3143c740c0",
+      "bytes": 57716
+    },
+    "logo_anzhi": {
+      "path": "content/src-assets/media/questions/logos/logo_anzhi.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_anzhi.webp",
+      "sha256": "b57e937f402647f9c7cc736952572943438f42ec00b6e0b04d967286560d39a8",
+      "bytes": 45750
+    },
+    "logo_ararat": {
+      "path": "content/src-assets/media/questions/logos/logo_ararat.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_ararat.webp",
+      "sha256": "7f8462de280c9aa4d59684d25ea52d58b4ace97dab90f3d956e7a34c55be6415",
+      "bytes": 37740
+    },
+    "logo_ararat_t": {
+      "path": "content/src-assets/media/questions/logos/logo_ararat_t.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_ararat_t.webp",
+      "sha256": "f10ef22ecda09f204f3b6a03d3f0a0250c7c499c649c6adaf366682998cb77c4",
+      "bytes": 30698
+    },
+    "logo_arsenal": {
+      "path": "content/src-assets/media/questions/logos/logo_arsenal.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_arsenal.webp",
+      "sha256": "062e12ff3d9329aacb183bf3113716380be08780a8e6ef5a83d01734055444b4",
+      "bytes": 81032
+    },
+    "logo_arsenal_t": {
+      "path": "content/src-assets/media/questions/logos/logo_arsenal_t.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_arsenal_t.webp",
+      "sha256": "4092735ece330914b9a04e76cd9688975a6aeb841f67ebfb87c3c32ff5a89c38",
+      "bytes": 64788
+    },
+    "logo_asmaral": {
+      "path": "content/src-assets/media/questions/logos/logo_asmaral.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_asmaral.webp",
+      "sha256": "93c922c3033c3edf03b2fd89b330d972ee44c05d83acecfad74a64c379a388cd",
+      "bytes": 40638
+    },
+    "logo_asmaral_t": {
+      "path": "content/src-assets/media/questions/logos/logo_asmaral_t.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_asmaral_t.webp",
+      "sha256": "7f9fe26df7f3e366bef9b586f3ceba5fb7ab5ede5d48458ffa23226b355b7155",
+      "bytes": 29990
+    },
+    "logo_astrahan": {
+      "path": "content/src-assets/media/questions/logos/logo_astrahan.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_astrahan.webp",
+      "sha256": "7b59b618e6a55ed904edb6c01ec9d88b22990aa14d194779486b81a79696a5a0",
+      "bytes": 82990
+    },
+    "logo_astrahan_t": {
+      "path": "content/src-assets/media/questions/logos/logo_astrahan_t.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_astrahan_t.webp",
+      "sha256": "d07300fff6c1721e11ff0e2fb5191cf23b89ef9d20b6e2cd3bbdabc4d25c8369",
+      "bytes": 69608
+    },
+    "logo_avangard_kur": {
+      "path": "content/src-assets/media/questions/logos/logo_avangard_kur.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_avangard_kur.webp",
+      "sha256": "48e0be93cecf06f7b0360c2bf74ee729c3f9ae200cf35a5ad4026e7ad18ca8d6",
+      "bytes": 65036
+    },
+    "logo_avangard_kur_t": {
+      "path": "content/src-assets/media/questions/logos/logo_avangard_kur_t.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_avangard_kur_t.webp",
+      "sha256": "76e9e75111d8b035c4c80f2aaea3aebc70ed2fc0001042bca96ffb752331b319",
+      "bytes": 52170
+    },
+    "logo_avtodor": {
+      "path": "content/src-assets/media/questions/logos/logo_avtodor.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_avtodor.webp",
+      "sha256": "2a9e8492d3f86b09c55cbc9412c32a0cd2b3a4ceee036ac4830f5927575b9f8d",
+      "bytes": 41130
+    },
+    "logo_avtodor_t": {
+      "path": "content/src-assets/media/questions/logos/logo_avtodor_t.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_avtodor_t.webp",
+      "sha256": "f7f69f8f4d9f8f18b81dc73b09aa52f0248fa291fcc111d5270681c11115ed39",
+      "bytes": 33712
+    },
+    "logo_baltika": {
+      "path": "content/src-assets/media/questions/logos/logo_baltika.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_baltika.webp",
+      "sha256": "fd9cc67072595beb8a47e85b5a444964ec306c677129fb9142769ac28dc136d5",
+      "bytes": 37202
+    },
+    "logo_baltika_t": {
+      "path": "content/src-assets/media/questions/logos/logo_baltika_t.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_baltika_t.webp",
+      "sha256": "2c91c8fa05c44ab36578313f87f6c32a3898ce5a735dca1503fa07a6346ac58e",
+      "bytes": 33592
+    },
+    "logo_beshtau": {
+      "path": "content/src-assets/media/questions/logos/logo_beshtau.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_beshtau.webp",
+      "sha256": "9cca4f425a657bebc56f3b066dcd91ea4b50e9246783d0fe1c46f3a3949ad9d2",
+      "bytes": 44802
+    },
+    "logo_beshtau_t": {
+      "path": "content/src-assets/media/questions/logos/logo_beshtau_t.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_beshtau_t.webp",
+      "sha256": "4ac29aabd11f993ed6d522bbe85e882b2ad408961bbf77b26221f86a1ace4fd1",
+      "bytes": 33848
+    },
+    "logo_beybegi": {
+      "path": "content/src-assets/media/questions/logos/logo_beybegi.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_beybegi.webp",
+      "sha256": "89c820059a77540d34b47361fe5dccbdcb7e618b159a0cc7f1cf6d3fb93e0c13",
+      "bytes": 2894
+    },
+    "logo_biolog": {
+      "path": "content/src-assets/media/questions/logos/logo_biolog.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_biolog.webp",
+      "sha256": "fc6813342c4050ae2f1babf0bedbd8b24e2a9839f1360d52205d2c3fd1254c27",
+      "bytes": 71884
+    },
+    "logo_biolog_t": {
+      "path": "content/src-assets/media/questions/logos/logo_biolog_t.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_biolog_t.webp",
+      "sha256": "489b1345bbf2aa8e33e644f28a65cafeade34f10f12abf3601bf7799017fef9b",
+      "bytes": 48300
+    },
+    "logo_broke": {
+      "path": "content/src-assets/media/questions/logos/logo_broke.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_broke.webp",
+      "sha256": "46e78ff09227e27664e28330cf48a9c915d9a7074fc798ca30bd01d62d8b516c",
+      "bytes": 6472
+    },
+    "logo_bus": {
+      "path": "content/src-assets/media/questions/logos/logo_bus.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_bus.webp",
+      "sha256": "970617a2c0d56e61ee366f3e372227a57f4425527e4c8f26c0afc2182cd120d8",
+      "bytes": 16210
+    },
+    "logo_bus_t": {
+      "path": "content/src-assets/media/questions/logos/logo_bus_t.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_bus_t.webp",
+      "sha256": "ae137c1a85b577b5481c4f18f373d5f6ffa5b4ccf4eecec57b4173392eacc4f3",
+      "bytes": 14054
+    },
+    "logo_celta": {
+      "path": "content/src-assets/media/questions/logos/logo_celta.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_celta.webp",
+      "sha256": "e9af9af554001d7aa3b5536def2b300f49298c077d3b4cda32383f5cee28c73d",
+      "bytes": 22384
+    },
+    "logo_chayka_pes": {
+      "path": "content/src-assets/media/questions/logos/logo_chayka_pes.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_chayka_pes.webp",
+      "sha256": "fc42de29abfdf8e3b50ff9223a29f2d0151cf1910949bec976541cbc4c4944fa",
+      "bytes": 21170
+    },
+    "logo_cheliabinsk": {
+      "path": "content/src-assets/media/questions/logos/logo_cheliabinsk.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_cheliabinsk.webp",
+      "sha256": "94d0ad18076e10a24e6393d08f324d2d680544aa7a309c4c6d4412179ac4de0d",
+      "bytes": 66472
+    },
+    "logo_cheliabinsk_t": {
+      "path": "content/src-assets/media/questions/logos/logo_cheliabinsk_t.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_cheliabinsk_t.webp",
+      "sha256": "06925ff55792c8d807953ae66ebeac06e1e228d3a6db6327322b496d6aadb0ee",
+      "bytes": 61074
+    },
+    "logo_chernomorez": {
+      "path": "content/src-assets/media/questions/logos/logo_chernomorez.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_chernomorez.webp",
+      "sha256": "44301976c323f3df2179a357beb2d7e9462c9a074d3ac3464500879e7c4e5870",
+      "bytes": 53204
+    },
+    "logo_chernomorez_t": {
+      "path": "content/src-assets/media/questions/logos/logo_chernomorez_t.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_chernomorez_t.webp",
+      "sha256": "73a0d426e1231fb6f3352926bbd2f3889a36df3ef5b7adddfd916f38162f0e49",
+      "bytes": 36264
+    },
+    "logo_chertanovo": {
+      "path": "content/src-assets/media/questions/logos/logo_chertanovo.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_chertanovo.webp",
+      "sha256": "ec90872d522968fb359e109cb06047fd5940080333cf93c8e95ceba7e44ae155",
+      "bytes": 23066
+    },
+    "logo_cska": {
+      "path": "content/src-assets/media/questions/logos/logo_cska.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_cska.webp",
+      "sha256": "ae410c0bbfcaa0ebe6959a7a0c976e8ab55779d7c842101e5806ed652a201e78",
+      "bytes": 89806
+    },
+    "logo_cuprus": {
+      "path": "content/src-assets/media/questions/logos/logo_cuprus.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_cuprus.webp",
+      "sha256": "617cbd5d39d3747286ce8bd666bd39b55bc14d0f80270cdfdcdb3d694c236d28",
+      "bytes": 37060
+    },
+    "logo_dengi": {
+      "path": "content/src-assets/media/questions/logos/logo_dengi.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_dengi.webp",
+      "sha256": "3f98c3730974686b37f8e8071e4e03b3d6d0c8a61cfd33e74869baca81bec77b",
+      "bytes": 5364
+    },
+    "logo_dinamo": {
+      "path": "content/src-assets/media/questions/logos/logo_dinamo.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_dinamo.webp",
+      "sha256": "e75839c589a0c61a31ffaddfe0fffee91088843c3322880d803e67b629b30b83",
+      "bytes": 27534
+    },
+    "logo_dinamo_bar": {
+      "path": "content/src-assets/media/questions/logos/logo_dinamo_bar.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_dinamo_bar.webp",
+      "sha256": "522b2ce98ef5f868c7d9481ec1db159d526798587de3036bc8abbb4e2e7b3b5d",
+      "bytes": 22358
+    },
+    "logo_dinamo_bar_t": {
+      "path": "content/src-assets/media/questions/logos/logo_dinamo_bar_t.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_dinamo_bar_t.webp",
+      "sha256": "5e32ee95bb7a60d3d43d3abb7f60aea09ff527408a685fec70c3b71f641b8fdb",
+      "bytes": 17812
+    },
+    "logo_dinamo_bry": {
+      "path": "content/src-assets/media/questions/logos/logo_dinamo_bry.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_dinamo_bry.webp",
+      "sha256": "2284ee8c71d18010acc72578ea6a6ee29ef247c3e23f71ebb955adf4e9b5a5c4",
+      "bytes": 32118
+    },
+    "logo_dinamo_bry_t": {
+      "path": "content/src-assets/media/questions/logos/logo_dinamo_bry_t.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_dinamo_bry_t.webp",
+      "sha256": "f396f81c3f09559d0c418a4e003fadea98af06b94895487eb192fff99ab3e500",
+      "bytes": 28918
+    },
+    "logo_dinamo_kir": {
+      "path": "content/src-assets/media/questions/logos/logo_dinamo_kir.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_dinamo_kir.webp",
+      "sha256": "35a4b92ffcdbb91bfc1c30ee3a1ee02bed0a9a3c8de85974b8167bb13c06d7a4",
+      "bytes": 48526
+    },
+    "logo_dinamo_kir_t": {
+      "path": "content/src-assets/media/questions/logos/logo_dinamo_kir_t.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_dinamo_kir_t.webp",
+      "sha256": "28c1b8afd5230d62483656affbe61fb6d3d3a965f8d06bba6e8e3955b4abfc98",
+      "bytes": 42550
+    },
+    "logo_dinamo_mah": {
+      "path": "content/src-assets/media/questions/logos/logo_dinamo_mah.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_dinamo_mah.webp",
+      "sha256": "e8bbaeed81e234aad7dba6cd336b86668914305b94edddb8c387a23796d53093",
+      "bytes": 31816
+    },
+    "logo_dinamo_mah_t": {
+      "path": "content/src-assets/media/questions/logos/logo_dinamo_mah_t.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_dinamo_mah_t.webp",
+      "sha256": "c2c185fc39e39b91bc91544d65edda2da001ed357c7609f5c5941dd916c837b5",
+      "bytes": 21550
+    },
+    "logo_dinamo_spb": {
+      "path": "content/src-assets/media/questions/logos/logo_dinamo_spb.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_dinamo_spb.webp",
+      "sha256": "e9861636449f39ad3b5e29d6ca99dbee6d58b0e42cd01f8cba500c490a4fc439",
+      "bytes": 19746
+    },
+    "logo_dinamo_spb_t": {
+      "path": "content/src-assets/media/questions/logos/logo_dinamo_spb_t.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_dinamo_spb_t.webp",
+      "sha256": "71eeb52c7fdb6801e16235ce412fce5837e960142e48e8c43e9371f7724dfcbe",
+      "bytes": 14852
+    },
+    "logo_dinamo_stav": {
+      "path": "content/src-assets/media/questions/logos/logo_dinamo_stav.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_dinamo_stav.webp",
+      "sha256": "033908fe290b34aedcf2902c9a9b2e780c42234b9ca2a86eb504698854d6d235",
+      "bytes": 37840
+    },
+    "logo_dinamo_stav_t": {
+      "path": "content/src-assets/media/questions/logos/logo_dinamo_stav_t.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_dinamo_stav_t.webp",
+      "sha256": "a6d6ebd6a2b2c09beb1737052c5d2b4b7ce82bdb4383f76335b40bae0a04ec6f",
+      "bytes": 34342
+    },
+    "logo_dmedia": {
+      "path": "content/src-assets/media/questions/logos/logo_dmedia.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_dmedia.webp",
+      "sha256": "990a000f072d1b66b754053c926d2a9d99fb4b506317b237f010ac08b9d83e29",
+      "bytes": 3008
+    },
+    "logo_drots": {
+      "path": "content/src-assets/media/questions/logos/logo_drots.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_drots.webp",
+      "sha256": "3ae93d66ae2debc6d43a1a887d455a25cdce3ff2ba26e34f517410269bd177f8",
+      "bytes": 6130
+    },
+    "logo_druzhba": {
+      "path": "content/src-assets/media/questions/logos/logo_druzhba.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_druzhba.webp",
+      "sha256": "c6798fe2bfb99d08bf5b6af775eb078c411fc7ea9e7c29f81684f2c3861a122b",
+      "bytes": 71902
+    },
+    "logo_druzhba_t": {
+      "path": "content/src-assets/media/questions/logos/logo_druzhba_t.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_druzhba_t.webp",
+      "sha256": "0c82bffef960767f2296222f71d2c62ba8cf91820f26eb33df00dd365a007be9",
+      "bytes": 49220
+    },
+    "logo_dynamo_vlad": {
+      "path": "content/src-assets/media/questions/logos/logo_dynamo_vlad.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_dynamo_vlad.webp",
+      "sha256": "7179fab03e6c214ef9a1ac292916b1f08a9acd98eaa10a3c591dbe31b57e710d",
+      "bytes": 59124
+    },
+    "logo_dynamo_vlad_t": {
+      "path": "content/src-assets/media/questions/logos/logo_dynamo_vlad_t.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_dynamo_vlad_t.webp",
+      "sha256": "9761d8c79d51f0bda11ff7c8efe3a34355abaf6aff4fe58536f0a873eba35b39",
+      "bytes": 52208
+    },
+    "logo_dynamo_vol": {
+      "path": "content/src-assets/media/questions/logos/logo_dynamo_vol.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_dynamo_vol.webp",
+      "sha256": "516243f40d7a69b41e629a9cc3f8dfe1f716b3f12c263b415d84164ae26ac5a3",
+      "bytes": 48048
+    },
+    "logo_dynamo_vol_t": {
+      "path": "content/src-assets/media/questions/logos/logo_dynamo_vol_t.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_dynamo_vol_t.webp",
+      "sha256": "516243f40d7a69b41e629a9cc3f8dfe1f716b3f12c263b415d84164ae26ac5a3",
+      "bytes": 48048
+    },
+    "logo_egrisi": {
+      "path": "content/src-assets/media/questions/logos/logo_egrisi.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_egrisi.webp",
+      "sha256": "44a2877fb063c2cd0e582b69e2a32dccfbe1d4ddae3ac727b3e1364254dcea0d",
+      "bytes": 11150
+    },
+    "logo_enisey": {
+      "path": "content/src-assets/media/questions/logos/logo_enisey.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_enisey.webp",
+      "sha256": "39394df4ded0f4f89627916033f998ba2ca41ea8b0c1988cfd26c453a53c9bbb",
+      "bytes": 68554
+    },
+    "logo_enisey_t": {
+      "path": "content/src-assets/media/questions/logos/logo_enisey_t.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_enisey_t.webp",
+      "sha256": "d42a9b76f5aba13413ccd2755de5d85306b2ac745d02e48cca9d6c90438d9881",
+      "bytes": 54588
+    },
+    "logo_essentuki": {
+      "path": "content/src-assets/media/questions/logos/logo_essentuki.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_essentuki.webp",
+      "sha256": "83d1c9a1c25aa7370231364fe7b81ab0b6b3eec39c1ea74954617f799ed75df9",
+      "bytes": 100320
+    },
+    "logo_essentuki_t": {
+      "path": "content/src-assets/media/questions/logos/logo_essentuki_t.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_essentuki_t.webp",
+      "sha256": "b4e3673a90f3dbb505098baba9fd0d8f99d0944afa3da2fcd8054d85cbcf7727",
+      "bytes": 82650
+    },
+    "logo_fakel": {
+      "path": "content/src-assets/media/questions/logos/logo_fakel.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_fakel.webp",
+      "sha256": "f5ca60281bcb14773297f533ea12a96c016c97f04f7c4fb7087b4d403dc37885",
+      "bytes": 47932
+    },
+    "logo_fakel_t": {
+      "path": "content/src-assets/media/questions/logos/logo_fakel_t.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_fakel_t.webp",
+      "sha256": "fc74aaddcaf8bdd816e95d2e6379492542c69ff428d90197b0ee57aced5389c0",
+      "bytes": 39854
+    },
+    "logo_fight": {
+      "path": "content/src-assets/media/questions/logos/logo_fight.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_fight.webp",
+      "sha256": "072fc1b1d8f98142ce2e35455d549f54fa1278b6c9d35288a1ec62057a528a29",
+      "bytes": 4498
+    },
+    "logo_fight_t": {
+      "path": "content/src-assets/media/questions/logos/logo_fight_t.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_fight_t.webp",
+      "sha256": "cd17dd19c54553458ec3fbb31046bf6aaa6f3aa179d7e35869aaf4a4dc561307",
+      "bytes": 4050
+    },
+    "logo_fk10": {
+      "path": "content/src-assets/media/questions/logos/logo_fk10.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_fk10.webp",
+      "sha256": "fad8cde36d0d74f265f3512ed9feab3367b8899db41d5d3380496ad92f6e3d39",
+      "bytes": 3468
+    },
+    "logo_fk10_t": {
+      "path": "content/src-assets/media/questions/logos/logo_fk10_t.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_fk10_t.webp",
+      "sha256": "02480eaa5c317f172e807356f0efabe03bf3080ae6ffc19a467f10b8b627d671",
+      "bytes": 2746
+    },
+    "logo_forte": {
+      "path": "content/src-assets/media/questions/logos/logo_forte.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_forte.webp",
+      "sha256": "14b8ded6781136f16408613997c5cf0b73b5750dc5436dffa12e67b7ab9e6f46",
+      "bytes": 63906
+    },
+    "logo_forte_t": {
+      "path": "content/src-assets/media/questions/logos/logo_forte_t.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_forte_t.webp",
+      "sha256": "3dd78ef18ddb902a9d65c24dd49d8108d69ed0b62999a4944e981da6c278d40b",
+      "bytes": 57530
+    },
+    "logo_goats": {
+      "path": "content/src-assets/media/questions/logos/logo_goats.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_goats.webp",
+      "sha256": "2ee2438975a3c53f989f1abf8b47e66c06571c8eddbc77b48d70d3d05bf3c907",
+      "bytes": 7208
+    },
+    "logo_goats_t": {
+      "path": "content/src-assets/media/questions/logos/logo_goats_t.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_goats_t.webp",
+      "sha256": "8575983bff7ef6abf029739513da26abb2608d32252d83f195a7d4ad47de093e",
+      "bytes": 5742
+    },
+    "logo_irkutsk": {
+      "path": "content/src-assets/media/questions/logos/logo_irkutsk.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_irkutsk.webp",
+      "sha256": "dfede94bd3c53fcec09f0da08cb3d178fd04df594e6c115f5e36e6826b4946fe",
+      "bytes": 50566
+    },
+    "logo_irkutsk_t": {
+      "path": "content/src-assets/media/questions/logos/logo_irkutsk_t.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_irkutsk_t.webp",
+      "sha256": "87cd93e3297f56f1007fbe5e52a8f088f0b46dfae5a05776a27c2378b21cfad7",
+      "bytes": 45082
+    },
+    "logo_irtish": {
+      "path": "content/src-assets/media/questions/logos/logo_irtish.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_irtish.webp",
+      "sha256": "9805352bc14d96982517bdab4e056a82e5452445bf12020e386a4fe9720a9d7d",
+      "bytes": 33090
+    },
+    "logo_irtish_t": {
+      "path": "content/src-assets/media/questions/logos/logo_irtish_t.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_irtish_t.webp",
+      "sha256": "c41efa902a8e331c13f86f7d004c1ea4dd5f7d063e5a4e6a9b20ae4064357972",
+      "bytes": 24168
+    },
+    "logo_jako": {
+      "path": "content/src-assets/media/questions/logos/logo_jako.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_jako.webp",
+      "sha256": "ad88266761e2dd4b48c1d4cd6f7059897897cc6092c81e930c11ffdb225e322c",
+      "bytes": 6004
+    },
+    "logo_kairat": {
+      "path": "content/src-assets/media/questions/logos/logo_kairat.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_kairat.webp",
+      "sha256": "d936029661fa61f3091c057a6c4bafdf63799508b99c25154715add476fe5aaa",
+      "bytes": 51540
+    },
+    "logo_kairat_t": {
+      "path": "content/src-assets/media/questions/logos/logo_kairat_t.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_kairat_t.webp",
+      "sha256": "4cfe5a0319c9560bf05983fc871bba4ab0c055c23fa05de7fc4143123d01294d",
+      "bytes": 40140
+    },
+    "logo_kaluga": {
+      "path": "content/src-assets/media/questions/logos/logo_kaluga.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_kaluga.webp",
+      "sha256": "ce9622227c915b386db087d5487349b9d282a15afe8b57a9d784d7a18b53c25c",
+      "bytes": 100000
+    },
+    "logo_kaluga_t": {
+      "path": "content/src-assets/media/questions/logos/logo_kaluga_t.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_kaluga_t.webp",
+      "sha256": "d5777f8f9de773fda3c4158e4853df3a269bb329518245419a5a8a2955896019",
+      "bytes": 76052
+    },
+    "logo_kamaz": {
+      "path": "content/src-assets/media/questions/logos/logo_kamaz.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_kamaz.webp",
+      "sha256": "510d7cb940b5ea4a46e3da99d65a15cea04e07b417d4a92961bf103ad780d01d",
+      "bytes": 68798
+    },
+    "logo_kamaz_t": {
+      "path": "content/src-assets/media/questions/logos/logo_kamaz_t.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_kamaz_t.webp",
+      "sha256": "93e516b69b341c4d1d78bef6767c1eae28c15479e95b120e307a4fcb7ac9a2aa",
+      "bytes": 65714
+    },
+    "logo_khimik": {
+      "path": "content/src-assets/media/questions/logos/logo_khimik.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_khimik.webp",
+      "sha256": "1b47936f29a6b84166d60699d20bd9120c0bca642080d6300c3d25180bc43f94",
+      "bytes": 59322
+    },
+    "logo_khimik_t": {
+      "path": "content/src-assets/media/questions/logos/logo_khimik_t.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_khimik_t.webp",
+      "sha256": "89496c471e474e57ba6fce3499fbd53ac3cceeb726a797d0be5195a4bf240e3b",
+      "bytes": 42452
+    },
+    "logo_khimki": {
+      "path": "content/src-assets/media/questions/logos/logo_khimki.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_khimki.webp",
+      "sha256": "fff37f9d20d972c6c04c6a6d749ecca3fdcb6d96ee4f6b6b96c3bb093759abba",
+      "bytes": 56300
+    },
+    "logo_khimki_t": {
+      "path": "content/src-assets/media/questions/logos/logo_khimki_t.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_khimki_t.webp",
+      "sha256": "a2ec72f9c7cc013b9a50e7d014810d476686045420b5f77f2dc36d387264908b",
+      "bytes": 39388
+    },
+    "logo_kish": {
+      "path": "content/src-assets/media/questions/logos/logo_kish.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_kish.webp",
+      "sha256": "d026a79c8f59eb3f9e8b73a44b2dd590f05d64e0ff1049fe46638cd9ea5eb152",
+      "bytes": 48330
+    },
+    "logo_kolomna": {
+      "path": "content/src-assets/media/questions/logos/logo_kolomna.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_kolomna.webp",
+      "sha256": "17aec25cc4b4e6e59ae16c47d4259ee7385606aee5b61fa5efaad2839d011e1e",
+      "bytes": 70358
+    },
+    "logo_kolomna_t": {
+      "path": "content/src-assets/media/questions/logos/logo_kolomna_t.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_kolomna_t.webp",
+      "sha256": "598d254f81e912b95db6c2dd5c3b38485369e1847a2421b860cb252d6ee209a0",
+      "bytes": 62742
+    },
+    "logo_kompozit": {
+      "path": "content/src-assets/media/questions/logos/logo_kompozit.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_kompozit.webp",
+      "sha256": "1b91c063da6cd6b66a6ce7e7e4d954ad619f9253f747a7d2bffbb26bef108451",
+      "bytes": 23164
+    },
+    "logo_kompozit_t": {
+      "path": "content/src-assets/media/questions/logos/logo_kompozit_t.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_kompozit_t.webp",
+      "sha256": "2aa5b799289040585f918bacd21b0dfb4127488c8294014fbc55d87029a7eeba",
+      "bytes": 18554
+    },
+    "logo_koni": {
+      "path": "content/src-assets/media/questions/logos/logo_koni.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_koni.webp",
+      "sha256": "ecbd83e3194236d5079000a52d1c412106b34edfda2f6e6c2884f492b87b2e0c",
+      "bytes": 6514
+    },
+    "logo_koni_t": {
+      "path": "content/src-assets/media/questions/logos/logo_koni_t.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_koni_t.webp",
+      "sha256": "58d6c1ffc893744dec3ef62800d55af17b4dc6a1b196cf5b6b90a2cec3f894a5",
+      "bytes": 6244
+    },
+    "logo_kosmos": {
+      "path": "content/src-assets/media/questions/logos/logo_kosmos.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_kosmos.webp",
+      "sha256": "f865d6b9f872c174e0dd3fa3e28c0e2082a02d2eb9ee0645020894931b70c9f8",
+      "bytes": 43134
+    },
+    "logo_kosmos_t": {
+      "path": "content/src-assets/media/questions/logos/logo_kosmos_t.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_kosmos_t.webp",
+      "sha256": "d52c0e1ca71ad14f32551880e8c4743da89c73022f8d16e73dcff2b20ecd72d2",
+      "bytes": 28610
+    },
+    "logo_krasnodar": {
+      "path": "content/src-assets/media/questions/logos/logo_krasnodar.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_krasnodar.webp",
+      "sha256": "f0b435f8bd491008342039482b57a88e825f3c6654b8bc9642795f64323dded2",
+      "bytes": 74986
+    },
+    "logo_krasnodar_t": {
+      "path": "content/src-assets/media/questions/logos/logo_krasnodar_t.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_krasnodar_t.webp",
+      "sha256": "6e876f4a57bc7b0b8eea2c226480a23ef5191e95ac12217964f933bbb205e4d6",
+      "bytes": 63032
+    },
+    "logo_ks": {
+      "path": "content/src-assets/media/questions/logos/logo_ks.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_ks.webp",
+      "sha256": "0801ce794986585a88e9a444535fa0e2e8cdaa3b8d7e2cfe524087d1017a87ab",
+      "bytes": 23068
+    },
+    "logo_kuban": {
+      "path": "content/src-assets/media/questions/logos/logo_kuban.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_kuban.webp",
+      "sha256": "549ae0eacab344df7e6947a4e4de9b5d1ada65be4f7d09e4e0e79aaf94936419",
+      "bytes": 38934
+    },
+    "logo_kuban_old": {
+      "path": "content/src-assets/media/questions/logos/logo_kuban_old.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_kuban_old.webp",
+      "sha256": "5d36bd668eb845b72fade9a77d0f2d81564ee27e4446fcd75622f6ba68c8d9fa",
+      "bytes": 77080
+    },
+    "logo_kuban_old_t": {
+      "path": "content/src-assets/media/questions/logos/logo_kuban_old_t.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_kuban_old_t.webp",
+      "sha256": "3a795263304774af5ac93901950ea856b6614122203e1895415844e3af91a9d4",
+      "bytes": 71580
+    },
+    "logo_kuban_t": {
+      "path": "content/src-assets/media/questions/logos/logo_kuban_t.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_kuban_t.webp",
+      "sha256": "b92f19f230194a35c7b7c4a8b50b0753f36b9114a059cd7bbbac34859c8d9bad",
+      "bytes": 31990
+    },
+    "logo_kubanholding": {
+      "path": "content/src-assets/media/questions/logos/logo_kubanholding.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_kubanholding.webp",
+      "sha256": "df3d61b4e194c68d8736fcb6aad97b02aec11a7b959cc67d39879423d23e0773",
+      "bytes": 24872
+    },
+    "logo_kubanholding_t": {
+      "path": "content/src-assets/media/questions/logos/logo_kubanholding_t.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_kubanholding_t.webp",
+      "sha256": "3a701630cd7673f83e3ab2a26feb403c4c733e9208e5e800550b990c87ffdf38",
+      "bytes": 17828
+    },
+    "logo_kvant": {
+      "path": "content/src-assets/media/questions/logos/logo_kvant.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_kvant.webp",
+      "sha256": "b37d398f034adc22a271e57c786aa23fa909339973cb837a950d8c8e7e9fc6d4",
+      "bytes": 29566
+    },
+    "logo_kvant_t": {
+      "path": "content/src-assets/media/questions/logos/logo_kvant_t.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_kvant_t.webp",
+      "sha256": "b0407b458fc94f39ab0fdd5b230be7f2e960e60b02f017c33e6e1d2b011314a9",
+      "bytes": 23808
+    },
+    "logo_lada": {
+      "path": "content/src-assets/media/questions/logos/logo_lada.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_lada.webp",
+      "sha256": "9de869d4107bf4dfd26cbcc3bce411aa8701e8f1f0c64151d54e23f0dd3c1634",
+      "bytes": 31800
+    },
+    "logo_lada_t": {
+      "path": "content/src-assets/media/questions/logos/logo_lada_t.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_lada_t.webp",
+      "sha256": "a6265cae9a16a43738ed52517577636ee4d702e9b1c715b52d447c6d36b9cd77",
+      "bytes": 25162
+    },
+    "logo_ladad": {
+      "path": "content/src-assets/media/questions/logos/logo_ladad.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_ladad.webp",
+      "sha256": "62b75b5dc33b19c0bee323e7d95ce78ca84c9edfe42b2d60de571cf284e57ce2",
+      "bytes": 68932
+    },
+    "logo_ladad_t": {
+      "path": "content/src-assets/media/questions/logos/logo_ladad_t.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_ladad_t.webp",
+      "sha256": "269d0b74603453db04ccd6a2df277d0c427f221e5bd7c07ee192633caf0b74dc",
+      "bytes": 59634
+    },
+    "logo_lc": {
+      "path": "content/src-assets/media/questions/logos/logo_lc.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_lc.webp",
+      "sha256": "b8af1cd28c6a703a8de068e1fab68a38b93dec6df2ccc0f476c51625e2239009",
+      "bytes": 16284
+    },
+    "logo_legion": {
+      "path": "content/src-assets/media/questions/logos/logo_legion.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_legion.webp",
+      "sha256": "ebe47e833bede9dd533502be9250d0e4b10760c0fd8c25d4bd9e37834ef2631d",
+      "bytes": 113982
+    },
+    "logo_legion_t": {
+      "path": "content/src-assets/media/questions/logos/logo_legion_t.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_legion_t.webp",
+      "sha256": "0114382d96c106ef086d4bb5e8afa82197f29af61e7303f0ab6b1fa58a874a56",
+      "bytes": 94676
+    },
+    "logo_leningradez": {
+      "path": "content/src-assets/media/questions/logos/logo_leningradez.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_leningradez.webp",
+      "sha256": "576841a134fcc733a9658a03cb5d60c92fc1e0afa734d2f0c5f8990ff93e74c4",
+      "bytes": 43552
+    },
+    "logo_leon": {
+      "path": "content/src-assets/media/questions/logos/logo_leon.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_leon.webp",
+      "sha256": "730539c458ec440dc9df7403a8f257d1ad2f2a0c1af95d1fafb12674f01d4139",
+      "bytes": 54508
+    },
+    "logo_leon_t": {
+      "path": "content/src-assets/media/questions/logos/logo_leon_t.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_leon_t.webp",
+      "sha256": "f712e60c8473c65036cb1a02a2b6c105ddd63a11986592e7208e6a18f5547856",
+      "bytes": 51026
+    },
+    "logo_ligaconf": {
+      "path": "content/src-assets/media/questions/logos/logo_ligaconf.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_ligaconf.webp",
+      "sha256": "6095265f0368dc4b2ac118a9dd92370ea18ca185e6086b539e85c4928be747eb",
+      "bytes": 15328
+    },
+    "logo_lokomotiv": {
+      "path": "content/src-assets/media/questions/logos/logo_lokomotiv.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_lokomotiv.webp",
+      "sha256": "88f51584b45cd383881704559448771e3858e8f2062bb1ee3255b2cdf65e202a",
+      "bytes": 36152
+    },
+    "logo_lotus": {
+      "path": "content/src-assets/media/questions/logos/logo_lotus.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_lotus.webp",
+      "sha256": "40be54bde5ab6a8eb7044f01b8d1efeeeaa1c181cd1e2f7dbfec2524ed551082",
+      "bytes": 3766
+    },
+    "logo_lotus_t": {
+      "path": "content/src-assets/media/questions/logos/logo_lotus_t.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_lotus_t.webp",
+      "sha256": "b4ba7f4d1f61e69100ff7ab64cb46bcbde231e3ec9589579de6c92a317ff5457",
+      "bytes": 3074
+    },
+    "logo_luch": {
+      "path": "content/src-assets/media/questions/logos/logo_luch.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_luch.webp",
+      "sha256": "725a3bb400159d22c0971521f8ab43deb2a22b0ff6411be8039fbaa3a8e66c48",
+      "bytes": 82806
+    },
+    "logo_luch_t": {
+      "path": "content/src-assets/media/questions/logos/logo_luch_t.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_luch_t.webp",
+      "sha256": "9b02af16e1efc3b3edca4e56607d16f3fbbd77ab4a5ee93ce500eea186efc95e",
+      "bytes": 64880
+    },
+    "logo_luki": {
+      "path": "content/src-assets/media/questions/logos/logo_luki.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_luki.webp",
+      "sha256": "5dc2a143f40c8c82709afc3b09cbfeb7f59ff3f25d61571a59c8e46b55a33516",
+      "bytes": 93812
+    },
+    "logo_luki_t": {
+      "path": "content/src-assets/media/questions/logos/logo_luki_t.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_luki_t.webp",
+      "sha256": "2dca26483ba24d06bbb86f4c8ce19e8186bc541f690bb874239add5314821752",
+      "bytes": 80476
+    },
+    "logo_mashuk": {
+      "path": "content/src-assets/media/questions/logos/logo_mashuk.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_mashuk.webp",
+      "sha256": "571f78119176fe338d430ba373744dabaf7d016951f76277acaec41e11f6f507",
+      "bytes": 54722
+    },
+    "logo_mashuk_t": {
+      "path": "content/src-assets/media/questions/logos/logo_mashuk_t.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_mashuk_t.webp",
+      "sha256": "ff359c824d35d5f55faab2937cd8296dcf344c015dfe53ed02bc97de9f0d3c57",
+      "bytes": 43932
+    },
+    "logo_match": {
+      "path": "content/src-assets/media/questions/logos/logo_match.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_match.webp",
+      "sha256": "6674f9e26d3244edd768ba160ceab03fdf0229c4861e9a6162423e393be8855e",
+      "bytes": 17018
+    },
+    "logo_metallurg_lipetsk": {
+      "path": "content/src-assets/media/questions/logos/logo_metallurg_lipetsk.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_metallurg_lipetsk.webp",
+      "sha256": "2cb311ba9625d606bcf8b7f2dce4de30f616a29fd97eb0f7918e1530e09ae93c",
+      "bytes": 51012
+    },
+    "logo_metallurg_lipetsk_t": {
+      "path": "content/src-assets/media/questions/logos/logo_metallurg_lipetsk_t.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_metallurg_lipetsk_t.webp",
+      "sha256": "ce8467c5355a258fb52116f20affa2644c13ad259189d790a9d729ab5f7d28c0",
+      "bytes": 31978
+    },
+    "logo_mordovia": {
+      "path": "content/src-assets/media/questions/logos/logo_mordovia.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_mordovia.webp",
+      "sha256": "2722fbf530ba2740c5159d6c785ef5ddb00af079a01d0eba322ebb1d0f8b9e60",
+      "bytes": 20098
+    },
+    "logo_murom": {
+      "path": "content/src-assets/media/questions/logos/logo_murom.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_murom.webp",
+      "sha256": "ab8f9c3bef5a72097c7def0f755eacbd8a70599eb793fbfc59a28556ee6210f2",
+      "bytes": 84378
+    },
+    "logo_murom_t": {
+      "path": "content/src-assets/media/questions/logos/logo_murom_t.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_murom_t.webp",
+      "sha256": "8de0e0cca4340c34136d0feab84adfd9e8508e438b0bf250ab5263310b9f8d70",
+      "bytes": 75106
+    },
+    "logo_narod": {
+      "path": "content/src-assets/media/questions/logos/logo_narod.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_narod.webp",
+      "sha256": "cdedc82853c5ee3f3ead55938aaea6293d691c035a4d6ad232b8eed852a03311",
+      "bytes": 3272
+    },
+    "logo_nart": {
+      "path": "content/src-assets/media/questions/logos/logo_nart.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_nart.webp",
+      "sha256": "c1079974bb023a392296e64a7d35a6a583ee491ba4c18c26f27f7c4ca0020876",
+      "bytes": 64434
+    },
+    "logo_nart_t": {
+      "path": "content/src-assets/media/questions/logos/logo_nart_t.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_nart_t.webp",
+      "sha256": "70bf468859f89c827927e5f2bf4dfd0a81fc40c2e64c2bc61dad0faff321a15f",
+      "bytes": 56762
+    },
+    "logo_neftehimik": {
+      "path": "content/src-assets/media/questions/logos/logo_neftehimik.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_neftehimik.webp",
+      "sha256": "b661f54ff08c38626f98d657f86bcc24ff3d8448ca1dc0d9f5c943af183b50e9",
+      "bytes": 87956
+    },
+    "logo_neftehimik_t": {
+      "path": "content/src-assets/media/questions/logos/logo_neftehimik_t.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_neftehimik_t.webp",
+      "sha256": "bd5d1ecdf0d42fc9880b7057a7e74dd24dad30eee683743794be1cb1c6a2bbda",
+      "bytes": 80340
+    },
+    "logo_nosta": {
+      "path": "content/src-assets/media/questions/logos/logo_nosta.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_nosta.webp",
+      "sha256": "a8e323e9b6ab217ce58b37235f451b14f95bf84998fd93dadbf1e1be17a9a57c",
+      "bytes": 69572
+    },
+    "logo_nosta_t": {
+      "path": "content/src-assets/media/questions/logos/logo_nosta_t.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_nosta_t.webp",
+      "sha256": "3a60296d9a60dfdc2354be30794d7e218b20bd36fcc5f2b4d0e4eb99cf584c07",
+      "bytes": 54840
+    },
+    "logo_novosibirsk": {
+      "path": "content/src-assets/media/questions/logos/logo_novosibirsk.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_novosibirsk.webp",
+      "sha256": "8fe8068f6b46596876441a337a292c47125c9a9fba19a648028499c71856083e",
+      "bytes": 49758
+    },
+    "logo_orel": {
+      "path": "content/src-assets/media/questions/logos/logo_orel.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_orel.webp",
+      "sha256": "3e3e089e32f73dd1f7ed070e54f8888aeac1530686d04da0049e0e5460cea64c",
+      "bytes": 87992
+    },
+    "logo_orel_t": {
+      "path": "content/src-assets/media/questions/logos/logo_orel_t.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_orel_t.webp",
+      "sha256": "c8e916cd31287e1b5fec28e30a212ac98e7674f64cc33ef761e6d384b9ea24f0",
+      "bytes": 75874
+    },
+    "logo_orenburg": {
+      "path": "content/src-assets/media/questions/logos/logo_orenburg.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_orenburg.webp",
+      "sha256": "c03179a9cc27420d2303b708e2a432644efdceda162bf596c6549a19b1dc1c39",
+      "bytes": 55610
+    },
+    "logo_orenburg_t": {
+      "path": "content/src-assets/media/questions/logos/logo_orenburg_t.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_orenburg_t.webp",
+      "sha256": "47ffc55269becd2c35644f47f3b2d722cc56908bcfd0419931762bfa07421733",
+      "bytes": 44242
+    },
+    "logo_pari": {
+      "path": "content/src-assets/media/questions/logos/logo_pari.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_pari.webp",
+      "sha256": "e8b5a0d9e91bf297260c8d3abf6713f5eae406d5066c6d296301ec451d38fb01",
+      "bytes": 23454
+    },
+    "logo_pari_t": {
+      "path": "content/src-assets/media/questions/logos/logo_pari_t.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_pari_t.webp",
+      "sha256": "b109f22b2f06e700b5861e8c505e9cec1569844e2081a9c2ff038ad96ad801f5",
+      "bytes": 17948
+    },
+    "logo_piter": {
+      "path": "content/src-assets/media/questions/logos/logo_piter.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_piter.webp",
+      "sha256": "fa4cc1b625312fb6b9962218aa1d265fdcf99dd19650f082b7fe81457fcef388",
+      "bytes": 2334
+    },
+    "logo_piter_t": {
+      "path": "content/src-assets/media/questions/logos/logo_piter_t.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_piter_t.webp",
+      "sha256": "7270267060de6693c3779b839a43adb020be80f2ce27a6bede22488a8a71e5c9",
+      "bytes": 2092
+    },
+    "logo_pobeda": {
+      "path": "content/src-assets/media/questions/logos/logo_pobeda.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_pobeda.webp",
+      "sha256": "586e4870d9070fddbeca2149d789fdcb5b4dfc14ca6760ebffff64b08e1bc847",
+      "bytes": 18286
+    },
+    "logo_pobeda_t": {
+      "path": "content/src-assets/media/questions/logos/logo_pobeda_t.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_pobeda_t.webp",
+      "sha256": "611d06fc06f79e503f31818457cf4a209b6068be92f9228d7387580d0006a34b",
+      "bytes": 11494
+    },
+    "logo_puma": {
+      "path": "content/src-assets/media/questions/logos/logo_puma.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_puma.webp",
+      "sha256": "acb9a06d94330be68ae7f23edda9d370e120b30460b3448c66fa5c0529557537",
+      "bytes": 9412
+    },
+    "logo_rodina": {
+      "path": "content/src-assets/media/questions/logos/logo_rodina.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_rodina.webp",
+      "sha256": "2a63710e3cf0340282873b16bdc8258fd07f227c75eab54da687f31a571bd5fd",
+      "bytes": 66492
+    },
+    "logo_rodina_t": {
+      "path": "content/src-assets/media/questions/logos/logo_rodina_t.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_rodina_t.webp",
+      "sha256": "63cbf07ed530fde962e448a28db7ebc1623cb69bbe28174c62ff5c332c4d5e79",
+      "bytes": 62920
+    },
+    "logo_rodmedia": {
+      "path": "content/src-assets/media/questions/logos/logo_rodmedia.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_rodmedia.webp",
+      "sha256": "823f131db7b388fac0bc15b0dc923a8dc6caa8f54ef99f9e2a6886d36cccad08",
+      "bytes": 6764
+    },
+    "logo_rodmedia_t": {
+      "path": "content/src-assets/media/questions/logos/logo_rodmedia_t.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_rodmedia_t.webp",
+      "sha256": "c71ae227d418925a249d7779ff2a71276de0ad30ed1d5e97c16e7ed1117c76da",
+      "bytes": 5588
+    },
+    "logo_roma": {
+      "path": "content/src-assets/media/questions/logos/logo_roma.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_roma.webp",
+      "sha256": "ecfecdd334441379b02cc356fb70b9b3ee928e8818cf5896976ac31fa0e24d1d",
+      "bytes": 16278
+    },
+    "logo_roma_t": {
+      "path": "content/src-assets/media/questions/logos/logo_roma_t.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_roma_t.webp",
+      "sha256": "cb6cea4b1b57e8e30a826ce11f15df2c3029a65daab49e77f873a6d01230da8a",
+      "bytes": 13726
+    },
+    "logo_rostov": {
+      "path": "content/src-assets/media/questions/logos/logo_rostov.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_rostov.webp",
+      "sha256": "b17e7ae78a1546ff29fa0d8d229c826ad5afbf5bc6cdb36aa1a98b5fad0288c7",
+      "bytes": 54228
+    },
+    "logo_rostov_t": {
+      "path": "content/src-assets/media/questions/logos/logo_rostov_t.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_rostov_t.webp",
+      "sha256": "cd314476a3bed320974c9934227c474f0e7da4e19ef86c5bfb4b506d408ff524",
+      "bytes": 51066
+    },
+    "logo_rotor": {
+      "path": "content/src-assets/media/questions/logos/logo_rotor.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_rotor.webp",
+      "sha256": "dbc0c6c3394a56c5bfb3abaf45984cc5745f4ddb56bcb367f2bad8d0ee6cda05",
+      "bytes": 41534
+    },
+    "logo_rotor_t": {
+      "path": "content/src-assets/media/questions/logos/logo_rotor_t.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_rotor_t.webp",
+      "sha256": "c4725018b86bb99b88df9374d6dda939bb5ce339073afabd375503393e625ee3",
+      "bytes": 39250
+    },
+    "logo_rpl": {
+      "path": "content/src-assets/media/questions/logos/logo_rpl.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_rpl.webp",
+      "sha256": "675e221a55ad2d5e409c6f0c4e5d9e97b64d21c57f387aaffdfc1db8200557a5",
+      "bytes": 18662
+    },
+    "logo_rubin": {
+      "path": "content/src-assets/media/questions/logos/logo_rubin.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_rubin.webp",
+      "sha256": "7f52214309b3e8b9ccca633fb9ed60c3798d0e0f472e6bb2f39d8bfebc116e6b",
+      "bytes": 34074
+    },
+    "logo_rubin_t": {
+      "path": "content/src-assets/media/questions/logos/logo_rubin_t.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_rubin_t.webp",
+      "sha256": "880875b6422f52f2ad15cddb23949ebbad06dd6c12f3e76b559b2411f3005d82",
+      "bytes": 27294
+    },
+    "logo_ryazan": {
+      "path": "content/src-assets/media/questions/logos/logo_ryazan.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_ryazan.webp",
+      "sha256": "19a6bf0968661be4ecb8ca83fcb544ad741d71f0b81ee62583e8d0228c6dc3bb",
+      "bytes": 39396
+    },
+    "logo_sahalin": {
+      "path": "content/src-assets/media/questions/logos/logo_sahalin.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_sahalin.webp",
+      "sha256": "4a98c7c463ad8a5312b5ef2a641564e03762041a257136a95b546698e200b74e",
+      "bytes": 133304
+    },
+    "logo_sahalin_t": {
+      "path": "content/src-assets/media/questions/logos/logo_sahalin_t.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_sahalin_t.webp",
+      "sha256": "0502e5ab1f0245966a5da9d40629e4933665df4bab83dcb36e846a0d68f6a96e",
+      "bytes": 118002
+    },
+    "logo_salut_bel": {
+      "path": "content/src-assets/media/questions/logos/logo_salut_bel.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_salut_bel.webp",
+      "sha256": "df395b975a6e49f50f573fe9f9a0c665402eee100e09c88c09117c9e7ee5fead",
+      "bytes": 24142
+    },
+    "logo_saransk": {
+      "path": "content/src-assets/media/questions/logos/logo_saransk.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_saransk.webp",
+      "sha256": "fb9181c337ed0d1edf71e0f35b10d3ec66047a55fd6cb16a7271596061f443f4",
+      "bytes": 36868
+    },
+    "logo_saransk_t": {
+      "path": "content/src-assets/media/questions/logos/logo_saransk_t.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_saransk_t.webp",
+      "sha256": "c8a0e1bc8efe62366f57a5c0d2ea6e241cb1c33416c691599910d67356e7bc57",
+      "bytes": 31148
+    },
+    "logo_sevastopol": {
+      "path": "content/src-assets/media/questions/logos/logo_sevastopol.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_sevastopol.webp",
+      "sha256": "1dbb5a99bec5e8837bffb268fb63ec424a498b25bd83fe128e1943db37a08ff2",
+      "bytes": 65372
+    },
+    "logo_sevastopol_t": {
+      "path": "content/src-assets/media/questions/logos/logo_sevastopol_t.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_sevastopol_t.webp",
+      "sha256": "13909820fcb1d11a2cfc22f0742fdf81f45e460c964d477f260849e725b10a83",
+      "bytes": 57510
+    },
+    "logo_shinnik": {
+      "path": "content/src-assets/media/questions/logos/logo_shinnik.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_shinnik.webp",
+      "sha256": "87ec98ff08903105144cbb9174e8445552c05925da85b7dd0e3aa3a2736f3970",
+      "bytes": 62106
+    },
+    "logo_shinnik_t": {
+      "path": "content/src-assets/media/questions/logos/logo_shinnik_t.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_shinnik_t.webp",
+      "sha256": "200dd376f5ee120b82af55b7866ef04361c5b4ad3d29cb0b4c7e24adad299d9f",
+      "bytes": 50506
+    },
+    "logo_ska_hab": {
+      "path": "content/src-assets/media/questions/logos/logo_ska_hab.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_ska_hab.webp",
+      "sha256": "8a8e9ee398b4458c8d33f78586de563ef88e35f2aaff7f165b7bfc174c704ac0",
+      "bytes": 41884
+    },
+    "logo_ska_hab_t": {
+      "path": "content/src-assets/media/questions/logos/logo_ska_hab_t.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_ska_hab_t.webp",
+      "sha256": "dc7c85072dac60cbd414ce2e14ccbbe58fdaf66d2fa0049c690fe8f416b56db8",
+      "bytes": 24010
+    },
+    "logo_skaros": {
+      "path": "content/src-assets/media/questions/logos/logo_skaros.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_skaros.webp",
+      "sha256": "9b649945cfe985f256a320101c2b0138255c59a4a728106dd7413e5e93b8553e",
+      "bytes": 11204
+    },
+    "logo_skaros_t": {
+      "path": "content/src-assets/media/questions/logos/logo_skaros_t.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_skaros_t.webp",
+      "sha256": "afd89aab0ca00048c986edd49f1551c76bbf80887cdfc3185a5047dfd7541f16",
+      "bytes": 10432
+    },
+    "logo_sochi": {
+      "path": "content/src-assets/media/questions/logos/logo_sochi.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_sochi.webp",
+      "sha256": "16cfa4abd8a4afaf0ade8da603c63a08a42e9cf6130b2368d4086cb0d8ffc588",
+      "bytes": 56296
+    },
+    "logo_sochi_t": {
+      "path": "content/src-assets/media/questions/logos/logo_sochi_t.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_sochi_t.webp",
+      "sha256": "e8df5e5f41571742a49a59119060e914653739989520c86461970520f02d65a1",
+      "bytes": 44400
+    },
+    "logo_sokol": {
+      "path": "content/src-assets/media/questions/logos/logo_sokol.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_sokol.webp",
+      "sha256": "7aac8974c6d48ade1ca907dbeb023655146f8a76f1be567e2c33259b4c0f6f5f",
+      "bytes": 64856
+    },
+    "logo_sokol_kaz": {
+      "path": "content/src-assets/media/questions/logos/logo_sokol_kaz.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_sokol_kaz.webp",
+      "sha256": "23c1d7b7ff35f6dcddeeb967e6d2086ebc7cc9747e371f2926bf7bf7e00e01ba",
+      "bytes": 66190
+    },
+    "logo_sokol_kaz_t": {
+      "path": "content/src-assets/media/questions/logos/logo_sokol_kaz_t.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_sokol_kaz_t.webp",
+      "sha256": "b292691dba1a8a97280708f0a0cd4c3accd883f2ac8f7658607ab22e62917c42",
+      "bytes": 52020
+    },
+    "logo_sokol_t": {
+      "path": "content/src-assets/media/questions/logos/logo_sokol_t.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_sokol_t.webp",
+      "sha256": "a0f1523236ef6b821c8eb4986bceafef17868ba45c11a9a47c4838f8318c0e9e",
+      "bytes": 54192
+    },
+    "logo_spartak": {
+      "path": "content/src-assets/media/questions/logos/logo_spartak.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_spartak.webp",
+      "sha256": "b311e8f4d571c907ea9c5377192091dc06d8b3163b3c7c291a71a3bbefd0f9d1",
+      "bytes": 30342
+    },
+    "logo_spartak_kos": {
+      "path": "content/src-assets/media/questions/logos/logo_spartak_kos.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_spartak_kos.webp",
+      "sha256": "b78b1aca00f4d80547ccd7dd128e772e23360484213c01e562978673ffc34491",
+      "bytes": 55570
+    },
+    "logo_spartak_nal": {
+      "path": "content/src-assets/media/questions/logos/logo_spartak_nal.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_spartak_nal.webp",
+      "sha256": "f14ebba5cf0a4f5aa72ba9acc2d88230b25b078256a180ff61be133c0e1278d4",
+      "bytes": 46230
+    },
+    "logo_spartak_nal_t": {
+      "path": "content/src-assets/media/questions/logos/logo_spartak_nal_t.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_spartak_nal_t.webp",
+      "sha256": "c1297621c0ae6407e41d80b0eab01b2b6893c03319f30fd13250e29f09e28d18",
+      "bytes": 39412
+    },
+    "logo_spartak_tam": {
+      "path": "content/src-assets/media/questions/logos/logo_spartak_tam.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_spartak_tam.webp",
+      "sha256": "2dbf8c699974e95ef24dea93e6629c97323506a7666de8966cf6a7c8cd1c8e2f",
+      "bytes": 67980
+    },
+    "logo_spartak_tam_t": {
+      "path": "content/src-assets/media/questions/logos/logo_spartak_tam_t.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_spartak_tam_t.webp",
+      "sha256": "e4579efa74fa20d0c8974adc848ed2eb1b792babdf510c0e030e279290b43ef6",
+      "bytes": 57898
+    },
+    "logo_starmix": {
+      "path": "content/src-assets/media/questions/logos/logo_starmix.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_starmix.webp",
+      "sha256": "7d8ec433fc3a01393b05468266e4e6f6498690e4006c570bf9185ba3036ae0b4",
+      "bytes": 34962
+    },
+    "logo_starmix_t": {
+      "path": "content/src-assets/media/questions/logos/logo_starmix_t.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_starmix_t.webp",
+      "sha256": "e7037a070e4600877fb8203c0f77b16f095f476e86d7b3efbce6247cf2f6489c",
+      "bytes": 33078
+    },
+    "logo_strogino": {
+      "path": "content/src-assets/media/questions/logos/logo_strogino.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_strogino.webp",
+      "sha256": "c2bbaea0ef8ea4a077cd4225983d7a444205e6094fcc92b49a6da46d5316a30a",
+      "bytes": 74926
+    },
+    "logo_strogino_t": {
+      "path": "content/src-assets/media/questions/logos/logo_strogino_t.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_strogino_t.webp",
+      "sha256": "d05e1c713114493dbd999043692a688fb4563a630f822c2875849d5c60f819d3",
+      "bytes": 67596
+    },
+    "logo_tambov": {
+      "path": "content/src-assets/media/questions/logos/logo_tambov.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_tambov.webp",
+      "sha256": "323791eb7788e7479e6823c4918cbb326e3dd116ec1a50f2e8e96663c7e8c96e",
+      "bytes": 12618
+    },
+    "logo_tandem": {
+      "path": "content/src-assets/media/questions/logos/logo_tandem.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_tandem.webp",
+      "sha256": "479fb393a7a63903e18cd9bbe8b84b67837918e8279c8ddd546614ffb2858275",
+      "bytes": 3364
+    },
+    "logo_tekstilshik_ivan": {
+      "path": "content/src-assets/media/questions/logos/logo_tekstilshik_ivan.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_tekstilshik_ivan.webp",
+      "sha256": "a7ed69ffde1e9d96e131e8d7f86cc53c52fd95dfd0f5ac62cb079972ba433ee1",
+      "bytes": 73752
+    },
+    "logo_tekstilshik_ivan_t": {
+      "path": "content/src-assets/media/questions/logos/logo_tekstilshik_ivan_t.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_tekstilshik_ivan_t.webp",
+      "sha256": "db32c9bb600b9a5d27ba1b3d1743b81202dc92beedc7fa324c9b26e16372258f",
+      "bytes": 49932
+    },
+    "logo_tekstilshik_kam": {
+      "path": "content/src-assets/media/questions/logos/logo_tekstilshik_kam.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_tekstilshik_kam.webp",
+      "sha256": "a33572176bb9ba15be093721cbcbf8b960da76cc749fe80dded524ff0ab8ab78",
+      "bytes": 41234
+    },
+    "logo_tekstilshik_kam_t": {
+      "path": "content/src-assets/media/questions/logos/logo_tekstilshik_kam_t.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_tekstilshik_kam_t.webp",
+      "sha256": "d1e333b09cb91e6ae0e564b22cadacf79849860b21b9bfe2c2c65517ac4779a0",
+      "bytes": 29942
+    },
+    "logo_titan": {
+      "path": "content/src-assets/media/questions/logos/logo_titan.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_titan.webp",
+      "sha256": "ef4f52f068c0f6e20f9898cd465a34eefef16e251b8c65b836d339537c235494",
+      "bytes": 8194
+    },
+    "logo_tom": {
+      "path": "content/src-assets/media/questions/logos/logo_tom.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_tom.webp",
+      "sha256": "feaeaf2c145ac3769bd867638421fe56ee19ccd3cc9718d270ce89f527bd1c17",
+      "bytes": 49112
+    },
+    "logo_torpedo": {
+      "path": "content/src-assets/media/questions/logos/logo_torpedo.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_torpedo.webp",
+      "sha256": "34329adb0de159e35f09ca926b1cda555f8b58eeeb4192898932c260c9a97b8d",
+      "bytes": 8726
+    },
+    "logo_torpedo_mia": {
+      "path": "content/src-assets/media/questions/logos/logo_torpedo_mia.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_torpedo_mia.webp",
+      "sha256": "fa099fa7bfa591a4978f5f9643a9c8b98007f119ecff78588986d5c181b18c35",
+      "bytes": 16712
+    },
+    "logo_torpedo_vla": {
+      "path": "content/src-assets/media/questions/logos/logo_torpedo_vla.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_torpedo_vla.webp",
+      "sha256": "ab8c77e5cc3d39fce3edb18d33a39d5e294affa2dcbcdf368aae3bcabe8408ef",
+      "bytes": 58924
+    },
+    "logo_torpedo_vla_t": {
+      "path": "content/src-assets/media/questions/logos/logo_torpedo_vla_t.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_torpedo_vla_t.webp",
+      "sha256": "b36b28c503fa6325aa83365183dfa21b2e43e5607bdec18ef2c6d96e3be9ebc8",
+      "bytes": 42210
+    },
+    "logo_tosno": {
+      "path": "content/src-assets/media/questions/logos/logo_tosno.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_tosno.webp",
+      "sha256": "58c935035bde5fb927ce25196c25db859edc2c34fd7256d6f99f44806000379f",
+      "bytes": 37968
+    },
+    "logo_tosno_t": {
+      "path": "content/src-assets/media/questions/logos/logo_tosno_t.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_tosno_t.webp",
+      "sha256": "e5bf68fe294b868b2d9a9c800ac1df3bfcbe44a8471deb26c691a4442dd145cf",
+      "bytes": 33990
+    },
+    "logo_tumen": {
+      "path": "content/src-assets/media/questions/logos/logo_tumen.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_tumen.webp",
+      "sha256": "f86c7c95ffa17ee045108ec1a2738cfba0d5e69f7460953103c9a2e3599fc365",
+      "bytes": 72780
+    },
+    "logo_tumen_t": {
+      "path": "content/src-assets/media/questions/logos/logo_tumen_t.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_tumen_t.webp",
+      "sha256": "909df760a9b757574d189b58fc35044dcff5cd0b4aebc0eb04dcaf47c6098350",
+      "bytes": 65438
+    },
+    "logo_tver": {
+      "path": "content/src-assets/media/questions/logos/logo_tver.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_tver.webp",
+      "sha256": "d47305851ec7810cdf553620d657ba4d268718d583fa88e43d51916b559a8e88",
+      "bytes": 87062
+    },
+    "logo_tver_t": {
+      "path": "content/src-assets/media/questions/logos/logo_tver_t.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_tver_t.webp",
+      "sha256": "11eb4ff57f11b8e3954ca4310be3752bb35c21496a2ecc7f0604068f269db9f0",
+      "bytes": 80518
+    },
+    "logo_uefa": {
+      "path": "content/src-assets/media/questions/logos/logo_uefa.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_uefa.webp",
+      "sha256": "aea29c9d8b4258aefcb8e799080d92a179547ce0b9fa7cf025869c00a3942612",
+      "bytes": 36616
+    },
+    "logo_ufa": {
+      "path": "content/src-assets/media/questions/logos/logo_ufa.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_ufa.webp",
+      "sha256": "a6c495425082633a32b9394ab92a1d30dc161690c8d78fc6157e906e9c737fb6",
+      "bytes": 35582
+    },
+    "logo_ufa_t": {
+      "path": "content/src-assets/media/questions/logos/logo_ufa_t.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_ufa_t.webp",
+      "sha256": "2cabc77c53c0227bb2bc5f69c5d30625a05fc266464e20fecc4e72334b338aca",
+      "bytes": 34632
+    },
+    "logo_ural": {
+      "path": "content/src-assets/media/questions/logos/logo_ural.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_ural.webp",
+      "sha256": "07075d29b31502924445da3af5db61022ce4c101367eee8d423849f5a0274219",
+      "bytes": 67734
+    },
+    "logo_ural_t": {
+      "path": "content/src-assets/media/questions/logos/logo_ural_t.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_ural_t.webp",
+      "sha256": "62edcfd1419b213a2b8e657bb69bbbe52864856c285c2d6bb10e69099564726c",
+      "bytes": 54938
+    },
+    "logo_uralan": {
+      "path": "content/src-assets/media/questions/logos/logo_uralan.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_uralan.webp",
+      "sha256": "ffde993300e43c7f8aa3e878fd7b0e430b52c63abbfa4a70d7e74bc8f7ff2947",
+      "bytes": 52476
+    },
+    "logo_uralan_t": {
+      "path": "content/src-assets/media/questions/logos/logo_uralan_t.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_uralan_t.webp",
+      "sha256": "6e2adfedfcff9c4bb1c7fca3246b0f4f6b496341668bc3462917c2458aefb71a",
+      "bytes": 43478
+    },
+    "logo_uralez": {
+      "path": "content/src-assets/media/questions/logos/logo_uralez.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_uralez.webp",
+      "sha256": "ef9c16648581f2a1a88aa6b56cd895e5c49b09044337b31f102ce07e2b5bdf6d",
+      "bytes": 53578
+    },
+    "logo_uralez_t": {
+      "path": "content/src-assets/media/questions/logos/logo_uralez_t.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_uralez_t.webp",
+      "sha256": "de2456681e20d1e4814b9244598c14c3af00f7cc5feece8a82a1665725cf6e20",
+      "bytes": 41382
+    },
+    "logo_veles": {
+      "path": "content/src-assets/media/questions/logos/logo_veles.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_veles.webp",
+      "sha256": "bfd4bede4527763a25eb6f1a81036e8bdbb209812073921b27e730078a584b42",
+      "bytes": 21494
+    },
+    "logo_veles_t": {
+      "path": "content/src-assets/media/questions/logos/logo_veles_t.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_veles_t.webp",
+      "sha256": "91d51c10fe741f6d9a71f2436cb9b50574fd4c7db3030924dbbd68f50715cb35",
+      "bytes": 17140
+    },
+    "logo_volga_nn": {
+      "path": "content/src-assets/media/questions/logos/logo_volga_nn.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_volga_nn.webp",
+      "sha256": "9a57d55f970f186f0900729ecd6f6d71194444ca07c2361e96944be2aa8752f8",
+      "bytes": 46294
+    },
+    "logo_volga_nn_t": {
+      "path": "content/src-assets/media/questions/logos/logo_volga_nn_t.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_volga_nn_t.webp",
+      "sha256": "fba1c86171a19503919d5d73bd50c19a977e690397bcfc55296783178c73ef60",
+      "bytes": 38852
+    },
+    "logo_volga_ul": {
+      "path": "content/src-assets/media/questions/logos/logo_volga_ul.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_volga_ul.webp",
+      "sha256": "2c3e88fde633bb3644a4566b779d086fc0a618c55d605bfb83e13f249148ca3c",
+      "bytes": 84590
+    },
+    "logo_volga_ul_t": {
+      "path": "content/src-assets/media/questions/logos/logo_volga_ul_t.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_volga_ul_t.webp",
+      "sha256": "3b45d0faf28bd67fb3533845dc7761a95bb4c7b4c0f68b602765e1cbfdd659c0",
+      "bytes": 78688
+    },
+    "logo_volgar": {
+      "path": "content/src-assets/media/questions/logos/logo_volgar.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_volgar.webp",
+      "sha256": "1f01579e71256528b97a19538d9d07271a8bc986e60c6b7af4e4c2d10ab4bde3",
+      "bytes": 55154
+    },
+    "logo_volgar_t": {
+      "path": "content/src-assets/media/questions/logos/logo_volgar_t.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_volgar_t.webp",
+      "sha256": "35142f91dbcc42b15c4a635de33f3875b9971f3792ecdc6a8a7cd3bdd8ff7eb5",
+      "bytes": 47578
+    },
+    "logo_zenit": {
+      "path": "content/src-assets/media/questions/logos/logo_zenit.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_zenit.webp",
+      "sha256": "85a96f98ce3e8c3f2bd247f8d770a5df6246c35137055186b49d13259d090794",
+      "bytes": 30840
+    },
+    "logo_zenit_pen": {
+      "path": "content/src-assets/media/questions/logos/logo_zenit_pen.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_zenit_pen.webp",
+      "sha256": "ef05e8b1bf3cea888f3afdbe5a00e2db7771619acdc7fb2f6858edf715746b88",
+      "bytes": 43954
+    },
+    "logo_zenit_pen_t": {
+      "path": "content/src-assets/media/questions/logos/logo_zenit_pen_t.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_zenit_pen_t.webp",
+      "sha256": "a42c1be889ec5721ff2c3177c94139c8d3f4a95ee80ac9af23b1d64eeac7dc92",
+      "bytes": 27844
+    },
+    "logo_zhemchuzina": {
+      "path": "content/src-assets/media/questions/logos/logo_zhemchuzina.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_zhemchuzina.webp",
+      "sha256": "15dbe87f8e284334f506de2372c8bb66aaaa804bcf85fce19162e14729f10b9c",
+      "bytes": 36412
+    },
+    "logo_zhemchuzina_t": {
+      "path": "content/src-assets/media/questions/logos/logo_zhemchuzina_t.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_zhemchuzina_t.webp",
+      "sha256": "a9f2134618e0782047f432ec63a0201422e208f8db4ec47ba2309d933c9b195e",
+      "bytes": 31960
+    },
+    "logo_znamia": {
+      "path": "content/src-assets/media/questions/logos/logo_znamia.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_znamia.webp",
+      "sha256": "21b97108fe3413864bd72b722a4acaded4eb52bf623650e4b67a1c6ee727a2ce",
+      "bytes": 52228
+    },
+    "logo_znamia_t": {
+      "path": "content/src-assets/media/questions/logos/logo_znamia_t.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_znamia_t.webp",
+      "sha256": "d42754bf142d5f8f196f5b14dce2015c096ab85497418963934e705db3f05100",
+      "bytes": 33874
+    },
+    "logo_zvezda_irk": {
+      "path": "content/src-assets/media/questions/logos/logo_zvezda_irk.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_zvezda_irk.webp",
+      "sha256": "82fc8caa47834e3374d1f80a1a262510f2b5bc315ddfb101d899729f712ab14a",
+      "bytes": 19886
+    },
+    "logo_zvezda_per": {
+      "path": "content/src-assets/media/questions/logos/logo_zvezda_per.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_zvezda_per.webp",
+      "sha256": "4036db72d156f671485d715c5d005df13bb7149341722ede8ed06307ce6de3f6",
+      "bytes": 56230
+    },
+    "logo_zvezda_per_t": {
+      "path": "content/src-assets/media/questions/logos/logo_zvezda_per_t.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_zvezda_per_t.webp",
+      "sha256": "0ab0a3ea6787983a0bdaef6cdd9517d1efb22e139a57e740ba1fb14a42fc0ce1",
+      "bytes": 40360
+    },
+    "logo_zvezda_spb": {
+      "path": "content/src-assets/media/questions/logos/logo_zvezda_spb.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_zvezda_spb.webp",
+      "sha256": "d4326293c49005f8c4720f7b32d4527b32f24c629ed18732ba60b391027ff94a",
+      "bytes": 75746
+    },
+    "logo_zvezda_spb_t": {
+      "path": "content/src-assets/media/questions/logos/logo_zvezda_spb_t.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/logo_zvezda_spb_t.webp",
+      "sha256": "9fc7ab53d60ea4bb0c2a09bebb0c16dd7ac46aa4e7c82622c9548bbadcba1747",
+      "bytes": 59870
+    },
+    "logos_card": {
+      "path": "content/src-assets/media/cards/logos_card.png",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/cards/logos_card.png",
+      "sha256": "fa4f6fb87e93b671077290872a4e015ea0e43fa385fa0e6d98a0b007c79fd52a",
+      "bytes": 1903
+    },
+    "logos_card_new": {
+      "path": "content/src-assets/media/cards/logos_card_new.png",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/cards/logos_card_new.png",
+      "sha256": "782670b94c18512e7ded57062c5da30df5661968a4877092553f9ec3fcf51de0",
+      "bytes": 1396151
+    },
+    "lyon": {
+      "path": "content/src-assets/media/questions/logos/lyon.jpg",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/lyon.jpg",
+      "sha256": "52d5ecc53211403bcc821c0d4ea4c4832fcbc6f3fb84b5622e1a4fdd4b32494d",
+      "bytes": 29130
+    },
+    "lyon_r": {
+      "path": "content/src-assets/media/questions/logos/lyon_r.jpg",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/lyon_r.jpg",
+      "sha256": "9b8d1ea1d1a502d8669023a3710488278264c61c2d825ea51895fe8388e59361",
+      "bytes": 39986
+    },
+    "malaga": {
+      "path": "content/src-assets/media/questions/logos/malaga.jpg",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/malaga.jpg",
+      "sha256": "51741f2fdad8459a42f2e0d75ad381ef677bbe942bd1a69333c6f67df8d21016",
+      "bytes": 41392
+    },
+    "malaga_r": {
+      "path": "content/src-assets/media/questions/logos/malaga_r.jpg",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/malaga_r.jpg",
+      "sha256": "83ec8b4d91b8f8b69277f78aaca266a009dd5ece042de52f2fe41157b7f7855a",
+      "bytes": 46720
+    },
+    "man_city": {
+      "path": "content/src-assets/media/questions/logos/man_city.jpg",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/man_city.jpg",
+      "sha256": "87d3bd871d085dcfe1c19a518a1d2d35da3cbb2f88b4e208409e6f47e293451b",
+      "bytes": 54551
+    },
+    "man_city_r": {
+      "path": "content/src-assets/media/questions/logos/man_city_r.jpg",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/man_city_r.jpg",
+      "sha256": "58a892963dc094e33f92b74113176a4c03f5673b726f4872eb44941554ba39bc",
+      "bytes": 63852
+    },
+    "man_united": {
+      "path": "content/src-assets/media/questions/logos/man_united.jpg",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/man_united.jpg",
+      "sha256": "6980f9c4fcc3369534852544590a9a4b905834cfdef6da6549be5c8cec0b57fc",
+      "bytes": 55917
+    },
+    "man_united_r": {
+      "path": "content/src-assets/media/questions/logos/man_united_r.jpg",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/man_united_r.jpg",
+      "sha256": "2f76c22061ad8ad6e84017e801219a86e583927dd355ed532a8c7ab1f8c82a29",
+      "bytes": 67438
+    },
+    "marsel": {
+      "path": "content/src-assets/media/questions/logos/marsel.jpg",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/marsel.jpg",
+      "sha256": "051aef9891130b4217c2ecfb6fe8fe2123d71ba5e2a7e4461eb11194cec8966c",
+      "bytes": 25807
+    },
+    "matchday_card": {
+      "path": "content/src-assets/media/cards/matchday_card.png",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/cards/matchday_card.png",
+      "sha256": "d5b0e5ee9e28db31dce7aa3cce0b5063725dca4c9549461a0176efcaba1e0a3d",
+      "bytes": 3727
+    },
+    "matchday_card_new": {
+      "path": "content/src-assets/media/cards/matchday_card_new.png",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/cards/matchday_card_new.png",
+      "sha256": "70a1a7d6fe4de81c086c801ee85c57a5349bf3085350c06207727f3423029ff2",
+      "bytes": 1712272
+    },
+    "milan": {
+      "path": "content/src-assets/media/questions/logos/milan.jpg",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/milan.jpg",
+      "sha256": "ee7d459694493a1935cccd36e6f1fe26948b8b84f792b622e73ac55d0beb1d9a",
+      "bytes": 40685
+    },
+    "monaco": {
+      "path": "content/src-assets/media/questions/logos/monaco.jpg",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/monaco.jpg",
+      "sha256": "f9d8a681d38d49ec56a3211c5ec336e91758f5a574ebe36d9c6506368d98fce0",
+      "bytes": 29574
+    },
+    "monaco_r": {
+      "path": "content/src-assets/media/questions/logos/monaco_r.jpg",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/monaco_r.jpg",
+      "sha256": "3821355d1092fe97ccadb08755a743207268a4304c72ee82fbcb1f8a2294b01f",
+      "bytes": 32047
+    },
+    "napoli": {
+      "path": "content/src-assets/media/questions/logos/napoli.jpg",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/napoli.jpg",
+      "sha256": "cec64bfc158bab375d877bb7fe43592a1a271135089f9f40e9172f7a279ea905",
+      "bytes": 33174
+    },
+    "nottingham_forest": {
+      "path": "content/src-assets/media/questions/logos/nottingham_forest.jpg",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/nottingham_forest.jpg",
+      "sha256": "e5cb98d44c8d1824b812c7ea86e787f773b81231bbcb8d8c5abe2552a4559788",
+      "bytes": 23054
+    },
+    "nottingham_forest_r": {
+      "path": "content/src-assets/media/questions/logos/nottingham_forest_r.jpg",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/nottingham_forest_r.jpg",
+      "sha256": "1172f9234dd840e428391f741b7017e55a554e84c12e30162accebd717fb1933",
+      "bytes": 28532
+    },
+    "num_0": {
+      "path": "content/src-assets/media/questions/logos/num_0.png",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/num_0.png",
+      "sha256": "a76946f2c932f25617671b9d13114aa78edcf5bd8c1dd97d672040b38852da52",
+      "bytes": 2423
+    },
+    "num_1": {
+      "path": "content/src-assets/media/questions/logos/num_1.png",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/num_1.png",
+      "sha256": "14b0e35d67e284bda6800e0e977ae61a34454473e94c2b7f53be60bab427e362",
+      "bytes": 2140
+    },
+    "num_10": {
+      "path": "content/src-assets/media/questions/logos/num_10.png",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/num_10.png",
+      "sha256": "253c5e6443cdae08132e6616063d97f28f713c90b2839df0abeab7c6bc8269de",
+      "bytes": 2987
+    },
+    "num_11": {
+      "path": "content/src-assets/media/questions/logos/num_11.png",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/num_11.png",
+      "sha256": "b28ba82e9d944bd787caad7c50d320afa4666c96b154e6adea5265b8b58ef7c5",
+      "bytes": 2707
+    },
+    "num_12": {
+      "path": "content/src-assets/media/questions/logos/num_12.png",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/num_12.png",
+      "sha256": "0b00033bf18401866b11461f6e642070c4f668dd637377a85101c4cc9ef55696",
+      "bytes": 2775
+    },
+    "num_15": {
+      "path": "content/src-assets/media/questions/logos/num_15.png",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/num_15.png",
+      "sha256": "3854ebbce69d301374ba799893a3b17da447b0253f5edcc86dbf711dae9eb1e6",
+      "bytes": 2788
+    },
+    "num_2": {
+      "path": "content/src-assets/media/questions/logos/num_2.png",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/num_2.png",
+      "sha256": "4e81a21e45d0dd4c873aed1de6d0e4b2e78a43b8777441cf81f1e6575d7606fc",
+      "bytes": 2185
+    },
+    "num_3": {
+      "path": "content/src-assets/media/questions/logos/num_3.png",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/num_3.png",
+      "sha256": "54d4091fc23b3b42787a2009b7f9d155f5156954a9289726f59ae113c9c3ef90",
+      "bytes": 2242
+    },
+    "num_4": {
+      "path": "content/src-assets/media/questions/logos/num_4.png",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/num_4.png",
+      "sha256": "9c879fe62a0b5a56746c854c181fc954c8a762e656484972a25cfd43c7ba6201",
+      "bytes": 2225
+    },
+    "num_5": {
+      "path": "content/src-assets/media/questions/logos/num_5.png",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/num_5.png",
+      "sha256": "8ec80d99451eff838a7fd1d4c69712813ce93501f0341b73a80e52aa86203770",
+      "bytes": 2206
+    },
+    "num_6": {
+      "path": "content/src-assets/media/questions/logos/num_6.png",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/num_6.png",
+      "sha256": "8d4dd86171b1e65698b7d7f47a4789a6c458dba7167b3653d54fbafaf6994b3b",
+      "bytes": 2368
+    },
+    "num_7": {
+      "path": "content/src-assets/media/questions/logos/num_7.png",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/num_7.png",
+      "sha256": "6fd574fc7a0e3f7448326bdc618d2779103d53c8eca8fa5693afc3c046e3c94f",
+      "bytes": 2085
+    },
+    "num_8": {
+      "path": "content/src-assets/media/questions/logos/num_8.png",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/num_8.png",
+      "sha256": "d7d4e4f700235322665b06ce2f7670cdf7f6b5fb761e7543411d3cbd896280ba",
+      "bytes": 2378
+    },
+    "num_9": {
+      "path": "content/src-assets/media/questions/logos/num_9.png",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/num_9.png",
+      "sha256": "48e0488662ff9b8334ac263b8719ccd2c3cb5ebd0951a47894dbf68bdddb39d3",
+      "bytes": 2358
+    },
+    "olympiakos": {
+      "path": "content/src-assets/media/questions/logos/olympiakos.jpg",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/olympiakos.jpg",
+      "sha256": "51664fa9d82a9dcc211fc4c7172e46778e49b4add430c7db8c87c05f7e0eb94a",
+      "bytes": 50844
+    },
+    "parma": {
+      "path": "content/src-assets/media/questions/logos/parma.jpg",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/parma.jpg",
+      "sha256": "02222c738cfce2e7a2cd14793a14e1ea35dc123de008ffd8b1388add9c50788b",
+      "bytes": 204859
+    },
+    "parma_r": {
+      "path": "content/src-assets/media/questions/logos/parma_r.jpg",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/parma_r.jpg",
+      "sha256": "687fa4b0050e9dc672c79fff813b7ed79143568fd161b7ee88e84ac646c07f00",
+      "bytes": 218032
+    },
+    "pic_oi1980": {
+      "path": "content/src-assets/media/questions/logos/pic_oi1980.png",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/pic_oi1980.png",
+      "sha256": "7397396bfbb338457c2e086c5b3c7d079ea69767be145c359829abd85199ec3d",
+      "bytes": 4082
+    },
+    "pic_wc2018": {
+      "path": "content/src-assets/media/questions/logos/pic_wc2018.png",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/pic_wc2018.png",
+      "sha256": "db714b0792ea86bf241aed37b98338cc02c3957ebba5d0cf41afd0f6e55aad96",
+      "bytes": 4253
+    },
+    "plzen": {
+      "path": "content/src-assets/media/questions/logos/plzen.jpg",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/plzen.jpg",
+      "sha256": "7b22c2d962751ae7cbb893ae20778eeebd333e3427593af701cf03b794ef5752",
+      "bytes": 118712
+    },
+    "plzen_r": {
+      "path": "content/src-assets/media/questions/logos/plzen_r.jpg",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/plzen_r.jpg",
+      "sha256": "1ad03acc0084d3d22b3efe325fde40f514a3b3f8b051ef768913cb9fb3c68975",
+      "bytes": 141328
+    },
+    "portu": {
+      "path": "content/src-assets/media/questions/logos/portu.jpg",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/portu.jpg",
+      "sha256": "abe87021cba76305ae4021b8154cac67a79ab8ef976eb37853fe72b061e3989c",
+      "bytes": 43407
+    },
+    "pr_brows_1": {
+      "path": "content/src-assets/media/photo_robot/pr_brows_1.png",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/photo_robot/pr_brows_1.png",
+      "sha256": "3b05b95c7f8c74f64b9de8252e7c4e131faa3ad9f4d373d18a3822ab77a2ff64",
+      "bytes": 717
+    },
+    "pr_brows_2": {
+      "path": "content/src-assets/media/photo_robot/pr_brows_2.png",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/photo_robot/pr_brows_2.png",
+      "sha256": "91cde00ae5e00391361d3cbe4cc8fa1c186b2647c8c6d0edd15a7e6a59abb9b1",
+      "bytes": 1273
+    },
+    "pr_brows_3": {
+      "path": "content/src-assets/media/photo_robot/pr_brows_3.png",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/photo_robot/pr_brows_3.png",
+      "sha256": "aaa1f88047d5dce696ee162040dfb05da059c47beebdf5d11ac8380f3db721bd",
+      "bytes": 1231
+    },
+    "pr_eyes_1": {
+      "path": "content/src-assets/media/photo_robot/pr_eyes_1.png",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/photo_robot/pr_eyes_1.png",
+      "sha256": "2f8398378811adb6fd147ed6c1ed667fb5d75389a8fbdf73403f017a886cd642",
+      "bytes": 1193
+    },
+    "pr_eyes_2": {
+      "path": "content/src-assets/media/photo_robot/pr_eyes_2.png",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/photo_robot/pr_eyes_2.png",
+      "sha256": "d5effcacb5f8b5dc81375df168da82bf4ac1c2869f9a29cd4112a9183274582b",
+      "bytes": 1535
+    },
+    "pr_eyes_3": {
+      "path": "content/src-assets/media/photo_robot/pr_eyes_3.png",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/photo_robot/pr_eyes_3.png",
+      "sha256": "c20d7db71ec8073776145015426f93b2d246904ef0adcecfed5c732adcdc1202",
+      "bytes": 1016
+    },
+    "pr_hair_1": {
+      "path": "content/src-assets/media/photo_robot/pr_hair_1.png",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/photo_robot/pr_hair_1.png",
+      "sha256": "d5b0e5ee9e28db31dce7aa3cce0b5063725dca4c9549461a0176efcaba1e0a3d",
+      "bytes": 3727
+    },
+    "pr_hair_2": {
+      "path": "content/src-assets/media/photo_robot/pr_hair_2.png",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/photo_robot/pr_hair_2.png",
+      "sha256": "1c95ef2d7c4187c50061bf2bc01c590ca8c1596081b6dc53d2d099d1cdb0b119",
+      "bytes": 5369
+    },
+    "pr_hair_3": {
+      "path": "content/src-assets/media/photo_robot/pr_hair_3.png",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/photo_robot/pr_hair_3.png",
+      "sha256": "d62f24352ecb357f4711b2758bb61342e50b052fcfc1c98823d1921f6be487c7",
+      "bytes": 5287
+    },
+    "pr_mouth_1": {
+      "path": "content/src-assets/media/photo_robot/pr_mouth_1.png",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/photo_robot/pr_mouth_1.png",
+      "sha256": "48f6396fbd14a0aa23b23e50de461ab3bb3c4f02d2c075a01f05002f2bc7d001",
+      "bytes": 1792
+    },
+    "pr_mouth_2": {
+      "path": "content/src-assets/media/photo_robot/pr_mouth_2.png",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/photo_robot/pr_mouth_2.png",
+      "sha256": "fa4f6fb87e93b671077290872a4e015ea0e43fa385fa0e6d98a0b007c79fd52a",
+      "bytes": 1903
+    },
+    "pr_mouth_3": {
+      "path": "content/src-assets/media/photo_robot/pr_mouth_3.png",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/photo_robot/pr_mouth_3.png",
+      "sha256": "89341fcd43b08badb641d048767d32ca18de0a771e7dd0da7e8f33b51df445a2",
+      "bytes": 1844
+    },
+    "pr_nose_1": {
+      "path": "content/src-assets/media/photo_robot/pr_nose_1.png",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/photo_robot/pr_nose_1.png",
+      "sha256": "705d5b41fe2ae3412ca8832e686b42e245dce5660cc365c3251b0e700bd51d00",
+      "bytes": 1361
+    },
+    "pr_nose_2": {
+      "path": "content/src-assets/media/photo_robot/pr_nose_2.png",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/photo_robot/pr_nose_2.png",
+      "sha256": "03c4fb964926f43dee2bcd379f406ab461c56d49f122cce958a60f283b0eac33",
+      "bytes": 1383
+    },
+    "pr_nose_3": {
+      "path": "content/src-assets/media/photo_robot/pr_nose_3.png",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/photo_robot/pr_nose_3.png",
+      "sha256": "972d880f526eaefd733d32ca951b1eb8c94240e1dbb1cdfb851c89e4d7a7a50c",
+      "bytes": 1057
+    },
+    "psg": {
+      "path": "content/src-assets/media/questions/logos/psg.jpg",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/psg.jpg",
+      "sha256": "b1b89a171e22b1ba8bbbb8cda93495ea7dfb19f2d1db0343ea269e2d8109e5d4",
+      "bytes": 44092
+    },
+    "psg_r": {
+      "path": "content/src-assets/media/questions/logos/psg_r.jpg",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/psg_r.jpg",
+      "sha256": "70ed9827aefe731b141ebd1900fc6724e9af1f0c25087939ecc91b1d9d9a366f",
+      "bytes": 55310
+    },
+    "psv": {
+      "path": "content/src-assets/media/questions/logos/psv.jpg",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/psv.jpg",
+      "sha256": "a09ab98a14a629ae7ba331652d11fcde1300eeb9d745c0f19decf0969d47ca3d",
+      "bytes": 39847
+    },
+    "psv_r": {
+      "path": "content/src-assets/media/questions/logos/psv_r.jpg",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/psv_r.jpg",
+      "sha256": "ff897789eb7327cf19f63d95af7eee9fe858594dffd4e48332ba6bf90fc95b26",
+      "bytes": 42932
+    },
+    "ranges": {
+      "path": "content/src-assets/media/questions/logos/ranges.jpg",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/ranges.jpg",
+      "sha256": "690d3552eed3d2455bd00b06eee334d24cfdf47143b0ccf81cef9ab2a841f5dc",
+      "bytes": 57339
+    },
+    "ranges_r": {
+      "path": "content/src-assets/media/questions/logos/ranges_r.jpg",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/ranges_r.jpg",
+      "sha256": "a5b674932dc2d912e4a7639504f47f302a5f4b52ba90b6f67d8b3e2f2bf1350e",
+      "bytes": 65563
+    },
+    "real_madrid": {
+      "path": "content/src-assets/media/questions/logos/real_madrid.jpg",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/real_madrid.jpg",
+      "sha256": "458bc5d017759edb33e2808b5d788b1655811201a0c01c970ae695b6157f18d9",
+      "bytes": 58994
+    },
+    "roma": {
+      "path": "content/src-assets/media/questions/logos/roma.jpg",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/roma.jpg",
+      "sha256": "706b4a9fa436078185ad44ff16c091979346a99b11310849c7fc21bcb922262f",
+      "bytes": 37403
+    },
+    "roma_r": {
+      "path": "content/src-assets/media/questions/logos/roma_r.jpg",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/roma_r.jpg",
+      "sha256": "d6aeec3fb590765553181674e278206448b6e20cff93fc545d64d157ccc169c0",
+      "bytes": 41757
+    },
+    "rostov": {
+      "path": "content/src-assets/media/questions/logos/rostov.jpg",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/rostov.jpg",
+      "sha256": "02946e4ef0d8202d3b58dd08bcbb69c6d0feded41d18bbf62b9ef852f43506b1",
+      "bytes": 47581
+    },
+    "rostov_r": {
+      "path": "content/src-assets/media/questions/logos/rostov_r.jpg",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/rostov_r.jpg",
+      "sha256": "a1ad9dedb062954ce300900bdf17124b61a17747eb3159919bafc8ffc2087053",
+      "bytes": 50564
+    },
+    "sevilla": {
+      "path": "content/src-assets/media/questions/logos/sevilla.jpg",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/sevilla.jpg",
+      "sha256": "58cdc8fbe770322b27b48d9a0dd6fb74edf608823bbf491f2f50d706069615bb",
+      "bytes": 40178
+    },
+    "shacter": {
+      "path": "content/src-assets/media/questions/logos/shacter.jpg",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/shacter.jpg",
+      "sha256": "e7d10bc6a2ba916127342d2b20c5c81de20d8b36099622502f96749cb179ad52",
+      "bytes": 31296
+    },
+    "shacter_r": {
+      "path": "content/src-assets/media/questions/logos/shacter_r.jpg",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/shacter_r.jpg",
+      "sha256": "3cfbc53ad36af1fa83568cc5935713eda0c24124d7b2cef542229e20ad2acded",
+      "bytes": 35097
+    },
+    "shalce": {
+      "path": "content/src-assets/media/questions/logos/shalce.jpg",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/shalce.jpg",
+      "sha256": "c10865ab62aa4132c4ce603464fd89eaa6ac8f080c2a3d34937f4c9ed57aecad",
+      "bytes": 28756
+    },
+    "sm_jedson": {
+      "path": "content/src-assets/media/questions/clubs/spartak/sm_jedson.png",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/clubs/spartak/sm_jedson.png",
+      "sha256": "50234d311798388a5240139cc5e807680b047209e06749f2e5b585f686bcc3ba",
+      "bytes": 737039
+    },
+    "spartak_babic": {
+      "path": "content/src-assets/media/questions/clubs/spartak/spartak_babic.png",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/clubs/spartak/spartak_babic.png",
+      "sha256": "cb1d63716608194d296423f2407f8aca8d070376b9b564c2933e0961c3530a70",
+      "bytes": 661515
+    },
+    "spartak_barco": {
+      "path": "content/src-assets/media/questions/clubs/spartak/spartak_barco.png",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/clubs/spartak/spartak_barco.png",
+      "sha256": "6dbe05e91f097a6da04c1fed7d9ded2f4707ba20c788affd15f3e7cff2f1cfdf",
+      "bytes": 619006
+    },
+    "spartak_carsedo": {
+      "path": "content/src-assets/media/questions/clubs/spartak/spartak_carsedo.png",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/clubs/spartak/spartak_carsedo.png",
+      "sha256": "f883a4cda671f6874156ff51e5282daeb238d8ff1b977928539190b89e3bac4d",
+      "bytes": 644301
+    },
+    "spartak_djiku": {
+      "path": "content/src-assets/media/questions/clubs/spartak/spartak_djiku.png",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/clubs/spartak/spartak_djiku.png",
+      "sha256": "55ac2ca6cb0ff35c0be02e61b7d319cda17db56d44ae01055e81710b294d0d3d",
+      "bytes": 461760
+    },
+    "spartak_garcia": {
+      "path": "content/src-assets/media/questions/clubs/spartak/spartak_garcia.png",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/clubs/spartak/spartak_garcia.png",
+      "sha256": "78232584c5b6eec7a8639433d36499be5d7968c4d639a3318431e6df71a99a4b",
+      "bytes": 726828
+    },
+    "spartak_litvinov": {
+      "path": "content/src-assets/media/questions/clubs/spartak/spartak_litvinov.png",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/clubs/spartak/spartak_litvinov.png",
+      "sha256": "ab922bdd485a094c1a03df0cf15ee9137f3b0d60e879816bd08e3592204b3b6c",
+      "bytes": 609007
+    },
+    "spartak_maksimenko": {
+      "path": "content/src-assets/media/questions/clubs/spartak/spartak_maksimenko.png",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/clubs/spartak/spartak_maksimenko.png",
+      "sha256": "3395787fcbde8add7e39789ddaa515704cba1fedc437dd083e2c26000d77c764",
+      "bytes": 728248
+    },
+    "spartak_marquinhos": {
+      "path": "content/src-assets/media/questions/clubs/spartak/spartak_marquinhos.png",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/clubs/spartak/spartak_marquinhos.png",
+      "sha256": "5450279a546a881a86d2265f8cbe0bf11063ffe5cbdd4d356b3b455381f2ad00",
+      "bytes": 691802
+    },
+    "spartak_martins": {
+      "path": "content/src-assets/media/questions/clubs/spartak/spartak_martins.png",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/clubs/spartak/spartak_martins.png",
+      "sha256": "e64084ab5fbb1ec1f45ff0db82394476a3947f29272a7bcfaadabaff12d3f383",
+      "bytes": 769831
+    },
+    "spartak_solari": {
+      "path": "content/src-assets/media/questions/clubs/spartak/spartak_solari.png",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/clubs/spartak/spartak_solari.png",
+      "sha256": "85c27fac2567776c9ba208a246d05397c341b6ffc69bdd4949f525449bb580c7",
+      "bytes": 652319
+    },
+    "spartak_ugalde": {
+      "path": "content/src-assets/media/questions/clubs/spartak/spartak_ugalde.png",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/clubs/spartak/spartak_ugalde.png",
+      "sha256": "ab673acb2f82cbf118483a38750da8df6e80e747b05e5b3ce9c6de262642c0f9",
+      "bytes": 641859
+    },
+    "spartak_umyarov": {
+      "path": "content/src-assets/media/questions/clubs/spartak/spartak_umyarov.png",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/clubs/spartak/spartak_umyarov.png",
+      "sha256": "ed3746602ab8f6eee8bba7f859757b3e4a6b849e3d5f0c3640bf8db04a622d1b",
+      "bytes": 616372
+    },
+    "spartak_wu": {
+      "path": "content/src-assets/media/questions/clubs/spartak/spartak_wu.png",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/clubs/spartak/spartak_wu.png",
+      "sha256": "b77a616cb543b490cd8477cf680509bcb2ff8379377ff7b2eb43e8d81b8f5547",
+      "bytes": 699505
+    },
+    "spartak_zabolotnyi": {
+      "path": "content/src-assets/media/questions/clubs/spartak/spartak_zabolotnyi.png",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/clubs/spartak/spartak_zabolotnyi.png",
+      "sha256": "ebc368f86dabf280d653719932e5e580f5c93d3de0ab0a493f8725b43d3791c3",
+      "bytes": 634247
+    },
+    "spartak_zobnin": {
+      "path": "content/src-assets/media/questions/clubs/spartak/spartak_zobnin.png",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/clubs/spartak/spartak_zobnin.png",
+      "sha256": "b6288e2e41da9b96ed6a736500521eab86465526239473507c54f955cf7e4ea6",
+      "bytes": 658363
+    },
+    "spartak-moscow": {
+      "path": "content/src-assets/media/questions/logos/spartak-moscow.jpg",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/spartak-moscow.jpg",
+      "sha256": "d58f03f981a4d23576e79e43246f2b4127d059891f5671c6139be9104e2da8e1",
+      "bytes": 30707
+    },
+    "sporting": {
+      "path": "content/src-assets/media/questions/logos/sporting.jpg",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/sporting.jpg",
+      "sha256": "ce716563532b33ba56054a723e86f99175922017fd3a63724eb2970224e1a6c5",
+      "bytes": 29889
+    },
+    "sporting_r": {
+      "path": "content/src-assets/media/questions/logos/sporting_r.jpg",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/sporting_r.jpg",
+      "sha256": "93898b63d50f5f7cef3bf070c698a94c4e6fa68209918ed0436d875b3a4862e0",
+      "bytes": 38274
+    },
+    "stadium": {
+      "path": "content/src-assets/media/questions/stadiums/stadium.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/stadiums/stadium.webp",
+      "sha256": "08d0dcbce665e666c9a0d9527f268416e78d53fdbdb680e85de423e4b264b11b",
+      "bytes": 23432
+    },
+    "stadium_fisht": {
+      "path": "content/src-assets/media/questions/stadiums/stadium_fisht.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/stadiums/stadium_fisht.webp",
+      "sha256": "a83f7b495e26ef3cf61656c224d20a48d60c02a175fe700670c99956b65d9240",
+      "bytes": 70552
+    },
+    "stadium_kaliningrad": {
+      "path": "content/src-assets/media/questions/stadiums/stadium_kaliningrad.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/stadiums/stadium_kaliningrad.webp",
+      "sha256": "a783982354ca18357bc1d890f7abfb0d492cedecd119ca05a398ef2843999078",
+      "bytes": 279666
+    },
+    "stadiums_card": {
+      "path": "content/src-assets/media/cards/stadiums_card.png",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/cards/stadiums_card.png",
+      "sha256": "d5effcacb5f8b5dc81375df168da82bf4ac1c2869f9a29cd4112a9183274582b",
+      "bytes": 1535
+    },
+    "stadiums_card_new": {
+      "path": "content/src-assets/media/cards/stadiums_card_new.png",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/cards/stadiums_card_new.png",
+      "sha256": "9215da21f8ccf4c21dae2a909dd0389fe9f93a897d1677255bbb7b64a5971d6d",
+      "bytes": 8105486
+    },
+    "statfnl": {
+      "path": "content/src-assets/media/questions/stadiums/statfnl.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/stadiums/statfnl.webp",
+      "sha256": "b616e21f1a2a8649fbd9002e79a2655a5da736b27fb2423656a0ae6237e04e99",
+      "bytes": 158108
+    },
+    "statrpl": {
+      "path": "content/src-assets/media/questions/stadiums/statrpl.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/stadiums/statrpl.webp",
+      "sha256": "01ad7084cb0f1b9669c575b7b6a00f53f6791ebe3dcc0d703e7e5766b74cf483",
+      "bytes": 170756
+    },
+    "std_akhmat": {
+      "path": "content/src-assets/media/questions/stadiums/std_akhmat.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/stadiums/std_akhmat.webp",
+      "sha256": "8fe7598a927309fc2a081787e5d82c3af5f40e6fb2b5d8bf92da75bd8ca28a60",
+      "bytes": 106286
+    },
+    "std_amkar": {
+      "path": "content/src-assets/media/questions/stadiums/std_amkar.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/stadiums/std_amkar.webp",
+      "sha256": "4a36d26240d3c99c303a7b43b180a0f854ecfc664775c3efe9573c73507f80a1",
+      "bytes": 153170
+    },
+    "std_angusht": {
+      "path": "content/src-assets/media/questions/stadiums/std_angusht.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/stadiums/std_angusht.webp",
+      "sha256": "74d4531ffa7bb392801fc5cbf6eee990855ab69ddafb8533a58bb52fc37aeeaa",
+      "bytes": 70612
+    },
+    "std_anzhi": {
+      "path": "content/src-assets/media/questions/stadiums/std_anzhi.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/stadiums/std_anzhi.webp",
+      "sha256": "6924988fbd2b739af33fb1458e63ea63709c06dc29144aaf14a443f175c8a1e2",
+      "bytes": 94962
+    },
+    "std_arsenal": {
+      "path": "content/src-assets/media/questions/stadiums/std_arsenal.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/stadiums/std_arsenal.webp",
+      "sha256": "d89dfab4ca0906395eb9b5b701e7ad73ad08434b95dd466bbd3959907225ecc4",
+      "bytes": 151462
+    },
+    "std_avangard_kur": {
+      "path": "content/src-assets/media/questions/stadiums/std_avangard_kur.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/stadiums/std_avangard_kur.webp",
+      "sha256": "0430b3a80638e8ef006ff5e90f9bf19575d3fabbfd3923bb54bcfd9f46b69a8e",
+      "bytes": 147684
+    },
+    "std_baltika": {
+      "path": "content/src-assets/media/questions/stadiums/std_baltika.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/stadiums/std_baltika.webp",
+      "sha256": "7fa375b7c52ee0ef59fcfffa98bfcb48bb977e3ea748c687037a2b5ffc3eb45c",
+      "bytes": 70104
+    },
+    "std_chayka_pes": {
+      "path": "content/src-assets/media/questions/stadiums/std_chayka_pes.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/stadiums/std_chayka_pes.webp",
+      "sha256": "e1fdcfc3b3918c5ffcfe3e346506bf3b351d7ef3fd91134d0387517eec1f936b",
+      "bytes": 117554
+    },
+    "std_cheliabinsk": {
+      "path": "content/src-assets/media/questions/stadiums/std_cheliabinsk.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/stadiums/std_cheliabinsk.webp",
+      "sha256": "6d0be42a20717bc0acf390a0ef626b49c98f1bebdaaf04c813a9549c91500528",
+      "bytes": 179962
+    },
+    "std_cska_veb": {
+      "path": "content/src-assets/media/questions/stadiums/std_cska_veb.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/stadiums/std_cska_veb.webp",
+      "sha256": "fed2bfdda11c33556f8a15a5301990b90f21958cef86a3ec0332946e7988ee0f",
+      "bytes": 177616
+    },
+    "std_dinamo_bar": {
+      "path": "content/src-assets/media/questions/stadiums/std_dinamo_bar.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/stadiums/std_dinamo_bar.webp",
+      "sha256": "fe7c8b04428eb1510ce1e080897b1a593a6d3ec05378ac1b425b7955249c402c",
+      "bytes": 223932
+    },
+    "std_dinamo_spb": {
+      "path": "content/src-assets/media/questions/stadiums/std_dinamo_spb.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/stadiums/std_dinamo_spb.webp",
+      "sha256": "f11beff41eb3e870d73907170de8e2d1fa49b6aedeccc12870b650054e75fcff",
+      "bytes": 152946
+    },
+    "std_dinamo_stav": {
+      "path": "content/src-assets/media/questions/stadiums/std_dinamo_stav.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/stadiums/std_dinamo_stav.webp",
+      "sha256": "72a1e0692a9570789fb2b10a8ff148683f75eed34b4e750a1c798e507415a229",
+      "bytes": 135108
+    },
+    "std_druzhba": {
+      "path": "content/src-assets/media/questions/stadiums/std_druzhba.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/stadiums/std_druzhba.webp",
+      "sha256": "ba1849f0ece437ad7e38bb788606f053ed5c789202d42c112c5e3414321d62f9",
+      "bytes": 93014
+    },
+    "std_dynamo_vlad": {
+      "path": "content/src-assets/media/questions/stadiums/std_dynamo_vlad.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/stadiums/std_dynamo_vlad.webp",
+      "sha256": "3e1afeb902e5ed934e91366b909b86e1730d3e9160a83eabe09aaa70e40bb85b",
+      "bytes": 180416
+    },
+    "std_enisey": {
+      "path": "content/src-assets/media/questions/stadiums/std_enisey.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/stadiums/std_enisey.webp",
+      "sha256": "9543b2a41e9dfd3465621fb2f68fa3ade62c5328d7e0042e405fe3faa3be149e",
+      "bytes": 65884
+    },
+    "std_fisht": {
+      "path": "content/src-assets/media/questions/stadiums/std_fisht.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/stadiums/std_fisht.webp",
+      "sha256": "316ea045a25d88e941045acce91f6dd383e24414231119e23e32511fe77e377d",
+      "bytes": 130548
+    },
+    "std_forte": {
+      "path": "content/src-assets/media/questions/stadiums/std_forte.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/stadiums/std_forte.webp",
+      "sha256": "6d482b155b606580c9f1eb15d996dfc58b892e0c2a50762ea0953d2bbce0b354",
+      "bytes": 99254
+    },
+    "std_gazprom": {
+      "path": "content/src-assets/media/questions/stadiums/std_gazprom.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/stadiums/std_gazprom.webp",
+      "sha256": "27a6c20d71ecbcdf9224ed7a586a592a8710715beeef9c4007136abcb8e75a42",
+      "bytes": 82796
+    },
+    "std_irkutsk": {
+      "path": "content/src-assets/media/questions/stadiums/std_irkutsk.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/stadiums/std_irkutsk.webp",
+      "sha256": "b51b45850f76a719a14d4e4f40c47f442f3aa1318622480533386935ca439652",
+      "bytes": 129632
+    },
+    "std_kamaz": {
+      "path": "content/src-assets/media/questions/stadiums/std_kamaz.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/stadiums/std_kamaz.webp",
+      "sha256": "7920a5b1b0454caabfc5d1121bdf42d0c7b44c15ede04af5d55f17a5225c9424",
+      "bytes": 130962
+    },
+    "std_kazan": {
+      "path": "content/src-assets/media/questions/stadiums/std_kazan.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/stadiums/std_kazan.webp",
+      "sha256": "27c9bf5274998ab090fd9e791105c1226d9a8a7132856d3f9c1fe94a718ef452",
+      "bytes": 124784
+    },
+    "std_khimki": {
+      "path": "content/src-assets/media/questions/stadiums/std_khimki.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/stadiums/std_khimki.webp",
+      "sha256": "be922589194a8dcc3dcac6ac2be9cc773e2e14fb9dfa203ebd8e39f7e0bb2c34",
+      "bytes": 149394
+    },
+    "std_krasnodar": {
+      "path": "content/src-assets/media/questions/stadiums/std_krasnodar.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/stadiums/std_krasnodar.webp",
+      "sha256": "d5ee22a04b752c4c4fc584ab893cd6319480b7d86b99fa32a6e7a1db37758b90",
+      "bytes": 161060
+    },
+    "std_lada": {
+      "path": "content/src-assets/media/questions/stadiums/std_lada.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/stadiums/std_lada.webp",
+      "sha256": "16745c86752e502e0519d16694f894196181b9a7976f7157583c8dbcd9bcbd00",
+      "bytes": 213230
+    },
+    "std_leon": {
+      "path": "content/src-assets/media/questions/stadiums/std_leon.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/stadiums/std_leon.webp",
+      "sha256": "1b59526e6002511f55862f245e473f6cf132a08886186b7eb608b293287a7eb5",
+      "bytes": 115734
+    },
+    "std_lujniki": {
+      "path": "content/src-assets/media/questions/stadiums/std_lujniki.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/stadiums/std_lujniki.webp",
+      "sha256": "373fdb2c6de58ad15ff4be6702d4b6660a40bd5aab25ebe03003367da15e5641",
+      "bytes": 139888
+    },
+    "std_mamaev": {
+      "path": "content/src-assets/media/questions/stadiums/std_mamaev.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/stadiums/std_mamaev.webp",
+      "sha256": "59a4c3a4fd699341c3017139df3a9becc065dceb8bd58dca634d9d0450322900",
+      "bytes": 57604
+    },
+    "std_metallurg_lip": {
+      "path": "content/src-assets/media/questions/stadiums/std_metallurg_lip.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/stadiums/std_metallurg_lip.webp",
+      "sha256": "e4724533974dead5b7a25c580b660d8806bcb8c1f07150e2f5e4e69d216d5481",
+      "bytes": 102384
+    },
+    "std_nizhnov": {
+      "path": "content/src-assets/media/questions/stadiums/std_nizhnov.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/stadiums/std_nizhnov.webp",
+      "sha256": "f4ea566358c508b222c939b46eebe9298f6e0a664f9a4ddc5cc535770940ac39",
+      "bytes": 97868
+    },
+    "std_novosibirsk": {
+      "path": "content/src-assets/media/questions/stadiums/std_novosibirsk.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/stadiums/std_novosibirsk.webp",
+      "sha256": "c22f1f5467120bb3586ca4281d7549d582bc6a8abaf883eb7fb6e925aa1bf939",
+      "bytes": 307946
+    },
+    "std_orel": {
+      "path": "content/src-assets/media/questions/stadiums/std_orel.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/stadiums/std_orel.webp",
+      "sha256": "5ee3348be6afcb68371964b5c273f0e6fe080ea626a6ec18623fc5484e706ff7",
+      "bytes": 79742
+    },
+    "std_orenburg": {
+      "path": "content/src-assets/media/questions/stadiums/std_orenburg.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/stadiums/std_orenburg.webp",
+      "sha256": "ebf625da71a085de479f5b5a3274e4e1575f1fcaec353348d565637f8af3e04f",
+      "bytes": 119646
+    },
+    "std_rodina": {
+      "path": "content/src-assets/media/questions/stadiums/std_rodina.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/stadiums/std_rodina.webp",
+      "sha256": "5d8e3729f6fd1a07a7cd26873a64a5ae9251d04c964a8d8b20edd81f1b70f146",
+      "bytes": 98830
+    },
+    "std_rostov": {
+      "path": "content/src-assets/media/questions/stadiums/std_rostov.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/stadiums/std_rostov.webp",
+      "sha256": "e64a1cf5d31ada43bfa3797f8e89303ce2b478c323d2510f19cdf5dabc69454e",
+      "bytes": 131602
+    },
+    "std_rotor": {
+      "path": "content/src-assets/media/questions/stadiums/std_rotor.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/stadiums/std_rotor.webp",
+      "sha256": "e32c034d189ddebf6f539543f3be08ffc064e4fc959e38c457d6053014ab9f35",
+      "bytes": 155700
+    },
+    "std_ryazan": {
+      "path": "content/src-assets/media/questions/stadiums/std_ryazan.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/stadiums/std_ryazan.webp",
+      "sha256": "ddc8f344fc1109f7c3cbe849488f5f4ff33f33dd11020b51bbdb32f35edd6303",
+      "bytes": 66924
+    },
+    "std_rzd": {
+      "path": "content/src-assets/media/questions/stadiums/std_rzd.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/stadiums/std_rzd.webp",
+      "sha256": "9d89e41c4a12ba4bbfa700c5ec8fdd9e0ef0ae6412082db17310fabf9df8b639",
+      "bytes": 153978
+    },
+    "std_samara": {
+      "path": "content/src-assets/media/questions/stadiums/std_samara.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/stadiums/std_samara.webp",
+      "sha256": "5c70a5d908ca8aa497bc6c82e090672306d4e9877738b5b64e643134a2b4ef05",
+      "bytes": 109220
+    },
+    "std_shinnik": {
+      "path": "content/src-assets/media/questions/stadiums/std_shinnik.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/stadiums/std_shinnik.webp",
+      "sha256": "ec8cf7a90ce1f108145b359fd015c95b3c831d037b9a945c095605944f5aacd9",
+      "bytes": 189052
+    },
+    "std_ska_hab": {
+      "path": "content/src-assets/media/questions/stadiums/std_ska_hab.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/stadiums/std_ska_hab.webp",
+      "sha256": "d104b096751776189438568a57d5c7ed44f3aa62c4697b4b1daf04033215da3a",
+      "bytes": 198620
+    },
+    "std_sokol": {
+      "path": "content/src-assets/media/questions/stadiums/std_sokol.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/stadiums/std_sokol.webp",
+      "sha256": "6d404291ee17e134ccbcade1e8d2ccb6387c86982cf6cd6eff564e6117bb9705",
+      "bytes": 117048
+    },
+    "std_spartak": {
+      "path": "content/src-assets/media/questions/stadiums/std_spartak.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/stadiums/std_spartak.webp",
+      "sha256": "3d9973fca45824a66c18c48aba9731797bec6ee0d0313867054f0873c03cf7a8",
+      "bytes": 149134
+    },
+    "std_spartak_nal": {
+      "path": "content/src-assets/media/questions/stadiums/std_spartak_nal.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/stadiums/std_spartak_nal.webp",
+      "sha256": "b755809f16a5a50807a0b3c114a196170591da7d6eb47537fe92ba21e98be608",
+      "bytes": 122116
+    },
+    "std_starostin": {
+      "path": "content/src-assets/media/questions/stadiums/std_starostin.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/stadiums/std_starostin.webp",
+      "sha256": "9b49085d176939f0f4eca55688a9ce62a27f259517f8930b793d7ec83a98b557",
+      "bytes": 144230
+    },
+    "std_strogino": {
+      "path": "content/src-assets/media/questions/stadiums/std_strogino.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/stadiums/std_strogino.webp",
+      "sha256": "a0c1ee4d4e4b85ded39b00f739f3c8343f475083c89b2e323457e9464651ddfa",
+      "bytes": 47668
+    },
+    "std_torpedo_vla": {
+      "path": "content/src-assets/media/questions/stadiums/std_torpedo_vla.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/stadiums/std_torpedo_vla.webp",
+      "sha256": "52bc24215ce8f2cead061fe21517d37ac8f7fbfb618de037e40b30f494a4cc89",
+      "bytes": 140382
+    },
+    "std_tumen": {
+      "path": "content/src-assets/media/questions/stadiums/std_tumen.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/stadiums/std_tumen.webp",
+      "sha256": "527fedc2423d5ab279e8c2967da6ee7867f9d771dd0d505cfb03f549786e58be",
+      "bytes": 149592
+    },
+    "std_ufa": {
+      "path": "content/src-assets/media/questions/stadiums/std_ufa.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/stadiums/std_ufa.webp",
+      "sha256": "9b675d8174332e3c55bdc88472d5d5b2059cc0866ec4b2c83fb332e6f913c7f0",
+      "bytes": 139026
+    },
+    "std_universiada": {
+      "path": "content/src-assets/media/questions/stadiums/std_universiada.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/stadiums/std_universiada.webp",
+      "sha256": "94f838e236e8a79da74bb267a55fec8a5ae6bb0fb94aa2e23bfa568992e4508e",
+      "bytes": 28718
+    },
+    "std_ural": {
+      "path": "content/src-assets/media/questions/stadiums/std_ural.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/stadiums/std_ural.webp",
+      "sha256": "af3d29cfb6272005d5527e3ac385d9efa0507d412c26b4104f002120641175ff",
+      "bytes": 202174
+    },
+    "std_volgar": {
+      "path": "content/src-assets/media/questions/stadiums/std_volgar.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/stadiums/std_volgar.webp",
+      "sha256": "8d5be07bd8526fdf77a41008fb981c97e3bb162aada6b36c73b97eaa97f5145e",
+      "bytes": 150898
+    },
+    "std_voronezh": {
+      "path": "content/src-assets/media/questions/stadiums/std_voronezh.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/stadiums/std_voronezh.webp",
+      "sha256": "197d15de52ce226ec353a065cc00967323b5905f3b3520579c37da1a5b03f77c",
+      "bytes": 124134
+    },
+    "std_vtb": {
+      "path": "content/src-assets/media/questions/stadiums/std_vtb.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/stadiums/std_vtb.webp",
+      "sha256": "cac5c160b9c395fd8efccef66b1b195ac8454ce42624ea8b00ca74ab8f58b64d",
+      "bytes": 135752
+    },
+    "steaua": {
+      "path": "content/src-assets/media/questions/logos/steaua.jpg",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/steaua.jpg",
+      "sha256": "4c6ec4305ddb53e02668dbcf360460287ac2a3c9ee5a78e8a561daed6a06adbf",
+      "bytes": 36300
+    },
+    "ttx": {
+      "path": "content/src-assets/media/questions/logos/ttx.jpg",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/ttx.jpg",
+      "sha256": "8338d9ff6755ce5af8fba2d4cd9047aeb20bd988271d84793af4d7c1804edee3",
+      "bytes": 19600
+    },
+    "ttx_r": {
+      "path": "content/src-assets/media/questions/logos/ttx_r.jpg",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/ttx_r.jpg",
+      "sha256": "96c922e01f59bee59c64140049455bd027e1354c85496eccc246ce0cd8f4a451",
+      "bytes": 28091
+    },
+    "valencia": {
+      "path": "content/src-assets/media/questions/logos/valencia.jpg",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/valencia.jpg",
+      "sha256": "56efd35db6d4b93bc991ef38da855cf718193c4ef83a6c48289e37e68327f8ea",
+      "bytes": 26089
+    },
+    "valencia_r": {
+      "path": "content/src-assets/media/questions/logos/valencia_r.jpg",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/valencia_r.jpg",
+      "sha256": "de772b543a9a1fc70f37476068c7e087ecc4109edd6dcc87c5cf0c728c75861c",
+      "bytes": 28134
+    },
+    "villiareal": {
+      "path": "content/src-assets/media/questions/logos/villiareal.jpg",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/villiareal.jpg",
+      "sha256": "ab83092247e44d8ccaf1fcb634a0d81421e2be2fc8e13badf67fe614c94ae2de",
+      "bytes": 35520
+    },
+    "west_ham": {
+      "path": "content/src-assets/media/questions/logos/west_ham.jpg",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/west_ham.jpg",
+      "sha256": "c252e516ac0519e1baba7a472465f3a87e3ebd5eceaa3c1539080e0717aa7bcf",
+      "bytes": 29199
+    },
+    "west_ham_r": {
+      "path": "content/src-assets/media/questions/logos/west_ham_r.jpg",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/west_ham_r.jpg",
+      "sha256": "14f22bb33b774b1c29f090da575cde9eabb40af0edf875a3029ce43fbf2ae729",
+      "bytes": 40431
+    },
+    "wolsbyrg": {
+      "path": "content/src-assets/media/questions/logos/wolsbyrg.jpg",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/wolsbyrg.jpg",
+      "sha256": "14f8562f96e9749e92dc694949ea9fdbbc7cc24090ed762d26d7dbf25a0abf05",
+      "bytes": 26679
+    },
+    "zenit": {
+      "path": "content/src-assets/media/questions/logos/zenit.jpg",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/questions/logos/zenit.jpg",
+      "sha256": "6247bdd666fd138484f46e92f3eb277b1b07f7f31a672ce1f6cf6fb49ea009d6",
+      "bytes": 100085
+    }
+  }
+}

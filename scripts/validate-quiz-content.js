@@ -5,8 +5,9 @@ const XLSX = require('xlsx');
 const rootDir = process.cwd();
 const dataRoot = path.join(rootDir, 'src', 'assets', 'data');
 const mediaRoot = path.join(rootDir, 'src', 'assets', 'media', 'questions');
-const sourceDataRoot = path.join(rootDir, 'content', 'sources');
-const sourceMediaRoot = path.join(rootDir, 'content', 'media', 'questions');
+const sourceAssetsRoot = path.join(rootDir, 'content', 'src-assets');
+const sourceDataRoot = path.join(sourceAssetsRoot, 'data');
+const sourceMediaRoot = path.join(sourceAssetsRoot, 'media', 'questions');
 
 const resolvedDataRoot = fs.existsSync(dataRoot) ? dataRoot : sourceDataRoot;
 const resolvedMediaRoot = fs.existsSync(mediaRoot) ? mediaRoot : sourceMediaRoot;
