@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-09T06:47:35.084Z",
+  "updatedAt": "2026-08-08T12:55:24.679Z",
   "sourceAssetsPath": "content/src-assets",
   "sourceAssetsRawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/",
   "datasets": {
@@ -15,6 +15,12 @@
       "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/data/cup-levels.json",
       "sha256": "c616bcad812cce9d004bbdb582629e1ffb87a948e76e3b361df43e596f58a6bf",
       "bytes": 489345
+    },
+    "h2h_cache": {
+      "path": "content/src-assets/data/h2h_cache.json",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/data/h2h_cache.json",
+      "sha256": "c8f83d7222436ca9cbd0ddeb15eeddecc7385e18e9b0096a57e6f33b46ccc254",
+      "bytes": 93970
     },
     "info": {
       "path": "content/src-assets/data/info.json",
@@ -33,6 +39,18 @@
       "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/data/matchday-fallback.json",
       "sha256": "3f2872be2e6efc007abe0d1fa805db2dbfa736ee8e217b74a1c02bf370f0e813",
       "bytes": 2527
+    },
+    "md_test": {
+      "path": "content/src-assets/data/md_test.json",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/data/md_test.json",
+      "sha256": "2da390a81482040ad60ae200343b71ce130602534737d6a2227282695aad4124",
+      "bytes": 305
+    },
+    "mt_spartak_krasnodar": {
+      "path": "content/src-assets/data/mt_spartak_krasnodar.json",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/data/mt_spartak_krasnodar.json",
+      "sha256": "985a0ffa1b0acb337cce6c8e3eb1122609e1470acdd60ebd4618fba77660b11a",
+      "bytes": 20481
     },
     "quiz_dataset": {
       "path": "content/src-assets/data/quiz-dataset.json",
