@@ -1,0 +1,24 @@
+[
+    {
+        "type": 1,
+        "textQue": "Кто этот футболист?",
+        "slugQue": "cska_oblyakov",
+        "comment": "28-летний (05.01.1998) российский центральный хавбек. Пришёл из «Уфы» в августе 2018 за €4 млн и давно закрепился в старте",
+        "slugDlg": "cska_oblyakov",
+        "slugCorAns": "no_pic",
+        "txtCorAns": "Иван Обляков",
+        "wrSlgAns1": "no_pic",
+        "wrTxtAns1": "Игорь Акинфеев",
+        "wrSlgAns2": "no_pic",
+        "wrTxtAns2": "Владислав Тороп",
+        "wrSlgAns3": "no_pic",
+        "wrTxtAns3": "Данил Круговой",
+        "wrSlgAns4": "no_pic",
+        "wrTxtAns4": "Кирилл Глебов",
+        "wrSlgAns5": "no_pic",
+        "wrTxtAns5": "Артем Шуманский",
+        "__EMPTY": "",
+        "__EMPTY_1": "",
+        "__EMPTY_2": ""
+    }
+]

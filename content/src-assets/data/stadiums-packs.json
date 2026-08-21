@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-07-09T06:47:33.500Z",
+  "generatedAt": "2026-08-20T11:06:00.291Z",
   "packs": [
     {
       "id": "stadium_fnl",
@@ -413,7 +413,7 @@
           "payload": {},
           "questionText": "На каком из этих стадионов проходил ЧМ?",
           "media": {
-            "questionSlug": "pic_wc2018",
+            "questionSlug": "no_pic",
             "dialogSlug": "std_ural",
             "correctSlug": "no_pic"
           },
@@ -463,7 +463,7 @@
           "payload": {},
           "questionText": "На каком из этих стадионов проходил ЧМ?",
           "media": {
-            "questionSlug": "pic_wc2018",
+            "questionSlug": "no_pic",
             "dialogSlug": "std_rotor",
             "correctSlug": "no_pic"
           },
@@ -508,7 +508,7 @@
         },
         {
           "id": "stadium_fnl_11",
-          "type": 3,
+          "type": 1,
           "kind": "multi_choice",
           "payload": {},
           "questionText": "К какому большому событию был построен стадион Фишт?",
@@ -558,10 +558,10 @@
         },
         {
           "id": "stadium_fnl_12",
-          "type": 3,
+          "type": 1,
           "kind": "multi_choice",
           "payload": {},
-          "questionText": "Ранее этот стадион носил название Малая спортивная арена «Локомотив»",
+          "questionText": "Какой стадион ранее носил название Малая спортивная арена «Локомотив»?",
           "media": {
             "questionSlug": "no_pic",
             "dialogSlug": "std_rodina",
@@ -608,10 +608,10 @@
         },
         {
           "id": "stadium_fnl_13",
-          "type": 3,
+          "type": 1,
           "kind": "multi_choice",
           "payload": {},
-          "questionText": "Этот стадион станет домашним для ФК Алания Владикавказ в сезоне 24/25",
+          "questionText": "Какой стадион станет домашним для ФК Алания Владикавказ в сезоне 25/26?",
           "media": {
             "questionSlug": "no_pic",
             "dialogSlug": "std_akhmat",
@@ -658,10 +658,10 @@
         },
         {
           "id": "stadium_fnl_14",
-          "type": 3,
+          "type": 1,
           "kind": "multi_choice",
           "payload": {},
-          "questionText": "Этот стадион находится на берегу Балтийского моря",
+          "questionText": "Какой стадион находится на берегу Балтийского моря?",
           "media": {
             "questionSlug": "no_pic",
             "dialogSlug": "std_baltika",
@@ -708,10 +708,10 @@
         },
         {
           "id": "stadium_fnl_15",
-          "type": 3,
+          "type": 1,
           "kind": "multi_choice",
           "payload": {},
-          "questionText": "Этот стадион самый восточный в ФНЛ в сезоне 24/25",
+          "questionText": "Какой стадион самый восточный в ФНЛ в сезоне 25/26?",
           "media": {
             "questionSlug": "no_pic",
             "dialogSlug": "std_ska_hab",
@@ -758,7 +758,7 @@
         },
         {
           "id": "stadium_fnl_16",
-          "type": 3,
+          "type": 1,
           "kind": "multi_choice",
           "payload": {},
           "questionText": "Как называется место у подножия которого расположен стадион Волгоград Арена?",
@@ -808,10 +808,10 @@
         },
         {
           "id": "stadium_fnl_17",
-          "type": 3,
+          "type": 1,
           "kind": "multi_choice",
           "payload": {},
-          "questionText": "На этом стадионе боковые трибуны находятся за его пределами",
+          "questionText": "На каком стадионе боковые трибуны находятся за его пределами?",
           "media": {
             "questionSlug": "no_pic",
             "dialogSlug": "std_ural",
@@ -861,7 +861,7 @@
           "type": 2,
           "kind": "multi_choice",
           "payload": {},
-          "questionText": "Для какой команды стадион Арена Химки является домашним?",
+          "questionText": "Для кого стадион арена Химки является домашним?",
           "media": {
             "questionSlug": "std_khimki",
             "dialogSlug": "logo_torpedo",
@@ -911,7 +911,7 @@
           "type": 2,
           "kind": "multi_choice",
           "payload": {},
-          "questionText": "Для какой команды стадион Сапсан Арена является домашним?",
+          "questionText": "Для кого стадион Сапсан Арена является домашним?",
           "media": {
             "questionSlug": "std_rodina",
             "dialogSlug": "logo_rodina",
@@ -961,7 +961,7 @@
           "type": 2,
           "kind": "multi_choice",
           "payload": {},
-          "questionText": "Для какой команды стадион Геолог является домашним?",
+          "questionText": "Для кого стадион Геолог является домашним?",
           "media": {
             "questionSlug": "std_tumen",
             "dialogSlug": "logo_tumen",
@@ -1011,7 +1011,7 @@
           "type": 2,
           "kind": "multi_choice",
           "payload": {},
-          "questionText": "Для какой команды стадион Екатеринбург Арена является домашним?",
+          "questionText": "Для кого стадион Екатеринбург Арена является домашним?",
           "media": {
             "questionSlug": "std_ural",
             "dialogSlug": "logo_ural",
@@ -1061,7 +1061,7 @@
           "type": 2,
           "kind": "multi_choice",
           "payload": {},
-          "questionText": "Для какой команды Центральный стадион имени И. П. Чайки является домашним?",
+          "questionText": "Для кого стадион имени И. П. Чайки является домашним?",
           "media": {
             "questionSlug": "std_chayka_pes",
             "dialogSlug": "logo_chayka_pes",
@@ -1108,10 +1108,10 @@
         },
         {
           "id": "stadium_fnl_23",
-          "type": 3,
+          "type": 1,
           "kind": "multi_choice",
           "payload": {},
-          "questionText": "Этот стадион носил названия: \"Пищевик\", \"Тульские Лужники\", \"Труд\" и \"Центральный стадион имени 50-летия Ленинского комсомола\"",
+          "questionText": "Какой стадион носил названия: \"Пищевик\", \"Тульские Лужники\", \"Труд\" и \"Центральный стадион имени 50-летия Ленинского комсомола\"?",
           "media": {
             "questionSlug": "no_pic",
             "dialogSlug": "std_arsenal",
@@ -1158,10 +1158,10 @@
         },
         {
           "id": "stadium_fnl_24",
-          "type": 3,
+          "type": 1,
           "kind": "multi_choice",
           "payload": {},
-          "questionText": "На этом стадионе в 2016 году прошли XI Всероссийские летние сельские игры в Саратове",
+          "questionText": "На каком стадионе в 2016 году прошли XI Всероссийские летние сельские игры в Саратове?",
           "media": {
             "questionSlug": "no_pic",
             "dialogSlug": "std_sokol",
@@ -1208,10 +1208,10 @@
         },
         {
           "id": "stadium_fnl_25",
-          "type": 3,
+          "type": 1,
           "kind": "multi_choice",
           "payload": {},
-          "questionText": "Этот стадион является домашним для ФК Сокол Саратов",
+          "questionText": "Какой стадион является домашним для Сокола из Саратова?",
           "media": {
             "questionSlug": "no_pic",
             "dialogSlug": "std_sokol",
@@ -1717,7 +1717,7 @@
           "type": 1,
           "kind": "multi_choice",
           "payload": {},
-          "questionText": "Как называется домашний стадион ФК Амкар Пермь ?",
+          "questionText": "Как называется домашний стадион ФК Амкар Пермь?",
           "media": {
             "questionSlug": "logo_amkar",
             "dialogSlug": "std_amkar",
@@ -1767,7 +1767,7 @@
           "type": 1,
           "kind": "multi_choice",
           "payload": {},
-          "questionText": "Как называется домашний стадион ФК Новосибирск ?",
+          "questionText": "Как называется домашний стадион ФК Новосибирск?",
           "media": {
             "questionSlug": "logo_novosibirsk",
             "dialogSlug": "std_novosibirsk",
@@ -1817,7 +1817,7 @@
           "type": 1,
           "kind": "multi_choice",
           "payload": {},
-          "questionText": "Как называется домашний стадион ФК Авангард ?",
+          "questionText": "Как называется домашний стадион ФК Авангард?",
           "media": {
             "questionSlug": "logo_avangard_kur",
             "dialogSlug": "std_avangard_kur",
@@ -1867,7 +1867,7 @@
           "type": 1,
           "kind": "multi_choice",
           "payload": {},
-          "questionText": "Как называется домашний стадион ФК Динамо Санкт-Петербург ?",
+          "questionText": "Как называется домашний стадион ФК Динамо Санкт-Петербург?",
           "media": {
             "questionSlug": "logo_dinamo_spb",
             "dialogSlug": "std_dinamo_spb",
@@ -2064,7 +2064,7 @@
         },
         {
           "id": "stadium_pfl_17",
-          "type": 3,
+          "type": 1,
           "kind": "multi_choice",
           "payload": {},
           "questionText": "Поле этого стадиона в Тольятти было признано Международной федерацией футбола одним из лучших тренировочных в России?",
@@ -2114,7 +2114,7 @@
         },
         {
           "id": "stadium_pfl_18",
-          "type": 3,
+          "type": 1,
           "kind": "multi_choice",
           "payload": {},
           "questionText": "Самый крупный стадион в Алтайском крае и Барнауле?",
@@ -2164,7 +2164,7 @@
         },
         {
           "id": "stadium_pfl_19",
-          "type": 3,
+          "type": 1,
           "kind": "multi_choice",
           "payload": {},
           "questionText": "Как называется домашний стадион ФК Иртыш Омск?",
@@ -2214,7 +2214,7 @@
         },
         {
           "id": "stadium_pfl_20",
-          "type": 3,
+          "type": 1,
           "kind": "multi_choice",
           "payload": {},
           "questionText": "Как называется домашний стадион ФК Орел?",
@@ -2267,7 +2267,7 @@
           "type": 2,
           "kind": "multi_choice",
           "payload": {},
-          "questionText": "Для какой команды Адыгейский республиканский стадион является домашним?",
+          "questionText": "Для кого Адыгейский стадион является домашним?",
           "media": {
             "questionSlug": "std_druzhba",
             "dialogSlug": "logo_druzhba",
@@ -2317,7 +2317,7 @@
           "type": 2,
           "kind": "multi_choice",
           "payload": {},
-          "questionText": "Для какой команды стадион Леон Арена является домашним?",
+          "questionText": "Для кого стадион Леон Арена является домашним?",
           "media": {
             "questionSlug": "std_leon",
             "dialogSlug": "logo_leon",
@@ -2367,7 +2367,7 @@
           "type": 2,
           "kind": "multi_choice",
           "payload": {},
-          "questionText": "Для какой команды стадион Кировец в Санкт-Петербурге является домашним?",
+          "questionText": "Для кого стадион Кировец является домашним?",
           "media": {
             "questionSlug": "std_dinamo_spb",
             "dialogSlug": "logo_zvezda_spb",
@@ -2417,7 +2417,7 @@
           "type": 2,
           "kind": "multi_choice",
           "payload": {},
-          "questionText": "Для какой команды стадион Янтарь на северо-западе Москвы является домашним?",
+          "questionText": "Для кого стадион Янтарь является домашним?",
           "media": {
             "questionSlug": "std_strogino",
             "dialogSlug": "logo_strogino",
@@ -2467,7 +2467,7 @@
           "type": 2,
           "kind": "multi_choice",
           "payload": {},
-          "questionText": "Для какой команды Центральный стадион имени Рашида Аушева является домашним?",
+          "questionText": "Для кого стадион имени Рашида Аушева является домашним?",
           "media": {
             "questionSlug": "std_angusht",
             "dialogSlug": "logo_angusht",
@@ -2975,7 +2975,7 @@
           "payload": {},
           "questionText": "Как называется стадион, на котором состоялся финал ЧМ-2018?",
           "media": {
-            "questionSlug": "pic_wc2018",
+            "questionSlug": "no_pic",
             "dialogSlug": "std_lujniki",
             "correctSlug": "no_pic"
           },
@@ -3025,7 +3025,7 @@
           "payload": {},
           "questionText": "На этом стадионе состоялось Открытие Игр XXII Олимпиады в 1980 году?",
           "media": {
-            "questionSlug": "pic_oi1980",
+            "questionSlug": "no_pic",
             "dialogSlug": "std_lujniki",
             "correctSlug": "no_pic"
           },
@@ -3175,7 +3175,7 @@
           "payload": {},
           "questionText": "На каком из этих стадионов НЕ проходил ЧМ?",
           "media": {
-            "questionSlug": "pic_wc2018",
+            "questionSlug": "no_pic",
             "dialogSlug": "std_krasnodar",
             "correctSlug": "no_pic"
           },
@@ -3220,7 +3220,7 @@
         },
         {
           "id": "stadium_rpl_15",
-          "type": 3,
+          "type": 1,
           "kind": "multi_choice",
           "payload": {},
           "questionText": "В каком году был построен стадион Лужники?",
@@ -3270,7 +3270,7 @@
         },
         {
           "id": "stadium_rpl_16",
-          "type": 3,
+          "type": 1,
           "kind": "multi_choice",
           "payload": {},
           "questionText": "Что по форме напоминает стадион Солидарность Самара Арена?",
@@ -3320,7 +3320,7 @@
         },
         {
           "id": "stadium_rpl_17",
-          "type": 3,
+          "type": 1,
           "kind": "multi_choice",
           "payload": {},
           "questionText": "К какому большому событию был построен стадион Ак Барс Арена в Казани?",
@@ -3370,7 +3370,7 @@
         },
         {
           "id": "stadium_rpl_18",
-          "type": 3,
+          "type": 1,
           "kind": "multi_choice",
           "payload": {},
           "questionText": "На берегу какой реки расположен стадион Ростов Арена?",
@@ -3420,7 +3420,7 @@
         },
         {
           "id": "stadium_rpl_19",
-          "type": 3,
+          "type": 1,
           "kind": "multi_choice",
           "payload": {},
           "questionText": "Автором проекта этого стадиона является японский архитектор Кисё Курокава?",
@@ -3470,7 +3470,7 @@
         },
         {
           "id": "stadium_rpl_20",
-          "type": 3,
+          "type": 1,
           "kind": "multi_choice",
           "payload": {},
           "questionText": "На этом стадионе снимали фильм \"Мужская женская игра\", повествующий о женском футболе?",
@@ -3520,7 +3520,7 @@
         },
         {
           "id": "stadium_rpl_21",
-          "type": 3,
+          "type": 1,
           "kind": "multi_choice",
           "payload": {},
           "questionText": "Этот стадион находится в городе Грозном?",
@@ -3570,7 +3570,7 @@
         },
         {
           "id": "stadium_rpl_22",
-          "type": 3,
+          "type": 1,
           "kind": "multi_choice",
           "payload": {},
           "questionText": "На этом стадионе снимали утопическую комедию \"Игра\", в которой сборная России выиграла чемпионат мира?",
@@ -3620,7 +3620,7 @@
         },
         {
           "id": "stadium_rpl_23",
-          "type": 3,
+          "type": 1,
           "kind": "multi_choice",
           "payload": {},
           "questionText": "Это стадион под одной крышей объединяет футбольную и хоккейную арены?",
@@ -3670,7 +3670,7 @@
         },
         {
           "id": "stadium_rpl_24",
-          "type": 3,
+          "type": 1,
           "kind": "multi_choice",
           "payload": {},
           "questionText": "Какой стадион находится в месте слияния рек Оки и Волги?",
@@ -3720,49 +3720,49 @@
         },
         {
           "id": "stadium_rpl_25",
-          "type": 4,
+          "type": 1,
           "kind": "multi_choice",
           "payload": {},
           "questionText": "На скольких стадионах проходил чемпионат мира по футболу 2018?",
           "media": {
             "questionSlug": "no_pic",
-            "dialogSlug": "pic_wc2018",
-            "correctSlug": "num_12"
+            "dialogSlug": "no_pic",
+            "correctSlug": "no_pic"
           },
           "answers": [
             {
-              "text": "12",
-              "slug": "num_12",
+              "text": "12 стадионах",
+              "slug": "no_pic",
               "isCorrect": true,
               "id": "ans_1"
             },
             {
-              "text": "10",
-              "slug": "num_10",
+              "text": "10 стадионах",
+              "slug": "no_pic",
               "isCorrect": false,
               "id": "ans_2"
             },
             {
-              "text": "9",
-              "slug": "num_9",
+              "text": "9 стадионах",
+              "slug": "no_pic",
               "isCorrect": false,
               "id": "ans_3"
             },
             {
-              "text": "8",
-              "slug": "num_8",
+              "text": "8 стадионах",
+              "slug": "no_pic",
               "isCorrect": false,
               "id": "ans_4"
             },
             {
-              "text": "11",
-              "slug": "num_11",
+              "text": "11 стадионах",
+              "slug": "no_pic",
               "isCorrect": false,
               "id": "ans_5"
             },
             {
-              "text": "7",
-              "slug": "num_7",
+              "text": "7 стадионах",
+              "slug": "no_pic",
               "isCorrect": false,
               "id": "ans_6"
             }
@@ -3773,7 +3773,7 @@
           "type": 5,
           "kind": "multi_choice",
           "payload": {},
-          "questionText": "Для какой команды стадион Солидарность Самара Арена является домашним?",
+          "questionText": "Для кого стадион Солидарность Арена является домашним?",
           "media": {
             "questionSlug": "no_pic",
             "dialogSlug": "logo_akron",
@@ -3823,7 +3823,7 @@
           "type": 5,
           "kind": "multi_choice",
           "payload": {},
-          "questionText": "Для какой команды стадион Солидарность Самара Арена является домашним?",
+          "questionText": "Для кого стадион Солидарность Арена является домашним?",
           "media": {
             "questionSlug": "no_pic",
             "dialogSlug": "logo_ks",
@@ -3831,7 +3831,7 @@
           },
           "answers": [
             {
-              "text": "КрыльяСоветов",
+              "text": "Крылья Советов",
               "slug": "logo_ks",
               "isCorrect": true,
               "id": "ans_1"
@@ -3873,7 +3873,7 @@
           "type": 5,
           "kind": "multi_choice",
           "payload": {},
-          "questionText": "Для какой команды Центральный стадион профсоюзов является домашним?",
+          "questionText": "Для кого Центральный стадион профсоюзов является домашним?",
           "media": {
             "questionSlug": "no_pic",
             "dialogSlug": "std_voronezh",
@@ -3923,7 +3923,7 @@
           "type": 5,
           "kind": "multi_choice",
           "payload": {},
-          "questionText": "Для какой команды стадион ВЭБ Арена является домашним?",
+          "questionText": "Для кого стадион ВЭБ Арена является домашним?",
           "media": {
             "questionSlug": "no_pic",
             "dialogSlug": "logo_cska",
@@ -3973,7 +3973,7 @@
           "type": 5,
           "kind": "multi_choice",
           "payload": {},
-          "questionText": "Для какой команды стадион ВТБ Арена является домашним?",
+          "questionText": "Для кого стадион ВТБ Арена является домашним?",
           "media": {
             "questionSlug": "no_pic",
             "dialogSlug": "logo_dinamo",
@@ -4023,7 +4023,7 @@
           "type": 5,
           "kind": "multi_choice",
           "payload": {},
-          "questionText": "Для какой команды стадион Газовик является домашним?",
+          "questionText": "Для кого стадион Газовик является домашним?",
           "media": {
             "questionSlug": "no_pic",
             "dialogSlug": "logo_orenburg",
@@ -4073,7 +4073,7 @@
           "type": 5,
           "kind": "multi_choice",
           "payload": {},
-          "questionText": "Для какой команды стадион Ак Барс Арена является домашним?",
+          "questionText": "Для кого стадион Ак Барс Арена является домашним?",
           "media": {
             "questionSlug": "no_pic",
             "dialogSlug": "logo_rubin",

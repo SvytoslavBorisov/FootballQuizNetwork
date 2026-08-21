@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-07-09T06:47:33.479Z",
+  "generatedAt": "2026-08-20T11:06:00.272Z",
   "packs": [
     {
       "id": "logo_fnl",
@@ -8,56 +8,6 @@
       "items": [
         {
           "id": "logo_fnl_1",
-          "type": 1,
-          "kind": "multi_choice",
-          "payload": {},
-          "questionText": "Чья эта эмблема?",
-          "media": {
-            "questionSlug": "logo_alania_t",
-            "dialogSlug": "logo_alania",
-            "correctSlug": "no_pic"
-          },
-          "answers": [
-            {
-              "text": "Алания Владикавказ",
-              "slug": "no_pic",
-              "isCorrect": true,
-              "id": "ans_1"
-            },
-            {
-              "text": "Арсенал Тула",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_2"
-            },
-            {
-              "text": "Балтика Калининград",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_3"
-            },
-            {
-              "text": "Енисей Красноярск",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_4"
-            },
-            {
-              "text": "КАМАЗ Набережные Челны",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_5"
-            },
-            {
-              "text": "Нефтехимик Нижнекамск",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_6"
-            }
-          ]
-        },
-        {
-          "id": "logo_fnl_2",
           "type": 1,
           "kind": "multi_choice",
           "payload": {},
@@ -107,57 +57,7 @@
           ]
         },
         {
-          "id": "logo_fnl_3",
-          "type": 1,
-          "kind": "multi_choice",
-          "payload": {},
-          "questionText": "Чья эта эмблема?",
-          "media": {
-            "questionSlug": "logo_baltika_t",
-            "dialogSlug": "logo_baltika",
-            "correctSlug": "no_pic"
-          },
-          "answers": [
-            {
-              "text": "Балтика Калининград",
-              "slug": "no_pic",
-              "isCorrect": true,
-              "id": "ans_1"
-            },
-            {
-              "text": "Енисей Красноярск",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_2"
-            },
-            {
-              "text": "КАМАЗ Набережные Челны",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_3"
-            },
-            {
-              "text": "Нефтехимик Нижнекамск",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_4"
-            },
-            {
-              "text": "Родина Москва",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_5"
-            },
-            {
-              "text": "СКА-Хабаровск",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_6"
-            }
-          ]
-        },
-        {
-          "id": "logo_fnl_4",
+          "id": "logo_fnl_2",
           "type": 1,
           "kind": "multi_choice",
           "payload": {},
@@ -207,7 +107,7 @@
           ]
         },
         {
-          "id": "logo_fnl_5",
+          "id": "logo_fnl_3",
           "type": 1,
           "kind": "multi_choice",
           "payload": {},
@@ -257,7 +157,7 @@
           ]
         },
         {
-          "id": "logo_fnl_6",
+          "id": "logo_fnl_4",
           "type": 1,
           "kind": "multi_choice",
           "payload": {},
@@ -307,57 +207,7 @@
           ]
         },
         {
-          "id": "logo_fnl_7",
-          "type": 1,
-          "kind": "multi_choice",
-          "payload": {},
-          "questionText": "Чья эта эмблема?",
-          "media": {
-            "questionSlug": "logo_rodina_t",
-            "dialogSlug": "logo_rodina",
-            "correctSlug": "no_pic"
-          },
-          "answers": [
-            {
-              "text": "Родина Москва",
-              "slug": "no_pic",
-              "isCorrect": true,
-              "id": "ans_1"
-            },
-            {
-              "text": "СКА-Хабаровск",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_2"
-            },
-            {
-              "text": "Сокол Саратов",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_3"
-            },
-            {
-              "text": "Сочи",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_4"
-            },
-            {
-              "text": "Торпедо Москва",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_5"
-            },
-            {
-              "text": "Тюмень",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_6"
-            }
-          ]
-        },
-        {
-          "id": "logo_fnl_8",
+          "id": "logo_fnl_5",
           "type": 1,
           "kind": "multi_choice",
           "payload": {},
@@ -407,57 +257,7 @@
           ]
         },
         {
-          "id": "logo_fnl_9",
-          "type": 1,
-          "kind": "multi_choice",
-          "payload": {},
-          "questionText": "Чья эта эмблема?",
-          "media": {
-            "questionSlug": "logo_sokol_t",
-            "dialogSlug": "logo_sokol",
-            "correctSlug": "no_pic"
-          },
-          "answers": [
-            {
-              "text": "Сокол Саратов",
-              "slug": "no_pic",
-              "isCorrect": true,
-              "id": "ans_1"
-            },
-            {
-              "text": "Сочи",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_2"
-            },
-            {
-              "text": "Торпедо Москва",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_3"
-            },
-            {
-              "text": "Тюмень",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_4"
-            },
-            {
-              "text": "Урал Екатеринбург",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_5"
-            },
-            {
-              "text": "Уфа",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_6"
-            }
-          ]
-        },
-        {
-          "id": "logo_fnl_10",
+          "id": "logo_fnl_6",
           "type": 1,
           "kind": "multi_choice",
           "payload": {},
@@ -507,7 +307,7 @@
           ]
         },
         {
-          "id": "logo_fnl_11",
+          "id": "logo_fnl_7",
           "type": 1,
           "kind": "multi_choice",
           "payload": {},
@@ -557,57 +357,7 @@
           ]
         },
         {
-          "id": "logo_fnl_12",
-          "type": 1,
-          "kind": "multi_choice",
-          "payload": {},
-          "questionText": "Чья эта эмблема?",
-          "media": {
-            "questionSlug": "logo_tumen_t",
-            "dialogSlug": "logo_tumen",
-            "correctSlug": "no_pic"
-          },
-          "answers": [
-            {
-              "text": "Тюмень",
-              "slug": "no_pic",
-              "isCorrect": true,
-              "id": "ans_1"
-            },
-            {
-              "text": "Урал Екатеринбург",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_2"
-            },
-            {
-              "text": "Уфа",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_3"
-            },
-            {
-              "text": "Чайка Песчанокопское",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_4"
-            },
-            {
-              "text": "Черноморец Новороссийск",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_5"
-            },
-            {
-              "text": "Шинник Ярославль",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_6"
-            }
-          ]
-        },
-        {
-          "id": "logo_fnl_13",
+          "id": "logo_fnl_8",
           "type": 1,
           "kind": "multi_choice",
           "payload": {},
@@ -657,7 +407,7 @@
           ]
         },
         {
-          "id": "logo_fnl_14",
+          "id": "logo_fnl_9",
           "type": 1,
           "kind": "multi_choice",
           "payload": {},
@@ -707,107 +457,7 @@
           ]
         },
         {
-          "id": "logo_fnl_15",
-          "type": 1,
-          "kind": "multi_choice",
-          "payload": {},
-          "questionText": "Чья эта эмблема?",
-          "media": {
-            "questionSlug": "logo_chayka_pes",
-            "dialogSlug": "logo_chayka_pes",
-            "correctSlug": "no_pic"
-          },
-          "answers": [
-            {
-              "text": "Чайка Песчанокопское",
-              "slug": "no_pic",
-              "isCorrect": true,
-              "id": "ans_1"
-            },
-            {
-              "text": "Черноморец Новороссийск",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_2"
-            },
-            {
-              "text": "Шинник Ярославль",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_3"
-            },
-            {
-              "text": "Ротор Волгоград",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_4"
-            },
-            {
-              "text": "Алания Владикавказ",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_5"
-            },
-            {
-              "text": "Арсенал Тула",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_6"
-            }
-          ]
-        },
-        {
-          "id": "logo_fnl_16",
-          "type": 1,
-          "kind": "multi_choice",
-          "payload": {},
-          "questionText": "Чья эта эмблема?",
-          "media": {
-            "questionSlug": "logo_chernomorez_t",
-            "dialogSlug": "logo_chernomorez",
-            "correctSlug": "no_pic"
-          },
-          "answers": [
-            {
-              "text": "Черноморец Новороссийск",
-              "slug": "no_pic",
-              "isCorrect": true,
-              "id": "ans_1"
-            },
-            {
-              "text": "Шинник Ярославль",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_2"
-            },
-            {
-              "text": "Ротор Волгоград",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_3"
-            },
-            {
-              "text": "Алания Владикавказ",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_4"
-            },
-            {
-              "text": "Арсенал Тула",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_5"
-            },
-            {
-              "text": "Балтика Калининград",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_6"
-            }
-          ]
-        },
-        {
-          "id": "logo_fnl_17",
+          "id": "logo_fnl_10",
           "type": 1,
           "kind": "multi_choice",
           "payload": {},
@@ -857,7 +507,7 @@
           ]
         },
         {
-          "id": "logo_fnl_18",
+          "id": "logo_fnl_11",
           "type": 1,
           "kind": "multi_choice",
           "payload": {},
@@ -907,11 +557,11 @@
           ]
         },
         {
-          "id": "logo_fnl_19",
-          "type": 3,
+          "id": "logo_fnl_12",
+          "type": 1,
           "kind": "multi_choice",
           "payload": {},
-          "questionText": "Какое животное изображено на эмблеме ФК Сочи?",
+          "questionText": "Какое животное изображено на эмблеме Сочи?",
           "media": {
             "questionSlug": "no_pic",
             "dialogSlug": "logo_sochi",
@@ -919,7 +569,7 @@
           },
           "answers": [
             {
-              "text": "Снежный Барс",
+              "text": "Снежный барс",
               "slug": "no_pic",
               "isCorrect": true,
               "id": "ans_1"
@@ -957,8 +607,8 @@
           ]
         },
         {
-          "id": "logo_fnl_20",
-          "type": 3,
+          "id": "logo_fnl_13",
+          "type": 1,
           "kind": "multi_choice",
           "payload": {},
           "questionText": "Эмблема какого клуба состоит только из одной буквы?",
@@ -1007,8 +657,8 @@
           ]
         },
         {
-          "id": "logo_fnl_21",
-          "type": 3,
+          "id": "logo_fnl_14",
+          "type": 1,
           "kind": "multi_choice",
           "payload": {},
           "questionText": "У какого из этих клубов на эмблеме нет красного цвета?",
@@ -1057,108 +707,8 @@
           ]
         },
         {
-          "id": "logo_fnl_22",
-          "type": 3,
-          "kind": "multi_choice",
-          "payload": {},
-          "questionText": "У какого из этих клубов на эмблеме нет синего цвета?",
-          "media": {
-            "questionSlug": "no_pic",
-            "dialogSlug": "logo_tumen",
-            "correctSlug": "no_pic"
-          },
-          "answers": [
-            {
-              "text": "Тюмень",
-              "slug": "no_pic",
-              "isCorrect": true,
-              "id": "ans_1"
-            },
-            {
-              "text": "Родина Москва",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_2"
-            },
-            {
-              "text": "Енисей Красноярск",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_3"
-            },
-            {
-              "text": "Шинник Ярославль",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_4"
-            },
-            {
-              "text": "КАМАЗ Набережные Челны",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_5"
-            },
-            {
-              "text": "Черноморец Новороссийск",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_6"
-            }
-          ]
-        },
-        {
-          "id": "logo_fnl_23",
-          "type": 3,
-          "kind": "multi_choice",
-          "payload": {},
-          "questionText": "У какого из этих клубов на эмблеме нет футбольного мяча?",
-          "media": {
-            "questionSlug": "no_pic",
-            "dialogSlug": "logo_rodina",
-            "correctSlug": "no_pic"
-          },
-          "answers": [
-            {
-              "text": "Родина Москва",
-              "slug": "no_pic",
-              "isCorrect": true,
-              "id": "ans_1"
-            },
-            {
-              "text": "Енисей Красноярск",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_2"
-            },
-            {
-              "text": "Шинник Ярославль",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_3"
-            },
-            {
-              "text": "Алания Владикавказ",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_4"
-            },
-            {
-              "text": "Нефтехимик Нижнекамск",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_5"
-            },
-            {
-              "text": "Черноморец Новороссийск",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_6"
-            }
-          ]
-        },
-        {
-          "id": "logo_fnl_24",
-          "type": 3,
+          "id": "logo_fnl_15",
+          "type": 1,
           "kind": "multi_choice",
           "payload": {},
           "questionText": "На эмблеме какого клуба изображена лошадь?",
@@ -1207,58 +757,8 @@
           ]
         },
         {
-          "id": "logo_fnl_25",
-          "type": 3,
-          "kind": "multi_choice",
-          "payload": {},
-          "questionText": "На эмблеме какого клуба изображен голубь мира?",
-          "media": {
-            "questionSlug": "no_pic",
-            "dialogSlug": "logo_rodina",
-            "correctSlug": "no_pic"
-          },
-          "answers": [
-            {
-              "text": "Родина Москва",
-              "slug": "no_pic",
-              "isCorrect": true,
-              "id": "ans_1"
-            },
-            {
-              "text": "Чайка Песчанокопское",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_2"
-            },
-            {
-              "text": "Черноморец Новороссийск",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_3"
-            },
-            {
-              "text": "Нефтехимик Нижнекамск",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_4"
-            },
-            {
-              "text": "Балтика Калининград",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_5"
-            },
-            {
-              "text": "Сокол Саратов",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_6"
-            }
-          ]
-        },
-        {
-          "id": "logo_fnl_26",
-          "type": 3,
+          "id": "logo_fnl_16",
+          "type": 1,
           "kind": "multi_choice",
           "payload": {},
           "questionText": "На эмблеме какого клуба изображены скрещенные клинки?",
@@ -1307,8 +807,8 @@
           ]
         },
         {
-          "id": "logo_fnl_27",
-          "type": 3,
+          "id": "logo_fnl_17",
+          "type": 1,
           "kind": "multi_choice",
           "payload": {},
           "questionText": "На эмблеме какого клуба изображён медведь?",
@@ -1357,8 +857,8 @@
           ]
         },
         {
-          "id": "logo_fnl_28",
-          "type": 3,
+          "id": "logo_fnl_18",
+          "type": 1,
           "kind": "multi_choice",
           "payload": {},
           "questionText": "Какой из этих цветов присутствует на эмблеме Урала?",
@@ -1407,49 +907,319 @@
           ]
         },
         {
-          "id": "logo_fnl_29",
+          "id": "logo_fnl_19",
           "type": 1,
           "kind": "multi_choice",
           "payload": {},
-          "questionText": "Какое животное изображено на эмблеме клуба из Саратова?",
+          "questionText": "Чья эта эмблема?",
           "media": {
-            "questionSlug": "logo_sokol_t",
-            "dialogSlug": "logo_sokol",
+            "questionSlug": "logo_veles_t",
+            "dialogSlug": "logo_veles",
             "correctSlug": "no_pic"
           },
           "answers": [
             {
-              "text": "Сокол",
+              "text": "Велес",
               "slug": "no_pic",
               "isCorrect": true,
               "id": "ans_1"
             },
             {
-              "text": "Сапсан",
+              "text": "Ротор",
               "slug": "no_pic",
               "isCorrect": false,
               "id": "ans_2"
             },
             {
-              "text": "Орёл",
+              "text": "Уфа",
               "slug": "no_pic",
               "isCorrect": false,
               "id": "ans_3"
             },
             {
-              "text": "Ястреб",
+              "text": "Волга",
               "slug": "no_pic",
               "isCorrect": false,
               "id": "ans_4"
             },
             {
-              "text": "Коршун",
+              "text": "Челябинск",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            }
+          ]
+        },
+        {
+          "id": "logo_fnl_20",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Чья эта эмблема?",
+          "media": {
+            "questionSlug": "logo_pari_t",
+            "dialogSlug": "logo_pari",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Нижний Новгород",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Челябинск",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Енисей",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Шинник",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            }
+          ]
+        },
+        {
+          "id": "logo_fnl_21",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Чья эта эмблема?",
+          "media": {
+            "questionSlug": "logo_spartak_kos",
+            "dialogSlug": "logo_spartak_kos",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Спартак Кострома",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Спартак Москва",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Спартак Махачкала",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Спартак Нальчик",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            }
+          ]
+        },
+        {
+          "id": "logo_fnl_22",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Чья эта эмблема?",
+          "media": {
+            "questionSlug": "logo_leningradez_t",
+            "dialogSlug": "logo_leningradez",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Ленинградец",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Тосно",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Сокол",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Врата",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Перевал",
+              "slug": "",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Якорь",
+              "slug": "",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ]
+        },
+        {
+          "id": "logo_fnl_23",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Чья эта эмблема?",
+          "media": {
+            "questionSlug": "logo_tekstilshik_ivan_t",
+            "dialogSlug": "logo_tekstilshik_ivan",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Текстильщик Иваново",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Авангард Курск",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Калуга",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Иртыш Омск",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Волгарь Астрахань",
               "slug": "no_pic",
               "isCorrect": false,
               "id": "ans_5"
             },
             {
-              "text": "Беркут",
+              "text": "Динамо Владивосток",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ]
+        },
+        {
+          "id": "logo_fnl_24",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Чья эта эмблема?",
+          "media": {
+            "questionSlug": "logo_cheliabinsk",
+            "dialogSlug": "logo_cheliabinsk",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Челябинск",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Спартак Кострома",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Текстильщик Иваново",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Авангард Курск",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Чертаново",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Иртыш Омск",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ]
+        },
+        {
+          "id": "logo_fnl_25",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Чья эта эмблема?",
+          "media": {
+            "questionSlug": "logo_volga_ul_t",
+            "dialogSlug": "logo_volga_ul",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Волга Ульяновск",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Знамя Труда",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Новосибирск",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Муром",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Металлург Липецк",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Велес Москва",
               "slug": "no_pic",
               "isCorrect": false,
               "id": "ans_6"
@@ -1475,7 +1245,7 @@
           },
           "answers": [
             {
-              "text": "Новосибирск",
+              "text": "Сибирь",
               "slug": "no_pic",
               "isCorrect": true,
               "id": "ans_1"
@@ -1619,206 +1389,6 @@
           "payload": {},
           "questionText": "Чья эта эмблема?",
           "media": {
-            "questionSlug": "logo_veles_t",
-            "dialogSlug": "logo_veles",
-            "correctSlug": "no_pic"
-          },
-          "answers": [
-            {
-              "text": "Велес Москва",
-              "slug": "no_pic",
-              "isCorrect": true,
-              "id": "ans_1"
-            },
-            {
-              "text": "Челябинск",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_2"
-            },
-            {
-              "text": "Спартак Кострома",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_3"
-            },
-            {
-              "text": "Текстильщик Иваново",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_4"
-            },
-            {
-              "text": "Авангард Курск",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_5"
-            },
-            {
-              "text": "Калуга",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_6"
-            }
-          ]
-        },
-        {
-          "id": "logo_fnl2_5",
-          "type": 1,
-          "kind": "multi_choice",
-          "payload": {},
-          "questionText": "Чья эта эмблема?",
-          "media": {
-            "questionSlug": "logo_cheliabinsk_t",
-            "dialogSlug": "logo_cheliabinsk",
-            "correctSlug": "no_pic"
-          },
-          "answers": [
-            {
-              "text": "Челябинск",
-              "slug": "no_pic",
-              "isCorrect": true,
-              "id": "ans_1"
-            },
-            {
-              "text": "Спартак Кострома",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_2"
-            },
-            {
-              "text": "Текстильщик Иваново",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_3"
-            },
-            {
-              "text": "Авангард Курск",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_4"
-            },
-            {
-              "text": "Калуга",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_5"
-            },
-            {
-              "text": "Иртыш Омск",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_6"
-            }
-          ]
-        },
-        {
-          "id": "logo_fnl2_6",
-          "type": 1,
-          "kind": "multi_choice",
-          "payload": {},
-          "questionText": "Чья эта эмблема?",
-          "media": {
-            "questionSlug": "logo_spartak_kos",
-            "dialogSlug": "logo_spartak_kos",
-            "correctSlug": "no_pic"
-          },
-          "answers": [
-            {
-              "text": "Спартак Кострома",
-              "slug": "no_pic",
-              "isCorrect": true,
-              "id": "ans_1"
-            },
-            {
-              "text": "Спартак Москва",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_2"
-            },
-            {
-              "text": "Спарта Щелково",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_3"
-            },
-            {
-              "text": "Спартак Курск",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_4"
-            },
-            {
-              "text": "Север Мурманск",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_5"
-            },
-            {
-              "text": "Спартак Астрахань",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_6"
-            }
-          ]
-        },
-        {
-          "id": "logo_fnl2_7",
-          "type": 1,
-          "kind": "multi_choice",
-          "payload": {},
-          "questionText": "Чья эта эмблема?",
-          "media": {
-            "questionSlug": "logo_tekstilshik_ivan_t",
-            "dialogSlug": "logo_tekstilshik_ivan",
-            "correctSlug": "no_pic"
-          },
-          "answers": [
-            {
-              "text": "Текстильщик Иваново",
-              "slug": "no_pic",
-              "isCorrect": true,
-              "id": "ans_1"
-            },
-            {
-              "text": "Авангард Курск",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_2"
-            },
-            {
-              "text": "Калуга",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_3"
-            },
-            {
-              "text": "Иртыш Омск",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_4"
-            },
-            {
-              "text": "Волгарь Астрахань",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_5"
-            },
-            {
-              "text": "Динамо Владивосток",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_6"
-            }
-          ]
-        },
-        {
-          "id": "logo_fnl2_8",
-          "type": 1,
-          "kind": "multi_choice",
-          "payload": {},
-          "questionText": "Чья эта эмблема?",
-          "media": {
             "questionSlug": "logo_avangard_kur_t",
             "dialogSlug": "logo_avangard_kur",
             "correctSlug": "no_pic"
@@ -1863,7 +1433,7 @@
           ]
         },
         {
-          "id": "logo_fnl2_9",
+          "id": "logo_fnl2_5",
           "type": 1,
           "kind": "multi_choice",
           "payload": {},
@@ -1913,7 +1483,7 @@
           ]
         },
         {
-          "id": "logo_fnl2_10",
+          "id": "logo_fnl2_6",
           "type": 1,
           "kind": "multi_choice",
           "payload": {},
@@ -1963,7 +1533,7 @@
           ]
         },
         {
-          "id": "logo_fnl2_11",
+          "id": "logo_fnl2_7",
           "type": 1,
           "kind": "multi_choice",
           "payload": {},
@@ -2013,7 +1583,7 @@
           ]
         },
         {
-          "id": "logo_fnl2_12",
+          "id": "logo_fnl2_8",
           "type": 1,
           "kind": "multi_choice",
           "payload": {},
@@ -2063,7 +1633,7 @@
           ]
         },
         {
-          "id": "logo_fnl2_13",
+          "id": "logo_fnl2_9",
           "type": 1,
           "kind": "multi_choice",
           "payload": {},
@@ -2113,7 +1683,7 @@
           ]
         },
         {
-          "id": "logo_fnl2_14",
+          "id": "logo_fnl2_10",
           "type": 1,
           "kind": "multi_choice",
           "payload": {},
@@ -2163,7 +1733,7 @@
           ]
         },
         {
-          "id": "logo_fnl2_15",
+          "id": "logo_fnl2_11",
           "type": 1,
           "kind": "multi_choice",
           "payload": {},
@@ -2213,7 +1783,7 @@
           ]
         },
         {
-          "id": "logo_fnl2_16",
+          "id": "logo_fnl2_12",
           "type": 1,
           "kind": "multi_choice",
           "payload": {},
@@ -2263,7 +1833,7 @@
           ]
         },
         {
-          "id": "logo_fnl2_17",
+          "id": "logo_fnl2_13",
           "type": 1,
           "kind": "multi_choice",
           "payload": {},
@@ -2313,57 +1883,7 @@
           ]
         },
         {
-          "id": "logo_fnl2_18",
-          "type": 1,
-          "kind": "multi_choice",
-          "payload": {},
-          "questionText": "Чья эта эмблема?",
-          "media": {
-            "questionSlug": "logo_volga_ul_t",
-            "dialogSlug": "logo_volga_ul",
-            "correctSlug": "no_pic"
-          },
-          "answers": [
-            {
-              "text": "Волга Ульяновск",
-              "slug": "no_pic",
-              "isCorrect": true,
-              "id": "ans_1"
-            },
-            {
-              "text": "Знамя Труда",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_2"
-            },
-            {
-              "text": "Новосибирск",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_3"
-            },
-            {
-              "text": "Муром",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_4"
-            },
-            {
-              "text": "Металлург Липецк",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_5"
-            },
-            {
-              "text": "Велес Москва",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_6"
-            }
-          ]
-        },
-        {
-          "id": "logo_fnl2_19",
+          "id": "logo_fnl2_14",
           "type": 1,
           "kind": "multi_choice",
           "payload": {},
@@ -2413,7 +1933,7 @@
           ]
         },
         {
-          "id": "logo_fnl2_20",
+          "id": "logo_fnl2_15",
           "type": 1,
           "kind": "multi_choice",
           "payload": {},
@@ -2463,7 +1983,7 @@
           ]
         },
         {
-          "id": "logo_fnl2_21",
+          "id": "logo_fnl2_16",
           "type": 1,
           "kind": "multi_choice",
           "payload": {},
@@ -2513,8 +2033,8 @@
           ]
         },
         {
-          "id": "logo_fnl2_22",
-          "type": 3,
+          "id": "logo_fnl2_17",
+          "type": 1,
           "kind": "multi_choice",
           "payload": {},
           "questionText": "На эмблеме какого клуба изображена крепость у моря?",
@@ -2555,7 +2075,2683 @@
               "id": "ans_5"
             },
             {
+              "text": "Луки-Энергия",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ]
+        },
+        {
+          "id": "logo_fnl2_18",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Чья эта эмблема?",
+          "media": {
+            "questionSlug": "logo_rubin_yalta_t",
+            "dialogSlug": "logo_rubin_yalta",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Рубин Ялта",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Муром",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Космос",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Звезда",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Иркутск",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            }
+          ]
+        },
+        {
+          "id": "logo_fnl2_19",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Чья эта эмблема?",
+          "media": {
+            "questionSlug": "logo_zary_lugansk_t",
+            "dialogSlug": "logo_zary_lugansk",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Заря Луганск",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Носта",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Дружба",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Кызылташ",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Ангушт",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            }
+          ]
+        },
+        {
+          "id": "logo_fnl2_20",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Чья эта эмблема?",
+          "media": {
+            "questionSlug": "logo_kaziltash_t",
+            "dialogSlug": "logo_kaziltash",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Кызылташ",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Нарт",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Шахтёр",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Рубин Ялта",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Нефтяник",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Победа",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ]
+        },
+        {
+          "id": "logo_fnl2_21",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Чья эта эмблема?",
+          "media": {
+            "questionSlug": "logo_neftynnik_t",
+            "dialogSlug": "logo_neftynnik",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Нефтяник",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Астрахань",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Нарт",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Носта",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Ангушт",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Севастополь",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ]
+        },
+        {
+          "id": "logo_fnl2_22",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Чья эта эмблема?",
+          "media": {
+            "questionSlug": "logo_shahtar_t",
+            "dialogSlug": "logo_shahtar",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Шахтёр",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Горняки",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Заря",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Наст",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Ангушт",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Рубин Ялта",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ]
+        },
+        {
+          "id": "logo_fnl2_23",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Чья эта эмблема?",
+          "media": {
+            "questionSlug": "logo_cherepovets_t",
+            "dialogSlug": "logo_cherepovets",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Череповец",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Тверь",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Космос",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Иркутск",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Искра",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Чертаново",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            },
+            {
+              "text": "Муром",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_7"
+            }
+          ]
+        },
+        {
+          "id": "logo_fnl2_24",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Чья эта эмблема?",
+          "media": {
+            "questionSlug": "logo_iskra_t",
+            "dialogSlug": "logo_iskra",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Искра",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Факел",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Смоленск",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Звезда",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Атлетико",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Матрас",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ]
+        },
+        {
+          "id": "logo_fnl2_25",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Чья эта эмблема?",
+          "media": {
+            "questionSlug": "logo_shumbrat_t",
+            "dialogSlug": "logo_shumbrat",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Шумбрат",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Мордовия",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Череповец",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "СЗФО",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            }
+          ]
+        },
+        {
+          "id": "logo_fnl2_26",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Чья эта эмблема?",
+          "media": {
+            "questionSlug": "logo_volna",
+            "dialogSlug": "logo_volna",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Волна",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Волга",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Ветер",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Воин",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Вечность",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Вопреки",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ]
+        },
+        {
+          "id": "logo_fnl2_27",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Чья эта эмблема?",
+          "media": {
+            "questionSlug": "logo_kdv_t",
+            "dialogSlug": "logo_kdv",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "КДВ Томск",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Победа НН",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Химик",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Носта",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Ижевск",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Тверь",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ]
+        },
+        {
+          "id": "logo_fnl2_28",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Чья эта эмблема?",
+          "media": {
+            "questionSlug": "logo_isevsk_t",
+            "dialogSlug": "logo_isevsk",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Ижевск",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Тверь",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Рязань",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Мтищи",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Зеленоград",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            }
+          ]
+        },
+        {
+          "id": "logo_fnl2_29",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Какое животное изображено на эмблеме клуба из Саратова?",
+          "media": {
+            "questionSlug": "logo_sokol_t",
+            "dialogSlug": "logo_sokol",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Сокол",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Сапсан",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Орёл",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Ястреб",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Коршун",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Беркут",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ]
+        },
+        {
+          "id": "logo_fnl2_30",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Чья эта эмблема?",
+          "media": {
+            "questionSlug": "logo_alania_t",
+            "dialogSlug": "logo_alania",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Алания Владикавказ",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Арсенал Тула",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Балтика Калининград",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Енисей Красноярск",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "КАМАЗ Набережные Челны",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Нефтехимик Нижнекамск",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ]
+        },
+        {
+          "id": "logo_fnl2_31",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Чья эта эмблема?",
+          "media": {
+            "questionSlug": "logo_sokol_t",
+            "dialogSlug": "logo_sokol",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Сокол Саратов",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Сочи",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Торпедо Москва",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Тюмень",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Урал Екатеринбург",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Уфа",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ]
+        },
+        {
+          "id": "logo_fnl2_32",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "У какого из этих клубов на эмблеме нет синего цвета?",
+          "media": {
+            "questionSlug": "no_pic",
+            "dialogSlug": "logo_tumen",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Тюмень",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Родина Москва",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Енисей Красноярск",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Шинник Ярославль",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "КАМАЗ Набережные Челны",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Черноморец Новороссийск",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ]
+        },
+        {
+          "id": "logo_fnl2_33",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Чья эта эмблема?",
+          "media": {
+            "questionSlug": "logo_tumen_t",
+            "dialogSlug": "logo_tumen",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Тюмень",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Урал Екатеринбург",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Уфа",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Чайка Песчанокопское",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Черноморец Новороссийск",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Шинник Ярославль",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ]
+        },
+        {
+          "id": "logo_fnl2_34",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Чья эта эмблема?",
+          "media": {
+            "questionSlug": "logo_chayka_pes",
+            "dialogSlug": "logo_chayka_pes",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Чайка Песчанокопское",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Черноморец Новороссийск",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Шинник Ярославль",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Ротор Волгоград",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Алания Владикавказ",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Арсенал Тула",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ]
+        },
+        {
+          "id": "logo_fnl2_35",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Чья эта эмблема?",
+          "media": {
+            "questionSlug": "logo_chernomorez_t",
+            "dialogSlug": "logo_chernomorez",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Черноморец Новороссийск",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Шинник Ярославль",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Ротор Волгоград",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Алания Владикавказ",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Арсенал Тула",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Балтика Калининград",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ]
+        },
+        {
+          "id": "logo_fnl2_36",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Чья эта эмблема?",
+          "media": {
+            "questionSlug": "logo_zvezda_spb_t",
+            "dialogSlug": "logo_zvezda_spb",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Звезда Санкт-Петербург",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Строитель Каменск-Шахтинский",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Форте Таганрог",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Астрахань",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Легион Махачкала",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Динамо Ставрополь",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ]
+        },
+        {
+          "id": "logo_fnl2_37",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Чья эта эмблема?",
+          "media": {
+            "questionSlug": "logo_astrahan_t",
+            "dialogSlug": "logo_astrahan",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Астрахань",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Легион Махачкала",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Динамо Ставрополь",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Севастополь",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Ангушт Назрань",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Нарт Черкесск",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ]
+        },
+        {
+          "id": "logo_fnl2_38",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Чья эта эмблема?",
+          "media": {
+            "questionSlug": "logo_legion_t",
+            "dialogSlug": "logo_legion",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Легион Махачкала",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Динамо Ставрополь",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Севастополь",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Ангушт Назрань",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Нарт Черкесск",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Спартак-Нальчик",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ]
+        },
+        {
+          "id": "logo_fnl2_39",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Чья эта эмблема?",
+          "media": {
+            "questionSlug": "logo_dinamo_stav_t",
+            "dialogSlug": "logo_dinamo_stav",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Динамо Ставрополь",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Севастополь",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Ангушт Назрань",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Нарт Черкесск",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Спартак-Нальчик",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Биолог-Новокубанск Прогресс",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ]
+        },
+        {
+          "id": "logo_fnl2_40",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Чья эта эмблема?",
+          "media": {
+            "questionSlug": "logo_sevastopol_t",
+            "dialogSlug": "logo_sevastopol",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Севастополь",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Ангушт Назрань",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Нарт Черкесск",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Спартак-Нальчик",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Биолог-Новокубанск Прогресс",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Кубань-Холдинг Павловская",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ]
+        },
+        {
+          "id": "logo_fnl2_41",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Чья эта эмблема?",
+          "media": {
+            "questionSlug": "logo_angusht_t",
+            "dialogSlug": "logo_angusht",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Ангушт Назрань",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Нарт Черкесск",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Спартак-Нальчик",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Биолог-Новокубанск Прогресс",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Кубань-Холдинг Павловская",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Победа Хасавюрт",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ]
+        },
+        {
+          "id": "logo_fnl2_42",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Чья эта эмблема?",
+          "media": {
+            "questionSlug": "logo_nart_t",
+            "dialogSlug": "logo_nart",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Нарт Черкесск",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Спартак-Нальчик",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Биолог-Новокубанск Прогресс",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Кубань-Холдинг Павловская",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Победа Хасавюрт",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Дружба Майкоп",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ]
+        },
+        {
+          "id": "logo_fnl2_43",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Чья эта эмблема?",
+          "media": {
+            "questionSlug": "logo_spartak_nal_t",
+            "dialogSlug": "logo_spartak_nal",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Спартак-Нальчик",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Биолог-Новокубанск Прогресс",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Кубань-Холдинг Павловская",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Победа Хасавюрт",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Дружба Майкоп",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Динамо Санкт-Петербург",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ]
+        },
+        {
+          "id": "logo_fnl2_44",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Чья эта эмблема?",
+          "media": {
+            "questionSlug": "logo_biolog_t",
+            "dialogSlug": "logo_biolog",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Биолог-Новокубанск Прогресс",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Кубань-Холдинг Павловская",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Победа Хасавюрт",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Дружба Майкоп",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Динамо Санкт-Петербург",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Чертаново Москва",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ]
+        },
+        {
+          "id": "logo_fnl2_45",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Чья эта эмблема?",
+          "media": {
+            "questionSlug": "logo_kubanholding_t",
+            "dialogSlug": "logo_kubanholding",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Кубань-Холдинг Павловская",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Победа Хасавюрт",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Дружба Майкоп",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Динамо Санкт-Петербург",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Чертаново Москва",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Динамо Вологда",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ]
+        },
+        {
+          "id": "logo_fnl2_46",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Чья эта эмблема?",
+          "media": {
+            "questionSlug": "logo_pobeda_t",
+            "dialogSlug": "logo_pobeda",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Победа Хасавюрт",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Дружба Майкоп",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Динамо Санкт-Петербург",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Чертаново Москва",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Динамо Вологда",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Иркутск",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ]
+        },
+        {
+          "id": "logo_fnl2_47",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Чья эта эмблема?",
+          "media": {
+            "questionSlug": "logo_druzhba_t",
+            "dialogSlug": "logo_druzhba",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Дружба Майкоп",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Динамо Санкт-Петербург",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Чертаново Москва",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Динамо Вологда",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Иркутск",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Торпедо Владимир",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ]
+        },
+        {
+          "id": "logo_fnl2_48",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Чья эта эмблема?",
+          "media": {
+            "questionSlug": "logo_dinamo_spb_t",
+            "dialogSlug": "logo_dinamo_spb",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Динамо Санкт-Петербург",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Чертаново Москва",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Динамо Вологда",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Иркутск",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Торпедо Владимир",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Тверь",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ]
+        },
+        {
+          "id": "logo_fnl2_49",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Чья эта эмблема?",
+          "media": {
+            "questionSlug": "logo_dynamo_vol_t",
+            "dialogSlug": "logo_dynamo_vol",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Динамо Вологда",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Иркутск",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Торпедо Владимир",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Тверь",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
               "text": "Луки-Энергия Великие Луки",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Звезда Санкт-Петербург",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ]
+        },
+        {
+          "id": "logo_fnl2_50",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Чья эта эмблема?",
+          "media": {
+            "questionSlug": "logo_irkutsk_t",
+            "dialogSlug": "logo_irkutsk",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Иркутск",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Торпедо Владимир",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Тверь",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Луки-Энергия Великие Луки",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Звезда Санкт-Петербург",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Зенит Пенза",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ]
+        },
+        {
+          "id": "logo_fnl2_51",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Чья эта эмблема?",
+          "media": {
+            "questionSlug": "logo_torpedo_vla_t",
+            "dialogSlug": "logo_torpedo_vla",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Торпедо Владимир",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Тверь",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Луки-Энергия Великие Луки",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Звезда Санкт-Петербург",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Зенит Пенза",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Космос Долгопрудный",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ]
+        },
+        {
+          "id": "logo_fnl2_52",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Чья эта эмблема?",
+          "media": {
+            "questionSlug": "logo_tver_t",
+            "dialogSlug": "logo_tver",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Тверь",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Луки-Энергия Великие Луки",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Звезда Санкт-Петербург",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Зенит Пенза",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Космос Долгопрудный",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Композит Павловский Посад",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ]
+        },
+        {
+          "id": "logo_fnl2_53",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Чья эта эмблема?",
+          "media": {
+            "questionSlug": "logo_luki_t",
+            "dialogSlug": "logo_luki",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Луки-Энергия",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Звезда Санкт-Петербург",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Зенит Пенза",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Космос Долгопрудный",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Композит Павловский Посад",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Сахалин Южно-Сахалинск",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ]
+        },
+        {
+          "id": "logo_fnl2_54",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Чья эта эмблема?",
+          "media": {
+            "questionSlug": "logo_zenit_pen_t",
+            "dialogSlug": "logo_zenit_pen",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Зенит Пенза",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Космос Долгопрудный",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Композит Павловский Посад",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Сахалин Южно-Сахалинск",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Спартак Тамбов",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Салют Белгород",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ]
+        },
+        {
+          "id": "logo_fnl2_55",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Чья эта эмблема?",
+          "media": {
+            "questionSlug": "logo_kosmos_t",
+            "dialogSlug": "logo_kosmos",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Космос Долгопрудный",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Композит Павловский Посад",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Сахалин Южно-Сахалинск",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Спартак Тамбов",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Салют Белгород",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Рязань",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ]
+        },
+        {
+          "id": "logo_fnl2_56",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Чья эта эмблема?",
+          "media": {
+            "questionSlug": "logo_kompozit_t",
+            "dialogSlug": "logo_kompozit",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Композит Павловский Посад",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Сахалин Южно-Сахалинск",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Спартак Тамбов",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Салют Белгород",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Рязань",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Строгино Москва",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ]
+        },
+        {
+          "id": "logo_fnl2_57",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Чья эта эмблема?",
+          "media": {
+            "questionSlug": "logo_sahalin_t",
+            "dialogSlug": "logo_sahalin",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Сахалин Южно-Сахалинск",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Спартак Тамбов",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Салют Белгород",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Рязань",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Строгино Москва",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Орёл",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ]
+        },
+        {
+          "id": "logo_fnl2_58",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Чья эта эмблема?",
+          "media": {
+            "questionSlug": "logo_spartak_tam_t",
+            "dialogSlug": "logo_spartak_tam",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Спартак Тамбов",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Салют Белгород",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Рязань",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Строгино Москва",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Орёл",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Квант Обнинск",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ]
+        },
+        {
+          "id": "logo_fnl2_59",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Чья эта эмблема?",
+          "media": {
+            "questionSlug": "logo_salut_bel",
+            "dialogSlug": "logo_salut_bel",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Салют Белгород",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Рязань",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Строгино Москва",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Орёл",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Квант Обнинск",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Коломна",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ]
+        },
+        {
+          "id": "logo_fnl2_60",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Чья эта эмблема?",
+          "media": {
+            "questionSlug": "logo_ryazan",
+            "dialogSlug": "logo_ryazan",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Рязань",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Строгино Москва",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Орёл",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Квант Обнинск",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Коломна",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Динамо Киров",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ]
+        },
+        {
+          "id": "logo_fnl2_61",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Чья эта эмблема?",
+          "media": {
+            "questionSlug": "logo_strogino_t",
+            "dialogSlug": "logo_strogino",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Строгино Москва",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Орёл",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Квант Обнинск",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Коломна",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Динамо Киров",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Сокол Казань",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ]
+        },
+        {
+          "id": "logo_fnl2_62",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Чья эта эмблема?",
+          "media": {
+            "questionSlug": "logo_orel_t",
+            "dialogSlug": "logo_orel",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Орёл",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Квант Обнинск",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Коломна",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Динамо Киров",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Сокол Казань",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Амкар Пермь",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ]
+        },
+        {
+          "id": "logo_fnl2_63",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Чья эта эмблема?",
+          "media": {
+            "questionSlug": "logo_kvant_t",
+            "dialogSlug": "logo_kvant",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Квант Обнинск",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Коломна",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Динамо Киров",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Сокол Казань",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Амкар Пермь",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Носта Новотроицк",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ]
+        },
+        {
+          "id": "logo_fnl2_64",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Чья эта эмблема?",
+          "media": {
+            "questionSlug": "logo_kolomna_t",
+            "dialogSlug": "logo_kolomna",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Коломна",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Динамо Киров",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Сокол Казань",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Амкар Пермь",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Носта Новотроицк",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Уралец-ТС Нижний Тагил",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ]
+        },
+        {
+          "id": "logo_fnl2_65",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Чья эта эмблема?",
+          "media": {
+            "questionSlug": "logo_dinamo_kir_t",
+            "dialogSlug": "logo_dinamo_kir",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Динамо Киров",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Сокол Казань",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Амкар Пермь",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Носта Новотроицк",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Уралец-ТС Нижний Тагил",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Леон Сатурн Раменское",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ]
+        },
+        {
+          "id": "logo_fnl2_66",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Чья эта эмблема?",
+          "media": {
+            "questionSlug": "logo_sokol_kaz_t",
+            "dialogSlug": "logo_sokol_kaz",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Сокол Казань",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Амкар Пермь",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Коломна",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Уралец-ТС Нижний Тагил",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Леон Сатурн Раменское",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Носта Новотроицк",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ]
+        },
+        {
+          "id": "logo_fnl2_67",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Чья эта эмблема?",
+          "media": {
+            "questionSlug": "logo_amkar",
+            "dialogSlug": "logo_amkar",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Амкар Пермь",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Носта Новотроицк",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Уралец-ТС Нижний Тагил",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Леон Сатурн Раменское",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Коломна",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Динамо Барнаул",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ]
+        },
+        {
+          "id": "logo_fnl2_68",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Чья эта эмблема?",
+          "media": {
+            "questionSlug": "logo_nosta_t",
+            "dialogSlug": "logo_nosta",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Носта Новотроицк",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Уралец-ТС Нижний Тагил",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Леон Сатурн Раменское",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Коломна",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Динамо Барнаул",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Звезда Санкт-Петербург",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ]
+        },
+        {
+          "id": "logo_fnl2_69",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Чья эта эмблема?",
+          "media": {
+            "questionSlug": "logo_uralez_t",
+            "dialogSlug": "logo_uralez",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Уралец-ТС Нижний Тагил",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Леон Сатурн Раменское",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Носта Новотроицк",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Динамо Барнаул",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Звезда Санкт-Петербург",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Строитель Каменск-Шахтинский",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ]
+        },
+        {
+          "id": "logo_fnl2_70",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Чья эта эмблема?",
+          "media": {
+            "questionSlug": "logo_leon_t",
+            "dialogSlug": "logo_leon",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Леон Сатурн Раменское",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Носта Новотроицк",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Динамо Барнаул",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Звезда Санкт-Петербург",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Строитель Каменск-Шахтинский",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Форте Таганрог",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ]
+        },
+        {
+          "id": "logo_fnl2_71",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Чья эта эмблема?",
+          "media": {
+            "questionSlug": "logo_dinamo_bar_t",
+            "dialogSlug": "logo_dinamo_bar",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Динамо Барнаул",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Звезда Санкт-Петербург",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Строитель Каменск-Шахтинский",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Форте Таганрог",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Астрахань",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Легион Махачкала",
               "slug": "no_pic",
               "isCorrect": false,
               "id": "ans_6"
@@ -3549,7 +5745,6 @@
           "kind": "multi_choice",
           "payload": {},
           "questionText": "Чья это эмблема?",
-          "comment": "2DROTS — российский любительский футбольный клуб из Москвы. Двукратный чемпион российской Медийной футбольной лиги и победитель Московского кубка селебрити-2023.",
           "media": {
             "questionSlug": "logo_drots",
             "dialogSlug": "logo_drots",
@@ -3607,7 +5802,7 @@
           },
           "answers": [
             {
-              "text": "Roma",
+              "text": "Рома",
               "slug": "no_pic",
               "isCorrect": true,
               "id": "ans_1"
@@ -4107,7 +6302,7 @@
           },
           "answers": [
             {
-              "text": "Матч ТВ",
+              "text": "ФК Матч",
               "slug": "no_pic",
               "isCorrect": true,
               "id": "ans_1"
@@ -4607,7 +6802,7 @@
           },
           "answers": [
             {
-              "text": "СКА-Ростов",
+              "text": "СКА Ростов",
               "slug": "no_pic",
               "isCorrect": true,
               "id": "ans_1"
@@ -4641,6 +6836,138 @@
               "slug": "no_pic",
               "isCorrect": false,
               "id": "ans_6"
+            }
+          ]
+        },
+        {
+          "id": "logo_media_23",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Чья это эмблема?",
+          "media": {
+            "questionSlug": "logo_lit_energy_t",
+            "dialogSlug": "logo_lit_energy",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Lit Energy",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Горки",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "PRIME SQUAD",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Апсны",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Дружина",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            }
+          ]
+        },
+        {
+          "id": "logo_media_24",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Чья это эмблема?",
+          "media": {
+            "questionSlug": "logo_primesquad_t",
+            "dialogSlug": "logo_primesquad",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "PRIME SQUAD",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "LIT ENERGY",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "FC ARS",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "ФК Vibe",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Альтерон",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            }
+          ]
+        },
+        {
+          "id": "logo_media_25",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Чья это эмблема?",
+          "media": {
+            "questionSlug": "logo_banka_t",
+            "dialogSlug": "logo_banka",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Банка",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Козлы",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Деньги",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Рома",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Starmix",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
             }
           ]
         }
@@ -4831,7 +7158,7 @@
               "id": "ans_3"
             },
             {
-              "text": "Луч Владивосток",
+              "text": "Луч",
               "slug": "no_pic",
               "isCorrect": false,
               "id": "ans_4"
@@ -5037,7 +7364,7 @@
               "id": "ans_4"
             },
             {
-              "text": "Пари НН",
+              "text": "Нижний Новгород",
               "slug": "no_pic",
               "isCorrect": false,
               "id": "ans_5"
@@ -5131,7 +7458,7 @@
               "id": "ans_3"
             },
             {
-              "text": "Пари НН",
+              "text": "Нижний Новгород",
               "slug": "no_pic",
               "isCorrect": false,
               "id": "ans_4"
@@ -5169,7 +7496,7 @@
               "id": "ans_1"
             },
             {
-              "text": "Пари НН",
+              "text": "Нижний Новгород",
               "slug": "no_pic",
               "isCorrect": false,
               "id": "ans_2"
@@ -5207,13 +7534,13 @@
           "payload": {},
           "questionText": "Чья эта эмблема?",
           "media": {
-            "questionSlug": "logo_pari_t",
-            "dialogSlug": "logo_pari",
+            "questionSlug": "logo_rodina",
+            "dialogSlug": "logo_rodina",
             "correctSlug": "no_pic"
           },
           "answers": [
             {
-              "text": "Пари НН",
+              "text": "Родина",
               "slug": "no_pic",
               "isCorrect": true,
               "id": "ans_1"
@@ -5257,56 +7584,6 @@
           "payload": {},
           "questionText": "Чья эта эмблема?",
           "media": {
-            "questionSlug": "logo_khimki_t",
-            "dialogSlug": "logo_khimki",
-            "correctSlug": "no_pic"
-          },
-          "answers": [
-            {
-              "text": "Химки",
-              "slug": "no_pic",
-              "isCorrect": true,
-              "id": "ans_1"
-            },
-            {
-              "text": "Ростов",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_2"
-            },
-            {
-              "text": "Рубин",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_3"
-            },
-            {
-              "text": "Ахмат",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_4"
-            },
-            {
-              "text": "Оренбург",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_5"
-            },
-            {
-              "text": "Крылья Советов",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_6"
-            }
-          ]
-        },
-        {
-          "id": "logo_rpl_14",
-          "type": 1,
-          "kind": "multi_choice",
-          "payload": {},
-          "questionText": "Чья эта эмблема?",
-          "media": {
             "questionSlug": "logo_akron",
             "dialogSlug": "logo_akron",
             "correctSlug": "no_pic"
@@ -5325,7 +7602,7 @@
               "id": "ans_2"
             },
             {
-              "text": "Пари НН",
+              "text": "Нижний Новгород",
               "slug": "no_pic",
               "isCorrect": false,
               "id": "ans_3"
@@ -5351,51 +7628,102 @@
           ]
         },
         {
-          "id": "logo_rpl_15",
-          "type": 4,
+          "id": "logo_rpl_14",
+          "type": 1,
           "kind": "multi_choice",
           "payload": {},
           "questionText": "Сколько звёзд на эмблеме Спартака?",
           "comment": "На эмблеме Спартака 4 звезды за 22 титула Чемпиона страны",
           "media": {
             "questionSlug": "no_pic",
-            "dialogSlug": "num_4",
-            "correctSlug": "num_4"
+            "dialogSlug": "logo_spartak",
+            "correctSlug": "no_pic"
           },
           "answers": [
             {
-              "text": "звезды",
-              "slug": "num_4",
+              "text": "4 звезды",
+              "slug": "no_pic",
               "isCorrect": true,
               "id": "ans_1"
             },
             {
-              "text": "1",
-              "slug": "num_1",
+              "text": "1 звезда",
+              "slug": "no_pic",
               "isCorrect": false,
               "id": "ans_2"
             },
             {
-              "text": "3",
-              "slug": "num_3",
+              "text": "3 звезды",
+              "slug": "no_pic",
               "isCorrect": false,
               "id": "ans_3"
             },
             {
-              "text": "2",
-              "slug": "num_2",
+              "text": "2 звезды",
+              "slug": "no_pic",
               "isCorrect": false,
               "id": "ans_4"
             },
             {
-              "text": "0",
-              "slug": "num_0",
+              "text": "Нет звезд",
+              "slug": "no_pic",
               "isCorrect": false,
               "id": "ans_5"
             },
             {
-              "text": "5",
-              "slug": "num_5",
+              "text": "5 звезд",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ]
+        },
+        {
+          "id": "logo_rpl_15",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Сколько звёзд на эмблеме Зенита?",
+          "comment": "На эмблеме Зенита 2 звезды за 11 титулов Чемпиона страны",
+          "media": {
+            "questionSlug": "no_pic",
+            "dialogSlug": "logo_zenit",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "2 звезды",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "1 звезда",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "3 звезды",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "4 звезды",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Нет звезд",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "5 звезд",
+              "slug": "no_pic",
               "isCorrect": false,
               "id": "ans_6"
             }
@@ -5403,58 +7731,7 @@
         },
         {
           "id": "logo_rpl_16",
-          "type": 4,
-          "kind": "multi_choice",
-          "payload": {},
-          "questionText": "Сколько звёзд на эмблеме Зенита?",
-          "comment": "На эмблеме Зенита 2 звезды за 11 титулов Чемпиона страны",
-          "media": {
-            "questionSlug": "no_pic",
-            "dialogSlug": "num_2",
-            "correctSlug": "num_2"
-          },
-          "answers": [
-            {
-              "text": "звезды",
-              "slug": "num_2",
-              "isCorrect": true,
-              "id": "ans_1"
-            },
-            {
-              "text": "1",
-              "slug": "num_1",
-              "isCorrect": false,
-              "id": "ans_2"
-            },
-            {
-              "text": "3",
-              "slug": "num_3",
-              "isCorrect": false,
-              "id": "ans_3"
-            },
-            {
-              "text": "4",
-              "slug": "num_4",
-              "isCorrect": false,
-              "id": "ans_4"
-            },
-            {
-              "text": "0",
-              "slug": "num_0",
-              "isCorrect": false,
-              "id": "ans_5"
-            },
-            {
-              "text": "5",
-              "slug": "num_5",
-              "isCorrect": false,
-              "id": "ans_6"
-            }
-          ]
-        },
-        {
-          "id": "logo_rpl_17",
-          "type": 3,
+          "type": 1,
           "kind": "multi_choice",
           "payload": {},
           "questionText": "У какого из этих клубов на эмблеме нет красного цвета?",
@@ -5503,49 +7780,101 @@
           ]
         },
         {
-          "id": "logo_rpl_18",
-          "type": 3,
+          "id": "logo_rpl_17",
+          "type": 1,
           "kind": "multi_choice",
           "payload": {},
-          "questionText": "У какого из этих клубов на эмблеме нет  синего цвета?",
+          "questionText": "Сколько клубов в РПЛ имеют круглую эмблему?",
+          "comment": "Факел, Оренбург, Акрон",
           "media": {
             "questionSlug": "no_pic",
-            "dialogSlug": "logo_khimki",
+            "dialogSlug": "no_pic",
             "correctSlug": "no_pic"
           },
           "answers": [
             {
-              "text": "Химки",
+              "text": "3 клуба",
               "slug": "no_pic",
               "isCorrect": true,
               "id": "ans_1"
             },
             {
-              "text": "Ростов",
+              "text": "2 клуба",
               "slug": "no_pic",
               "isCorrect": false,
               "id": "ans_2"
             },
             {
-              "text": "Оренбург",
+              "text": "1 клуб",
               "slug": "no_pic",
               "isCorrect": false,
               "id": "ans_3"
             },
             {
-              "text": "Пари НН",
+              "text": "4 клуба",
               "slug": "no_pic",
               "isCorrect": false,
               "id": "ans_4"
             },
             {
-              "text": "Крылья Советов",
+              "text": "5 клубов",
               "slug": "no_pic",
               "isCorrect": false,
               "id": "ans_5"
             },
             {
-              "text": "ЦСКА",
+              "text": "6 клубов",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ]
+        },
+        {
+          "id": "logo_rpl_18",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Сколько клубов в РПЛ имеют эмблему в виде ромба?",
+          "comment": "Спартак, Крылья Советов, Динамо Махачкала",
+          "media": {
+            "questionSlug": "no_pic",
+            "dialogSlug": "no_pic",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "3 клуба",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "2 клуба",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "1 клуб",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "4 клуба",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "5 клубов",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "6 клубов",
               "slug": "no_pic",
               "isCorrect": false,
               "id": "ans_6"
@@ -5554,160 +7883,7 @@
         },
         {
           "id": "logo_rpl_19",
-          "type": 3,
-          "kind": "multi_choice",
-          "payload": {},
-          "questionText": "У какого из этих клубов на эмблеме изображён герб области, в которой играет клуб?",
-          "comment": "На эмблеме Химок изображен герб Московской области",
-          "media": {
-            "questionSlug": "no_pic",
-            "dialogSlug": "logo_khimki",
-            "correctSlug": "no_pic"
-          },
-          "answers": [
-            {
-              "text": "Химки",
-              "slug": "no_pic",
-              "isCorrect": true,
-              "id": "ans_1"
-            },
-            {
-              "text": "ЦСКА",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_2"
-            },
-            {
-              "text": "Локомотив",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_3"
-            },
-            {
-              "text": "Оренбург",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_4"
-            },
-            {
-              "text": "Факел Воронеж",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_5"
-            },
-            {
-              "text": "Ростов",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_6"
-            }
-          ]
-        },
-        {
-          "id": "logo_rpl_20",
-          "type": 4,
-          "kind": "multi_choice",
-          "payload": {},
-          "questionText": "Сколько клубов в РПЛ имеют круглую эмблему?",
-          "comment": "Факел, Оренбург, Акрон",
-          "media": {
-            "questionSlug": "no_pic",
-            "dialogSlug": "num_3",
-            "correctSlug": "num_3"
-          },
-          "answers": [
-            {
-              "text": "клуба",
-              "slug": "num_3",
-              "isCorrect": true,
-              "id": "ans_1"
-            },
-            {
-              "text": "2",
-              "slug": "num_2",
-              "isCorrect": false,
-              "id": "ans_2"
-            },
-            {
-              "text": "1",
-              "slug": "num_1",
-              "isCorrect": false,
-              "id": "ans_3"
-            },
-            {
-              "text": "4",
-              "slug": "num_4",
-              "isCorrect": false,
-              "id": "ans_4"
-            },
-            {
-              "text": "5",
-              "slug": "num_5",
-              "isCorrect": false,
-              "id": "ans_5"
-            },
-            {
-              "text": "6",
-              "slug": "num_6",
-              "isCorrect": false,
-              "id": "ans_6"
-            }
-          ]
-        },
-        {
-          "id": "logo_rpl_21",
-          "type": 4,
-          "kind": "multi_choice",
-          "payload": {},
-          "questionText": "Сколько клубов в РПЛ имеют эмблему в виде ромба?",
-          "comment": "Спартак, Крылья Советов, Динамо Махачкала",
-          "media": {
-            "questionSlug": "no_pic",
-            "dialogSlug": "num_3",
-            "correctSlug": "num_3"
-          },
-          "answers": [
-            {
-              "text": "клуба",
-              "slug": "num_3",
-              "isCorrect": true,
-              "id": "ans_1"
-            },
-            {
-              "text": "2",
-              "slug": "num_2",
-              "isCorrect": false,
-              "id": "ans_2"
-            },
-            {
-              "text": "1",
-              "slug": "num_1",
-              "isCorrect": false,
-              "id": "ans_3"
-            },
-            {
-              "text": "4",
-              "slug": "num_4",
-              "isCorrect": false,
-              "id": "ans_4"
-            },
-            {
-              "text": "5",
-              "slug": "num_5",
-              "isCorrect": false,
-              "id": "ans_5"
-            },
-            {
-              "text": "6",
-              "slug": "num_6",
-              "isCorrect": false,
-              "id": "ans_6"
-            }
-          ]
-        },
-        {
-          "id": "logo_rpl_22",
-          "type": 3,
+          "type": 1,
           "kind": "multi_choice",
           "payload": {},
           "questionText": "У какого из этих клубов на эмблеме нет футбольного мяча?",
@@ -5756,8 +7932,8 @@
           ]
         },
         {
-          "id": "logo_rpl_23",
-          "type": 3,
+          "id": "logo_rpl_20",
+          "type": 1,
           "kind": "multi_choice",
           "payload": {},
           "questionText": "На какой из этих эмблем указано название города, из которого клуб?",
@@ -5786,7 +7962,7 @@
               "id": "ans_3"
             },
             {
-              "text": "Пари НН",
+              "text": "Нижний Новгород",
               "slug": "no_pic",
               "isCorrect": false,
               "id": "ans_4"
@@ -5806,58 +7982,58 @@
           ]
         },
         {
-          "id": "logo_rpl_24",
-          "type": 4,
+          "id": "logo_rpl_21",
+          "type": 1,
           "kind": "multi_choice",
           "payload": {},
           "questionText": "За сколько побед в чемпионате России разрешается поместить звезду на эмблему?",
           "comment": "Клубам РПЛ разрешено размещать одну звезду за каждые 5 побед в российских/советских первенствах",
           "media": {
             "questionSlug": "no_pic",
-            "dialogSlug": "num_5",
-            "correctSlug": "num_5"
+            "dialogSlug": "no_pic",
+            "correctSlug": "no_pic"
           },
           "answers": [
             {
-              "text": "побед",
-              "slug": "num_5",
+              "text": "5 побед",
+              "slug": "no_pic",
               "isCorrect": true,
               "id": "ans_1"
             },
             {
               "text": "3 победы",
-              "slug": "num_3",
+              "slug": "no_pic",
               "isCorrect": false,
               "id": "ans_2"
             },
             {
               "text": "1 победу",
-              "slug": "num_1",
+              "slug": "no_pic",
               "isCorrect": false,
               "id": "ans_3"
             },
             {
               "text": "10 побед",
-              "slug": "num_10",
+              "slug": "no_pic",
               "isCorrect": false,
               "id": "ans_4"
             },
             {
               "text": "15 побед",
-              "slug": "num_15",
+              "slug": "no_pic",
               "isCorrect": false,
               "id": "ans_5"
             },
             {
               "text": "8 побед",
-              "slug": "num_8",
+              "slug": "no_pic",
               "isCorrect": false,
               "id": "ans_6"
             }
           ]
         },
         {
-          "id": "logo_rpl_25",
+          "id": "logo_rpl_22",
           "type": 1,
           "kind": "multi_choice",
           "payload": {},
@@ -5908,7 +8084,7 @@
           ]
         },
         {
-          "id": "logo_rpl_26",
+          "id": "logo_rpl_23",
           "type": 1,
           "kind": "multi_choice",
           "payload": {},
@@ -5959,15 +8135,114 @@
           ]
         },
         {
-          "id": "logo_rpl_27",
-          "type": 3,
+          "id": "logo_rpl_24",
+          "type": 1,
           "kind": "multi_choice",
           "payload": {},
-          "questionText": "Эмблема какого клуба заняла 8 место в рейтинге лучших футбольных эмблем журнала FourFourTwo?",
-          "comment": "По версии британского футбольного журнала FourFourTwo вошла в десятку лучших футбольных эмблем мира, заняв 8 место",
+          "questionText": "Чья эта эмблема?",
           "media": {
-            "questionSlug": "no_pic",
-            "dialogSlug": "logo_cska",
+            "questionSlug": "logo_baltika_t",
+            "dialogSlug": "logo_baltika",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Балтика",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Ахмат",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Нижний Новгород",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Ростов",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Рубин",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Динамо Махачкала",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ]
+        },
+        {
+          "id": "logo_rpl_25",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Чья эта эмблема?",
+          "media": {
+            "questionSlug": "logo_zenit",
+            "dialogSlug": "logo_zenit",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Зенит",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Ахмат",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Нижний Новгород",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Ростов",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Рубин",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Динамо Махачкала",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ]
+        },
+        {
+          "id": "logo_rpl_26",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Чья эта эмблема?",
+          "media": {
+            "questionSlug": "cska",
+            "dialogSlug": "cska_r",
             "correctSlug": "no_pic"
           },
           "answers": [
@@ -5978,1837 +8253,31 @@
               "id": "ans_1"
             },
             {
-              "text": "Зенит",
+              "text": "Ахмат",
               "slug": "no_pic",
               "isCorrect": false,
               "id": "ans_2"
             },
             {
-              "text": "Спартак",
+              "text": "Нижний Новгород",
               "slug": "no_pic",
               "isCorrect": false,
               "id": "ans_3"
             },
             {
-              "text": "Локомотив",
+              "text": "Ростов",
               "slug": "no_pic",
               "isCorrect": false,
               "id": "ans_4"
             },
             {
-              "text": "Акрон",
+              "text": "Рубин",
               "slug": "no_pic",
               "isCorrect": false,
               "id": "ans_5"
             },
             {
-              "text": "Динамо",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_6"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "logo_twolig",
-      "titleRu": "Вторая лига Б",
-      "items": [
-        {
-          "id": "logo_twolig_1",
-          "type": 1,
-          "kind": "multi_choice",
-          "payload": {},
-          "questionText": "Чья эта эмблема?",
-          "media": {
-            "questionSlug": "logo_zvezda_spb_t",
-            "dialogSlug": "logo_zvezda_spb",
-            "correctSlug": "no_pic"
-          },
-          "answers": [
-            {
-              "text": "Звезда Санкт-Петербург",
-              "slug": "no_pic",
-              "isCorrect": true,
-              "id": "ans_1"
-            },
-            {
-              "text": "Строитель Каменск-Шахтинский",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_2"
-            },
-            {
-              "text": "Форте Таганрог",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_3"
-            },
-            {
-              "text": "Астрахань",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_4"
-            },
-            {
-              "text": "Легион Махачкала",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_5"
-            },
-            {
-              "text": "Динамо Ставрополь",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_6"
-            }
-          ]
-        },
-        {
-          "id": "logo_twolig_2",
-          "type": 1,
-          "kind": "multi_choice",
-          "payload": {},
-          "questionText": "Чья эта эмблема?",
-          "media": {
-            "questionSlug": "logo_astrahan_t",
-            "dialogSlug": "logo_astrahan",
-            "correctSlug": "no_pic"
-          },
-          "answers": [
-            {
-              "text": "Астрахань",
-              "slug": "no_pic",
-              "isCorrect": true,
-              "id": "ans_1"
-            },
-            {
-              "text": "Легион Махачкала",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_2"
-            },
-            {
-              "text": "Динамо Ставрополь",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_3"
-            },
-            {
-              "text": "Севастополь",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_4"
-            },
-            {
-              "text": "Ангушт Назрань",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_5"
-            },
-            {
-              "text": "Нарт Черкесск",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_6"
-            }
-          ]
-        },
-        {
-          "id": "logo_twolig_3",
-          "type": 1,
-          "kind": "multi_choice",
-          "payload": {},
-          "questionText": "Чья эта эмблема?",
-          "media": {
-            "questionSlug": "logo_legion_t",
-            "dialogSlug": "logo_legion",
-            "correctSlug": "no_pic"
-          },
-          "answers": [
-            {
-              "text": "Легион Махачкала",
-              "slug": "no_pic",
-              "isCorrect": true,
-              "id": "ans_1"
-            },
-            {
-              "text": "Динамо Ставрополь",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_2"
-            },
-            {
-              "text": "Севастополь",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_3"
-            },
-            {
-              "text": "Ангушт Назрань",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_4"
-            },
-            {
-              "text": "Нарт Черкесск",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_5"
-            },
-            {
-              "text": "Спартак-Нальчик",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_6"
-            }
-          ]
-        },
-        {
-          "id": "logo_twolig_4",
-          "type": 1,
-          "kind": "multi_choice",
-          "payload": {},
-          "questionText": "Чья эта эмблема?",
-          "media": {
-            "questionSlug": "logo_dinamo_stav_t",
-            "dialogSlug": "logo_dinamo_stav",
-            "correctSlug": "no_pic"
-          },
-          "answers": [
-            {
-              "text": "Динамо Ставрополь",
-              "slug": "no_pic",
-              "isCorrect": true,
-              "id": "ans_1"
-            },
-            {
-              "text": "Севастополь",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_2"
-            },
-            {
-              "text": "Ангушт Назрань",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_3"
-            },
-            {
-              "text": "Нарт Черкесск",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_4"
-            },
-            {
-              "text": "Спартак-Нальчик",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_5"
-            },
-            {
-              "text": "Биолог-Новокубанск Прогресс",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_6"
-            }
-          ]
-        },
-        {
-          "id": "logo_twolig_5",
-          "type": 1,
-          "kind": "multi_choice",
-          "payload": {},
-          "questionText": "Чья эта эмблема?",
-          "media": {
-            "questionSlug": "logo_sevastopol_t",
-            "dialogSlug": "logo_sevastopol",
-            "correctSlug": "no_pic"
-          },
-          "answers": [
-            {
-              "text": "Севастополь",
-              "slug": "no_pic",
-              "isCorrect": true,
-              "id": "ans_1"
-            },
-            {
-              "text": "Ангушт Назрань",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_2"
-            },
-            {
-              "text": "Нарт Черкесск",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_3"
-            },
-            {
-              "text": "Спартак-Нальчик",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_4"
-            },
-            {
-              "text": "Биолог-Новокубанск Прогресс",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_5"
-            },
-            {
-              "text": "Кубань-Холдинг Павловская",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_6"
-            }
-          ]
-        },
-        {
-          "id": "logo_twolig_6",
-          "type": 1,
-          "kind": "multi_choice",
-          "payload": {},
-          "questionText": "Чья эта эмблема?",
-          "media": {
-            "questionSlug": "logo_angusht_t",
-            "dialogSlug": "logo_angusht",
-            "correctSlug": "no_pic"
-          },
-          "answers": [
-            {
-              "text": "Ангушт Назрань",
-              "slug": "no_pic",
-              "isCorrect": true,
-              "id": "ans_1"
-            },
-            {
-              "text": "Нарт Черкесск",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_2"
-            },
-            {
-              "text": "Спартак-Нальчик",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_3"
-            },
-            {
-              "text": "Биолог-Новокубанск Прогресс",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_4"
-            },
-            {
-              "text": "Кубань-Холдинг Павловская",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_5"
-            },
-            {
-              "text": "Победа Хасавюрт",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_6"
-            }
-          ]
-        },
-        {
-          "id": "logo_twolig_7",
-          "type": 1,
-          "kind": "multi_choice",
-          "payload": {},
-          "questionText": "Чья эта эмблема?",
-          "media": {
-            "questionSlug": "logo_nart_t",
-            "dialogSlug": "logo_nart",
-            "correctSlug": "no_pic"
-          },
-          "answers": [
-            {
-              "text": "Нарт Черкесск",
-              "slug": "no_pic",
-              "isCorrect": true,
-              "id": "ans_1"
-            },
-            {
-              "text": "Спартак-Нальчик",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_2"
-            },
-            {
-              "text": "Биолог-Новокубанск Прогресс",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_3"
-            },
-            {
-              "text": "Кубань-Холдинг Павловская",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_4"
-            },
-            {
-              "text": "Победа Хасавюрт",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_5"
-            },
-            {
-              "text": "Дружба Майкоп",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_6"
-            }
-          ]
-        },
-        {
-          "id": "logo_twolig_8",
-          "type": 1,
-          "kind": "multi_choice",
-          "payload": {},
-          "questionText": "Чья эта эмблема?",
-          "media": {
-            "questionSlug": "logo_spartak_nal_t",
-            "dialogSlug": "logo_spartak_nal",
-            "correctSlug": "no_pic"
-          },
-          "answers": [
-            {
-              "text": "Спартак-Нальчик",
-              "slug": "no_pic",
-              "isCorrect": true,
-              "id": "ans_1"
-            },
-            {
-              "text": "Биолог-Новокубанск Прогресс",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_2"
-            },
-            {
-              "text": "Кубань-Холдинг Павловская",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_3"
-            },
-            {
-              "text": "Победа Хасавюрт",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_4"
-            },
-            {
-              "text": "Дружба Майкоп",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_5"
-            },
-            {
-              "text": "Динамо Санкт-Петербург",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_6"
-            }
-          ]
-        },
-        {
-          "id": "logo_twolig_9",
-          "type": 1,
-          "kind": "multi_choice",
-          "payload": {},
-          "questionText": "Чья эта эмблема?",
-          "media": {
-            "questionSlug": "logo_biolog_t",
-            "dialogSlug": "logo_biolog",
-            "correctSlug": "no_pic"
-          },
-          "answers": [
-            {
-              "text": "Биолог-Новокубанск Прогресс",
-              "slug": "no_pic",
-              "isCorrect": true,
-              "id": "ans_1"
-            },
-            {
-              "text": "Кубань-Холдинг Павловская",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_2"
-            },
-            {
-              "text": "Победа Хасавюрт",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_3"
-            },
-            {
-              "text": "Дружба Майкоп",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_4"
-            },
-            {
-              "text": "Динамо Санкт-Петербург",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_5"
-            },
-            {
-              "text": "Чертаново Москва",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_6"
-            }
-          ]
-        },
-        {
-          "id": "logo_twolig_10",
-          "type": 1,
-          "kind": "multi_choice",
-          "payload": {},
-          "questionText": "Чья эта эмблема?",
-          "media": {
-            "questionSlug": "logo_kubanholding_t",
-            "dialogSlug": "logo_kubanholding",
-            "correctSlug": "no_pic"
-          },
-          "answers": [
-            {
-              "text": "Кубань-Холдинг Павловская",
-              "slug": "no_pic",
-              "isCorrect": true,
-              "id": "ans_1"
-            },
-            {
-              "text": "Победа Хасавюрт",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_2"
-            },
-            {
-              "text": "Дружба Майкоп",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_3"
-            },
-            {
-              "text": "Динамо Санкт-Петербург",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_4"
-            },
-            {
-              "text": "Чертаново Москва",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_5"
-            },
-            {
-              "text": "Динамо Вологда",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_6"
-            }
-          ]
-        },
-        {
-          "id": "logo_twolig_11",
-          "type": 1,
-          "kind": "multi_choice",
-          "payload": {},
-          "questionText": "Чья эта эмблема?",
-          "media": {
-            "questionSlug": "logo_pobeda_t",
-            "dialogSlug": "logo_pobeda",
-            "correctSlug": "no_pic"
-          },
-          "answers": [
-            {
-              "text": "Победа Хасавюрт",
-              "slug": "no_pic",
-              "isCorrect": true,
-              "id": "ans_1"
-            },
-            {
-              "text": "Дружба Майкоп",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_2"
-            },
-            {
-              "text": "Динамо Санкт-Петербург",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_3"
-            },
-            {
-              "text": "Чертаново Москва",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_4"
-            },
-            {
-              "text": "Динамо Вологда",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_5"
-            },
-            {
-              "text": "Иркутск",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_6"
-            }
-          ]
-        },
-        {
-          "id": "logo_twolig_12",
-          "type": 1,
-          "kind": "multi_choice",
-          "payload": {},
-          "questionText": "Чья эта эмблема?",
-          "media": {
-            "questionSlug": "logo_druzhba_t",
-            "dialogSlug": "logo_druzhba",
-            "correctSlug": "no_pic"
-          },
-          "answers": [
-            {
-              "text": "Дружба Майкоп",
-              "slug": "no_pic",
-              "isCorrect": true,
-              "id": "ans_1"
-            },
-            {
-              "text": "Динамо Санкт-Петербург",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_2"
-            },
-            {
-              "text": "Чертаново Москва",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_3"
-            },
-            {
-              "text": "Динамо Вологда",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_4"
-            },
-            {
-              "text": "Иркутск",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_5"
-            },
-            {
-              "text": "Торпедо Владимир",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_6"
-            }
-          ]
-        },
-        {
-          "id": "logo_twolig_13",
-          "type": 1,
-          "kind": "multi_choice",
-          "payload": {},
-          "questionText": "Чья эта эмблема?",
-          "media": {
-            "questionSlug": "logo_dinamo_spb_t",
-            "dialogSlug": "logo_dinamo_spb",
-            "correctSlug": "no_pic"
-          },
-          "answers": [
-            {
-              "text": "Динамо Санкт-Петербург",
-              "slug": "no_pic",
-              "isCorrect": true,
-              "id": "ans_1"
-            },
-            {
-              "text": "Чертаново Москва",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_2"
-            },
-            {
-              "text": "Динамо Вологда",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_3"
-            },
-            {
-              "text": "Иркутск",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_4"
-            },
-            {
-              "text": "Торпедо Владимир",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_5"
-            },
-            {
-              "text": "Тверь",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_6"
-            }
-          ]
-        },
-        {
-          "id": "logo_twolig_14",
-          "type": 1,
-          "kind": "multi_choice",
-          "payload": {},
-          "questionText": "Чья эта эмблема?",
-          "media": {
-            "questionSlug": "logo_dynamo_vol_t",
-            "dialogSlug": "logo_dynamo_vol",
-            "correctSlug": "no_pic"
-          },
-          "answers": [
-            {
-              "text": "Динамо Вологда",
-              "slug": "no_pic",
-              "isCorrect": true,
-              "id": "ans_1"
-            },
-            {
-              "text": "Иркутск",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_2"
-            },
-            {
-              "text": "Торпедо Владимир",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_3"
-            },
-            {
-              "text": "Тверь",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_4"
-            },
-            {
-              "text": "Луки-Энергия Великие Луки",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_5"
-            },
-            {
-              "text": "Звезда Санкт-Петербург",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_6"
-            }
-          ]
-        },
-        {
-          "id": "logo_twolig_15",
-          "type": 1,
-          "kind": "multi_choice",
-          "payload": {},
-          "questionText": "Чья эта эмблема?",
-          "media": {
-            "questionSlug": "logo_irkutsk_t",
-            "dialogSlug": "logo_irkutsk",
-            "correctSlug": "no_pic"
-          },
-          "answers": [
-            {
-              "text": "Иркутск",
-              "slug": "no_pic",
-              "isCorrect": true,
-              "id": "ans_1"
-            },
-            {
-              "text": "Торпедо Владимир",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_2"
-            },
-            {
-              "text": "Тверь",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_3"
-            },
-            {
-              "text": "Луки-Энергия Великие Луки",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_4"
-            },
-            {
-              "text": "Звезда Санкт-Петербург",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_5"
-            },
-            {
-              "text": "Зенит Пенза",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_6"
-            }
-          ]
-        },
-        {
-          "id": "logo_twolig_16",
-          "type": 1,
-          "kind": "multi_choice",
-          "payload": {},
-          "questionText": "Чья эта эмблема?",
-          "media": {
-            "questionSlug": "logo_torpedo_vla_t",
-            "dialogSlug": "logo_torpedo_vla",
-            "correctSlug": "no_pic"
-          },
-          "answers": [
-            {
-              "text": "Торпедо Владимир",
-              "slug": "no_pic",
-              "isCorrect": true,
-              "id": "ans_1"
-            },
-            {
-              "text": "Тверь",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_2"
-            },
-            {
-              "text": "Луки-Энергия Великие Луки",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_3"
-            },
-            {
-              "text": "Звезда Санкт-Петербург",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_4"
-            },
-            {
-              "text": "Зенит Пенза",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_5"
-            },
-            {
-              "text": "Космос Долгопрудный",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_6"
-            }
-          ]
-        },
-        {
-          "id": "logo_twolig_17",
-          "type": 1,
-          "kind": "multi_choice",
-          "payload": {},
-          "questionText": "Чья эта эмблема?",
-          "media": {
-            "questionSlug": "logo_tver_t",
-            "dialogSlug": "logo_tver",
-            "correctSlug": "no_pic"
-          },
-          "answers": [
-            {
-              "text": "Тверь",
-              "slug": "no_pic",
-              "isCorrect": true,
-              "id": "ans_1"
-            },
-            {
-              "text": "Луки-Энергия Великие Луки",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_2"
-            },
-            {
-              "text": "Звезда Санкт-Петербург",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_3"
-            },
-            {
-              "text": "Зенит Пенза",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_4"
-            },
-            {
-              "text": "Космос Долгопрудный",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_5"
-            },
-            {
-              "text": "Композит Павловский Посад",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_6"
-            }
-          ]
-        },
-        {
-          "id": "logo_twolig_18",
-          "type": 1,
-          "kind": "multi_choice",
-          "payload": {},
-          "questionText": "Чья эта эмблема?",
-          "media": {
-            "questionSlug": "logo_luki_t",
-            "dialogSlug": "logo_luki",
-            "correctSlug": "no_pic"
-          },
-          "answers": [
-            {
-              "text": "Луки-Энергия Великие Луки",
-              "slug": "no_pic",
-              "isCorrect": true,
-              "id": "ans_1"
-            },
-            {
-              "text": "Звезда Санкт-Петербург",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_2"
-            },
-            {
-              "text": "Зенит Пенза",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_3"
-            },
-            {
-              "text": "Космос Долгопрудный",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_4"
-            },
-            {
-              "text": "Композит Павловский Посад",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_5"
-            },
-            {
-              "text": "Сахалин Южно-Сахалинск",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_6"
-            }
-          ]
-        },
-        {
-          "id": "logo_twolig_19",
-          "type": 1,
-          "kind": "multi_choice",
-          "payload": {},
-          "questionText": "Чья эта эмблема?",
-          "media": {
-            "questionSlug": "logo_zenit_pen_t",
-            "dialogSlug": "logo_zenit_pen",
-            "correctSlug": "no_pic"
-          },
-          "answers": [
-            {
-              "text": "Зенит Пенза",
-              "slug": "no_pic",
-              "isCorrect": true,
-              "id": "ans_1"
-            },
-            {
-              "text": "Космос Долгопрудный",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_2"
-            },
-            {
-              "text": "Композит Павловский Посад",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_3"
-            },
-            {
-              "text": "Сахалин Южно-Сахалинск",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_4"
-            },
-            {
-              "text": "Спартак Тамбов",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_5"
-            },
-            {
-              "text": "Салют Белгород",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_6"
-            }
-          ]
-        },
-        {
-          "id": "logo_twolig_20",
-          "type": 1,
-          "kind": "multi_choice",
-          "payload": {},
-          "questionText": "Чья эта эмблема?",
-          "media": {
-            "questionSlug": "logo_kosmos_t",
-            "dialogSlug": "logo_kosmos",
-            "correctSlug": "no_pic"
-          },
-          "answers": [
-            {
-              "text": "Космос Долгопрудный",
-              "slug": "no_pic",
-              "isCorrect": true,
-              "id": "ans_1"
-            },
-            {
-              "text": "Композит Павловский Посад",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_2"
-            },
-            {
-              "text": "Сахалин Южно-Сахалинск",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_3"
-            },
-            {
-              "text": "Спартак Тамбов",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_4"
-            },
-            {
-              "text": "Салют Белгород",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_5"
-            },
-            {
-              "text": "Рязань",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_6"
-            }
-          ]
-        },
-        {
-          "id": "logo_twolig_21",
-          "type": 1,
-          "kind": "multi_choice",
-          "payload": {},
-          "questionText": "Чья эта эмблема?",
-          "media": {
-            "questionSlug": "logo_kompozit_t",
-            "dialogSlug": "logo_kompozit",
-            "correctSlug": "no_pic"
-          },
-          "answers": [
-            {
-              "text": "Композит Павловский Посад",
-              "slug": "no_pic",
-              "isCorrect": true,
-              "id": "ans_1"
-            },
-            {
-              "text": "Сахалин Южно-Сахалинск",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_2"
-            },
-            {
-              "text": "Спартак Тамбов",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_3"
-            },
-            {
-              "text": "Салют Белгород",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_4"
-            },
-            {
-              "text": "Рязань",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_5"
-            },
-            {
-              "text": "Строгино Москва",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_6"
-            }
-          ]
-        },
-        {
-          "id": "logo_twolig_22",
-          "type": 1,
-          "kind": "multi_choice",
-          "payload": {},
-          "questionText": "Чья эта эмблема?",
-          "media": {
-            "questionSlug": "logo_sahalin_t",
-            "dialogSlug": "logo_sahalin",
-            "correctSlug": "no_pic"
-          },
-          "answers": [
-            {
-              "text": "Сахалин Южно-Сахалинск",
-              "slug": "no_pic",
-              "isCorrect": true,
-              "id": "ans_1"
-            },
-            {
-              "text": "Спартак Тамбов",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_2"
-            },
-            {
-              "text": "Салют Белгород",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_3"
-            },
-            {
-              "text": "Рязань",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_4"
-            },
-            {
-              "text": "Строгино Москва",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_5"
-            },
-            {
-              "text": "Орёл",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_6"
-            }
-          ]
-        },
-        {
-          "id": "logo_twolig_23",
-          "type": 1,
-          "kind": "multi_choice",
-          "payload": {},
-          "questionText": "Чья эта эмблема?",
-          "media": {
-            "questionSlug": "logo_spartak_tam_t",
-            "dialogSlug": "logo_spartak_tam",
-            "correctSlug": "no_pic"
-          },
-          "answers": [
-            {
-              "text": "Спартак Тамбов",
-              "slug": "no_pic",
-              "isCorrect": true,
-              "id": "ans_1"
-            },
-            {
-              "text": "Салют Белгород",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_2"
-            },
-            {
-              "text": "Рязань",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_3"
-            },
-            {
-              "text": "Строгино Москва",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_4"
-            },
-            {
-              "text": "Орёл",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_5"
-            },
-            {
-              "text": "Квант Обнинск",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_6"
-            }
-          ]
-        },
-        {
-          "id": "logo_twolig_24",
-          "type": 1,
-          "kind": "multi_choice",
-          "payload": {},
-          "questionText": "Чья эта эмблема?",
-          "media": {
-            "questionSlug": "logo_salut_bel",
-            "dialogSlug": "logo_salut_bel",
-            "correctSlug": "no_pic"
-          },
-          "answers": [
-            {
-              "text": "Салют Белгород",
-              "slug": "no_pic",
-              "isCorrect": true,
-              "id": "ans_1"
-            },
-            {
-              "text": "Рязань",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_2"
-            },
-            {
-              "text": "Строгино Москва",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_3"
-            },
-            {
-              "text": "Орёл",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_4"
-            },
-            {
-              "text": "Квант Обнинск",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_5"
-            },
-            {
-              "text": "Коломна",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_6"
-            }
-          ]
-        },
-        {
-          "id": "logo_twolig_25",
-          "type": 1,
-          "kind": "multi_choice",
-          "payload": {},
-          "questionText": "Чья эта эмблема?",
-          "media": {
-            "questionSlug": "logo_ryazan",
-            "dialogSlug": "logo_ryazan",
-            "correctSlug": "no_pic"
-          },
-          "answers": [
-            {
-              "text": "Рязань",
-              "slug": "no_pic",
-              "isCorrect": true,
-              "id": "ans_1"
-            },
-            {
-              "text": "Строгино Москва",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_2"
-            },
-            {
-              "text": "Орёл",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_3"
-            },
-            {
-              "text": "Квант Обнинск",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_4"
-            },
-            {
-              "text": "Коломна",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_5"
-            },
-            {
-              "text": "Динамо Киров",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_6"
-            }
-          ]
-        },
-        {
-          "id": "logo_twolig_26",
-          "type": 1,
-          "kind": "multi_choice",
-          "payload": {},
-          "questionText": "Чья эта эмблема?",
-          "media": {
-            "questionSlug": "logo_strogino_t",
-            "dialogSlug": "logo_strogino",
-            "correctSlug": "no_pic"
-          },
-          "answers": [
-            {
-              "text": "Строгино Москва",
-              "slug": "no_pic",
-              "isCorrect": true,
-              "id": "ans_1"
-            },
-            {
-              "text": "Орёл",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_2"
-            },
-            {
-              "text": "Квант Обнинск",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_3"
-            },
-            {
-              "text": "Коломна",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_4"
-            },
-            {
-              "text": "Динамо Киров",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_5"
-            },
-            {
-              "text": "Сокол Казань",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_6"
-            }
-          ]
-        },
-        {
-          "id": "logo_twolig_27",
-          "type": 1,
-          "kind": "multi_choice",
-          "payload": {},
-          "questionText": "Чья эта эмблема?",
-          "media": {
-            "questionSlug": "logo_orel_t",
-            "dialogSlug": "logo_orel",
-            "correctSlug": "no_pic"
-          },
-          "answers": [
-            {
-              "text": "Орёл",
-              "slug": "no_pic",
-              "isCorrect": true,
-              "id": "ans_1"
-            },
-            {
-              "text": "Квант Обнинск",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_2"
-            },
-            {
-              "text": "Коломна",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_3"
-            },
-            {
-              "text": "Динамо Киров",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_4"
-            },
-            {
-              "text": "Сокол Казань",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_5"
-            },
-            {
-              "text": "Амкар Пермь",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_6"
-            }
-          ]
-        },
-        {
-          "id": "logo_twolig_28",
-          "type": 1,
-          "kind": "multi_choice",
-          "payload": {},
-          "questionText": "Чья эта эмблема?",
-          "media": {
-            "questionSlug": "logo_kvant_t",
-            "dialogSlug": "logo_kvant",
-            "correctSlug": "no_pic"
-          },
-          "answers": [
-            {
-              "text": "Квант Обнинск",
-              "slug": "no_pic",
-              "isCorrect": true,
-              "id": "ans_1"
-            },
-            {
-              "text": "Коломна",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_2"
-            },
-            {
-              "text": "Динамо Киров",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_3"
-            },
-            {
-              "text": "Сокол Казань",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_4"
-            },
-            {
-              "text": "Амкар Пермь",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_5"
-            },
-            {
-              "text": "Носта Новотроицк",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_6"
-            }
-          ]
-        },
-        {
-          "id": "logo_twolig_29",
-          "type": 1,
-          "kind": "multi_choice",
-          "payload": {},
-          "questionText": "Чья эта эмблема?",
-          "media": {
-            "questionSlug": "logo_kolomna_t",
-            "dialogSlug": "logo_kolomna",
-            "correctSlug": "no_pic"
-          },
-          "answers": [
-            {
-              "text": "Коломна",
-              "slug": "no_pic",
-              "isCorrect": true,
-              "id": "ans_1"
-            },
-            {
-              "text": "Динамо Киров",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_2"
-            },
-            {
-              "text": "Сокол Казань",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_3"
-            },
-            {
-              "text": "Амкар Пермь",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_4"
-            },
-            {
-              "text": "Носта Новотроицк",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_5"
-            },
-            {
-              "text": "Уралец-ТС Нижний Тагил",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_6"
-            }
-          ]
-        },
-        {
-          "id": "logo_twolig_30",
-          "type": 1,
-          "kind": "multi_choice",
-          "payload": {},
-          "questionText": "Чья эта эмблема?",
-          "media": {
-            "questionSlug": "logo_dinamo_kir_t",
-            "dialogSlug": "logo_dinamo_kir",
-            "correctSlug": "no_pic"
-          },
-          "answers": [
-            {
-              "text": "Динамо Киров",
-              "slug": "no_pic",
-              "isCorrect": true,
-              "id": "ans_1"
-            },
-            {
-              "text": "Сокол Казань",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_2"
-            },
-            {
-              "text": "Амкар Пермь",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_3"
-            },
-            {
-              "text": "Носта Новотроицк",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_4"
-            },
-            {
-              "text": "Уралец-ТС Нижний Тагил",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_5"
-            },
-            {
-              "text": "Леон Сатурн Раменское",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_6"
-            }
-          ]
-        },
-        {
-          "id": "logo_twolig_31",
-          "type": 1,
-          "kind": "multi_choice",
-          "payload": {},
-          "questionText": "Чья эта эмблема?",
-          "media": {
-            "questionSlug": "logo_sokol_kaz_t",
-            "dialogSlug": "logo_sokol_kaz",
-            "correctSlug": "no_pic"
-          },
-          "answers": [
-            {
-              "text": "Сокол Казань",
-              "slug": "no_pic",
-              "isCorrect": true,
-              "id": "ans_1"
-            },
-            {
-              "text": "Амкар Пермь",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_2"
-            },
-            {
-              "text": "Коломна",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_3"
-            },
-            {
-              "text": "Уралец-ТС Нижний Тагил",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_4"
-            },
-            {
-              "text": "Леон Сатурн Раменское",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_5"
-            },
-            {
-              "text": "Носта Новотроицк",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_6"
-            }
-          ]
-        },
-        {
-          "id": "logo_twolig_32",
-          "type": 1,
-          "kind": "multi_choice",
-          "payload": {},
-          "questionText": "Чья эта эмблема?",
-          "media": {
-            "questionSlug": "logo_amkar",
-            "dialogSlug": "logo_amkar",
-            "correctSlug": "no_pic"
-          },
-          "answers": [
-            {
-              "text": "Амкар Пермь",
-              "slug": "no_pic",
-              "isCorrect": true,
-              "id": "ans_1"
-            },
-            {
-              "text": "Носта Новотроицк",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_2"
-            },
-            {
-              "text": "Уралец-ТС Нижний Тагил",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_3"
-            },
-            {
-              "text": "Леон Сатурн Раменское",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_4"
-            },
-            {
-              "text": "Коломна",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_5"
-            },
-            {
-              "text": "Динамо Барнаул",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_6"
-            }
-          ]
-        },
-        {
-          "id": "logo_twolig_33",
-          "type": 1,
-          "kind": "multi_choice",
-          "payload": {},
-          "questionText": "Чья эта эмблема?",
-          "media": {
-            "questionSlug": "logo_nosta_t",
-            "dialogSlug": "logo_nosta",
-            "correctSlug": "no_pic"
-          },
-          "answers": [
-            {
-              "text": "Носта Новотроицк",
-              "slug": "no_pic",
-              "isCorrect": true,
-              "id": "ans_1"
-            },
-            {
-              "text": "Уралец-ТС Нижний Тагил",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_2"
-            },
-            {
-              "text": "Леон Сатурн Раменское",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_3"
-            },
-            {
-              "text": "Коломна",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_4"
-            },
-            {
-              "text": "Динамо Барнаул",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_5"
-            },
-            {
-              "text": "Звезда Санкт-Петербург",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_6"
-            }
-          ]
-        },
-        {
-          "id": "logo_twolig_34",
-          "type": 1,
-          "kind": "multi_choice",
-          "payload": {},
-          "questionText": "Чья эта эмблема?",
-          "media": {
-            "questionSlug": "logo_uralez_t",
-            "dialogSlug": "logo_uralez",
-            "correctSlug": "no_pic"
-          },
-          "answers": [
-            {
-              "text": "Уралец-ТС Нижний Тагил",
-              "slug": "no_pic",
-              "isCorrect": true,
-              "id": "ans_1"
-            },
-            {
-              "text": "Леон Сатурн Раменское",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_2"
-            },
-            {
-              "text": "Носта Новотроицк",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_3"
-            },
-            {
-              "text": "Динамо Барнаул",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_4"
-            },
-            {
-              "text": "Звезда Санкт-Петербург",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_5"
-            },
-            {
-              "text": "Строитель Каменск-Шахтинский",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_6"
-            }
-          ]
-        },
-        {
-          "id": "logo_twolig_35",
-          "type": 1,
-          "kind": "multi_choice",
-          "payload": {},
-          "questionText": "Чья эта эмблема?",
-          "media": {
-            "questionSlug": "logo_leon_t",
-            "dialogSlug": "logo_leon",
-            "correctSlug": "no_pic"
-          },
-          "answers": [
-            {
-              "text": "Леон Сатурн Раменское",
-              "slug": "no_pic",
-              "isCorrect": true,
-              "id": "ans_1"
-            },
-            {
-              "text": "Носта Новотроицк",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_2"
-            },
-            {
-              "text": "Динамо Барнаул",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_3"
-            },
-            {
-              "text": "Звезда Санкт-Петербург",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_4"
-            },
-            {
-              "text": "Строитель Каменск-Шахтинский",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_5"
-            },
-            {
-              "text": "Форте Таганрог",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_6"
-            }
-          ]
-        },
-        {
-          "id": "logo_twolig_36",
-          "type": 1,
-          "kind": "multi_choice",
-          "payload": {},
-          "questionText": "Чья эта эмблема?",
-          "media": {
-            "questionSlug": "logo_dinamo_bar_t",
-            "dialogSlug": "logo_dinamo_bar",
-            "correctSlug": "no_pic"
-          },
-          "answers": [
-            {
-              "text": "Динамо Барнаул",
-              "slug": "no_pic",
-              "isCorrect": true,
-              "id": "ans_1"
-            },
-            {
-              "text": "Звезда Санкт-Петербург",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_2"
-            },
-            {
-              "text": "Строитель Каменск-Шахтинский",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_3"
-            },
-            {
-              "text": "Форте Таганрог",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_4"
-            },
-            {
-              "text": "Астрахань",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_5"
-            },
-            {
-              "text": "Легион Махачкала",
+              "text": "Динамо Махачкала",
               "slug": "no_pic",
               "isCorrect": false,
               "id": "ans_6"

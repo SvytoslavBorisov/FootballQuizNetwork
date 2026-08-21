@@ -21,3 +21,9 @@ jobs:
 
       - name: Validate quiz content
         run: npm run validate
+
+      - name: Validate remote downloads
+        if: github.event_name == 'push'
+        run: npm run validate
+        env:
+          VALIDATE_REMOTE_DOWNLOADS: '1'

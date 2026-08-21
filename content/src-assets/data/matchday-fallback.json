@@ -3,80 +3,2853 @@
   "titleRu": "Матч тура",
   "packs": [
     {
-      "id": "matchday_fallback_world",
-      "titleRu": "Матч тура: мировой футбол (fallback)",
+      "id": "matchday_current",
+      "titleRu": "mt_cska_baltika",
       "items": [
         {
-          "id": "matchday_fallback_world_1",
-          "type": 0,
-          "questionText": "Сколько игроков в стартовом составе одной команды?",
-          "comment": "В начале матча в поле у каждой команды 11 игроков, включая вратаря.",
+          "id": "mt_cska_baltika_1",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Кто этот футболист?",
           "media": {
-            "questionSlug": "no_pic",
-            "dialogSlug": "no_pic",
+            "questionSlug": "cska_oblyakov",
+            "dialogSlug": "cska_oblyakov",
             "correctSlug": "no_pic"
           },
           "answers": [
             {
-              "id": "ans_1",
-              "text": "11",
+              "text": "Иван Обляков",
               "slug": "no_pic",
-              "isCorrect": true
+              "isCorrect": true,
+              "id": "ans_1"
             },
             {
-              "id": "ans_2",
-              "text": "10",
+              "text": "Игорь Акинфеев",
               "slug": "no_pic",
-              "isCorrect": false
+              "isCorrect": false,
+              "id": "ans_2"
             },
             {
-              "id": "ans_3",
-              "text": "12",
+              "text": "Владислав Тороп",
               "slug": "no_pic",
-              "isCorrect": false
+              "isCorrect": false,
+              "id": "ans_3"
             },
             {
-              "id": "ans_4",
-              "text": "9",
+              "text": "Данил Круговой",
               "slug": "no_pic",
-              "isCorrect": false
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Кирилл Глебов",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Артем Шуманский",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ],
+          "playerInfo": {
+            "age": 28,
+            "nationality": "Россия",
+            "countryCode": "RU",
+            "position": "Полузащитник"
+          }
+        }
+      ]
+    },
+    {
+      "id": "mt_spartak_krasnodar",
+      "titleRu": "mt_spartak_krasnodar",
+      "items": [
+        {
+          "id": "mt_spartak_krasnodar_1",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Кто этот футболист?",
+          "media": {
+            "questionSlug": "spartak_djiku",
+            "dialogSlug": "spartak_djiku",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Александер Джику",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Манфред Угальде",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Кристофер Мартинс",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Эсекьель Барко",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Пабло Солари",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Тео Бонгонда",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ],
+          "playerInfo": {
+            "age": 32,
+            "nationality": "Гана",
+            "countryCode": "GH",
+            "position": "Защитник"
+          }
+        },
+        {
+          "id": "mt_spartak_krasnodar_2",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Кто этот футболист?",
+          "media": {
+            "questionSlug": "spartak_parada",
+            "dialogSlug": "spartak_parada",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Виктор Парада",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Рикардо Мангас",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Кристофер Мартинс",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Эсекьель Барко",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Тео Бонгонда",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Хесус Медина",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ],
+          "playerInfo": {
+            "age": 24,
+            "nationality": "Испания",
+            "countryCode": "ES",
+            "position": "Защитник"
+          }
+        },
+        {
+          "id": "mt_spartak_krasnodar_3",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Кто этот футболист?",
+          "media": {
+            "questionSlug": "spartak_barco",
+            "dialogSlug": "spartak_barco",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Эсекьель Барко",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Рикардо Мангас",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Кристофер Мартинс",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Пабло Солари",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Манфред Угальде",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Хесус Медина",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ],
+          "playerInfo": {
+            "age": 27,
+            "nationality": "Аргентина",
+            "countryCode": "AR",
+            "position": "Полузащитник"
+          }
+        },
+        {
+          "id": "mt_spartak_krasnodar_4",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Кто этот футболист?",
+          "media": {
+            "questionSlug": "spartak_daku",
+            "dialogSlug": "spartak_daku",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Мирлинд Даку",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Кристофер Ву",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Кристофер Мартинс",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Жедсон Фернандеш",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Пабло Солари",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Срджан Бабич",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ],
+          "playerInfo": {
+            "age": 28,
+            "nationality": "Албания",
+            "countryCode": "AL",
+            "position": "Нападающий"
+          }
+        },
+        {
+          "id": "mt_spartak_krasnodar_5",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Какого футболиста Спартака дисквалифицировали из-за содержания в крови бромантана?",
+          "media": {
+            "questionSlug": "no_pic",
+            "dialogSlug": "spartak_titov",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Егор Титов",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Илья Цымбаларь",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Андрей Тихонов",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Вадим Евсеев",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Александр Филимонов",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Дмитрий Хлестов",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ],
+          "comment": "2003 год"
+        },
+        {
+          "id": "mt_spartak_krasnodar_6",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Какой бывший главный тренер Спартака вывел Швейцарию в 1/4 на ЧМ-2026?",
+          "media": {
+            "questionSlug": "no_pic",
+            "dialogSlug": "logo_spartak",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Мурат Якин",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Унаи Эмери",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Руй Витория",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Массимо Каррера",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Невио Скала",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Рауль Рианчо",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ],
+          "comment": "2014—2015 года"
+        },
+        {
+          "id": "mt_spartak_krasnodar_7",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Каким было последнее название Спартака до 1934 года?",
+          "media": {
+            "questionSlug": "no_pic",
+            "dialogSlug": "logo_spartak",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Промкооперация",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Пищевики",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Дукат",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Красная Пресня",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "РГО Сокол",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Московский клуб спорта",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
             }
           ]
         },
         {
-          "id": "matchday_fallback_world_2",
-          "type": 0,
-          "questionText": "Сколько минут длится основное время футбольного матча?",
-          "comment": "Стандартная длительность матча — 2 тайма по 45 минут.",
+          "id": "mt_spartak_krasnodar_8",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Как зовут главного тренера Спартака?",
+          "media": {
+            "questionSlug": "spartak_carsedo",
+            "dialogSlug": "spartak_carsedo",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Хуан Карседо",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Владимир Слишкович",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Доменико Тедеско",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Димитр Димитров",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Владимир Вайсс",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Миодраг Божович",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ],
+          "comment": "Главный тренер"
+        },
+        {
+          "id": "mt_spartak_krasnodar_9",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Кто этот футболист?",
+          "media": {
+            "questionSlug": "krasnodar_costa",
+            "dialogSlug": "krasnodar_costa",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Диего Коста",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Витор Тормена",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Джубал",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Джованни Гонсалес",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Лукас Олаза",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Кевин Ленини",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ],
+          "playerInfo": {
+            "age": 27,
+            "nationality": "Бразилия",
+            "countryCode": "BR",
+            "position": "Защитник"
+          }
+        },
+        {
+          "id": "mt_spartak_krasnodar_10",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Кто этот футболист?",
+          "media": {
+            "questionSlug": "krasnodar_batxi",
+            "dialogSlug": "krasnodar_batxi",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Батчи",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Диего Коста",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Витор Тормена",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Джубал",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Лукас Олаза",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Джованни Гонсалес",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ],
+          "playerInfo": {
+            "age": 28,
+            "nationality": "Ангола",
+            "countryCode": "AO",
+            "position": "Полузащитник"
+          }
+        },
+        {
+          "id": "mt_spartak_krasnodar_11",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Кто этот футболист?",
+          "media": {
+            "questionSlug": "krasnodar_lenini",
+            "dialogSlug": "krasnodar_lenini",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Кевин Ленини",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Диего Коста",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Витор Тормена",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Джубал",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Лукас Олаза",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Джованни Гонсалес",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ],
+          "playerInfo": {
+            "age": 29,
+            "nationality": "Кабо-Верде",
+            "countryCode": "CV",
+            "position": "Полузащитник"
+          }
+        },
+        {
+          "id": "mt_spartak_krasnodar_12",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Кто этот футболист?",
+          "media": {
+            "questionSlug": "krasnodar_petrov",
+            "dialogSlug": "krasnodar_petrov",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Сергей Петров",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Станислав Агкацев",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Александр Корякин",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Даниил Голиков",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Роман Сафронов",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Дмитрий Кучугура",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ],
+          "playerInfo": {
+            "age": 35,
+            "nationality": "Россия",
+            "countryCode": "RU",
+            "position": "Защитник"
+          }
+        },
+        {
+          "id": "mt_spartak_krasnodar_13",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Какой тренер вывел Краснодар в РПЛ впервые в истории?",
           "media": {
             "questionSlug": "no_pic",
+            "dialogSlug": "logo_krasnodar",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Сергей Ташуев",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Павел Садырин",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Виктор Гончаренко",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Мурад Мусаев",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Александр Кузнецов",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Олег Кононов",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ],
+          "comment": "В 2010 году ФК Сатурн подал заявление о выходе из премьер-лиги и на его место был взят, занявщий 5-е место ФК Краснодар. Сергей Ташуев к тому времени уже не работал."
+        },
+        {
+          "id": "mt_spartak_krasnodar_14",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Какое животное является талисманом Краснодара?",
+          "media": {
+            "questionSlug": "no_pic",
+            "dialogSlug": "mas_krasnodar",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Бык",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Конь",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Лев",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Журавль",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Дракон",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Волк",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ],
+          "comment": "Талисманом Краснодара является бык, который также размещён на эмблеме клуба"
+        },
+        {
+          "id": "mt_spartak_krasnodar_15",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Кто является рекордсменом Краснодара по количеству проведенных игр во всех турнирах?",
+          "media": {
+            "questionSlug": "no_pic",
+            "dialogSlug": "krasnodar_petrov",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Сергей Петров",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Матвей Сафонов",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Александр Мартынович",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Жоаозиньо",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Юрий Газинский",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Маурисио Перейра",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ],
+          "comment": "На счету Сергея Петрова 304 матча в футболке Краснодара"
+        },
+        {
+          "id": "mt_spartak_krasnodar_16",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Как зовут главного тренера Краснодара?",
+          "media": {
+            "questionSlug": "krasnodar_musaev",
+            "dialogSlug": "krasnodar_musaev",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Мурад Мусаев",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Рашид Рахимов",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Магомед Адиев",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Игорь Осинькин",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Александр Тарханов",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Юрий Нагайцев",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ],
+          "comment": "Главный тренер"
+        },
+        {
+          "id": "mt_spartak_krasnodar_17",
+          "type": 2,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "С какой командой играл Спартак в прошлом туре?",
+          "media": {
+            "questionSlug": "logo_spartak",
+            "dialogSlug": "logo_akhmat",
+            "correctSlug": "logo_akhmat"
+          },
+          "answers": [
+            {
+              "text": "Ахмат",
+              "slug": "logo_akhmat",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Зенит",
+              "slug": "logo_zenit",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Факел",
+              "slug": "logo_fakel",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Рубин",
+              "slug": "logo_rubin",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Динамо Москва",
+              "slug": "logo_dinamo",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Балтика",
+              "slug": "logo_baltika",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ],
+          "comment": "Ахмат 1:2 Спартак Москва"
+        },
+        {
+          "id": "mt_spartak_krasnodar_18",
+          "type": 2,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "С кем сыграет Спартак в следующем туре?",
+          "media": {
+            "questionSlug": "logo_spartak",
+            "dialogSlug": "logo_baltika",
+            "correctSlug": "logo_baltika"
+          },
+          "answers": [
+            {
+              "text": "Балтика",
+              "slug": "logo_baltika",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Локомотив",
+              "slug": "logo_lokomotiv",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Крылья Советов",
+              "slug": "logo_ks",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Ахмат",
+              "slug": "logo_akhmat",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Динамо Махачкала",
+              "slug": "logo_dinamo_mah",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Акрон",
+              "slug": "logo_akron",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ],
+          "comment": "4 тур. 16.08, 21:30"
+        },
+        {
+          "id": "mt_spartak_krasnodar_19",
+          "type": 2,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "С какой командой играл Краснодар в прошлом туре?",
+          "media": {
+            "questionSlug": "logo_krasnodar",
+            "dialogSlug": "logo_fakel",
+            "correctSlug": "logo_fakel"
+          },
+          "answers": [
+            {
+              "text": "Факел",
+              "slug": "logo_fakel",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Родина",
+              "slug": "logo_rodina",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Зенит",
+              "slug": "logo_zenit",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Локомотив",
+              "slug": "logo_lokomotiv",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Динамо Махачкала",
+              "slug": "logo_dinamo_mah",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Ахмат",
+              "slug": "logo_akhmat",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ],
+          "comment": "Краснодар 3:2 Факел"
+        },
+        {
+          "id": "mt_spartak_krasnodar_20",
+          "type": 2,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "С кем сыграет Краснодар в следующем туре?",
+          "media": {
+            "questionSlug": "logo_krasnodar",
+            "dialogSlug": "logo_akhmat",
+            "correctSlug": "logo_akhmat"
+          },
+          "answers": [
+            {
+              "text": "Ахмат",
+              "slug": "logo_akhmat",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Спартак",
+              "slug": "logo_spartak",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Факел",
+              "slug": "logo_fakel",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Оренбург",
+              "slug": "logo_orenburg",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "ЦСКА",
+              "slug": "logo_cska",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Крылья Советов",
+              "slug": "logo_ks",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ],
+          "comment": "4 тур. 15.08, 22:45"
+        },
+        {
+          "id": "mt_spartak_krasnodar_21",
+          "type": 2,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Кто лидирует в РПЛ после 3 туров?",
+          "media": {
+            "questionSlug": "logo_rpl",
+            "dialogSlug": "logo_zenit",
+            "correctSlug": "logo_zenit"
+          },
+          "answers": [
+            {
+              "text": "Зенит",
+              "slug": "logo_zenit",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Родина",
+              "slug": "logo_rodina",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Факел",
+              "slug": "logo_fakel",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Ахмат",
+              "slug": "logo_akhmat",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Балтика",
+              "slug": "logo_baltika",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Ростов",
+              "slug": "logo_rostov",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ],
+          "comment": "6 очков"
+        },
+        {
+          "id": "mt_spartak_krasnodar_22",
+          "type": 4,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "На каком месте находится Спартак после 3 туров?",
+          "media": {
+            "questionSlug": "logo_spartak",
+            "dialogSlug": "logo_spartak",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "2 место",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "3 место",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "6 место",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "4 место",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "5 место",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "1 место",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ],
+          "comment": "6 очков"
+        },
+        {
+          "id": "mt_spartak_krasnodar_23",
+          "type": 4,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "На каком месте находится Краснодар после 3 туров?",
+          "media": {
+            "questionSlug": "logo_krasnodar",
+            "dialogSlug": "logo_krasnodar",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "3 место",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "6 место",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "2 место",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "1 место",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "7 место",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "5 место",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ],
+          "comment": "6 очков"
+        },
+        {
+          "id": "mt_spartak_krasnodar_24",
+          "type": 2,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Какая из команд набрала больше очков в последних 5 матчах?",
+          "media": {
+            "questionSlug": "logo_rpl",
+            "dialogSlug": "logo_krasnodar",
+            "correctSlug": "logo_krasnodar"
+          },
+          "answers": [
+            {
+              "text": "Краснодар",
+              "slug": "logo_krasnodar",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Спартак",
+              "slug": "logo_spartak",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Динамо Махачкала",
+              "slug": "logo_dinamo_mah",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Акрон",
+              "slug": "logo_akron",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Крылья Советов",
+              "slug": "logo_ks",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Рубин",
+              "slug": "logo_rubin",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ],
+          "comment": "Спартак: 9 очков, Краснодар: 11 очков"
+        },
+        {
+          "id": "mt_spartak_krasnodar_25",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Кто чаще побеждал в очных противостояниях, Спартак или Краснодар?",
+          "media": {
+            "questionSlug": "https://amaranth64.github.io/RPL_V2/matchday/images/mt_spartak_krasnodar_quest.jpg",
+            "dialogSlug": "https://amaranth64.github.io/RPL_V2/matchday/images/mt_spartak_krasnodar_quest.jpg",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Спартак",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Краснодар",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Поровну",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Ничья",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Никто",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Затрудняюсь ответить",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ],
+          "comment": "Официальные: победы Спартак — 22, Краснодар — 13"
+        },
+        {
+          "id": "mt_spartak_krasnodar_26",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "С каким счетом завершилась их последняя встреча?",
+          "media": {
+            "questionSlug": "https://amaranth64.github.io/RPL_V2/matchday/images/mt_spartak_krasnodar_quest.jpg",
+            "dialogSlug": "https://amaranth64.github.io/RPL_V2/matchday/images/mt_spartak_krasnodar_quest.jpg",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Спартак Москва 1:2 Краснодар",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Спартак Москва 2:2 Краснодар",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Спартак Москва 1:3 Краснодар",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Спартак Москва 0:2 Краснодар",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Спартак Москва 1:1 Краснодар",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Спартак Москва 2:1 Краснодар",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mt_zenit_dinmos",
+      "titleRu": "mt_zenit_dinmos",
+      "items": [
+        {
+          "id": "mt_zenit_dinmos_1",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Кто этот футболист?",
+          "media": {
+            "questionSlug": "zs_henrique",
+            "dialogSlug": "zs_henrique",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Луис Энрике",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Нино",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Роберт Ренан",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Дуглас Сантос",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Жерсон",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Роман Вега",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ],
+          "playerInfo": {
+            "age": 25,
+            "nationality": "Бразилия",
+            "countryCode": "BR",
+            "position": "Полузащитник"
+          }
+        },
+        {
+          "id": "mt_zenit_dinmos_2",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Кто этот футболист?",
+          "media": {
+            "questionSlug": "zs_vega",
+            "dialogSlug": "zs_vega",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Роман Вега",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Педро",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Матео Кассьерра",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Лусиано Гонду",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Дуглас Сантос",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Роберт Ренан",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ],
+          "playerInfo": {
+            "age": 22,
+            "nationality": "Аргентина",
+            "countryCode": "AR",
+            "position": "Защитник"
+          }
+        },
+        {
+          "id": "mt_zenit_dinmos_3",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Кто этот футболист?",
+          "media": {
+            "questionSlug": "zs_erokhin",
+            "dialogSlug": "zs_erokhin",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Александр Ерохин",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Вячеслав Караваев",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Александр Соболев",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Максим Глушенков",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Андрей Мостовой",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Юрий Горшков",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ],
+          "playerInfo": {
+            "age": 36,
+            "nationality": "Россия",
+            "countryCode": "RU",
+            "position": "Полузащитник"
+          }
+        },
+        {
+          "id": "mt_zenit_dinmos_4",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Кто этот футболист?",
+          "media": {
+            "questionSlug": "zs_pedro",
+            "dialogSlug": "zs_pedro",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Педро",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Роман Вега",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Матео Кассьерра",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Лусиано Гонду",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Роберт Ренан",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Нино",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ],
+          "playerInfo": {
+            "age": 20,
+            "nationality": "Бразилия",
+            "countryCode": "BR",
+            "position": "Нападающий"
+          }
+        },
+        {
+          "id": "mt_zenit_dinmos_5",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Кто забил победный гол в финале Кубка УЕФА 2008 года против «Рейнджерс»?",
+          "media": {
+            "questionSlug": "no_pic",
+            "dialogSlug": "logo_zenit",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Игорь Денисов",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Константин Зырянов",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Анатолий Тимощук",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Виктор Файзулин",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Фатих Текке",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Андрей Аршавин",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ],
+          "comment": "Первый и победный гол на 72-й минуте забил Игорь Денисов с передачи Андрея Аршавина"
+        },
+        {
+          "id": "mt_zenit_dinmos_6",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Какое название носил Зенит до 1939 года?",
+          "media": {
+            "questionSlug": "no_pic",
+            "dialogSlug": "logo_zenit",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Сталинец",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Ленинградец",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Балтика",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Петровский",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Север",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Арсенал",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ]
+        },
+        {
+          "id": "mt_zenit_dinmos_7",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Кто провёл наибольшее количество матчей за Зенит (456 игр)?",
+          "media": {
+            "questionSlug": "no_pic",
+            "dialogSlug": "logo_zenit",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Анатолий Давыдов",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Вячеслав Малафеев",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Лев Бурчалкин",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Александр Анюков",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Александр Кержаков",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Павел Садырин",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ],
+          "comment": "Провёл за команду 456 матчей (в период с 1975 по 1988 и 1997 годы)"
+        },
+        {
+          "id": "mt_zenit_dinmos_8",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Как зовут главного тренера Зенита?",
+          "media": {
+            "questionSlug": "zs_semak",
+            "dialogSlug": "zs_semak",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Сергей Семак",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Андрей Талалаев",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Вадим Евсеев",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Владимир Федотов",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Владимир Вайсс",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Андрей Тихонов",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ],
+          "comment": "Главный тренер с 2018 года. Является игроком Зенита в прошлом. Провёл за клуб 48 матчей и забил 9 голов"
+        },
+        {
+          "id": "mt_zenit_dinmos_9",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Кто этот футболист?",
+          "media": {
+            "questionSlug": "dinamo_fomin",
+            "dialogSlug": "dinamo_fomin",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Даниил Фомин",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Данил Глебов",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Егор Смелов",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Ульви Бабаев",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Александр Куцицкий",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Андрей Кудравец",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ],
+          "playerInfo": {
+            "age": 29,
+            "nationality": "Россия",
+            "countryCode": "RU",
+            "position": "Полузащитник"
+          }
+        },
+        {
+          "id": "mt_zenit_dinmos_10",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Кто этот футболист?",
+          "media": {
+            "questionSlug": "dinamo_sergeev",
+            "dialogSlug": "dinamo_sergeev",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Иван Сергеев",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Константин Тюкавин",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Ярослав Гладышев",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Андрей Лунёв",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Максим Осипенко",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Данил Глебов",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ],
+          "playerInfo": {
+            "age": 31,
+            "nationality": "Россия",
+            "countryCode": "RU",
+            "position": "Нападающий"
+          }
+        },
+        {
+          "id": "mt_zenit_dinmos_11",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Кто этот футболист?",
+          "media": {
+            "questionSlug": "dinamo_rikardo",
+            "dialogSlug": "dinamo_rikardo",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Дэвид Рикардо",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Роберто Фернандес",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Николас Маричаль",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Диего Лаксальт",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Хуан Хосе Касерес",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Рубенс Диас",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ],
+          "playerInfo": {
+            "age": 23,
+            "nationality": "Бразилия",
+            "countryCode": "BR",
+            "position": "Защитник"
+          }
+        },
+        {
+          "id": "mt_zenit_dinmos_12",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Кто этот футболист?",
+          "media": {
+            "questionSlug": "dinamo_osipenko",
+            "dialogSlug": "dinamo_osipenko",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Максим Осипенко",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Андрей Лунёв",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Александр Куцицкий",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Ульви Бабаев",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Иван Сергеев",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Ярослав Гладышев",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ],
+          "playerInfo": {
+            "age": 32,
+            "nationality": "Россия",
+            "countryCode": "RU",
+            "position": "Защитник"
+          }
+        },
+        {
+          "id": "mt_zenit_dinmos_13",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Кто из этих футболистов никогда не играл за Динамо Москва?",
+          "media": {
+            "questionSlug": "no_pic",
+            "dialogSlug": "logo_dinamo",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Федор Черенков",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Денис Колодин",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Ролан Гусев",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Дмитрий Булыкин",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Александр Кержаков",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Дмитрий Черышев",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ],
+          "comment": "Федор Черенков никогда не выступал за Динамо"
+        },
+        {
+          "id": "mt_zenit_dinmos_14",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "В каком из этих сезонов Динамо Москва выиграло Кубок России?",
+          "media": {
+            "questionSlug": "no_pic",
+            "dialogSlug": "logo_dinamo",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "1994/1995",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "1996/1997",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "1999/2000",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "2002/2003",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "1992/1993",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "2009/2010",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ],
+          "comment": "Динамо выиграло свой единственный Кубок России в сезоне 1995"
+        },
+        {
+          "id": "mt_zenit_dinmos_15",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "В каком году Динамо М выиграло свой последний на данный момент трофей?",
+          "media": {
+            "questionSlug": "no_pic",
+            "dialogSlug": "logo_dinamo",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "1995 год",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "1992 год",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "2000 год",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "2010 год",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "2005 год",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "1997 год",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ],
+          "comment": "Свой последний трофей завоевал в 1995 году — Кубок России."
+        },
+        {
+          "id": "mt_zenit_dinmos_16",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Как зовут главного тренера Динамо Москва?",
+          "media": {
+            "questionSlug": "dinamo_shzwarz",
+            "dialogSlug": "dinamo_shzwarz",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Сандро Шварц",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Марко Николич",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Владимир Ивич",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Валерий Карпин",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Марцел Личка",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Дан Петреску",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ],
+          "comment": "Главный тренер"
+        },
+        {
+          "id": "mt_zenit_dinmos_17",
+          "type": 2,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "С какой командой играл Зенит в прошлом туре?",
+          "media": {
+            "questionSlug": "logo_zenit",
+            "dialogSlug": "logo_rodina",
+            "correctSlug": "logo_rodina"
+          },
+          "answers": [
+            {
+              "text": "Родина",
+              "slug": "logo_rodina",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Крылья Советов",
+              "slug": "logo_ks",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Оренбург",
+              "slug": "logo_orenburg",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Факел",
+              "slug": "logo_fakel",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Локомотив",
+              "slug": "logo_lokomotiv",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Ростов",
+              "slug": "logo_rostov",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ],
+          "comment": "Зенит 1:2 Родина"
+        },
+        {
+          "id": "mt_zenit_dinmos_18",
+          "type": 2,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "С кем сыграет Зенит в следующем туре?",
+          "media": {
+            "questionSlug": "logo_zenit",
+            "dialogSlug": "logo_spartak",
+            "correctSlug": "logo_spartak"
+          },
+          "answers": [
+            {
+              "text": "Спартак",
+              "slug": "logo_spartak",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Динамо Москва",
+              "slug": "logo_dinamo",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Балтика",
+              "slug": "logo_baltika",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Краснодар",
+              "slug": "logo_krasnodar",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Акрон",
+              "slug": "logo_akron",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Родина",
+              "slug": "logo_rodina",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ],
+          "comment": "5 тур. 23.08, 22:00"
+        },
+        {
+          "id": "mt_zenit_dinmos_19",
+          "type": 2,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "С какой командой играл Динамо Москва в прошлом туре?",
+          "media": {
+            "questionSlug": "logo_dinamo",
+            "dialogSlug": "logo_dinamo_mah",
+            "correctSlug": "logo_dinamo_mah"
+          },
+          "answers": [
+            {
+              "text": "Динамо Махачкала",
+              "slug": "logo_dinamo_mah",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Факел",
+              "slug": "logo_fakel",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Ростов",
+              "slug": "logo_rostov",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Спартак",
+              "slug": "logo_spartak",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Акрон",
+              "slug": "logo_akron",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Балтика",
+              "slug": "logo_baltika",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ],
+          "comment": "Динамо Москва 3:1 Динамо Махачкала"
+        },
+        {
+          "id": "mt_zenit_dinmos_20",
+          "type": 2,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "С кем сыграет Динамо Москва в следующем туре?",
+          "media": {
+            "questionSlug": "logo_dinamo",
+            "dialogSlug": "logo_rodina",
+            "correctSlug": "logo_rodina"
+          },
+          "answers": [
+            {
+              "text": "Родина",
+              "slug": "logo_rodina",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Зенит",
+              "slug": "logo_zenit",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Рубин",
+              "slug": "logo_rubin",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Ахмат",
+              "slug": "logo_akhmat",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Динамо Махачкала",
+              "slug": "logo_dinamo_mah",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Локомотив",
+              "slug": "logo_lokomotiv",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ],
+          "comment": "5 тур. 23.08, 17:15"
+        },
+        {
+          "id": "mt_zenit_dinmos_21",
+          "type": 2,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Кто лидирует в РПЛ после 3 туров?",
+          "media": {
+            "questionSlug": "logo_rpl",
+            "dialogSlug": "logo_krasnodar",
+            "correctSlug": "logo_krasnodar"
+          },
+          "answers": [
+            {
+              "text": "Краснодар",
+              "slug": "logo_krasnodar",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Ахмат",
+              "slug": "logo_akhmat",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Динамо Махачкала",
+              "slug": "logo_dinamo_mah",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Балтика",
+              "slug": "logo_baltika",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "ЦСКА",
+              "slug": "logo_cska",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Спартак",
+              "slug": "logo_spartak",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ],
+          "comment": "9 очков"
+        },
+        {
+          "id": "mt_zenit_dinmos_22",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "На каком месте находится Зенит после 3 туров?",
+          "media": {
+            "questionSlug": "logo_zenit",
+            "dialogSlug": "logo_zenit",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "2 место",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "5 место",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "4 место",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "3 место",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "6 место",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "1 место",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ],
+          "comment": "6 очков"
+        },
+        {
+          "id": "mt_zenit_dinmos_23",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "На каком месте находится Динамо Москва после 3 туров?",
+          "media": {
+            "questionSlug": "logo_dinamo",
+            "dialogSlug": "logo_dinamo",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "8 место",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "10 место",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "6 место",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "5 место",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "9 место",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "11 место",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ],
+          "comment": "4 очков"
+        },
+        {
+          "id": "mt_zenit_dinmos_24",
+          "type": 2,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Кто является лучшим бомбардиром РПЛ после 3 туров?",
+          "media": {
+            "questionSlug": "logo_rpl",
             "dialogSlug": "no_pic",
             "correctSlug": "no_pic"
           },
           "answers": [
             {
-              "id": "ans_1",
-              "text": "90 минут",
+              "text": "Максим Глушенков",
               "slug": "no_pic",
-              "isCorrect": true
+              "isCorrect": true,
+              "id": "ans_1"
             },
             {
-              "id": "ans_2",
-              "text": "80 минут",
+              "text": "Никита Кривцов",
               "slug": "no_pic",
-              "isCorrect": false
+              "isCorrect": false,
+              "id": "ans_2"
             },
             {
-              "id": "ans_3",
-              "text": "100 минут",
+              "text": "Мирлинд Даку",
               "slug": "no_pic",
-              "isCorrect": false
+              "isCorrect": false,
+              "id": "ans_3"
             },
             {
-              "id": "ans_4",
-              "text": "120 минут",
+              "text": "Александр Соболев",
               "slug": "no_pic",
-              "isCorrect": false
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Алексей Сутормин",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Даниил Шанталий",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ],
+          "comment": "Забил 4 голов в 3 матчах"
+        },
+        {
+          "id": "mt_zenit_dinmos_25",
+          "type": 2,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Какая из команд набрала больше очков в последних 5 матчах?",
+          "media": {
+            "questionSlug": "logo_rpl",
+            "dialogSlug": "logo_zenit",
+            "correctSlug": "logo_zenit"
+          },
+          "answers": [
+            {
+              "text": "Зенит",
+              "slug": "logo_zenit",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Динамо Москва",
+              "slug": "logo_dinamo",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Рубин",
+              "slug": "logo_rubin",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Динамо Махачкала",
+              "slug": "logo_dinamo_mah",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Спартак",
+              "slug": "logo_spartak",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Балтика",
+              "slug": "logo_baltika",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ],
+          "comment": "Зенит: 12 очков, Динамо Москва: 10 очков"
+        },
+        {
+          "id": "mt_zenit_dinmos_26",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Кто чаще побеждал в очных противостояниях, Зенит или Динамо Москва?",
+          "media": {
+            "questionSlug": "https://amaranth64.github.io/RPL_V2/matchday/images/mt_zenit_dinmos_quest.jpg",
+            "dialogSlug": "https://amaranth64.github.io/RPL_V2/matchday/images/mt_zenit_dinmos_quest.jpg",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Динамо Москва",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Зенит",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Поровну",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Ничья",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Никто",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Затрудняюсь ответить",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ],
+          "comment": "Официальные: победы Зенит — 59, Динамо Москва — 70"
+        },
+        {
+          "id": "mt_zenit_dinmos_27",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "С каким счетом завершилась их последняя встреча?",
+          "media": {
+            "questionSlug": "https://amaranth64.github.io/RPL_V2/matchday/images/mt_zenit_dinmos_quest.jpg",
+            "dialogSlug": "https://amaranth64.github.io/RPL_V2/matchday/images/mt_zenit_dinmos_quest.jpg",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Динамо Москва 1:3 Зенит",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Динамо Москва 2:3 Зенит",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Динамо Москва 1:4 Зенит",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Динамо Москва 0:3 Зенит",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Динамо Москва 1:2 Зенит",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Динамо Москва 3:1 Зенит",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
             }
           ]
         }
