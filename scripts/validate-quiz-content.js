@@ -15,6 +15,7 @@ const mediaIndexPath = path.join(rootDir, 'content', 'media-index.json');
 
 const resolvedDataRoot = fs.existsSync(dataRoot) ? dataRoot : sourceDataRoot;
 const resolvedMediaRoot = fs.existsSync(mediaRoot) ? mediaRoot : sourceMediaRoot;
+const isNetworkBundle = resolvedDataRoot === sourceDataRoot;
 const workbookPrefixes = (process.env.VALIDATE_PREFIXES || 'logo_,stadium_')
   .split(',')
   .map(item => item.trim().toLowerCase())
@@ -296,6 +297,26 @@ function validateJsonContent(mediaSlugs) {
       continue;
     }
     const packLocationsById = new Map();
+
+    if (relative.endsWith('current-matchday.json')) {
+      const selectedFile = normalizeText(json.file).toLowerCase();
+      if (!/^[a-z0-9][a-z0-9._-]*\.json$/.test(selectedFile)) {
+        errors.push(`${relative}: file must be a safe JSON file name`);
+      } else if (!fs.existsSync(path.join(path.dirname(filePath), selectedFile))) {
+        errors.push(`${relative}: selected matchday file does not exist: ${selectedFile}`);
+      } else if (isNetworkBundle) {
+        const selectedPath = path.join(path.dirname(filePath), selectedFile);
+        const expectedHash = normalizeText(json.sha256).toLowerCase();
+        if (!/^[a-f0-9]{64}$/.test(expectedHash)) {
+          errors.push(`${relative}: sha256 must be a 64-character hexadecimal hash`);
+        } else if (sha256File(selectedPath) !== expectedHash) {
+          errors.push(`${relative}: sha256 does not match ${selectedFile}`);
+        }
+        if (Number(json.bytes) !== fs.statSync(selectedPath).size) {
+          errors.push(`${relative}: bytes does not match ${selectedFile}`);
+        }
+      }
+    }
 
     function rememberPackId(pack, label) {
       const packId = normalizeText(pack?.id);

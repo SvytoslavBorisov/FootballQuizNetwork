@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-25T11:19:58.254Z",
+  "updatedAt": "2026-08-25T15:34:05.989Z",
   "sourceAssetsPath": "content/src-assets",
   "sourceAssetsRawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/",
   "datasets": {
@@ -25,8 +25,8 @@
     "current_matchday": {
       "path": "content/src-assets/data/current-matchday.json",
       "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/data/current-matchday.json",
-      "sha256": "f8b029be3b2ff26295a6761b0f9c8aaf30bad3d55850fff087d36b55df29cd90",
-      "bytes": 35
+      "sha256": "897a19ff4159b7c9caaf8bb9cd16eb1d5617d2f10cabe3f34b2f41896d8438a8",
+      "bytes": 150
     },
     "h2h_cache": {
       "path": "content/src-assets/data/h2h_cache.json",
@@ -43,7 +43,7 @@
     "logos_packs": {
       "path": "content/src-assets/data/logos-packs.json",
       "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/data/logos-packs.json",
-      "sha256": "781e18d83385a33de003ca7277a8440c6aa2c251d5dc2b40dd8dcbcfdd109dd6",
+      "sha256": "01cf0d54d835026bdc9d312ef79b7bfcab1cd89ea288c39217b8d8a73efd0e92",
       "bytes": 240345
     },
     "md_test": {
@@ -91,14 +91,14 @@
     "stadiums_packs": {
       "path": "content/src-assets/data/stadiums-packs.json",
       "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/data/stadiums-packs.json",
-      "sha256": "3c6a2c1da519edacd2024f83113630a713404dea8bed0d379e02ca21b5257008",
+      "sha256": "67ab619c87c3dd0ed9afd3d9f25f776c9430bfabd512d0a85dc4e64d8a45a682",
       "bytes": 119509
     }
   },
   "mediaIndex": {
     "path": "content/media-index.json",
     "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/media-index.json",
-    "sha256": "92caee679764010916fb24753d5c4566aa6ce75f73b7238f993f4e399871a5da",
+    "sha256": "5afe305fcd3cfcbd967b9d1337a6ca75af0d4b6e6187df1328639b192828ba7f",
     "bytes": 332677
   },
   "requiredMediaSlugs": [
