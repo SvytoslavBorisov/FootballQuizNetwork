@@ -65,6 +65,1428 @@
       ]
     },
     {
+      "id": "mt_cska_loko",
+      "titleRu": "mt_cska_loko",
+      "items": [
+        {
+          "id": "mt_cska_loko_1",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Кто этот футболист?",
+          "media": {
+            "questionSlug": "cska_alves",
+            "dialogSlug": "cska_alves",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Матеуш Алвес",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Виллиан Роша",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Кельвен",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Алеррандро",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Адольфо Гайч",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Энрике Кармо",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ],
+          "playerInfo": {
+            "age": 21,
+            "nationality": "Бразилия",
+            "countryCode": "BR",
+            "position": "Полузащитник"
+          }
+        },
+        {
+          "id": "mt_cska_loko_2",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Кто этот футболист?",
+          "media": {
+            "questionSlug": "cska_krugovoy",
+            "dialogSlug": "cska_krugovoy",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Данил Круговой",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Игорь Акинфеев",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Владислав Тороп",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Игорь Дивеев",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Андрей Савинов",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Артем Шуманский",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ],
+          "playerInfo": {
+            "age": 28,
+            "nationality": "Россия",
+            "countryCode": "RU",
+            "position": "Защитник"
+          }
+        },
+        {
+          "id": "mt_cska_loko_3",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Кто этот футболист?",
+          "media": {
+            "questionSlug": "cska_borisko",
+            "dialogSlug": "cska_borisko",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Максим Бориско",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Имран Фиров",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Кирилл Глебов",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Иван Обляков",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Даниил Круговой",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Данила Козлов",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ],
+          "playerInfo": {
+            "age": 26,
+            "nationality": "Россия",
+            "countryCode": "RU",
+            "position": "Вратарь"
+          }
+        },
+        {
+          "id": "mt_cska_loko_4",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Кто этот футболист?",
+          "media": {
+            "questionSlug": "cska_kislyak",
+            "dialogSlug": "cska_kislyak",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Матвей Кисляк",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Игорь Дивеев",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Максим Мухин",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Андрей Савинов",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Егор Ушаков",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Матвей Лукин",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ],
+          "playerInfo": {
+            "age": 21,
+            "nationality": "Россия",
+            "countryCode": "RU",
+            "position": "Полузащитник"
+          }
+        },
+        {
+          "id": "mt_cska_loko_5",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Под каким номером играет легенда ЦСКА - Игорь Акинфеев?",
+          "media": {
+            "questionSlug": "cska_akinfeev",
+            "dialogSlug": "cska_akinfeev",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "35",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "1",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "80",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "50",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "9",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "99",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ],
+          "comment": "Вратарь"
+        },
+        {
+          "id": "mt_cska_loko_6",
+          "type": 4,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Сколько раз ЦСКА выигрывал Суперкубок России?",
+          "media": {
+            "questionSlug": "no_pic",
+            "dialogSlug": "no_pic",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Восемь",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Шесть",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Пять",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Четыре",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Девять",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Семь",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ],
+          "comment": "2001/02,  2004/05,  2005/06,  2007/08,  2008/09,  2010/11,  2012/13,  2022/23, 2024/25"
+        },
+        {
+          "id": "mt_cska_loko_7",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Какой европейский клубный турнир выиграл ЦСКА в сезоне 2004/05?",
+          "media": {
+            "questionSlug": "no_pic",
+            "dialogSlug": "no_pic",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Кубок УЕФА",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Лигу чемпионов УЕФА",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Кубок обладателей кубков",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Кубок Интертото",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Суперкубок УЕФА",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Лигу конференций УЕФА",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ],
+          "comment": "В сезоне 2004/05 ЦСКА стал обладателем Кубка УЕФА."
+        },
+        {
+          "id": "mt_cska_loko_8",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Как зовут главного тренера ЦСКА?",
+          "media": {
+            "questionSlug": "cska_igdisamov",
+            "dialogSlug": "cska_igdisamov",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Дмитрий Игдисамов",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Марко Николич",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Славолюб Муслин",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Владимир Ивич",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Саша Илич",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Фабио Челестини",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ],
+          "comment": "Возглавил ЦСКА летом 2026 года. Ранее, 4 мая 2026 года, был назначен исполняющим обязанности главного тренера основной команды"
+        },
+        {
+          "id": "mt_cska_loko_9",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Кто этот футболист?",
+          "media": {
+            "questionSlug": "lokomotiv_pinyaev",
+            "dialogSlug": "lokomotiv_pinyaev",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Сергей Пиняев",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Дмитрий Баринов",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Максим Ненахов",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Алексей Батраков",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Артем Тимофеев",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Александр Сильянов",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ],
+          "playerInfo": {
+            "age": 21,
+            "nationality": "Россия",
+            "countryCode": "RU",
+            "position": "Полузащитник"
+          }
+        },
+        {
+          "id": "mt_cska_loko_10",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Кто этот футболист?",
+          "media": {
+            "questionSlug": "lokomotiv_dzhikiya",
+            "dialogSlug": "lokomotiv_dzhikiya",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Георгий Джикия",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Зелимхан Бакаев",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Илья Лантратов",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Даниил Веселов",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Александр Сильянов",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Егор Погостнов",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ],
+          "playerInfo": {
+            "age": 32,
+            "nationality": "Россия",
+            "countryCode": "RU",
+            "position": "Защитник"
+          }
+        },
+        {
+          "id": "mt_cska_loko_11",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Кто этот футболист?",
+          "media": {
+            "questionSlug": "lokomotiv_fasson",
+            "dialogSlug": "lokomotiv_fasson",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Лукас Фассон",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Жерзино Ньямси",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Сесар Монтес",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Марк Мампасси",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Артем Карпукас",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Николай Комличенко",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ],
+          "playerInfo": {
+            "age": 25,
+            "nationality": "Бразилия",
+            "countryCode": "BR",
+            "position": "Защитник"
+          }
+        },
+        {
+          "id": "mt_cska_loko_12",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Кто этот футболист?",
+          "media": {
+            "questionSlug": "lokomotiv_nenakhov",
+            "dialogSlug": "lokomotiv_nenakhov",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Максим Ненахов",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Дмитрий Баринов",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Алексей Батраков",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Артем Тимофеев",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Александр Сильянов",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Константин Марадишвили",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ],
+          "playerInfo": {
+            "age": 27,
+            "nationality": "Россия",
+            "countryCode": "RU",
+            "position": "Защитник"
+          }
+        },
+        {
+          "id": "mt_cska_loko_13",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "В каком году был основан Локомотив?",
+          "media": {
+            "questionSlug": "no_pic",
+            "dialogSlug": "logo_lokomotiv",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "1922",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "1913",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "1925",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "1937",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "1903",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "1899",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ],
+          "comment": "Локомотив Москва был основан в 1922 году"
+        },
+        {
+          "id": "mt_cska_loko_14",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "В каком сезоне Локомотив в последний раз становился чемпионом?",
+          "media": {
+            "questionSlug": "no_pic",
+            "dialogSlug": "logo_lokomotiv",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "2017/18",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "2016/17",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "2015/16",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "2014/15",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "2018/19",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "2019/20",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ],
+          "comment": "5 мая 2018 года после домашней победы над «Зенитом» в матче 29-го тура Локомотив в третий раз стал чемпионом России"
+        },
+        {
+          "id": "mt_cska_loko_15",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Кто провел больше всех матчей за Локомотив среди легионеров?",
+          "media": {
+            "questionSlug": "no_pic",
+            "dialogSlug": "logo_lokomotiv",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Сергей Гуренко",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Ведран Чорлука",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Заза Джанашия",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Майкон",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Ян Дюрица",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Мануэл Фернандеш",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ],
+          "comment": "334 матча"
+        },
+        {
+          "id": "mt_cska_loko_16",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Как зовут главного тренера Локомотива?",
+          "media": {
+            "questionSlug": "lokomotiv_galaktionov",
+            "dialogSlug": "lokomotiv_galaktionov",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Михаил Галактионов",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Вячеслав Мельников",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Александр Цыганков",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Александр Точилин",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Роберт Евдокимов",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Мирослав Ромащенко",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ],
+          "comment": "Главный тренер"
+        },
+        {
+          "id": "mt_cska_loko_17",
+          "type": 2,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "С какой командой играл ЦСКА в прошлом туре?",
+          "media": {
+            "questionSlug": "logo_cska",
+            "dialogSlug": "logo_fakel",
+            "correctSlug": "logo_fakel"
+          },
+          "answers": [
+            {
+              "text": "Факел",
+              "slug": "logo_fakel",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Балтика",
+              "slug": "logo_baltika",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Рубин",
+              "slug": "logo_rubin",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Оренбург",
+              "slug": "logo_orenburg",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Спартак",
+              "slug": "logo_spartak",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Динамо Махачкала",
+              "slug": "logo_dinamo_mah",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ],
+          "comment": "ЦСКА Москва 1:0 Факел"
+        },
+        {
+          "id": "mt_cska_loko_18",
+          "type": 2,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "С кем сыграет ЦСКА в следующем туре?",
+          "media": {
+            "questionSlug": "logo_cska",
+            "dialogSlug": "logo_akron",
+            "correctSlug": "logo_akron"
+          },
+          "answers": [
+            {
+              "text": "Акрон",
+              "slug": "logo_akron",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Крылья Советов",
+              "slug": "logo_ks",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Факел",
+              "slug": "logo_fakel",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Ахмат",
+              "slug": "logo_akhmat",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Зенит",
+              "slug": "logo_zenit",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Ростов",
+              "slug": "logo_rostov",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ],
+          "comment": "6 тур. 28.08, 19:00"
+        },
+        {
+          "id": "mt_cska_loko_19",
+          "type": 2,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "С какой командой играл Локомотив в прошлом туре?",
+          "media": {
+            "questionSlug": "logo_lokomotiv",
+            "dialogSlug": "logo_orenburg",
+            "correctSlug": "logo_orenburg"
+          },
+          "answers": [
+            {
+              "text": "Оренбург",
+              "slug": "logo_orenburg",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Краснодар",
+              "slug": "logo_krasnodar",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Спартак",
+              "slug": "logo_spartak",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Зенит",
+              "slug": "logo_zenit",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Родина",
+              "slug": "logo_rodina",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Балтика",
+              "slug": "logo_baltika",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ],
+          "comment": "Оренбург 1:1 Локомотив Москва"
+        },
+        {
+          "id": "mt_cska_loko_20",
+          "type": 2,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "С кем сыграет Локомотив в следующем туре?",
+          "media": {
+            "questionSlug": "logo_lokomotiv",
+            "dialogSlug": "logo_dinamo",
+            "correctSlug": "logo_dinamo"
+          },
+          "answers": [
+            {
+              "text": "Динамо Москва",
+              "slug": "logo_dinamo",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Акрон",
+              "slug": "logo_akron",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Факел",
+              "slug": "logo_fakel",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Крылья Советов",
+              "slug": "logo_ks",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Ростов",
+              "slug": "logo_rostov",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "ЦСКА",
+              "slug": "logo_cska",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ],
+          "comment": "6 тур. 29.08, 21:00"
+        },
+        {
+          "id": "mt_cska_loko_21",
+          "type": 2,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Кто лидирует в РПЛ после 4 туров?",
+          "media": {
+            "questionSlug": "logo_rpl",
+            "dialogSlug": "logo_krasnodar",
+            "correctSlug": "logo_krasnodar"
+          },
+          "answers": [
+            {
+              "text": "Краснодар",
+              "slug": "logo_krasnodar",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Оренбург",
+              "slug": "logo_orenburg",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Факел",
+              "slug": "logo_fakel",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Ростов",
+              "slug": "logo_rostov",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Рубин",
+              "slug": "logo_rubin",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Динамо Москва",
+              "slug": "logo_dinamo",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ],
+          "comment": "12 очков"
+        },
+        {
+          "id": "mt_cska_loko_22",
+          "type": 4,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "На каком месте находится ЦСКА после 4 туров?",
+          "media": {
+            "questionSlug": "logo_cska",
+            "dialogSlug": "logo_cska",
+            "correctSlug": "num_5"
+          },
+          "answers": [
+            {
+              "text": "5 место",
+              "slug": "num_5",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "8 место",
+              "slug": "num_8",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "6 место",
+              "slug": "num_6",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "9 место",
+              "slug": "num_9",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "7 место",
+              "slug": "num_7",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "2 место",
+              "slug": "num_2",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ],
+          "comment": "8 очков"
+        },
+        {
+          "id": "mt_cska_loko_23",
+          "type": 4,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "На каком месте находится Локомотив после 4 туров?",
+          "media": {
+            "questionSlug": "logo_lokomotiv",
+            "dialogSlug": "logo_lokomotiv",
+            "correctSlug": "num_12"
+          },
+          "answers": [
+            {
+              "text": "12 место",
+              "slug": "num_12",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "11 место",
+              "slug": "num_11",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "10 место",
+              "slug": "num_10",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "14 место",
+              "slug": "num_14",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "13 место",
+              "slug": "num_13",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "16 место",
+              "slug": "num_16",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ],
+          "comment": "3 очков"
+        },
+        {
+          "id": "mt_cska_loko_24",
+          "type": 2,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Кто является лучшим бомбардиром РПЛ после 4 туров?",
+          "media": {
+            "questionSlug": "logo_rpl",
+            "dialogSlug": "no_pic",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Максим Глушенков",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Александр Соболев",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Артём Максименко",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Никита Кривцов",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Мирлинд Даку",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Брайан Хиль",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ],
+          "comment": "Забил 5 голов в 4 матчах"
+        },
+        {
+          "id": "mt_cska_loko_25",
+          "type": 2,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Какая из команд набрала больше очков в последних 5 матчах?",
+          "media": {
+            "questionSlug": "logo_rpl",
+            "dialogSlug": "logo_cska",
+            "correctSlug": "logo_cska"
+          },
+          "answers": [
+            {
+              "text": "ЦСКА",
+              "slug": "logo_cska",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Локомотив",
+              "slug": "logo_lokomotiv",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Краснодар",
+              "slug": "logo_krasnodar",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Факел",
+              "slug": "logo_fakel",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Ахмат",
+              "slug": "logo_akhmat",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Динамо Махачкала",
+              "slug": "logo_dinamo_mah",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ],
+          "comment": "ЦСКА: 8 очков, Локомотив: 2 очков"
+        },
+        {
+          "id": "mt_cska_loko_26",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Кто чаще побеждал в очных матчах?",
+          "media": {
+            "questionSlug": "two_teams",
+            "dialogSlug": "two_teams",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "ЦСКА – 81, Локомотив – 57",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "ЦСКА – 82, Локомотив – 57",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "ЦСКА – 81, Локомотив – 58",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "ЦСКА – 80, Локомотив – 57",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "ЦСКА – 81, Локомотив – 56",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "ЦСКА – 57, Локомотив – 81",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ],
+          "comment": "Официальные матчи: ЦСКА – 81 побед, Локомотив – 57 побед"
+        },
+        {
+          "id": "mt_cska_loko_27",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "С каким счетом завершилась их последняя встреча?",
+          "media": {
+            "questionSlug": "two_teams",
+            "dialogSlug": "two_teams",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "ЦСКА Москва 3:1 Локомотив Москва",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "ЦСКА Москва 4:1 Локомотив Москва",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "ЦСКА Москва 3:2 Локомотив Москва",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "ЦСКА Москва 2:1 Локомотив Москва",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "ЦСКА Москва 3:0 Локомотив Москва",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "ЦСКА Москва 1:3 Локомотив Москва",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "mt_spartak_krasnodar",
       "titleRu": "mt_spartak_krasnodar",
       "items": [

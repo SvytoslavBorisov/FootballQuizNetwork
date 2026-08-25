@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-18T06:23:00.698Z",
+  "generatedAt": "2026-08-23T09:35:14.755Z",
   "sourceDir": "src/assets/data/Кубок",
   "levels": [
     {
@@ -59,56 +59,6 @@
         },
         {
           "id": "round_128_2",
-          "type": 2,
-          "kind": "multi_choice",
-          "payload": {},
-          "questionText": "Что это за стадион?",
-          "media": {
-            "questionSlug": "std_vtb",
-            "dialogSlug": "std_vtb",
-            "correctSlug": "logo_dinamo"
-          },
-          "answers": [
-            {
-              "text": "Динамо Москва",
-              "slug": "logo_dinamo",
-              "isCorrect": true,
-              "id": "ans_1"
-            },
-            {
-              "text": "ЦСКА",
-              "slug": "logo_cska",
-              "isCorrect": false,
-              "id": "ans_2"
-            },
-            {
-              "text": "Спартак Москва",
-              "slug": "logo_spartak",
-              "isCorrect": false,
-              "id": "ans_3"
-            },
-            {
-              "text": "Локомотив",
-              "slug": "logo_lokomotiv",
-              "isCorrect": false,
-              "id": "ans_4"
-            },
-            {
-              "text": "Зенит",
-              "slug": "logo_zenit",
-              "isCorrect": false,
-              "id": "ans_5"
-            },
-            {
-              "text": "Торпедо Москва",
-              "slug": "logo_torpedo",
-              "isCorrect": false,
-              "id": "ans_6"
-            }
-          ]
-        },
-        {
-          "id": "round_128_3",
           "type": 1,
           "kind": "multi_choice",
           "payload": {},
@@ -158,7 +108,7 @@
           ]
         },
         {
-          "id": "round_128_4",
+          "id": "round_128_3",
           "type": 1,
           "kind": "multi_choice",
           "payload": {},
@@ -209,7 +159,7 @@
           "comment": "Одна звезда соответствует пяти чемпионским титулам в первенствах СССР и России"
         },
         {
-          "id": "round_128_5",
+          "id": "round_128_4",
           "type": 1,
           "kind": "multi_choice",
           "payload": {},
@@ -259,7 +209,7 @@
           ]
         },
         {
-          "id": "round_128_6",
+          "id": "round_128_5",
           "type": 1,
           "kind": "multi_choice",
           "payload": {},
@@ -309,7 +259,7 @@
           ]
         },
         {
-          "id": "round_128_7",
+          "id": "round_128_6",
           "type": 1,
           "kind": "multi_choice",
           "payload": {},
@@ -359,7 +309,7 @@
           ]
         },
         {
-          "id": "round_128_8",
+          "id": "round_128_7",
           "type": 1,
           "kind": "multi_choice",
           "payload": {},
@@ -409,7 +359,7 @@
           ]
         },
         {
-          "id": "round_128_9",
+          "id": "round_128_8",
           "type": 1,
           "kind": "multi_choice",
           "payload": {},
@@ -459,7 +409,7 @@
           ]
         },
         {
-          "id": "round_128_10",
+          "id": "round_128_9",
           "type": 1,
           "kind": "multi_choice",
           "payload": {},
@@ -510,7 +460,7 @@
           "comment": "21 апреля 2009 года Андрей Аршавин забил четыре мяча «Ливерпулю» в матче Премьер-лиги и стал первым гостевым игроком за 63 года, оформившим покер на «Энфилде»"
         },
         {
-          "id": "round_128_11",
+          "id": "round_128_10",
           "type": 1,
           "kind": "multi_choice",
           "payload": {},
@@ -560,7 +510,7 @@
           ]
         },
         {
-          "id": "round_128_12",
+          "id": "round_128_11",
           "type": 1,
           "kind": "multi_choice",
           "payload": {},
@@ -610,7 +560,7 @@
           ]
         },
         {
-          "id": "round_128_13",
+          "id": "round_128_12",
           "type": 1,
           "kind": "multi_choice",
           "payload": {},
@@ -660,7 +610,7 @@
           ]
         },
         {
-          "id": "round_128_14",
+          "id": "round_128_13",
           "type": 1,
           "kind": "multi_choice",
           "payload": {},
@@ -710,7 +660,7 @@
           ]
         },
         {
-          "id": "round_128_15",
+          "id": "round_128_14",
           "type": 1,
           "kind": "multi_choice",
           "payload": {},
@@ -760,7 +710,7 @@
           ]
         },
         {
-          "id": "round_128_16",
+          "id": "round_128_15",
           "type": 1,
           "kind": "multi_choice",
           "payload": {},
@@ -810,7 +760,7 @@
           ]
         },
         {
-          "id": "round_128_17",
+          "id": "round_128_16",
           "type": 1,
           "kind": "multi_choice",
           "payload": {},
@@ -860,7 +810,7 @@
           ]
         },
         {
-          "id": "round_128_18",
+          "id": "round_128_17",
           "type": 1,
           "kind": "multi_choice",
           "payload": {},
@@ -910,7 +860,7 @@
           ]
         },
         {
-          "id": "round_128_19",
+          "id": "round_128_18",
           "type": 1,
           "kind": "multi_choice",
           "payload": {},
@@ -960,7 +910,7 @@
           ]
         },
         {
-          "id": "round_128_20",
+          "id": "round_128_19",
           "type": 1,
           "kind": "multi_choice",
           "payload": {},
@@ -1010,7 +960,7 @@
           ]
         },
         {
-          "id": "round_128_21",
+          "id": "round_128_20",
           "type": 1,
           "kind": "multi_choice",
           "payload": {},
@@ -1060,7 +1010,7 @@
           ]
         },
         {
-          "id": "round_128_22",
+          "id": "round_128_21",
           "type": 1,
           "kind": "multi_choice",
           "payload": {},
@@ -1110,7 +1060,7 @@
           ]
         },
         {
-          "id": "round_128_23",
+          "id": "round_128_22",
           "type": 1,
           "kind": "multi_choice",
           "payload": {},
@@ -1160,7 +1110,7 @@
           ]
         },
         {
-          "id": "round_128_24",
+          "id": "round_128_23",
           "type": 1,
           "kind": "multi_choice",
           "payload": {},
@@ -1216,7 +1166,7 @@
           }
         },
         {
-          "id": "round_128_25",
+          "id": "round_128_24",
           "type": 1,
           "kind": "multi_choice",
           "payload": {},
@@ -1272,7 +1222,7 @@
           }
         },
         {
-          "id": "round_128_26",
+          "id": "round_128_25",
           "type": 1,
           "kind": "multi_choice",
           "payload": {},
@@ -1328,7 +1278,7 @@
           }
         },
         {
-          "id": "round_128_27",
+          "id": "round_128_26",
           "type": 1,
           "kind": "multi_choice",
           "payload": {},
@@ -1384,7 +1334,7 @@
           }
         },
         {
-          "id": "round_128_28",
+          "id": "round_128_27",
           "type": 1,
           "kind": "multi_choice",
           "payload": {},
@@ -1434,7 +1384,7 @@
           ]
         },
         {
-          "id": "round_128_29",
+          "id": "round_128_28",
           "type": 1,
           "kind": "multi_choice",
           "payload": {},
@@ -1485,7 +1435,7 @@
           "comment": "Сергей Галицкий является президентом и владельцем Краснодара с момента основания клуба"
         },
         {
-          "id": "round_128_30",
+          "id": "round_128_29",
           "type": 2,
           "kind": "multi_choice",
           "payload": {},
@@ -1535,7 +1485,7 @@
           ]
         },
         {
-          "id": "round_128_31",
+          "id": "round_128_30",
           "type": 1,
           "kind": "multi_choice",
           "payload": {},
@@ -1585,7 +1535,7 @@
           ]
         },
         {
-          "id": "round_128_32",
+          "id": "round_128_31",
           "type": 1,
           "kind": "multi_choice",
           "payload": {},
@@ -1629,7 +1579,7 @@
           ]
         },
         {
-          "id": "round_128_33",
+          "id": "round_128_32",
           "type": 1,
           "kind": "multi_choice",
           "payload": {},
@@ -1679,7 +1629,7 @@
           ]
         },
         {
-          "id": "round_128_34",
+          "id": "round_128_33",
           "type": 1,
           "kind": "multi_choice",
           "payload": {},
@@ -1729,7 +1679,7 @@
           ]
         },
         {
-          "id": "round_128_35",
+          "id": "round_128_34",
           "type": 1,
           "kind": "multi_choice",
           "payload": {},
@@ -1779,7 +1729,7 @@
           ]
         },
         {
-          "id": "round_128_36",
+          "id": "round_128_35",
           "type": 1,
           "kind": "multi_choice",
           "payload": {},
@@ -1836,7 +1786,7 @@
           "comment": "В 2002 году «Локомотив» стал первым чемпионом новой Премьер-лиги."
         },
         {
-          "id": "round_128_37",
+          "id": "round_128_36",
           "type": 1,
           "kind": "multi_choice",
           "payload": {},
@@ -1893,7 +1843,7 @@
           "comment": "Чемпионство определилось в дополнительном Золотом матче между «Локомотивом» и ЦСКА."
         },
         {
-          "id": "round_128_38",
+          "id": "round_128_37",
           "type": 1,
           "kind": "multi_choice",
           "payload": {},
@@ -1950,7 +1900,7 @@
           "comment": "Историческая встреча состоялась 24 октября 1897 года в Санкт-Петербурге."
         },
         {
-          "id": "round_128_39",
+          "id": "round_128_38",
           "type": 1,
           "kind": "multi_choice",
           "payload": {},
@@ -2007,7 +1957,7 @@
           "comment": "Разгром от Германии остаётся одним из самых известных эпизодов ранней истории российского футбола."
         },
         {
-          "id": "round_128_40",
+          "id": "round_128_39",
           "type": 1,
           "kind": "multi_choice",
           "payload": {},
@@ -2064,7 +2014,7 @@
           "comment": "Победа на первом в истории Кубке европейских наций 1960 года стала главным континентальным титулом сборной СССР."
         },
         {
-          "id": "round_128_41",
+          "id": "round_128_40",
           "type": 1,
           "kind": "multi_choice",
           "payload": {},
@@ -2121,7 +2071,7 @@
           "comment": "Единственное советское чемпионство ленинградского «Зенита» пришлось на 1984 год."
         },
         {
-          "id": "round_128_42",
+          "id": "round_128_41",
           "type": 1,
           "kind": "multi_choice",
           "payload": {},
@@ -2178,7 +2128,7 @@
           "comment": "Киевское «Динамо» выиграло чемпионат СССР 13 раз, опередив «Спартак» с 12 титулами."
         },
         {
-          "id": "round_128_43",
+          "id": "round_128_42",
           "type": 1,
           "kind": "multi_choice",
           "payload": {},
@@ -2235,7 +2185,7 @@
           "comment": "В 1975 году киевское «Динамо» первым из советских клубов завоевало Кубок обладателей кубков."
         },
         {
-          "id": "round_128_44",
+          "id": "round_128_43",
           "type": 1,
           "kind": "multi_choice",
           "payload": {},
@@ -2274,7 +2224,7 @@
           "comment": "На Евро-1992 сборная СНГ играла под белым флагом с надписью C.I.S."
         },
         {
-          "id": "round_128_45",
+          "id": "round_128_44",
           "type": 1,
           "kind": "multi_choice",
           "payload": {},
@@ -2313,7 +2263,7 @@
           "comment": "Анатолий Бышовец возглавлял сначала сборную СССР, а затем сборную СНГ на Евро-1992."
         },
         {
-          "id": "round_128_46",
+          "id": "round_128_45",
           "type": 1,
           "kind": "multi_choice",
           "payload": {},
@@ -2352,7 +2302,7 @@
           "comment": "Первый трофей «Торпедо» завоевало в 1949 году — Кубок СССР."
         },
         {
-          "id": "round_128_47",
+          "id": "round_128_46",
           "type": 1,
           "kind": "multi_choice",
           "payload": {},
@@ -2379,7 +2329,7 @@
           "comment": "За последние 15 минут советская команда отыграла четыре мяча и добилась переигровки."
         },
         {
-          "id": "round_128_48",
+          "id": "round_128_47",
           "type": 1,
           "kind": "multi_choice",
           "payload": {},
@@ -2418,7 +2368,7 @@
           "comment": "Игроки «Торпедо» формально числились работниками автозавода, позднее получившего имя ЗИЛ."
         },
         {
-          "id": "round_128_49",
+          "id": "round_128_48",
           "type": 1,
           "kind": "multi_choice",
           "payload": {},
@@ -2445,7 +2395,7 @@
           "comment": "В дебютном голосовании «Золотого мяча» Яшин занял пятое место."
         },
         {
-          "id": "round_128_50",
+          "id": "round_128_49",
           "type": 1,
           "kind": "multi_choice",
           "payload": {},
@@ -2484,7 +2434,7 @@
           "comment": "Президент «Реала» Сантьяго Бернабеу предложил Яшину вписать любую сумму, но вратарь отказался от перехода."
         },
         {
-          "id": "round_128_51",
+          "id": "round_128_50",
           "type": 1,
           "kind": "multi_choice",
           "payload": {},
@@ -2511,7 +2461,7 @@
           "comment": "Московское «Торпедо» стало обладателем Кубка России 1993 года."
         },
         {
-          "id": "round_128_52",
+          "id": "round_128_51",
           "type": 1,
           "kind": "multi_choice",
           "payload": {},
@@ -2550,7 +2500,7 @@
           "comment": "Россия прошла Испанию в 1/8 финала и остановилась в четвертьфинале после матча с Хорватией."
         },
         {
-          "id": "round_128_53",
+          "id": "round_128_52",
           "type": 1,
           "kind": "multi_choice",
           "payload": {},
@@ -2595,7 +2545,7 @@
           "comment": "В Базеле Россия победила Нидерланды 3:1 в дополнительное время."
         },
         {
-          "id": "round_128_54",
+          "id": "round_128_53",
           "type": 1,
           "kind": "multi_choice",
           "payload": {},
@@ -2640,7 +2590,7 @@
           "comment": "После 1:1 в Мюнхене «Зенит» победил «Баварию» в Петербурге 4:0."
         },
         {
-          "id": "round_128_55",
+          "id": "round_128_54",
           "type": 1,
           "kind": "multi_choice",
           "payload": {},
@@ -2685,7 +2635,7 @@
           "comment": "Карпин перешёл в «Сельту» в 1997 году, куда Мостовой перебрался годом ранее."
         },
         {
-          "id": "round_128_56",
+          "id": "round_128_55",
           "type": 1,
           "kind": "multi_choice",
           "payload": {},
@@ -2730,7 +2680,7 @@
           "comment": "В начале 1950-х Яшин выступал за хоккейное «Динамо» и даже завоевал трофей."
         },
         {
-          "id": "round_128_57",
+          "id": "round_128_56",
           "type": 1,
           "kind": "multi_choice",
           "payload": {},
@@ -2775,7 +2725,7 @@
           "comment": "Письмо было написано в 1993 году накануне подготовки сборной России к чемпионату мира 1994 года."
         },
         {
-          "id": "round_128_58",
+          "id": "round_128_57",
           "type": 1,
           "kind": "multi_choice",
           "payload": {},
@@ -2826,7 +2776,7 @@
           "comment": "На Евро-1996 сборной России руководил Олег Романцев."
         },
         {
-          "id": "round_128_59",
+          "id": "round_128_58",
           "type": 1,
           "kind": "multi_choice",
           "payload": {},
@@ -2877,7 +2827,7 @@
           "comment": "В первом матче с Тунисом счёт открыл Егор Титов."
         },
         {
-          "id": "round_128_60",
+          "id": "round_128_59",
           "type": 1,
           "kind": "multi_choice",
           "payload": {},
@@ -2928,7 +2878,7 @@
           "comment": "После «Спартака» Карпин уехал в Испанию и перешёл в «Реал Сосьедад»."
         },
         {
-          "id": "round_128_61",
+          "id": "round_128_60",
           "type": 1,
           "kind": "multi_choice",
           "payload": {},
@@ -2979,7 +2929,7 @@
           "comment": "Московское «Динамо» выиграло 11 чемпионатов СССР."
         },
         {
-          "id": "round_128_62",
+          "id": "round_128_61",
           "type": 1,
           "kind": "multi_choice",
           "payload": {},
@@ -3030,7 +2980,7 @@
           "comment": "Капитаном ЦСКА в победном еврокубковом походе был Сергей Игнашевич."
         },
         {
-          "id": "round_128_63",
+          "id": "round_128_62",
           "type": 1,
           "kind": "multi_choice",
           "payload": {},
@@ -3086,7 +3036,7 @@
           }
         },
         {
-          "id": "round_128_64",
+          "id": "round_128_63",
           "type": 1,
           "kind": "multi_choice",
           "payload": {},
@@ -3142,7 +3092,7 @@
           }
         },
         {
-          "id": "round_128_65",
+          "id": "round_128_64",
           "type": 1,
           "kind": "multi_choice",
           "payload": {},
@@ -3198,7 +3148,7 @@
           }
         },
         {
-          "id": "round_128_66",
+          "id": "round_128_65",
           "type": 1,
           "kind": "multi_choice",
           "payload": {},
@@ -3254,7 +3204,7 @@
           }
         },
         {
-          "id": "round_128_67",
+          "id": "round_128_66",
           "type": 1,
           "kind": "multi_choice",
           "payload": {},
@@ -3305,7 +3255,7 @@
           "comment": "До 2003 года клуб выступал под названием «Ростсельмаш»."
         },
         {
-          "id": "round_128_68",
+          "id": "round_128_67",
           "type": 1,
           "kind": "multi_choice",
           "payload": {},

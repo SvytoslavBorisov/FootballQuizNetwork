@@ -1,12 +1,13 @@
 {
-  "version": 3,
-  "generatedAt": "2026-08-20T11:06:22.028Z",
+  "version": 4,
+  "generatedAt": "2026-08-23T08:36:51.880Z",
   "source": "src\\assets\\data\\logos-packs.json",
   "mediaIndex": "..\\FootballQuizNetwork\\content\\media-index.json",
   "generator": "tools/cup/generate-cup-teams.mjs",
   "teams": [
     {
       "name": "Авангард Курск",
+      "shortName": "Авангард",
       "league": "Вторая лига",
       "logoSlug": "logo_avangard_kur",
       "logoPath": "content/src-assets/media/questions/logos/logo_avangard_kur.webp",
@@ -14,6 +15,7 @@
     },
     {
       "name": "Алания Владикавказ",
+      "shortName": "Алания",
       "league": "Вторая лига",
       "logoSlug": "logo_alania",
       "logoPath": "content/src-assets/media/questions/logos/logo_alania.webp",
@@ -21,6 +23,7 @@
     },
     {
       "name": "Амкар Пермь",
+      "shortName": "Амкар",
       "league": "Вторая лига",
       "logoSlug": "logo_amkar",
       "logoPath": "content/src-assets/media/questions/logos/logo_amkar.webp",
@@ -28,6 +31,7 @@
     },
     {
       "name": "Ангушт Назрань",
+      "shortName": "Ангушт",
       "league": "Вторая лига",
       "logoSlug": "logo_angusht",
       "logoPath": "content/src-assets/media/questions/logos/logo_angusht.webp",
@@ -35,13 +39,15 @@
     },
     {
       "name": "Астрахань",
+      "shortName": "Астрахань",
       "league": "Вторая лига",
       "logoSlug": "logo_astrahan",
       "logoPath": "content/src-assets/media/questions/logos/logo_astrahan.webp",
       "strength": 44
     },
     {
-      "name": "Биолог-Новокубанск Прогресс",
+      "name": "Биолог-Новокубанск",
+      "shortName": "Биолог",
       "league": "Вторая лига",
       "logoSlug": "logo_biolog",
       "logoPath": "content/src-assets/media/questions/logos/logo_biolog.webp",
@@ -49,13 +55,23 @@
     },
     {
       "name": "Волгарь Астрахань",
+      "shortName": "Волгарь",
       "league": "Вторая лига",
       "logoSlug": "logo_volgar",
       "logoPath": "content/src-assets/media/questions/logos/logo_volgar.webp",
       "strength": 46
     },
     {
+      "name": "Волна",
+      "shortName": "Волна",
+      "league": "Вторая лига",
+      "logoSlug": "logo_volna",
+      "logoPath": "content/src-assets/media/questions/logos/logo_volna.webp",
+      "strength": 42
+    },
+    {
       "name": "Динамо Барнаул",
+      "shortName": "Динамо",
       "league": "Вторая лига",
       "logoSlug": "logo_dinamo_bar",
       "logoPath": "content/src-assets/media/questions/logos/logo_dinamo_bar.webp",
@@ -63,6 +79,7 @@
     },
     {
       "name": "Динамо Брянск",
+      "shortName": "Динамо",
       "league": "Вторая лига",
       "logoSlug": "logo_dinamo_bry",
       "logoPath": "content/src-assets/media/questions/logos/logo_dinamo_bry.webp",
@@ -70,6 +87,7 @@
     },
     {
       "name": "Динамо Владивосток",
+      "shortName": "Динамо",
       "league": "Вторая лига",
       "logoSlug": "logo_dynamo_vlad",
       "logoPath": "content/src-assets/media/questions/logos/logo_dynamo_vlad.webp",
@@ -77,6 +95,7 @@
     },
     {
       "name": "Динамо Вологда",
+      "shortName": "Динамо",
       "league": "Вторая лига",
       "logoSlug": "logo_dynamo_vol",
       "logoPath": "content/src-assets/media/questions/logos/logo_dynamo_vol.webp",
@@ -84,6 +103,7 @@
     },
     {
       "name": "Динамо Киров",
+      "shortName": "Динамо",
       "league": "Вторая лига",
       "logoSlug": "logo_dinamo_kir",
       "logoPath": "content/src-assets/media/questions/logos/logo_dinamo_kir.webp",
@@ -91,6 +111,7 @@
     },
     {
       "name": "Динамо Санкт-Петербург",
+      "shortName": "Динамо",
       "league": "Вторая лига",
       "logoSlug": "logo_dinamo_spb",
       "logoPath": "content/src-assets/media/questions/logos/logo_dinamo_spb.webp",
@@ -98,6 +119,7 @@
     },
     {
       "name": "Динамо Ставрополь",
+      "shortName": "Динамо",
       "league": "Вторая лига",
       "logoSlug": "logo_dinamo_stav",
       "logoPath": "content/src-assets/media/questions/logos/logo_dinamo_stav.webp",
@@ -105,13 +127,23 @@
     },
     {
       "name": "Дружба Майкоп",
+      "shortName": "Дружба",
       "league": "Вторая лига",
       "logoSlug": "logo_druzhba",
       "logoPath": "content/src-assets/media/questions/logos/logo_druzhba.webp",
       "strength": 51
     },
     {
+      "name": "Заря Луганск",
+      "shortName": "Заря",
+      "league": "Вторая лига",
+      "logoSlug": "logo_zary_lugansk",
+      "logoPath": "content/src-assets/media/questions/logos/logo_zary_lugansk.webp",
+      "strength": 41
+    },
+    {
       "name": "Звезда Санкт-Петербург",
+      "shortName": "Звезда",
       "league": "Вторая лига",
       "logoSlug": "logo_zvezda_spb",
       "logoPath": "content/src-assets/media/questions/logos/logo_zvezda_spb.webp",
@@ -119,6 +151,7 @@
     },
     {
       "name": "Зенит Пенза",
+      "shortName": "Зенит",
       "league": "Вторая лига",
       "logoSlug": "logo_zenit_pen",
       "logoPath": "content/src-assets/media/questions/logos/logo_zenit_pen.webp",
@@ -126,13 +159,23 @@
     },
     {
       "name": "Знамя Труда",
+      "shortName": "Знамя",
       "league": "Вторая лига",
       "logoSlug": "logo_znamia",
       "logoPath": "content/src-assets/media/questions/logos/logo_znamia.webp",
       "strength": 49
     },
     {
+      "name": "Ижевск",
+      "shortName": "Ижевск",
+      "league": "Вторая лига",
+      "logoSlug": "logo_isevsk",
+      "logoPath": "content/src-assets/media/questions/logos/logo_isevsk.webp",
+      "strength": 42
+    },
+    {
       "name": "Иркутск",
+      "shortName": "Иркутск",
       "league": "Вторая лига",
       "logoSlug": "logo_irkutsk",
       "logoPath": "content/src-assets/media/questions/logos/logo_irkutsk.webp",
@@ -140,13 +183,23 @@
     },
     {
       "name": "Иртыш Омск",
+      "shortName": "Иртыш",
       "league": "Вторая лига",
       "logoSlug": "logo_irtish",
       "logoPath": "content/src-assets/media/questions/logos/logo_irtish.webp",
       "strength": 54
     },
     {
+      "name": "Искра",
+      "shortName": "Искра",
+      "league": "Вторая лига",
+      "logoSlug": "logo_iskra",
+      "logoPath": "content/src-assets/media/questions/logos/logo_iskra.webp",
+      "strength": 43
+    },
+    {
       "name": "Калуга",
+      "shortName": "Калуга",
       "league": "Вторая лига",
       "logoSlug": "logo_kaluga",
       "logoPath": "content/src-assets/media/questions/logos/logo_kaluga.webp",
@@ -154,13 +207,23 @@
     },
     {
       "name": "Квант Обнинск",
+      "shortName": "Квант",
       "league": "Вторая лига",
       "logoSlug": "logo_kvant",
       "logoPath": "content/src-assets/media/questions/logos/logo_kvant.webp",
       "strength": 56
     },
     {
+      "name": "КДВ Томск",
+      "shortName": "КДВ Томск",
+      "league": "Вторая лига",
+      "logoSlug": "logo_kdv",
+      "logoPath": "content/src-assets/media/questions/logos/logo_kdv.webp",
+      "strength": 56
+    },
+    {
       "name": "Коломна",
+      "shortName": "Коломна",
       "league": "Вторая лига",
       "logoSlug": "logo_kolomna",
       "logoPath": "content/src-assets/media/questions/logos/logo_kolomna.webp",
@@ -168,6 +231,7 @@
     },
     {
       "name": "Композит Павловский Посад",
+      "shortName": "Композит",
       "league": "Вторая лига",
       "logoSlug": "logo_kompozit",
       "logoPath": "content/src-assets/media/questions/logos/logo_kompozit.webp",
@@ -175,6 +239,7 @@
     },
     {
       "name": "Космос Долгопрудный",
+      "shortName": "Космос",
       "league": "Вторая лига",
       "logoSlug": "logo_kosmos",
       "logoPath": "content/src-assets/media/questions/logos/logo_kosmos.webp",
@@ -182,6 +247,7 @@
     },
     {
       "name": "Кубань",
+      "shortName": "Кубань",
       "league": "Вторая лига",
       "logoSlug": "logo_kuban",
       "logoPath": "content/src-assets/media/questions/logos/logo_kuban.webp",
@@ -189,20 +255,31 @@
     },
     {
       "name": "Кубань-Холдинг Павловская",
+      "shortName": "Кубань-Холдинг",
       "league": "Вторая лига",
       "logoSlug": "logo_kubanholding",
       "logoPath": "content/src-assets/media/questions/logos/logo_kubanholding.webp",
       "strength": 53
     },
     {
+      "name": "Кызылташ",
+      "shortName": "Кызылташ",
+      "league": "Вторая лига",
+      "logoSlug": "logo_kaziltash",
+      "logoPath": "content/src-assets/media/questions/logos/logo_kaziltash.webp",
+      "strength": 50
+    },
+    {
       "name": "Легион Махачкала",
+      "shortName": "Легион",
       "league": "Вторая лига",
       "logoSlug": "logo_legion",
       "logoPath": "content/src-assets/media/questions/logos/logo_legion.webp",
       "strength": 46
     },
     {
-      "name": "Леон Сатурн Раменское",
+      "name": "Леон Сатурн",
+      "shortName": "Сатурн",
       "league": "Вторая лига",
       "logoSlug": "logo_leon",
       "logoPath": "content/src-assets/media/questions/logos/logo_leon.webp",
@@ -210,6 +287,7 @@
     },
     {
       "name": "Луки-Энергия",
+      "shortName": "Луки-Энергия",
       "league": "Вторая лига",
       "logoSlug": "logo_luki",
       "logoPath": "content/src-assets/media/questions/logos/logo_luki.webp",
@@ -217,6 +295,7 @@
     },
     {
       "name": "Машук-КМВ",
+      "shortName": "Машук-КМВ",
       "league": "Вторая лига",
       "logoSlug": "logo_mashuk",
       "logoPath": "content/src-assets/media/questions/logos/logo_mashuk.webp",
@@ -224,6 +303,7 @@
     },
     {
       "name": "Металлург Липецк",
+      "shortName": "Металлург",
       "league": "Вторая лига",
       "logoSlug": "logo_metallurg_lipetsk",
       "logoPath": "content/src-assets/media/questions/logos/logo_metallurg_lipetsk.webp",
@@ -231,6 +311,7 @@
     },
     {
       "name": "Муром",
+      "shortName": "Муром",
       "league": "Вторая лига",
       "logoSlug": "logo_murom",
       "logoPath": "content/src-assets/media/questions/logos/logo_murom.webp",
@@ -238,13 +319,23 @@
     },
     {
       "name": "Нарт Черкесск",
+      "shortName": "Нарт",
       "league": "Вторая лига",
       "logoSlug": "logo_nart",
       "logoPath": "content/src-assets/media/questions/logos/logo_nart.webp",
       "strength": 45
     },
     {
+      "name": "Нефтяник",
+      "shortName": "Нефтяник",
+      "league": "Вторая лига",
+      "logoSlug": "logo_neftynnik",
+      "logoPath": "content/src-assets/media/questions/logos/logo_neftynnik.webp",
+      "strength": 56
+    },
+    {
       "name": "Носта Новотроицк",
+      "shortName": "Носта",
       "league": "Вторая лига",
       "logoSlug": "logo_nosta",
       "logoPath": "content/src-assets/media/questions/logos/logo_nosta.webp",
@@ -252,6 +343,7 @@
     },
     {
       "name": "Орёл",
+      "shortName": "Орёл",
       "league": "Вторая лига",
       "logoSlug": "logo_orel",
       "logoPath": "content/src-assets/media/questions/logos/logo_orel.webp",
@@ -259,13 +351,23 @@
     },
     {
       "name": "Победа Хасавюрт",
+      "shortName": "Победа",
       "league": "Вторая лига",
       "logoSlug": "logo_pobeda",
       "logoPath": "content/src-assets/media/questions/logos/logo_pobeda.webp",
       "strength": 42
     },
     {
+      "name": "Рубин Ялта",
+      "shortName": "Рубин",
+      "league": "Вторая лига",
+      "logoSlug": "logo_rubin_yalta",
+      "logoPath": "content/src-assets/media/questions/logos/logo_rubin_yalta.webp",
+      "strength": 56
+    },
+    {
       "name": "Рязань",
+      "shortName": "Рязань",
       "league": "Вторая лига",
       "logoSlug": "logo_ryazan",
       "logoPath": "content/src-assets/media/questions/logos/logo_ryazan.webp",
@@ -273,6 +375,7 @@
     },
     {
       "name": "Салют Белгород",
+      "shortName": "Салют",
       "league": "Вторая лига",
       "logoSlug": "logo_salut_bel",
       "logoPath": "content/src-assets/media/questions/logos/logo_salut_bel.webp",
@@ -280,6 +383,7 @@
     },
     {
       "name": "Сахалин Южно-Сахалинск",
+      "shortName": "Сахалин",
       "league": "Вторая лига",
       "logoSlug": "logo_sahalin",
       "logoPath": "content/src-assets/media/questions/logos/logo_sahalin.webp",
@@ -287,6 +391,7 @@
     },
     {
       "name": "Севастополь",
+      "shortName": "Севастополь",
       "league": "Вторая лига",
       "logoSlug": "logo_sevastopol",
       "logoPath": "content/src-assets/media/questions/logos/logo_sevastopol.webp",
@@ -294,6 +399,7 @@
     },
     {
       "name": "Сибирь",
+      "shortName": "Сибирь",
       "league": "Вторая лига",
       "logoSlug": "logo_novosibirsk",
       "logoPath": "content/src-assets/media/questions/logos/logo_novosibirsk.webp",
@@ -301,6 +407,7 @@
     },
     {
       "name": "Сокол Казань",
+      "shortName": "Сокол",
       "league": "Вторая лига",
       "logoSlug": "logo_sokol_kaz",
       "logoPath": "content/src-assets/media/questions/logos/logo_sokol_kaz.webp",
@@ -308,6 +415,7 @@
     },
     {
       "name": "Сокол Саратов",
+      "shortName": "Сокол",
       "league": "Вторая лига",
       "logoSlug": "logo_sokol",
       "logoPath": "content/src-assets/media/questions/logos/logo_sokol.webp",
@@ -315,6 +423,7 @@
     },
     {
       "name": "Спартак Тамбов",
+      "shortName": "Спартак",
       "league": "Вторая лига",
       "logoSlug": "logo_spartak_tam",
       "logoPath": "content/src-assets/media/questions/logos/logo_spartak_tam.webp",
@@ -322,6 +431,7 @@
     },
     {
       "name": "Спартак-Нальчик",
+      "shortName": "Спартак-Нальчик",
       "league": "Вторая лига",
       "logoSlug": "logo_spartak_nal",
       "logoPath": "content/src-assets/media/questions/logos/logo_spartak_nal.webp",
@@ -329,6 +439,7 @@
     },
     {
       "name": "Строгино Москва",
+      "shortName": "Строгино",
       "league": "Вторая лига",
       "logoSlug": "logo_strogino",
       "logoPath": "content/src-assets/media/questions/logos/logo_strogino.webp",
@@ -336,6 +447,7 @@
     },
     {
       "name": "Тверь",
+      "shortName": "Тверь",
       "league": "Вторая лига",
       "logoSlug": "logo_tver",
       "logoPath": "content/src-assets/media/questions/logos/logo_tver.webp",
@@ -343,6 +455,7 @@
     },
     {
       "name": "Торпедо Владимир",
+      "shortName": "Торпедо",
       "league": "Вторая лига",
       "logoSlug": "logo_torpedo_vla",
       "logoPath": "content/src-assets/media/questions/logos/logo_torpedo_vla.webp",
@@ -350,6 +463,7 @@
     },
     {
       "name": "Торпедо Миасс",
+      "shortName": "Торпедо",
       "league": "Вторая лига",
       "logoSlug": "logo_torpedo_mia",
       "logoPath": "content/src-assets/media/questions/logos/logo_torpedo_mia.webp",
@@ -357,13 +471,15 @@
     },
     {
       "name": "Тюмень",
+      "shortName": "Тюмень",
       "league": "Вторая лига",
       "logoSlug": "logo_tumen",
       "logoPath": "content/src-assets/media/questions/logos/logo_tumen.webp",
       "strength": 49
     },
     {
-      "name": "Уралец-ТС Нижний Тагил",
+      "name": "Уралец-ТС",
+      "shortName": "Уралец-ТС",
       "league": "Вторая лига",
       "logoSlug": "logo_uralez",
       "logoPath": "content/src-assets/media/questions/logos/logo_uralez.webp",
@@ -371,6 +487,7 @@
     },
     {
       "name": "Форте Таганрог",
+      "shortName": "Форте",
       "league": "Вторая лига",
       "logoSlug": "logo_forte",
       "logoPath": "content/src-assets/media/questions/logos/logo_forte.webp",
@@ -378,6 +495,7 @@
     },
     {
       "name": "Химик",
+      "shortName": "Химик",
       "league": "Вторая лига",
       "logoSlug": "logo_khimik",
       "logoPath": "content/src-assets/media/questions/logos/logo_khimik.webp",
@@ -385,160 +503,55 @@
     },
     {
       "name": "Чайка Песчанокопское",
+      "shortName": "Чайка",
       "league": "Вторая лига",
       "logoSlug": "logo_chayka_pes",
       "logoPath": "content/src-assets/media/questions/logos/logo_chayka_pes.webp",
       "strength": 50
     },
     {
-      "name": "Черноморец Новороссийск",
+      "name": "Череповец",
+      "shortName": "Череповец",
+      "league": "Вторая лига",
+      "logoSlug": "logo_cherepovets",
+      "logoPath": "content/src-assets/media/questions/logos/logo_cherepovets.webp",
+      "strength": 40
+    },
+    {
+      "name": "Черноморец",
+      "shortName": "Черноморец",
       "league": "Вторая лига",
       "logoSlug": "logo_chernomorez",
       "logoPath": "content/src-assets/media/questions/logos/logo_chernomorez.webp",
       "strength": 40
     },
     {
-      "name": "Чертаново Москва",
+      "name": "Чертаново",
+      "shortName": "Чертаново",
       "league": "Вторая лига",
       "logoSlug": "logo_chertanovo",
       "logoPath": "content/src-assets/media/questions/logos/logo_chertanovo.webp",
       "strength": 43
     },
     {
-      "name": "Автодор Владикавказ",
-      "league": "Исчезнувшие клубы",
-      "logoSlug": "logo_avtodor",
-      "logoPath": "content/src-assets/media/questions/logos/logo_avtodor.webp",
-      "strength": 53
-    },
-    {
-      "name": "Арарат Москва",
-      "league": "Исчезнувшие клубы",
-      "logoSlug": "logo_ararat",
-      "logoPath": "content/src-assets/media/questions/logos/logo_ararat.webp",
-      "strength": 39
-    },
-    {
-      "name": "Асмарал",
-      "league": "Исчезнувшие клубы",
-      "logoSlug": "logo_asmaral",
-      "logoPath": "content/src-assets/media/questions/logos/logo_asmaral.webp",
+      "name": "Шахтёр",
+      "shortName": "Шахтёр",
+      "league": "Вторая лига",
+      "logoSlug": "logo_shahtar",
+      "logoPath": "content/src-assets/media/questions/logos/logo_shahtar.webp",
       "strength": 45
     },
     {
-      "name": "Бештау",
-      "league": "Исчезнувшие клубы",
-      "logoSlug": "logo_beshtau",
-      "logoPath": "content/src-assets/media/questions/logos/logo_beshtau.webp",
-      "strength": 37
-    },
-    {
-      "name": "Волга НН",
-      "league": "Исчезнувшие клубы",
-      "logoSlug": "logo_volga_nn",
-      "logoPath": "content/src-assets/media/questions/logos/logo_volga_nn.webp",
-      "strength": 53
-    },
-    {
-      "name": "Ессентуки",
-      "league": "Исчезнувшие клубы",
-      "logoSlug": "logo_essentuki",
-      "logoPath": "content/src-assets/media/questions/logos/logo_essentuki.webp",
-      "strength": 42
-    },
-    {
-      "name": "Жемчужина",
-      "league": "Исчезнувшие клубы",
-      "logoSlug": "logo_zhemchuzina",
-      "logoPath": "content/src-assets/media/questions/logos/logo_zhemchuzina.webp",
-      "strength": 46
-    },
-    {
-      "name": "Звезда Иркутск",
-      "league": "Исчезнувшие клубы",
-      "logoSlug": "logo_zvezda_irk",
-      "logoPath": "content/src-assets/media/questions/logos/logo_zvezda_irk.webp",
-      "strength": 46
-    },
-    {
-      "name": "Звезда Пермь",
-      "league": "Исчезнувшие клубы",
-      "logoSlug": "logo_zvezda_per",
-      "logoPath": "content/src-assets/media/questions/logos/logo_zvezda_per.webp",
-      "strength": 55
-    },
-    {
-      "name": "Кайрат Москва",
-      "league": "Исчезнувшие клубы",
-      "logoSlug": "logo_kairat",
-      "logoPath": "content/src-assets/media/questions/logos/logo_kairat.webp",
-      "strength": 37
-    },
-    {
-      "name": "Кубань",
-      "league": "Исчезнувшие клубы",
-      "logoSlug": "logo_kuban_old",
-      "logoPath": "content/src-assets/media/questions/logos/logo_kuban_old.webp",
-      "strength": 48
-    },
-    {
-      "name": "Лада Димитровград",
-      "league": "Исчезнувшие клубы",
-      "logoSlug": "logo_ladad",
-      "logoPath": "content/src-assets/media/questions/logos/logo_ladad.webp",
-      "strength": 45
-    },
-    {
-      "name": "Лада-Тольятти",
-      "league": "Исчезнувшие клубы",
-      "logoSlug": "logo_lada",
-      "logoPath": "content/src-assets/media/questions/logos/logo_lada.webp",
-      "strength": 55
-    },
-    {
-      "name": "Луч Владивосток",
-      "league": "Исчезнувшие клубы",
-      "logoSlug": "logo_luch",
-      "logoPath": "content/src-assets/media/questions/logos/logo_luch.webp",
-      "strength": 45
-    },
-    {
-      "name": "Саранск",
-      "league": "Исчезнувшие клубы",
-      "logoSlug": "logo_saransk",
-      "logoPath": "content/src-assets/media/questions/logos/logo_saransk.webp",
-      "strength": 44
-    },
-    {
-      "name": "Тамбов",
-      "league": "Исчезнувшие клубы",
-      "logoSlug": "logo_tambov",
-      "logoPath": "content/src-assets/media/questions/logos/logo_tambov.webp",
-      "strength": 37
-    },
-    {
-      "name": "Текстильщик Камышин",
-      "league": "Исчезнувшие клубы",
-      "logoSlug": "logo_tekstilshik_kam",
-      "logoPath": "content/src-assets/media/questions/logos/logo_tekstilshik_kam.webp",
-      "strength": 59
-    },
-    {
-      "name": "Тосно",
-      "league": "Исчезнувшие клубы",
-      "logoSlug": "logo_tosno",
-      "logoPath": "content/src-assets/media/questions/logos/logo_tosno.webp",
-      "strength": 57
-    },
-    {
-      "name": "Уралан",
-      "league": "Исчезнувшие клубы",
-      "logoSlug": "logo_uralan",
-      "logoPath": "content/src-assets/media/questions/logos/logo_uralan.webp",
-      "strength": 36
+      "name": "Шумбрат",
+      "shortName": "Шумбрат",
+      "league": "Вторая лига",
+      "logoSlug": "logo_shumbrat",
+      "logoPath": "content/src-assets/media/questions/logos/logo_shumbrat.webp",
+      "strength": 54
     },
     {
       "name": "2DROTS",
+      "shortName": "2DROTS",
       "league": "Медиалига",
       "logoSlug": "logo_drots",
       "logoPath": "content/src-assets/media/questions/logos/logo_drots.webp",
@@ -546,13 +559,23 @@
     },
     {
       "name": "Амкал",
+      "shortName": "Амкал",
       "league": "Медиалига",
       "logoSlug": "logo_amkal",
       "logoPath": "content/src-assets/media/questions/logos/logo_amkal.webp",
       "strength": 39
     },
     {
+      "name": "Банка",
+      "shortName": "Банка",
+      "league": "Медиалига",
+      "logoSlug": "logo_banka",
+      "logoPath": "content/src-assets/media/questions/logos/logo_banka.webp",
+      "strength": 52
+    },
+    {
       "name": "Бей Беги",
+      "shortName": "Бей Беги",
       "league": "Медиалига",
       "logoSlug": "logo_beybegi",
       "logoPath": "content/src-assets/media/questions/logos/logo_beybegi.webp",
@@ -560,6 +583,7 @@
     },
     {
       "name": "Деньги",
+      "shortName": "Деньги",
       "league": "Медиалига",
       "logoSlug": "logo_dengi",
       "logoPath": "content/src-assets/media/questions/logos/logo_dengi.webp",
@@ -567,6 +591,7 @@
     },
     {
       "name": "Кони",
+      "shortName": "Кони",
       "league": "Медиалига",
       "logoSlug": "logo_koni",
       "logoPath": "content/src-assets/media/questions/logos/logo_koni.webp",
@@ -574,6 +599,7 @@
     },
     {
       "name": "Народная Команда",
+      "shortName": "НК",
       "league": "Медиалига",
       "logoSlug": "logo_narod",
       "logoPath": "content/src-assets/media/questions/logos/logo_narod.webp",
@@ -581,6 +607,7 @@
     },
     {
       "name": "Родина Медиа",
+      "shortName": "Родина",
       "league": "Медиалига",
       "logoSlug": "logo_rodmedia",
       "logoPath": "content/src-assets/media/questions/logos/logo_rodmedia.webp",
@@ -588,6 +615,7 @@
     },
     {
       "name": "Рома",
+      "shortName": "Рома",
       "league": "Медиалига",
       "logoSlug": "logo_roma",
       "logoPath": "content/src-assets/media/questions/logos/logo_roma.webp",
@@ -595,6 +623,7 @@
     },
     {
       "name": "СКА Ростов",
+      "shortName": "СКА",
       "league": "Медиалига",
       "logoSlug": "logo_skaros",
       "logoPath": "content/src-assets/media/questions/logos/logo_skaros.webp",
@@ -602,6 +631,7 @@
     },
     {
       "name": "Тандем",
+      "shortName": "Тандем",
       "league": "Медиалига",
       "logoSlug": "logo_tandem",
       "logoPath": "content/src-assets/media/questions/logos/logo_tandem.webp",
@@ -609,13 +639,15 @@
     },
     {
       "name": "Титан",
+      "shortName": "Титан",
       "league": "Медиалига",
       "logoSlug": "logo_titan",
       "logoPath": "content/src-assets/media/questions/logos/logo_titan.webp",
       "strength": 45
     },
     {
-      "name": "ФК «10»",
+      "name": "ФК 10",
+      "shortName": "ФК 10",
       "league": "Медиалига",
       "logoSlug": "logo_fk10",
       "logoPath": "content/src-assets/media/questions/logos/logo_fk10.webp",
@@ -623,6 +655,7 @@
     },
     {
       "name": "ФК Матч",
+      "shortName": "ФК Матч",
       "league": "Медиалига",
       "logoSlug": "logo_match",
       "logoPath": "content/src-assets/media/questions/logos/logo_match.webp",
@@ -630,6 +663,7 @@
     },
     {
       "name": "Чисто Питер",
+      "shortName": "Чисто Питер",
       "league": "Медиалига",
       "logoSlug": "logo_piter",
       "logoPath": "content/src-assets/media/questions/logos/logo_piter.webp",
@@ -637,6 +671,7 @@
     },
     {
       "name": "Эгриси",
+      "shortName": "Эгриси",
       "league": "Медиалига",
       "logoSlug": "logo_egrisi",
       "logoPath": "content/src-assets/media/questions/logos/logo_egrisi.webp",
@@ -644,6 +679,7 @@
     },
     {
       "name": "Broke Boys",
+      "shortName": "Broke Boys",
       "league": "Медиалига",
       "logoSlug": "logo_broke",
       "logoPath": "content/src-assets/media/questions/logos/logo_broke.webp",
@@ -651,6 +687,7 @@
     },
     {
       "name": "DMEDIA",
+      "shortName": "DMEDIA",
       "league": "Медиалига",
       "logoSlug": "logo_dmedia",
       "logoPath": "content/src-assets/media/questions/logos/logo_dmedia.webp",
@@ -658,6 +695,7 @@
     },
     {
       "name": "FC Bus",
+      "shortName": "FC Bus",
       "league": "Медиалига",
       "logoSlug": "logo_bus",
       "logoPath": "content/src-assets/media/questions/logos/logo_bus.webp",
@@ -665,6 +703,7 @@
     },
     {
       "name": "Fight Nights",
+      "shortName": "Fight Nights",
       "league": "Медиалига",
       "logoSlug": "logo_fight",
       "logoPath": "content/src-assets/media/questions/logos/logo_fight.webp",
@@ -672,20 +711,39 @@
     },
     {
       "name": "GOATS",
+      "shortName": "GOATS",
       "league": "Медиалига",
       "logoSlug": "logo_goats",
       "logoPath": "content/src-assets/media/questions/logos/logo_goats.webp",
       "strength": 47
     },
     {
+      "name": "Lit Energy",
+      "shortName": "Lit Energy",
+      "league": "Медиалига",
+      "logoSlug": "logo_lit_energy",
+      "logoPath": "content/src-assets/media/questions/logos/logo_lit_energy.webp",
+      "strength": 41
+    },
+    {
       "name": "Lotus",
+      "shortName": "Lotus",
       "league": "Медиалига",
       "logoSlug": "logo_lotus",
       "logoPath": "content/src-assets/media/questions/logos/logo_lotus.webp",
       "strength": 41
     },
     {
+      "name": "PRIME SQUAD",
+      "shortName": "PRIME SQUAD",
+      "league": "Медиалига",
+      "logoSlug": "logo_primesquad",
+      "logoPath": "content/src-assets/media/questions/logos/logo_primesquad.webp",
+      "strength": 47
+    },
+    {
       "name": "Starmix",
+      "shortName": "Starmix",
       "league": "Медиалига",
       "logoSlug": "logo_starmix",
       "logoPath": "content/src-assets/media/questions/logos/logo_starmix.webp",
@@ -693,6 +751,7 @@
     },
     {
       "name": "Арсенал Тула",
+      "shortName": "Арсенал",
       "league": "Первая лига",
       "logoSlug": "logo_arsenal",
       "logoPath": "content/src-assets/media/questions/logos/logo_arsenal.webp",
@@ -700,6 +759,7 @@
     },
     {
       "name": "Велес",
+      "shortName": "Велес",
       "league": "Первая лига",
       "logoSlug": "logo_veles",
       "logoPath": "content/src-assets/media/questions/logos/logo_veles.webp",
@@ -707,6 +767,7 @@
     },
     {
       "name": "Волга Ульяновск",
+      "shortName": "Волга",
       "league": "Первая лига",
       "logoSlug": "logo_volga_ul",
       "logoPath": "content/src-assets/media/questions/logos/logo_volga_ul.webp",
@@ -714,13 +775,15 @@
     },
     {
       "name": "Енисей Красноярск",
+      "shortName": "Енисей",
       "league": "Первая лига",
       "logoSlug": "logo_enisey",
       "logoPath": "content/src-assets/media/questions/logos/logo_enisey.webp",
       "strength": 64
     },
     {
-      "name": "КАМАЗ Набережные Челны",
+      "name": "КАМАЗ",
+      "shortName": "КАМАЗ",
       "league": "Первая лига",
       "logoSlug": "logo_kamaz",
       "logoPath": "content/src-assets/media/questions/logos/logo_kamaz.webp",
@@ -728,13 +791,15 @@
     },
     {
       "name": "Ленинградец",
+      "shortName": "Ленинградец",
       "league": "Первая лига",
       "logoSlug": "logo_leningradez",
       "logoPath": "content/src-assets/media/questions/logos/logo_leningradez.webp",
       "strength": 60
     },
     {
-      "name": "Нефтехимик Нижнекамск",
+      "name": "Нефтехимик",
+      "shortName": "Нефтехимик",
       "league": "Первая лига",
       "logoSlug": "logo_neftehimik",
       "logoPath": "content/src-assets/media/questions/logos/logo_neftehimik.webp",
@@ -742,6 +807,7 @@
     },
     {
       "name": "Нижний Новгород",
+      "shortName": "НН",
       "league": "Первая лига",
       "logoSlug": "logo_pari",
       "logoPath": "content/src-assets/media/questions/logos/logo_pari.webp",
@@ -749,6 +815,7 @@
     },
     {
       "name": "Ротор Волгоград",
+      "shortName": "Ротор",
       "league": "Первая лига",
       "logoSlug": "logo_rotor",
       "logoPath": "content/src-assets/media/questions/logos/logo_rotor.webp",
@@ -756,6 +823,7 @@
     },
     {
       "name": "СКА-Хабаровск",
+      "shortName": "СКА-Хабаровск",
       "league": "Первая лига",
       "logoSlug": "logo_ska_hab",
       "logoPath": "content/src-assets/media/questions/logos/logo_ska_hab.webp",
@@ -763,6 +831,7 @@
     },
     {
       "name": "Сочи",
+      "shortName": "Сочи",
       "league": "Первая лига",
       "logoSlug": "logo_sochi",
       "logoPath": "content/src-assets/media/questions/logos/logo_sochi.webp",
@@ -770,6 +839,7 @@
     },
     {
       "name": "Спартак Кострома",
+      "shortName": "Спартак",
       "league": "Первая лига",
       "logoSlug": "logo_spartak_kos",
       "logoPath": "content/src-assets/media/questions/logos/logo_spartak_kos.webp",
@@ -777,6 +847,7 @@
     },
     {
       "name": "Текстильщик Иваново",
+      "shortName": "Текстильщик",
       "league": "Первая лига",
       "logoSlug": "logo_tekstilshik_ivan",
       "logoPath": "content/src-assets/media/questions/logos/logo_tekstilshik_ivan.webp",
@@ -784,6 +855,7 @@
     },
     {
       "name": "Торпедо Москва",
+      "shortName": "Торпедо",
       "league": "Первая лига",
       "logoSlug": "logo_torpedo",
       "logoPath": "content/src-assets/media/questions/logos/logo_torpedo.webp",
@@ -791,6 +863,7 @@
     },
     {
       "name": "Урал Екатеринбург",
+      "shortName": "Урал",
       "league": "Первая лига",
       "logoSlug": "logo_ural",
       "logoPath": "content/src-assets/media/questions/logos/logo_ural.webp",
@@ -798,6 +871,7 @@
     },
     {
       "name": "Уфа",
+      "shortName": "Уфа",
       "league": "Первая лига",
       "logoSlug": "logo_ufa",
       "logoPath": "content/src-assets/media/questions/logos/logo_ufa.webp",
@@ -805,6 +879,7 @@
     },
     {
       "name": "Челябинск",
+      "shortName": "Челябинск",
       "league": "Первая лига",
       "logoSlug": "logo_cheliabinsk",
       "logoPath": "content/src-assets/media/questions/logos/logo_cheliabinsk.webp",
@@ -812,6 +887,7 @@
     },
     {
       "name": "Шинник Ярославль",
+      "shortName": "Шинник",
       "league": "Первая лига",
       "logoSlug": "logo_shinnik",
       "logoPath": "content/src-assets/media/questions/logos/logo_shinnik.webp",
@@ -819,6 +895,7 @@
     },
     {
       "name": "Акрон",
+      "shortName": "Акрон",
       "league": "РПЛ",
       "logoSlug": "logo_akron",
       "logoPath": "content/src-assets/media/questions/logos/logo_akron.webp",
@@ -826,6 +903,7 @@
     },
     {
       "name": "Ахмат",
+      "shortName": "Ахмат",
       "league": "РПЛ",
       "logoSlug": "logo_akhmat",
       "logoPath": "content/src-assets/media/questions/logos/logo_akhmat.webp",
@@ -833,6 +911,7 @@
     },
     {
       "name": "Балтика",
+      "shortName": "Балтика",
       "league": "РПЛ",
       "logoSlug": "logo_baltika",
       "logoPath": "content/src-assets/media/questions/logos/logo_baltika.webp",
@@ -840,6 +919,7 @@
     },
     {
       "name": "Динамо Махачкала",
+      "shortName": "Динамо",
       "league": "РПЛ",
       "logoSlug": "logo_dinamo_mah",
       "logoPath": "content/src-assets/media/questions/logos/logo_dinamo_mah.webp",
@@ -847,6 +927,7 @@
     },
     {
       "name": "Динамо Москва",
+      "shortName": "Динамо",
       "league": "РПЛ",
       "logoSlug": "logo_dinamo",
       "logoPath": "content/src-assets/media/questions/logos/logo_dinamo.webp",
@@ -854,6 +935,7 @@
     },
     {
       "name": "Зенит",
+      "shortName": "Зенит",
       "league": "РПЛ",
       "logoSlug": "logo_zenit",
       "logoPath": "content/src-assets/media/questions/logos/logo_zenit.webp",
@@ -861,6 +943,7 @@
     },
     {
       "name": "Краснодар",
+      "shortName": "Краснодар",
       "league": "РПЛ",
       "logoSlug": "logo_krasnodar",
       "logoPath": "content/src-assets/media/questions/logos/logo_krasnodar.webp",
@@ -868,6 +951,7 @@
     },
     {
       "name": "Крылья Советов",
+      "shortName": "Крылья",
       "league": "РПЛ",
       "logoSlug": "logo_ks",
       "logoPath": "content/src-assets/media/questions/logos/logo_ks.webp",
@@ -875,6 +959,7 @@
     },
     {
       "name": "Локомотив",
+      "shortName": "Локомотив",
       "league": "РПЛ",
       "logoSlug": "logo_lokomotiv",
       "logoPath": "content/src-assets/media/questions/logos/logo_lokomotiv.webp",
@@ -882,6 +967,7 @@
     },
     {
       "name": "Оренбург",
+      "shortName": "Оренбург",
       "league": "РПЛ",
       "logoSlug": "logo_orenburg",
       "logoPath": "content/src-assets/media/questions/logos/logo_orenburg.webp",
@@ -889,6 +975,7 @@
     },
     {
       "name": "Родина",
+      "shortName": "Родина",
       "league": "РПЛ",
       "logoSlug": "logo_rodina",
       "logoPath": "content/src-assets/media/questions/logos/logo_rodina.webp",
@@ -896,6 +983,7 @@
     },
     {
       "name": "Ростов",
+      "shortName": "Ростов",
       "league": "РПЛ",
       "logoSlug": "logo_rostov",
       "logoPath": "content/src-assets/media/questions/logos/logo_rostov.webp",
@@ -903,6 +991,7 @@
     },
     {
       "name": "Рубин",
+      "shortName": "Рубин",
       "league": "РПЛ",
       "logoSlug": "logo_rubin",
       "logoPath": "content/src-assets/media/questions/logos/logo_rubin.webp",
@@ -910,6 +999,7 @@
     },
     {
       "name": "Спартак Москва",
+      "shortName": "Спартак",
       "league": "РПЛ",
       "logoSlug": "logo_spartak",
       "logoPath": "content/src-assets/media/questions/logos/logo_spartak.webp",
@@ -917,6 +1007,7 @@
     },
     {
       "name": "Факел",
+      "shortName": "Факел",
       "league": "РПЛ",
       "logoSlug": "logo_fakel",
       "logoPath": "content/src-assets/media/questions/logos/logo_fakel.webp",
@@ -924,9 +1015,10 @@
     },
     {
       "name": "ЦСКА",
+      "shortName": "ЦСКА",
       "league": "РПЛ",
       "logoSlug": "cska",
-      "logoPath": "content/src-assets/media/questions/logos/cska.jpg",
+      "logoPath": "content/src-assets/media/clubs/texts/cska.webp",
       "strength": 85
     }
   ]

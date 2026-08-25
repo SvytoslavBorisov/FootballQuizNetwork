@@ -1,38 +1,38 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-21T06:48:11.921Z",
+  "updatedAt": "2026-08-25T11:04:29.306Z",
   "sourceAssetsPath": "content/src-assets",
   "sourceAssetsRawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/",
   "datasets": {
     "clubs_packs": {
       "path": "content/src-assets/data/clubs-packs.json",
       "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/data/clubs-packs.json",
-      "sha256": "c9841b9e20c78a8babeac4b9e882798aab91cf3c72d51ceffdedd3e0d313ecb3",
+      "sha256": "3f90c72d5869f35b608391b365020d24d638d31a640096a649fa92d8e44fe5ab",
       "bytes": 872441
     },
     "cup_levels": {
       "path": "content/src-assets/data/cup-levels.json",
       "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/data/cup-levels.json",
-      "sha256": "f948c8237e29f97fe72839bc0a8b94770258632ea72bcaa9476f319c199caf23",
-      "bytes": 780796
+      "sha256": "d390e3ca4989ff8d5b35d83550bc03dc327c6a2dd9844bc5fbc4d04202c35e3d",
+      "bytes": 779374
     },
     "cup_teams": {
       "path": "content/src-assets/data/cup-teams.json",
       "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/data/cup-teams.json",
-      "sha256": "ece02b36ec61aa132ef68816ca70ca5c3febb49a248bd9d11824a0b05a31e467",
-      "bytes": 30425
+      "sha256": "2988da1ac1cfe1184b999d6d82144308affe6d8d1467f160b947fd89f433f96f",
+      "bytes": 33305
     },
     "current_matchday": {
       "path": "content/src-assets/data/current-matchday.json",
       "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/data/current-matchday.json",
-      "sha256": "7c92c40fa124b128bc7cc5b9922460595347f8d35ac1ccba7f1e3de469f0105e",
-      "bytes": 33
+      "sha256": "f8b029be3b2ff26295a6761b0f9c8aaf30bad3d55850fff087d36b55df29cd90",
+      "bytes": 35
     },
     "h2h_cache": {
       "path": "content/src-assets/data/h2h_cache.json",
       "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/data/h2h_cache.json",
-      "sha256": "7ff4d8536eff5833031fdc57d607887f40a78200f28e284a2132c35e014faf68",
-      "bytes": 198906
+      "sha256": "84951f9cc5abdd82a43bcc3bec9f216424be92a456e082d7b037d3e4b9880aa6",
+      "bytes": 253231
     },
     "info": {
       "path": "content/src-assets/data/info.json",
@@ -43,7 +43,7 @@
     "logos_packs": {
       "path": "content/src-assets/data/logos-packs.json",
       "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/data/logos-packs.json",
-      "sha256": "ad3be07b822d396db90dc908a3a324cce530ba0d583b5a087bf5bc0e9eba2d52",
+      "sha256": "3db679c43576576685933b6ea785405a92fd151b99676f0f0523de0b0ada8095",
       "bytes": 240345
     },
     "md_test": {
@@ -64,11 +64,17 @@
       "sha256": "91b13ae745287c1084a17791c981ab13a0780f0a3c631e75aeed021f75cc5b42",
       "bytes": 23275
     },
+    "mt_loko_dinmos": {
+      "path": "content/src-assets/data/mt_loko_dinmos.json",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/data/mt_loko_dinmos.json",
+      "sha256": "d478769608bb9a0867f2183face68906fb02b5ee3209c058d1c0167ded3a805e",
+      "bytes": 21973
+    },
     "mt_spartak_krasnodar": {
       "path": "content/src-assets/data/mt_spartak_krasnodar.json",
       "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/data/mt_spartak_krasnodar.json",
-      "sha256": "91b13ae745287c1084a17791c981ab13a0780f0a3c631e75aeed021f75cc5b42",
-      "bytes": 23275
+      "sha256": "119db047836904b9b56e9f784488da2992921d00ed2dab8dd2f89c2a3bd99dde",
+      "bytes": 20491
     },
     "mt_zenit_dinmos": {
       "path": "content/src-assets/data/mt_zenit_dinmos.json",
@@ -79,21 +85,21 @@
     "quiz_dataset": {
       "path": "content/src-assets/data/quiz-dataset.json",
       "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/data/quiz-dataset.json",
-      "sha256": "58c1da5291fe2e3ba5caf3c6728e3c2574124c8b132853cce4f3125c4ab41b26",
-      "bytes": 2376528
+      "sha256": "9fea89ff89fa8efd4e4e67c8447b866bde2bb4bbb2e8882dcffcb1c2df6d8883",
+      "bytes": 2423054
     },
     "stadiums_packs": {
       "path": "content/src-assets/data/stadiums-packs.json",
       "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/data/stadiums-packs.json",
-      "sha256": "72ec8f5291e24aab2ff73ac98d270b4215beef1751788a7ac753a25a59f91e6c",
+      "sha256": "6f24b53c1bbfe6c64c7d341cdeb8fedeed0a338206acaff35b6db9ae84c5ffe8",
       "bytes": 119509
     }
   },
   "mediaIndex": {
     "path": "content/media-index.json",
     "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/media-index.json",
-    "sha256": "6ee2a7de9ed70eede2da541e87c45336f3b11117a789e17ca18d84ad5bcb6ec6",
-    "bytes": 375186
+    "sha256": "ca5ccc2807106e06c0d2c8f4a3c75525bbfcf9a5c65bd293d36469804e0eb4cf",
+    "bytes": 332677
   },
   "requiredMediaSlugs": [
     "akhmat_bogosavats",
@@ -528,6 +534,18 @@
     "mas_krasnodar",
     "mas_ks",
     "mas_loko",
+    "num_10",
+    "num_11",
+    "num_12",
+    "num_13",
+    "num_14",
+    "num_16",
+    "num_2",
+    "num_5",
+    "num_6",
+    "num_7",
+    "num_8",
+    "num_9",
     "orenburg_akhmetzyanov",
     "orenburg_bosh",
     "orenburg_gonsales",
@@ -655,6 +673,7 @@
     "std_voronezh",
     "std_vtb",
     "tp_kerzakov",
+    "two_teams",
     "zs_adamov",
     "zs_advokat",
     "zs_alip",
