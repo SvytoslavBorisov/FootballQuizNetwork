@@ -24,6 +24,7 @@ const shouldValidateRemoteDownloads = process.env.VALIDATE_REMOTE_DOWNLOADS === 
 const errors = [];
 const warnings = [];
 const requiredMediaSlugs = new Set();
+const virtualMediaSlugs = new Set(['two_teams', 'rwo_teams']);
 
 function normalizeText(value) {
   return String(value ?? '').trim();
@@ -85,11 +86,21 @@ function collectMediaSlugs(directory) {
   return slugs;
 }
 
+function requiresLocalMediaFile(slug) {
+  const normalized = normalizeText(slug).toLowerCase();
+  if (!normalized || normalized === 'no_pic') return false;
+  if (virtualMediaSlugs.has(normalized) || /^num_\d+$/.test(normalized)) return false;
+
+  try {
+    return new URL(normalized).protocol !== 'https:';
+  } catch {
+    return true;
+  }
+}
+
 function rememberMediaSlug(slug) {
   const normalized = normalizeText(slug).toLowerCase();
-  if (normalized && normalized !== 'no_pic') {
-    requiredMediaSlugs.add(normalized);
-  }
+  if (requiresLocalMediaFile(normalized)) requiredMediaSlugs.add(normalized);
 }
 
 function collectWrongAnswerIndexes(row) {
@@ -151,7 +162,7 @@ function validateWorkbook(filePath, mediaSlugs) {
       }
       const slug = normalizeText(row[key]).toLowerCase();
       rememberMediaSlug(slug);
-      if (slug && slug !== 'no_pic' && !mediaSlugs.has(slug)) {
+      if (requiresLocalMediaFile(slug) && !mediaSlugs.has(slug)) {
         errors.push(`${label}: missing media for ${key}=${slug}`);
       }
     }
@@ -278,32 +289,31 @@ function validatePack(pack, label) {
 }
 
 function validateJsonContent(mediaSlugs) {
-  const packLocationsById = new Map();
-
-  function rememberPackId(pack, label) {
-    const packId = normalizeText(pack?.id);
-
-    if (!packId) {
-      errors.push(`${label}: pack.id is required`);
-      return;
-    }
-
-    const previousLocation = packLocationsById.get(packId);
-    if (previousLocation) {
-      errors.push(
-        `${label}: duplicate pack.id "${packId}" (already used by ${previousLocation})`,
-      );
-      return;
-    }
-
-    packLocationsById.set(packId, label);
-  }
-
   for (const filePath of collectFiles(resolvedDataRoot, fileName => /\.json$/i.test(fileName))) {
     const relative = toPosixPath(path.relative(rootDir, filePath));
     const json = readJson(filePath);
     if (!json) {
       continue;
+    }
+    const packLocationsById = new Map();
+
+    function rememberPackId(pack, label) {
+      const packId = normalizeText(pack?.id);
+
+      if (!packId) {
+        errors.push(`${label}: pack.id is required`);
+        return;
+      }
+
+      const previousLocation = packLocationsById.get(packId);
+      if (previousLocation) {
+        errors.push(
+          `${label}: duplicate pack.id "${packId}" (already used by ${previousLocation})`,
+        );
+        return;
+      }
+
+      packLocationsById.set(packId, label);
     }
 
     if (Array.isArray(json.categories)) {

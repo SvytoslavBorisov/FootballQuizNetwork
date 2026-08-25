@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-25T11:04:29.306Z",
+  "updatedAt": "2026-08-25T11:19:58.254Z",
   "sourceAssetsPath": "content/src-assets",
   "sourceAssetsRawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/",
   "datasets": {
@@ -43,7 +43,7 @@
     "logos_packs": {
       "path": "content/src-assets/data/logos-packs.json",
       "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/data/logos-packs.json",
-      "sha256": "3db679c43576576685933b6ea785405a92fd151b99676f0f0523de0b0ada8095",
+      "sha256": "781e18d83385a33de003ca7277a8440c6aa2c251d5dc2b40dd8dcbcfdd109dd6",
       "bytes": 240345
     },
     "md_test": {
@@ -91,14 +91,14 @@
     "stadiums_packs": {
       "path": "content/src-assets/data/stadiums-packs.json",
       "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/data/stadiums-packs.json",
-      "sha256": "6f24b53c1bbfe6c64c7d341cdeb8fedeed0a338206acaff35b6db9ae84c5ffe8",
+      "sha256": "3c6a2c1da519edacd2024f83113630a713404dea8bed0d379e02ca21b5257008",
       "bytes": 119509
     }
   },
   "mediaIndex": {
     "path": "content/media-index.json",
     "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/media-index.json",
-    "sha256": "ca5ccc2807106e06c0d2c8f4a3c75525bbfcf9a5c65bd293d36469804e0eb4cf",
+    "sha256": "92caee679764010916fb24753d5c4566aa6ce75f73b7238f993f4e399871a5da",
     "bytes": 332677
   },
   "requiredMediaSlugs": [
@@ -213,8 +213,6 @@
     "fakel_uridiya",
     "fakel_vasilenko",
     "fakel_zhuravlev",
-    "https://amaranth64.github.io/rpl_v2/matchday/images/mt_spartak_krasnodar_quest.jpg",
-    "https://amaranth64.github.io/rpl_v2/matchday/images/mt_zenit_dinmos_quest.jpg",
     "krasnodar_agkatsev",
     "krasnodar_augusto",
     "krasnodar_batxi",
@@ -534,18 +532,6 @@
     "mas_krasnodar",
     "mas_ks",
     "mas_loko",
-    "num_10",
-    "num_11",
-    "num_12",
-    "num_13",
-    "num_14",
-    "num_16",
-    "num_2",
-    "num_5",
-    "num_6",
-    "num_7",
-    "num_8",
-    "num_9",
     "orenburg_akhmetzyanov",
     "orenburg_bosh",
     "orenburg_gonsales",
@@ -673,7 +659,6 @@
     "std_voronezh",
     "std_vtb",
     "tp_kerzakov",
-    "two_teams",
     "zs_adamov",
     "zs_advokat",
     "zs_alip",
