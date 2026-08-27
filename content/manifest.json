@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-27T08:16:18.671395Z",
+  "updatedAt": "2026-08-27T08:25:11.662041Z",
   "sourceAssetsPath": "content/src-assets",
   "sourceAssetsRawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/",
   "datasets": {
@@ -25,8 +25,8 @@
     "current_matchday": {
       "path": "content/src-assets/data/current-matchday.json",
       "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/data/current-matchday.json",
-      "sha256": "318c9e34983e2b63210cccf8981736a67e4f25f974d6c0342fd024dddfbe909d",
-      "bytes": 150
+      "sha256": "465535409b6d8b204c051cc66efc098e9a0381d960c8404c5574b32a8cc9154e",
+      "bytes": 149
     },
     "h2h_cache": {
       "path": "content/src-assets/data/h2h_cache.json",
@@ -51,6 +51,12 @@
       "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/data/md_test.json",
       "sha256": "2da390a81482040ad60ae200343b71ce130602534737d6a2227282695aad4124",
       "bytes": 305
+    },
+    "mt_akron_cska": {
+      "path": "content/src-assets/data/mt_akron_cska.json",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/data/mt_akron_cska.json",
+      "sha256": "2d37c5bb4d5a539dafa963206f3929216f5aec8d8a2ebe4803702521da465afc",
+      "bytes": 19251
     },
     "mt_cska_baltika": {
       "path": "content/src-assets/data/mt_cska_baltika.json",
