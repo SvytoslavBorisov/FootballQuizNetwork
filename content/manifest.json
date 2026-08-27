@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-25T17:04:10.547724Z",
+  "updatedAt": "2026-08-27T05:30:45.653750Z",
   "sourceAssetsPath": "content/src-assets",
   "sourceAssetsRawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/",
   "datasets": {
@@ -25,7 +25,7 @@
     "current_matchday": {
       "path": "content/src-assets/data/current-matchday.json",
       "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/data/current-matchday.json",
-      "sha256": "318c9e34983e2b63210cccf8981736a67e4f25f974d6c0342fd024dddfbe909d",
+      "sha256": "4a1975819103c0f11e259854d17870f225cf37a0e3787dcb21d8cda273012271",
       "bytes": 150
     },
     "h2h_cache": {
@@ -67,7 +67,7 @@
     "mt_loko_dinmos": {
       "path": "content/src-assets/data/mt_loko_dinmos.json",
       "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/data/mt_loko_dinmos.json",
-      "sha256": "f2490da4c01b01aa69def52b09e20ff518ab276facbb85d52fffce8c956084e7",
+      "sha256": "2019ff02332ece70c93737f4e2985dc23e988b9953862e05ebd1b3a966441f2d",
       "bytes": 19217
     },
     "mt_spartak_krasnodar": {
