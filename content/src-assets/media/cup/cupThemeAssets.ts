@@ -14,12 +14,6 @@ export interface CupThemeAssets {
   achievement: ImageSourcePropType;
   nextButton: ImageSourcePropType;
   backgroundCreate: ImageSourcePropType;
-  fun1: ImageSourcePropType;
-  fun2: ImageSourcePropType;
-  fun3: ImageSourcePropType;
-  fun4: ImageSourcePropType;
-  fun5: ImageSourcePropType;
-  fun6: ImageSourcePropType;
 }
 
 const GOLD_CUP_THEME_ASSETS: CupThemeAssets = {
@@ -34,12 +28,6 @@ const GOLD_CUP_THEME_ASSETS: CupThemeAssets = {
   achievement: require('./themes/gold/achievement.webp'),
   nextButton: require('./themes/gold/nextButton.webp'),
   backgroundCreate: require('./themes/gold/background_create.webp'),
-  fun1: require('./themes/gold/fun_1.webp'),
-  fun2: require('./themes/gold/fun_2.webp'),
-  fun3: require('./themes/gold/fun_3.webp'),
-  fun4: require('./themes/gold/fun_4.webp'),
-  fun5: require('./themes/gold/fun_5.webp'),
-  fun6: require('./themes/gold/fun_6.webp'),
 };
 
 export function getCupThemeAssets(_paletteId: CupTeamLogoPaletteId): CupThemeAssets {

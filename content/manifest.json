@@ -1,26 +1,26 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-27T05:30:45.653750Z",
+  "updatedAt": "2026-08-27T07:53:24.973Z",
   "sourceAssetsPath": "content/src-assets",
   "sourceAssetsRawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/",
   "datasets": {
     "clubs_packs": {
       "path": "content/src-assets/data/clubs-packs.json",
       "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/data/clubs-packs.json",
-      "sha256": "3f90c72d5869f35b608391b365020d24d638d31a640096a649fa92d8e44fe5ab",
+      "sha256": "a2db061efa33e3958b78ebaf78a01a57c6233931b33d55c854591fe32639c874",
       "bytes": 872441
     },
     "cup_levels": {
       "path": "content/src-assets/data/cup-levels.json",
       "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/data/cup-levels.json",
-      "sha256": "d390e3ca4989ff8d5b35d83550bc03dc327c6a2dd9844bc5fbc4d04202c35e3d",
-      "bytes": 779374
+      "sha256": "2327b2eb7d1936d52e5d93217545f2abf5bbc5c36004c4d8b0086eeb58061219",
+      "bytes": 804503
     },
     "cup_teams": {
       "path": "content/src-assets/data/cup-teams.json",
       "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/data/cup-teams.json",
-      "sha256": "2988da1ac1cfe1184b999d6d82144308affe6d8d1467f160b947fd89f433f96f",
-      "bytes": 33305
+      "sha256": "a8c8bae35c644ea5cd2b0e21ad463b5408c44e2b8fccd2ee40dead2963c71df0",
+      "bytes": 34330
     },
     "current_matchday": {
       "path": "content/src-assets/data/current-matchday.json",
@@ -43,7 +43,7 @@
     "logos_packs": {
       "path": "content/src-assets/data/logos-packs.json",
       "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/data/logos-packs.json",
-      "sha256": "01cf0d54d835026bdc9d312ef79b7bfcab1cd89ea288c39217b8d8a73efd0e92",
+      "sha256": "dc0df4d08089bf11976c57340f698dfda8ab6c1920fa70cbc34bb31080120d47",
       "bytes": 240345
     },
     "md_test": {
@@ -85,21 +85,21 @@
     "quiz_dataset": {
       "path": "content/src-assets/data/quiz-dataset.json",
       "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/data/quiz-dataset.json",
-      "sha256": "9fea89ff89fa8efd4e4e67c8447b866bde2bb4bbb2e8882dcffcb1c2df6d8883",
-      "bytes": 2423054
+      "sha256": "6835c2b6c403386c6f617bac69f445706ec45d7c1e2dd548b31b7002c005eb3c",
+      "bytes": 2493705
     },
     "stadiums_packs": {
       "path": "content/src-assets/data/stadiums-packs.json",
       "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/data/stadiums-packs.json",
-      "sha256": "67ab619c87c3dd0ed9afd3d9f25f776c9430bfabd512d0a85dc4e64d8a45a682",
+      "sha256": "ac5ba3a2a475c49b108a98d48b250175f520f9bbecff0e3f39ae85c8ae098d4a",
       "bytes": 119509
     }
   },
   "mediaIndex": {
     "path": "content/media-index.json",
     "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/media-index.json",
-    "sha256": "b1d8ec125bd8c200c7d2d9b670d8da16370aa90f7ee8e07f82c2fbde9224a71b",
-    "bytes": 332677
+    "sha256": "53a16be5f50011f76036161e96401ca4e3915a7747f01fcf8c2215724bd1cc30",
+    "bytes": 333017
   },
   "requiredMediaSlugs": [
     "akhmat_bogosavats",

@@ -7,6 +7,8 @@ export const CUP_ASSETS = {
   loadIcon: require('../cup/themes/gold/icon_load.webp'),
   unknownOpponent: require('../cup/themes/gold/no_logo.webp'),
   playButton: require('../cup/themes/gold/play_button.webp'),
+  regameButton: require('../cup/themes/gold/regameButton.webp'),
+  homeButton: require('../cup/themes/gold/home.webp'),
   statsButton: require('../cup/themes/gold/static_button.webp'),
   drawButton: require('../cup/themes/gold/zereb_button.webp'),
   stopDrawButton: require('../cup/themes/gold/stop_button.webp'),

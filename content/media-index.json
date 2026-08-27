@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-25T15:54:30.948Z",
+  "generatedAt": "2026-08-27T07:53:24.857Z",
   "basePath": "content/src-assets/media",
   "bySlug": {
     "0_goal": {
@@ -1586,6 +1586,12 @@
       "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/clubs/branding/titles/hidden.webp",
       "sha256": "66b7550650c87a4a9cc18041fdd840f9951421a97b60128fc3e12dca3335f1d0",
       "bytes": 95012
+    },
+    "home": {
+      "path": "content/src-assets/media/cup/themes/gold/home.webp",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/media/cup/themes/gold/home.webp",
+      "sha256": "30983ea0d901fea07bf2ccd73eba22027528281823bc354a42b8c0675a5319e2",
+      "bytes": 57364
     },
     "icon_akhmat": {
       "path": "content/src-assets/media/clubs/branding/icons/icon_akhmat.webp",
