@@ -448,6 +448,32 @@ async function validateManifestAndMediaIndex() {
     return;
   }
 
+  const allPlayers = manifest.datasets?.all_players;
+  const allPlayersLabel = 'content/manifest.json.datasets.all_players';
+  if (!isDescriptor(allPlayers)) {
+    errors.push(`${allPlayersLabel}: invalid descriptor`);
+  } else {
+    const allPlayersPath = path.join(rootDir, allPlayers.path);
+    if (!fs.existsSync(allPlayersPath)) {
+      errors.push(`${allPlayersLabel}: local file does not exist at ${allPlayers.path}`);
+    } else {
+      const stat = fs.statSync(allPlayersPath);
+      if (stat.size !== Number(allPlayers.bytes)) {
+        errors.push(`${allPlayersLabel}: bytes mismatch (${stat.size} !== ${allPlayers.bytes})`);
+      }
+      if (sha256File(allPlayersPath).toLowerCase() !== allPlayers.sha256.toLowerCase()) {
+        errors.push(`${allPlayersLabel}: local sha256 mismatch`);
+      }
+      const roster = readJson(allPlayersPath);
+      if (!roster || !Array.isArray(roster.players) || roster.players.length === 0) {
+        errors.push(`${allPlayersLabel}: players must be a non-empty array`);
+      } else if (Number(roster.playerCount) !== roster.players.length) {
+        errors.push(`${allPlayersLabel}: playerCount does not match players.length`);
+      }
+    }
+    await validateRemoteDownload(allPlayers, allPlayersLabel);
+  }
+
   if (!Array.isArray(manifest.requiredMediaSlugs)) {
     errors.push('content/manifest.json: requiredMediaSlugs must be an array');
   } else {

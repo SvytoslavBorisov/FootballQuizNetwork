@@ -1,9 +1,15 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-27T08:25:11.662041Z",
+  "updatedAt": "2026-09-01T06:15:22.356582Z",
   "sourceAssetsPath": "content/src-assets",
   "sourceAssetsRawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/",
   "datasets": {
+    "all_players": {
+      "path": "content/player-rosters/all-players.json",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/player-rosters/all-players.json",
+      "sha256": "d9c8726fef6ddfe3782bc34150c9246f12b4956b752afdf4d53f7ed07111a5fe",
+      "bytes": 822409
+    },
     "clubs_packs": {
       "path": "content/src-assets/data/clubs-packs.json",
       "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/data/clubs-packs.json",
