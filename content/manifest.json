@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-01T06:17:36.117021Z",
+  "updatedAt": "2026-09-01T07:21:51.344821Z",
   "sourceAssetsPath": "content/src-assets",
   "sourceAssetsRawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/",
   "datasets": {
@@ -31,7 +31,7 @@
     "current_matchday": {
       "path": "content/src-assets/data/current-matchday.json",
       "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/data/current-matchday.json",
-      "sha256": "64af7c665b24c41e9eab26ec266516be7fc2cfba0e08bd4c5edc9f3632ca9fdc",
+      "sha256": "17c32b37c5ad22e4a57ce206ce6bf47cbb91012090804274d934d58f9cb63186",
       "bytes": 149
     },
     "h2h_cache": {
@@ -91,8 +91,8 @@
     "mt_zenit_cska": {
       "path": "content/src-assets/data/mt_zenit_cska.json",
       "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/data/mt_zenit_cska.json",
-      "sha256": "719708e20f01c762fe1ea16342c9a3e7ff58f0737eb6510a2527280340a67576",
-      "bytes": 21090
+      "sha256": "6696a248f3e8d014c3c0f5c074b88a2a6dcd701b83c7382a8d4a52fde878d8d6",
+      "bytes": 20832
     },
     "mt_zenit_dinmos": {
       "path": "content/src-assets/data/mt_zenit_dinmos.json",
