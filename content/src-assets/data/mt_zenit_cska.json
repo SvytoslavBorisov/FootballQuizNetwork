@@ -508,7 +508,7 @@
   {
     "type": 2,
     "textQue": "Какая из команд забила больше голов в РПЛ после 6 туров?",
-    "slugQue": "two_teams",
+    "slugQue": "no_pic",
     "comment": "После 6 туров: Зенит – 13, ЦСКА – 9",
     "slugDlg": "logo_zenit",
     "slugCorAns": "logo_zenit",
@@ -530,7 +530,7 @@
   {
     "type": 2,
     "textQue": "Какая из команд пропустила больше голов в РПЛ после 6 туров?",
-    "slugQue": "two_teams",
+    "slugQue": "no_pic",
     "comment": "После 6 туров: ЦСКА – 6, Зенит – 4",
     "slugDlg": "logo_cska",
     "slugCorAns": "logo_cska",
