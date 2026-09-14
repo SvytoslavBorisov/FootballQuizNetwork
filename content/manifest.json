@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-07T18:33:57.514423Z",
+  "updatedAt": "2026-09-14T05:25:24.087392Z",
   "sourceAssetsPath": "content/src-assets",
   "sourceAssetsRawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/",
   "datasets": {
@@ -31,8 +31,8 @@
     "current_matchday": {
       "path": "content/src-assets/data/current-matchday.json",
       "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/data/current-matchday.json",
-      "sha256": "ab5aa3b8b3d50a59f5f7b5545e26a8b16096069692557d3376b74a340a4ed534",
-      "bytes": 149
+      "sha256": "914c4f07e6e5e2cbf7f9ad55d6358e2387abf931bdb2b5e3d3e50afc69eabfcb",
+      "bytes": 152
     },
     "h2h_cache": {
       "path": "content/src-assets/data/h2h_cache.json",
@@ -87,6 +87,12 @@
       "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/data/mt_spartak_krasnodar.json",
       "sha256": "119db047836904b9b56e9f784488da2992921d00ed2dab8dd2f89c2a3bd99dde",
       "bytes": 20491
+    },
+    "mt_zenit_baltika": {
+      "path": "content/src-assets/data/mt_zenit_baltika.json",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/data/mt_zenit_baltika.json",
+      "sha256": "cfd23b047dbe721dd3560164920ad36d555ea7ad3e7258046f26b21341a94ed1",
+      "bytes": 21976
     },
     "mt_zenit_cska": {
       "path": "content/src-assets/data/mt_zenit_cska.json",
