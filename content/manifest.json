@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-14T05:25:24.087392Z",
+  "updatedAt": "2026-09-17T08:46:25.900557Z",
   "sourceAssetsPath": "content/src-assets",
   "sourceAssetsRawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/",
   "datasets": {
@@ -31,8 +31,8 @@
     "current_matchday": {
       "path": "content/src-assets/data/current-matchday.json",
       "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/data/current-matchday.json",
-      "sha256": "914c4f07e6e5e2cbf7f9ad55d6358e2387abf931bdb2b5e3d3e50afc69eabfcb",
-      "bytes": 152
+      "sha256": "01f307a29eb858756f67645aeebf08deda556ff65a7c77b64a4e9cbec2c73f93",
+      "bytes": 153
     },
     "h2h_cache": {
       "path": "content/src-assets/data/h2h_cache.json",
@@ -81,6 +81,12 @@
       "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/data/mt_loko_dinmos.json",
       "sha256": "f2490da4c01b01aa69def52b09e20ff518ab276facbb85d52fffce8c956084e7",
       "bytes": 19217
+    },
+    "mt_rostov_spartak": {
+      "path": "content/src-assets/data/mt_rostov_spartak.json",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/data/mt_rostov_spartak.json",
+      "sha256": "9c28398b75ceeb0029e0075d9ee3d2941b9c354f683aea4271fd93dc52ee89ad",
+      "bytes": 19329
     },
     "mt_spartak_krasnodar": {
       "path": "content/src-assets/data/mt_spartak_krasnodar.json",
