@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-12T05:09:58.247541Z",
+  "updatedAt": "2026-10-12T07:24:57.392989Z",
   "sourceAssetsPath": "content/src-assets",
   "sourceAssetsRawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/",
   "datasets": {
@@ -31,7 +31,7 @@
     "current_matchday": {
       "path": "content/src-assets/data/current-matchday.json",
       "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/data/current-matchday.json",
-      "sha256": "62a697cfbb1f979bff25c5466c4cbeb949c4a1ef808613d16e822c9a4c599442",
+      "sha256": "b2d58c37ae33698f6d859cd8ceef07f07e13c1a9f89ccfdb16610ee7605dda70",
       "bytes": 150
     },
     "h2h_cache": {
@@ -79,8 +79,8 @@
     "mt_dinmos_cska": {
       "path": "content/src-assets/data/mt_dinmos_cska.json",
       "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/data/mt_dinmos_cska.json",
-      "sha256": "c153dab19848c427987b7f2bc57921a50428b1333118c63485e793f5a4f9abe3",
-      "bytes": 23255
+      "sha256": "85daa17969fffcd1f3c325acf7c6b62c3c91f77ffad2dc3f5f83b4260a2f7fb1",
+      "bytes": 21675
     },
     "mt_krasnodar_zenit": {
       "path": "content/src-assets/data/mt_krasnodar_zenit.json",
