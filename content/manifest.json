@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-12T07:24:57.392989Z",
+  "updatedAt": "2026-10-18T15:56:27.512405Z",
   "sourceAssetsPath": "content/src-assets",
   "sourceAssetsRawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/",
   "datasets": {
@@ -31,8 +31,8 @@
     "current_matchday": {
       "path": "content/src-assets/data/current-matchday.json",
       "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/data/current-matchday.json",
-      "sha256": "b2d58c37ae33698f6d859cd8ceef07f07e13c1a9f89ccfdb16610ee7605dda70",
-      "bytes": 150
+      "sha256": "81ecb54c1337069f39d5e95194e415215dd0d994d4cc9b1ffff3bb47ee38dc40",
+      "bytes": 151
     },
     "h2h_cache": {
       "path": "content/src-assets/data/h2h_cache.json",
@@ -75,6 +75,12 @@
       "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/data/mt_cska_loko.json",
       "sha256": "91b13ae745287c1084a17791c981ab13a0780f0a3c631e75aeed021f75cc5b42",
       "bytes": 23275
+    },
+    "mt_cska_spartak": {
+      "path": "content/src-assets/data/mt_cska_spartak.json",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/data/mt_cska_spartak.json",
+      "sha256": "a46a4ca672aa36d853b7c80c5c6de5d6e84bd8fe3cc5d871b0c5c62bb88747b3",
+      "bytes": 22475
     },
     "mt_dinmos_cska": {
       "path": "content/src-assets/data/mt_dinmos_cska.json",
