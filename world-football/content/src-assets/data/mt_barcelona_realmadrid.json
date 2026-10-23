@@ -1,0 +1,2023 @@
+{
+  "id": "matchday",
+  "title": {
+    "ru": "Матч недели",
+    "en": "Match of the Week"
+  },
+  "titleRu": "Матч недели",
+  "packs": [
+    {
+      "id": "mt_barcelona_realmadrid",
+      "title": {
+        "ru": "Барселона — Реал Мадрид",
+        "en": "Barcelona — Real Madrid"
+      },
+      "titleRu": "Барселона — Реал Мадрид",
+      "items": [
+        {
+          "id": "mt_barcelona_realmadrid__club_barcelona_182",
+          "type": 307,
+          "kind": "season_table",
+          "questionText": "Какой это сезон?",
+          "difficulty": "easy",
+          "media": {
+            "questionSlug": "no_pic",
+            "dialogSlug": "no_pic",
+            "correctSlug": "no_pic"
+          },
+          "payload": {
+            "source": "standings",
+            "title": "Ла Лига",
+            "maxWrongOptions": 3,
+            "compact": true,
+            "columns": [
+              {
+                "key": "position",
+                "label": "М",
+                "width": 0.65,
+                "align": "center"
+              },
+              {
+                "key": "team",
+                "label": "Команда",
+                "width": 2.8,
+                "align": "left"
+              },
+              {
+                "key": "played",
+                "label": "И",
+                "width": 0.65,
+                "align": "center"
+              },
+              {
+                "key": "wins",
+                "label": "В",
+                "width": 0.65,
+                "align": "center"
+              },
+              {
+                "key": "draws",
+                "label": "Н",
+                "width": 0.65,
+                "align": "center"
+              },
+              {
+                "key": "losses",
+                "label": "П",
+                "width": 0.65,
+                "align": "center"
+              },
+              {
+                "key": "goalDifference",
+                "label": "РМ",
+                "width": 0.65,
+                "align": "center"
+              },
+              {
+                "key": "points",
+                "label": "О",
+                "width": 0.65,
+                "align": "center"
+              }
+            ],
+            "rows": [
+              {
+                "rank": 1,
+                "europeanCompetition": "champions_league",
+                "cells": {
+                  "position": {
+                    "value": "1"
+                  },
+                  "team": {
+                    "value": "Атлетико Мадрид"
+                  },
+                  "played": {
+                    "value": "38"
+                  },
+                  "wins": {
+                    "value": "28"
+                  },
+                  "draws": {
+                    "value": "6"
+                  },
+                  "losses": {
+                    "value": "4"
+                  },
+                  "goalDifference": {
+                    "value": "+51"
+                  },
+                  "points": {
+                    "value": "90"
+                  }
+                }
+              },
+              {
+                "rank": 2,
+                "europeanCompetition": "champions_league",
+                "cells": {
+                  "position": {
+                    "value": "2"
+                  },
+                  "team": {
+                    "value": "Барселона"
+                  },
+                  "played": {
+                    "value": "38"
+                  },
+                  "wins": {
+                    "value": "27"
+                  },
+                  "draws": {
+                    "value": "6"
+                  },
+                  "losses": {
+                    "value": "5"
+                  },
+                  "goalDifference": {
+                    "value": "+67"
+                  },
+                  "points": {
+                    "value": "87"
+                  }
+                }
+              },
+              {
+                "rank": 3,
+                "europeanCompetition": "champions_league",
+                "cells": {
+                  "position": {
+                    "value": "3"
+                  },
+                  "team": {
+                    "value": "Реал Мадрид"
+                  },
+                  "played": {
+                    "value": "38"
+                  },
+                  "wins": {
+                    "value": "27"
+                  },
+                  "draws": {
+                    "value": "6"
+                  },
+                  "losses": {
+                    "value": "5"
+                  },
+                  "goalDifference": {
+                    "value": "+66"
+                  },
+                  "points": {
+                    "value": "87"
+                  }
+                }
+              },
+              {
+                "rank": 4,
+                "europeanCompetition": "champions_league",
+                "cells": {
+                  "position": {
+                    "value": "4"
+                  },
+                  "team": {
+                    "value": "Атлетик Бильбао"
+                  },
+                  "played": {
+                    "value": "38"
+                  },
+                  "wins": {
+                    "value": "20"
+                  },
+                  "draws": {
+                    "value": "10"
+                  },
+                  "losses": {
+                    "value": "8"
+                  },
+                  "goalDifference": {
+                    "value": "+27"
+                  },
+                  "points": {
+                    "value": "70"
+                  }
+                }
+              },
+              {
+                "rank": 5,
+                "europeanCompetition": "europa_league",
+                "cells": {
+                  "position": {
+                    "value": "5"
+                  },
+                  "team": {
+                    "value": "Севилья"
+                  },
+                  "played": {
+                    "value": "38"
+                  },
+                  "wins": {
+                    "value": "18"
+                  },
+                  "draws": {
+                    "value": "9"
+                  },
+                  "losses": {
+                    "value": "11"
+                  },
+                  "goalDifference": {
+                    "value": "+17"
+                  },
+                  "points": {
+                    "value": "63"
+                  }
+                }
+              },
+              {
+                "rank": 6,
+                "europeanCompetition": "europa_league",
+                "cells": {
+                  "position": {
+                    "value": "6"
+                  },
+                  "team": {
+                    "value": "Вильярреал"
+                  },
+                  "played": {
+                    "value": "38"
+                  },
+                  "wins": {
+                    "value": "17"
+                  },
+                  "draws": {
+                    "value": "8"
+                  },
+                  "losses": {
+                    "value": "13"
+                  },
+                  "goalDifference": {
+                    "value": "+16"
+                  },
+                  "points": {
+                    "value": "59"
+                  }
+                }
+              }
+            ]
+          },
+          "answers": [
+            {
+              "id": "ans_1",
+              "text": "2013/2014",
+              "slug": "no_pic",
+              "isCorrect": true
+            },
+            {
+              "id": "ans_2",
+              "text": "2010/2011",
+              "slug": "no_pic",
+              "isCorrect": false
+            },
+            {
+              "id": "ans_3",
+              "text": "2011/2012",
+              "slug": "no_pic",
+              "isCorrect": false
+            },
+            {
+              "id": "ans_4",
+              "text": "2012/2013",
+              "slug": "no_pic",
+              "isCorrect": false
+            },
+            {
+              "id": "ans_5",
+              "text": "2014/2015",
+              "slug": "no_pic",
+              "isCorrect": false
+            },
+            {
+              "id": "ans_6",
+              "text": "2015/2016",
+              "slug": "no_pic",
+              "isCorrect": false
+            },
+            {
+              "id": "ans_7",
+              "text": "2016/2017",
+              "slug": "no_pic",
+              "isCorrect": false
+            }
+          ],
+          "sourceQuestionId": "club_barcelona_182"
+        },
+        {
+          "id": "mt_barcelona_realmadrid__club_realmadrid_198",
+          "type": 307,
+          "kind": "season_table",
+          "questionText": "Какой это сезон?",
+          "difficulty": "easy",
+          "media": {
+            "questionSlug": "no_pic",
+            "dialogSlug": "no_pic",
+            "correctSlug": "no_pic"
+          },
+          "payload": {
+            "source": "standings",
+            "title": "Ла Лига",
+            "maxWrongOptions": 3,
+            "compact": true,
+            "columns": [
+              {
+                "key": "position",
+                "label": "М",
+                "width": 0.65,
+                "align": "center"
+              },
+              {
+                "key": "team",
+                "label": "Команда",
+                "width": 2.8,
+                "align": "left"
+              },
+              {
+                "key": "played",
+                "label": "И",
+                "width": 0.65,
+                "align": "center"
+              },
+              {
+                "key": "wins",
+                "label": "В",
+                "width": 0.65,
+                "align": "center"
+              },
+              {
+                "key": "draws",
+                "label": "Н",
+                "width": 0.65,
+                "align": "center"
+              },
+              {
+                "key": "losses",
+                "label": "П",
+                "width": 0.65,
+                "align": "center"
+              },
+              {
+                "key": "goalDifference",
+                "label": "РМ",
+                "width": 0.65,
+                "align": "center"
+              },
+              {
+                "key": "points",
+                "label": "О",
+                "width": 0.65,
+                "align": "center"
+              }
+            ],
+            "rows": [
+              {
+                "rank": 1,
+                "europeanCompetition": "champions_league",
+                "cells": {
+                  "position": {
+                    "value": "1"
+                  },
+                  "team": {
+                    "value": "Барселона"
+                  },
+                  "played": {
+                    "value": "38"
+                  },
+                  "wins": {
+                    "value": "29"
+                  },
+                  "draws": {
+                    "value": "4"
+                  },
+                  "losses": {
+                    "value": "5"
+                  },
+                  "goalDifference": {
+                    "value": "+83"
+                  },
+                  "points": {
+                    "value": "91"
+                  }
+                }
+              },
+              {
+                "rank": 2,
+                "europeanCompetition": "champions_league",
+                "cells": {
+                  "position": {
+                    "value": "2"
+                  },
+                  "team": {
+                    "value": "Реал Мадрид"
+                  },
+                  "played": {
+                    "value": "38"
+                  },
+                  "wins": {
+                    "value": "28"
+                  },
+                  "draws": {
+                    "value": "6"
+                  },
+                  "losses": {
+                    "value": "4"
+                  },
+                  "goalDifference": {
+                    "value": "+76"
+                  },
+                  "points": {
+                    "value": "90"
+                  }
+                }
+              },
+              {
+                "rank": 3,
+                "europeanCompetition": "champions_league",
+                "cells": {
+                  "position": {
+                    "value": "3"
+                  },
+                  "team": {
+                    "value": "Атлетико Мадрид"
+                  },
+                  "played": {
+                    "value": "38"
+                  },
+                  "wins": {
+                    "value": "28"
+                  },
+                  "draws": {
+                    "value": "4"
+                  },
+                  "losses": {
+                    "value": "6"
+                  },
+                  "goalDifference": {
+                    "value": "+45"
+                  },
+                  "points": {
+                    "value": "88"
+                  }
+                }
+              },
+              {
+                "rank": 4,
+                "europeanCompetition": "champions_league",
+                "cells": {
+                  "position": {
+                    "value": "4"
+                  },
+                  "team": {
+                    "value": "Вильярреал"
+                  },
+                  "played": {
+                    "value": "38"
+                  },
+                  "wins": {
+                    "value": "18"
+                  },
+                  "draws": {
+                    "value": "10"
+                  },
+                  "losses": {
+                    "value": "10"
+                  },
+                  "goalDifference": {
+                    "value": "+9"
+                  },
+                  "points": {
+                    "value": "64"
+                  }
+                }
+              },
+              {
+                "rank": 5,
+                "europeanCompetition": "europa_league",
+                "cells": {
+                  "position": {
+                    "value": "5"
+                  },
+                  "team": {
+                    "value": "Атлетик Бильбао"
+                  },
+                  "played": {
+                    "value": "38"
+                  },
+                  "wins": {
+                    "value": "18"
+                  },
+                  "draws": {
+                    "value": "8"
+                  },
+                  "losses": {
+                    "value": "12"
+                  },
+                  "goalDifference": {
+                    "value": "+13"
+                  },
+                  "points": {
+                    "value": "62"
+                  }
+                }
+              },
+              {
+                "rank": 6,
+                "europeanCompetition": "europa_league",
+                "cells": {
+                  "position": {
+                    "value": "6"
+                  },
+                  "team": {
+                    "value": "Сельта"
+                  },
+                  "played": {
+                    "value": "38"
+                  },
+                  "wins": {
+                    "value": "17"
+                  },
+                  "draws": {
+                    "value": "9"
+                  },
+                  "losses": {
+                    "value": "12"
+                  },
+                  "goalDifference": {
+                    "value": "-8"
+                  },
+                  "points": {
+                    "value": "60"
+                  }
+                }
+              }
+            ]
+          },
+          "answers": [
+            {
+              "id": "ans_1",
+              "text": "2015/2016",
+              "slug": "no_pic",
+              "isCorrect": true
+            },
+            {
+              "id": "ans_2",
+              "text": "2012/2013",
+              "slug": "no_pic",
+              "isCorrect": false
+            },
+            {
+              "id": "ans_3",
+              "text": "2013/2014",
+              "slug": "no_pic",
+              "isCorrect": false
+            },
+            {
+              "id": "ans_4",
+              "text": "2014/2015",
+              "slug": "no_pic",
+              "isCorrect": false
+            },
+            {
+              "id": "ans_5",
+              "text": "2016/2017",
+              "slug": "no_pic",
+              "isCorrect": false
+            },
+            {
+              "id": "ans_6",
+              "text": "2017/2018",
+              "slug": "no_pic",
+              "isCorrect": false
+            },
+            {
+              "id": "ans_7",
+              "text": "2018/2019",
+              "slug": "no_pic",
+              "isCorrect": false
+            }
+          ],
+          "sourceQuestionId": "club_realmadrid_198"
+        },
+        {
+          "id": "mt_barcelona_realmadrid__club_barcelona_190",
+          "type": 307,
+          "kind": "season_table",
+          "questionText": "Какой это сезон?",
+          "difficulty": "easy",
+          "media": {
+            "questionSlug": "no_pic",
+            "dialogSlug": "no_pic",
+            "correctSlug": "no_pic"
+          },
+          "payload": {
+            "source": "group",
+            "title": "Лига чемпионов · Группа E",
+            "maxWrongOptions": 3,
+            "compact": true,
+            "columns": [
+              {
+                "key": "position",
+                "label": "М",
+                "width": 0.65,
+                "align": "center"
+              },
+              {
+                "key": "team",
+                "label": "Команда",
+                "width": 2.8,
+                "align": "left"
+              },
+              {
+                "key": "played",
+                "label": "И",
+                "width": 0.65,
+                "align": "center"
+              },
+              {
+                "key": "wins",
+                "label": "В",
+                "width": 0.65,
+                "align": "center"
+              },
+              {
+                "key": "draws",
+                "label": "Н",
+                "width": 0.65,
+                "align": "center"
+              },
+              {
+                "key": "losses",
+                "label": "П",
+                "width": 0.65,
+                "align": "center"
+              },
+              {
+                "key": "goalDifference",
+                "label": "РМ",
+                "width": 0.65,
+                "align": "center"
+              },
+              {
+                "key": "points",
+                "label": "О",
+                "width": 0.65,
+                "align": "center"
+              }
+            ],
+            "rows": [
+              {
+                "rank": 1,
+                "europeanCompetition": "champions_league",
+                "cells": {
+                  "position": {
+                    "value": "1"
+                  },
+                  "team": {
+                    "value": "Бавария"
+                  },
+                  "played": {
+                    "value": "6"
+                  },
+                  "wins": {
+                    "value": "6"
+                  },
+                  "draws": {
+                    "value": "0"
+                  },
+                  "losses": {
+                    "value": "0"
+                  },
+                  "goalDifference": {
+                    "value": "+19"
+                  },
+                  "points": {
+                    "value": "18"
+                  }
+                }
+              },
+              {
+                "rank": 2,
+                "europeanCompetition": "champions_league",
+                "cells": {
+                  "position": {
+                    "value": "2"
+                  },
+                  "team": {
+                    "value": "Бенфика"
+                  },
+                  "played": {
+                    "value": "6"
+                  },
+                  "wins": {
+                    "value": "2"
+                  },
+                  "draws": {
+                    "value": "2"
+                  },
+                  "losses": {
+                    "value": "2"
+                  },
+                  "goalDifference": {
+                    "value": "-2"
+                  },
+                  "points": {
+                    "value": "8"
+                  }
+                }
+              },
+              {
+                "rank": 3,
+                "europeanCompetition": "europa_league",
+                "cells": {
+                  "position": {
+                    "value": "3"
+                  },
+                  "team": {
+                    "value": "Барселона"
+                  },
+                  "played": {
+                    "value": "6"
+                  },
+                  "wins": {
+                    "value": "2"
+                  },
+                  "draws": {
+                    "value": "1"
+                  },
+                  "losses": {
+                    "value": "3"
+                  },
+                  "goalDifference": {
+                    "value": "-7"
+                  },
+                  "points": {
+                    "value": "7"
+                  }
+                }
+              },
+              {
+                "rank": 4,
+                "cells": {
+                  "position": {
+                    "value": "4"
+                  },
+                  "team": {
+                    "value": "Динамо Киев"
+                  },
+                  "played": {
+                    "value": "6"
+                  },
+                  "wins": {
+                    "value": "0"
+                  },
+                  "draws": {
+                    "value": "1"
+                  },
+                  "losses": {
+                    "value": "5"
+                  },
+                  "goalDifference": {
+                    "value": "-10"
+                  },
+                  "points": {
+                    "value": "1"
+                  }
+                }
+              }
+            ]
+          },
+          "answers": [
+            {
+              "id": "ans_1",
+              "text": "2021/2022",
+              "slug": "no_pic",
+              "isCorrect": true
+            },
+            {
+              "id": "ans_2",
+              "text": "2018/2019",
+              "slug": "no_pic",
+              "isCorrect": false
+            },
+            {
+              "id": "ans_3",
+              "text": "2019/2020",
+              "slug": "no_pic",
+              "isCorrect": false
+            },
+            {
+              "id": "ans_4",
+              "text": "2020/2021",
+              "slug": "no_pic",
+              "isCorrect": false
+            },
+            {
+              "id": "ans_5",
+              "text": "2022/2023",
+              "slug": "no_pic",
+              "isCorrect": false
+            },
+            {
+              "id": "ans_6",
+              "text": "2023/2024",
+              "slug": "no_pic",
+              "isCorrect": false
+            },
+            {
+              "id": "ans_7",
+              "text": "2024/2025",
+              "slug": "no_pic",
+              "isCorrect": false
+            }
+          ],
+          "sourceQuestionId": "club_barcelona_190"
+        },
+        {
+          "id": "mt_barcelona_realmadrid__club_realmadrid_199",
+          "type": 307,
+          "kind": "season_table",
+          "questionText": "Какой это сезон?",
+          "difficulty": "easy",
+          "media": {
+            "questionSlug": "no_pic",
+            "dialogSlug": "no_pic",
+            "correctSlug": "no_pic"
+          },
+          "payload": {
+            "source": "standings",
+            "title": "Ла Лига",
+            "maxWrongOptions": 3,
+            "compact": true,
+            "columns": [
+              {
+                "key": "position",
+                "label": "М",
+                "width": 0.65,
+                "align": "center"
+              },
+              {
+                "key": "team",
+                "label": "Команда",
+                "width": 2.8,
+                "align": "left"
+              },
+              {
+                "key": "played",
+                "label": "И",
+                "width": 0.65,
+                "align": "center"
+              },
+              {
+                "key": "wins",
+                "label": "В",
+                "width": 0.65,
+                "align": "center"
+              },
+              {
+                "key": "draws",
+                "label": "Н",
+                "width": 0.65,
+                "align": "center"
+              },
+              {
+                "key": "losses",
+                "label": "П",
+                "width": 0.65,
+                "align": "center"
+              },
+              {
+                "key": "goalDifference",
+                "label": "РМ",
+                "width": 0.65,
+                "align": "center"
+              },
+              {
+                "key": "points",
+                "label": "О",
+                "width": 0.65,
+                "align": "center"
+              }
+            ],
+            "rows": [
+              {
+                "rank": 1,
+                "europeanCompetition": "champions_league",
+                "cells": {
+                  "position": {
+                    "value": "1"
+                  },
+                  "team": {
+                    "value": "Барселона"
+                  },
+                  "played": {
+                    "value": "38"
+                  },
+                  "wins": {
+                    "value": "26"
+                  },
+                  "draws": {
+                    "value": "9"
+                  },
+                  "losses": {
+                    "value": "3"
+                  },
+                  "goalDifference": {
+                    "value": "+54"
+                  },
+                  "points": {
+                    "value": "87"
+                  }
+                }
+              },
+              {
+                "rank": 2,
+                "europeanCompetition": "champions_league",
+                "cells": {
+                  "position": {
+                    "value": "2"
+                  },
+                  "team": {
+                    "value": "Атлетико Мадрид"
+                  },
+                  "played": {
+                    "value": "38"
+                  },
+                  "wins": {
+                    "value": "22"
+                  },
+                  "draws": {
+                    "value": "10"
+                  },
+                  "losses": {
+                    "value": "6"
+                  },
+                  "goalDifference": {
+                    "value": "+26"
+                  },
+                  "points": {
+                    "value": "76"
+                  }
+                }
+              },
+              {
+                "rank": 3,
+                "europeanCompetition": "champions_league",
+                "cells": {
+                  "position": {
+                    "value": "3"
+                  },
+                  "team": {
+                    "value": "Реал Мадрид"
+                  },
+                  "played": {
+                    "value": "38"
+                  },
+                  "wins": {
+                    "value": "21"
+                  },
+                  "draws": {
+                    "value": "5"
+                  },
+                  "losses": {
+                    "value": "12"
+                  },
+                  "goalDifference": {
+                    "value": "+17"
+                  },
+                  "points": {
+                    "value": "68"
+                  }
+                }
+              },
+              {
+                "rank": 4,
+                "europeanCompetition": "champions_league",
+                "cells": {
+                  "position": {
+                    "value": "4"
+                  },
+                  "team": {
+                    "value": "Валенсия"
+                  },
+                  "played": {
+                    "value": "38"
+                  },
+                  "wins": {
+                    "value": "15"
+                  },
+                  "draws": {
+                    "value": "16"
+                  },
+                  "losses": {
+                    "value": "7"
+                  },
+                  "goalDifference": {
+                    "value": "+16"
+                  },
+                  "points": {
+                    "value": "61"
+                  }
+                }
+              },
+              {
+                "rank": 5,
+                "europeanCompetition": "europa_league",
+                "cells": {
+                  "position": {
+                    "value": "5"
+                  },
+                  "team": {
+                    "value": "Хетафе"
+                  },
+                  "played": {
+                    "value": "38"
+                  },
+                  "wins": {
+                    "value": "15"
+                  },
+                  "draws": {
+                    "value": "14"
+                  },
+                  "losses": {
+                    "value": "9"
+                  },
+                  "goalDifference": {
+                    "value": "+13"
+                  },
+                  "points": {
+                    "value": "59"
+                  }
+                }
+              },
+              {
+                "rank": 6,
+                "europeanCompetition": "europa_league",
+                "cells": {
+                  "position": {
+                    "value": "6"
+                  },
+                  "team": {
+                    "value": "Севилья"
+                  },
+                  "played": {
+                    "value": "38"
+                  },
+                  "wins": {
+                    "value": "17"
+                  },
+                  "draws": {
+                    "value": "8"
+                  },
+                  "losses": {
+                    "value": "13"
+                  },
+                  "goalDifference": {
+                    "value": "+15"
+                  },
+                  "points": {
+                    "value": "59"
+                  }
+                }
+              }
+            ]
+          },
+          "answers": [
+            {
+              "id": "ans_1",
+              "text": "2018/2019",
+              "slug": "no_pic",
+              "isCorrect": true
+            },
+            {
+              "id": "ans_2",
+              "text": "2015/2016",
+              "slug": "no_pic",
+              "isCorrect": false
+            },
+            {
+              "id": "ans_3",
+              "text": "2016/2017",
+              "slug": "no_pic",
+              "isCorrect": false
+            },
+            {
+              "id": "ans_4",
+              "text": "2017/2018",
+              "slug": "no_pic",
+              "isCorrect": false
+            },
+            {
+              "id": "ans_5",
+              "text": "2019/2020",
+              "slug": "no_pic",
+              "isCorrect": false
+            },
+            {
+              "id": "ans_6",
+              "text": "2020/2021",
+              "slug": "no_pic",
+              "isCorrect": false
+            },
+            {
+              "id": "ans_7",
+              "text": "2021/2022",
+              "slug": "no_pic",
+              "isCorrect": false
+            }
+          ],
+          "sourceQuestionId": "club_realmadrid_199"
+        },
+        {
+          "id": "mt_barcelona_realmadrid__club_barcelona_181",
+          "type": 307,
+          "kind": "season_table",
+          "questionText": "Какой это сезон?",
+          "difficulty": "easy",
+          "media": {
+            "questionSlug": "no_pic",
+            "dialogSlug": "no_pic",
+            "correctSlug": "no_pic"
+          },
+          "payload": {
+            "source": "standings",
+            "title": "Ла Лига",
+            "maxWrongOptions": 3,
+            "compact": true,
+            "columns": [
+              {
+                "key": "position",
+                "label": "М",
+                "width": 0.65,
+                "align": "center"
+              },
+              {
+                "key": "team",
+                "label": "Команда",
+                "width": 2.8,
+                "align": "left"
+              },
+              {
+                "key": "played",
+                "label": "И",
+                "width": 0.65,
+                "align": "center"
+              },
+              {
+                "key": "wins",
+                "label": "В",
+                "width": 0.65,
+                "align": "center"
+              },
+              {
+                "key": "draws",
+                "label": "Н",
+                "width": 0.65,
+                "align": "center"
+              },
+              {
+                "key": "losses",
+                "label": "П",
+                "width": 0.65,
+                "align": "center"
+              },
+              {
+                "key": "goalDifference",
+                "label": "РМ",
+                "width": 0.65,
+                "align": "center"
+              },
+              {
+                "key": "points",
+                "label": "О",
+                "width": 0.65,
+                "align": "center"
+              }
+            ],
+            "rows": [
+              {
+                "rank": 1,
+                "europeanCompetition": "champions_league",
+                "cells": {
+                  "position": {
+                    "value": "1"
+                  },
+                  "team": {
+                    "value": "Барселона"
+                  },
+                  "played": {
+                    "value": "38"
+                  },
+                  "wins": {
+                    "value": "32"
+                  },
+                  "draws": {
+                    "value": "4"
+                  },
+                  "losses": {
+                    "value": "2"
+                  },
+                  "goalDifference": {
+                    "value": "+75"
+                  },
+                  "points": {
+                    "value": "100"
+                  }
+                }
+              },
+              {
+                "rank": 2,
+                "europeanCompetition": "champions_league",
+                "cells": {
+                  "position": {
+                    "value": "2"
+                  },
+                  "team": {
+                    "value": "Реал Мадрид"
+                  },
+                  "played": {
+                    "value": "38"
+                  },
+                  "wins": {
+                    "value": "26"
+                  },
+                  "draws": {
+                    "value": "7"
+                  },
+                  "losses": {
+                    "value": "5"
+                  },
+                  "goalDifference": {
+                    "value": "+61"
+                  },
+                  "points": {
+                    "value": "85"
+                  }
+                }
+              },
+              {
+                "rank": 3,
+                "europeanCompetition": "champions_league",
+                "cells": {
+                  "position": {
+                    "value": "3"
+                  },
+                  "team": {
+                    "value": "Атлетико Мадрид"
+                  },
+                  "played": {
+                    "value": "38"
+                  },
+                  "wins": {
+                    "value": "23"
+                  },
+                  "draws": {
+                    "value": "7"
+                  },
+                  "losses": {
+                    "value": "8"
+                  },
+                  "goalDifference": {
+                    "value": "+34"
+                  },
+                  "points": {
+                    "value": "76"
+                  }
+                }
+              },
+              {
+                "rank": 4,
+                "europeanCompetition": "champions_league",
+                "cells": {
+                  "position": {
+                    "value": "4"
+                  },
+                  "team": {
+                    "value": "Реал Сосьедад"
+                  },
+                  "played": {
+                    "value": "38"
+                  },
+                  "wins": {
+                    "value": "18"
+                  },
+                  "draws": {
+                    "value": "12"
+                  },
+                  "losses": {
+                    "value": "8"
+                  },
+                  "goalDifference": {
+                    "value": "+21"
+                  },
+                  "points": {
+                    "value": "66"
+                  }
+                }
+              },
+              {
+                "rank": 5,
+                "europeanCompetition": "europa_league",
+                "cells": {
+                  "position": {
+                    "value": "5"
+                  },
+                  "team": {
+                    "value": "Валенсия"
+                  },
+                  "played": {
+                    "value": "38"
+                  },
+                  "wins": {
+                    "value": "19"
+                  },
+                  "draws": {
+                    "value": "8"
+                  },
+                  "losses": {
+                    "value": "11"
+                  },
+                  "goalDifference": {
+                    "value": "+13"
+                  },
+                  "points": {
+                    "value": "65"
+                  }
+                }
+              },
+              {
+                "rank": 6,
+                "cells": {
+                  "position": {
+                    "value": "6"
+                  },
+                  "team": {
+                    "value": "Малага"
+                  },
+                  "played": {
+                    "value": "38"
+                  },
+                  "wins": {
+                    "value": "16"
+                  },
+                  "draws": {
+                    "value": "9"
+                  },
+                  "losses": {
+                    "value": "13"
+                  },
+                  "goalDifference": {
+                    "value": "+3"
+                  },
+                  "points": {
+                    "value": "57"
+                  }
+                }
+              }
+            ]
+          },
+          "answers": [
+            {
+              "id": "ans_1",
+              "text": "2012/2013",
+              "slug": "no_pic",
+              "isCorrect": true
+            },
+            {
+              "id": "ans_2",
+              "text": "2009/2010",
+              "slug": "no_pic",
+              "isCorrect": false
+            },
+            {
+              "id": "ans_3",
+              "text": "2010/2011",
+              "slug": "no_pic",
+              "isCorrect": false
+            },
+            {
+              "id": "ans_4",
+              "text": "2011/2012",
+              "slug": "no_pic",
+              "isCorrect": false
+            },
+            {
+              "id": "ans_5",
+              "text": "2013/2014",
+              "slug": "no_pic",
+              "isCorrect": false
+            },
+            {
+              "id": "ans_6",
+              "text": "2014/2015",
+              "slug": "no_pic",
+              "isCorrect": false
+            },
+            {
+              "id": "ans_7",
+              "text": "2015/2016",
+              "slug": "no_pic",
+              "isCorrect": false
+            }
+          ],
+          "sourceQuestionId": "club_barcelona_181"
+        },
+        {
+          "id": "mt_barcelona_realmadrid__club_realmadrid_197",
+          "type": 307,
+          "kind": "season_table",
+          "questionText": "Какой это сезон?",
+          "difficulty": "easy",
+          "media": {
+            "questionSlug": "no_pic",
+            "dialogSlug": "no_pic",
+            "correctSlug": "no_pic"
+          },
+          "payload": {
+            "source": "standings",
+            "title": "Ла Лига",
+            "maxWrongOptions": 3,
+            "compact": true,
+            "columns": [
+              {
+                "key": "position",
+                "label": "М",
+                "width": 0.65,
+                "align": "center"
+              },
+              {
+                "key": "team",
+                "label": "Команда",
+                "width": 2.8,
+                "align": "left"
+              },
+              {
+                "key": "played",
+                "label": "И",
+                "width": 0.65,
+                "align": "center"
+              },
+              {
+                "key": "wins",
+                "label": "В",
+                "width": 0.65,
+                "align": "center"
+              },
+              {
+                "key": "draws",
+                "label": "Н",
+                "width": 0.65,
+                "align": "center"
+              },
+              {
+                "key": "losses",
+                "label": "П",
+                "width": 0.65,
+                "align": "center"
+              },
+              {
+                "key": "goalDifference",
+                "label": "РМ",
+                "width": 0.65,
+                "align": "center"
+              },
+              {
+                "key": "points",
+                "label": "О",
+                "width": 0.65,
+                "align": "center"
+              }
+            ],
+            "rows": [
+              {
+                "rank": 1,
+                "europeanCompetition": "champions_league",
+                "cells": {
+                  "position": {
+                    "value": "1"
+                  },
+                  "team": {
+                    "value": "Реал Мадрид"
+                  },
+                  "played": {
+                    "value": "38"
+                  },
+                  "wins": {
+                    "value": "32"
+                  },
+                  "draws": {
+                    "value": "4"
+                  },
+                  "losses": {
+                    "value": "2"
+                  },
+                  "goalDifference": {
+                    "value": "+89"
+                  },
+                  "points": {
+                    "value": "100"
+                  }
+                }
+              },
+              {
+                "rank": 2,
+                "europeanCompetition": "champions_league",
+                "cells": {
+                  "position": {
+                    "value": "2"
+                  },
+                  "team": {
+                    "value": "Барселона"
+                  },
+                  "played": {
+                    "value": "38"
+                  },
+                  "wins": {
+                    "value": "28"
+                  },
+                  "draws": {
+                    "value": "7"
+                  },
+                  "losses": {
+                    "value": "3"
+                  },
+                  "goalDifference": {
+                    "value": "+85"
+                  },
+                  "points": {
+                    "value": "91"
+                  }
+                }
+              },
+              {
+                "rank": 3,
+                "europeanCompetition": "champions_league",
+                "cells": {
+                  "position": {
+                    "value": "3"
+                  },
+                  "team": {
+                    "value": "Валенсия"
+                  },
+                  "played": {
+                    "value": "38"
+                  },
+                  "wins": {
+                    "value": "17"
+                  },
+                  "draws": {
+                    "value": "10"
+                  },
+                  "losses": {
+                    "value": "11"
+                  },
+                  "goalDifference": {
+                    "value": "+15"
+                  },
+                  "points": {
+                    "value": "61"
+                  }
+                }
+              },
+              {
+                "rank": 4,
+                "europeanCompetition": "champions_league",
+                "cells": {
+                  "position": {
+                    "value": "4"
+                  },
+                  "team": {
+                    "value": "Малага"
+                  },
+                  "played": {
+                    "value": "38"
+                  },
+                  "wins": {
+                    "value": "17"
+                  },
+                  "draws": {
+                    "value": "7"
+                  },
+                  "losses": {
+                    "value": "14"
+                  },
+                  "goalDifference": {
+                    "value": "+1"
+                  },
+                  "points": {
+                    "value": "58"
+                  }
+                }
+              },
+              {
+                "rank": 5,
+                "europeanCompetition": "europa_league",
+                "cells": {
+                  "position": {
+                    "value": "5"
+                  },
+                  "team": {
+                    "value": "Атлетико Мадрид"
+                  },
+                  "played": {
+                    "value": "38"
+                  },
+                  "wins": {
+                    "value": "15"
+                  },
+                  "draws": {
+                    "value": "11"
+                  },
+                  "losses": {
+                    "value": "12"
+                  },
+                  "goalDifference": {
+                    "value": "+7"
+                  },
+                  "points": {
+                    "value": "56"
+                  }
+                }
+              },
+              {
+                "rank": 6,
+                "europeanCompetition": "europa_league",
+                "cells": {
+                  "position": {
+                    "value": "6"
+                  },
+                  "team": {
+                    "value": "Леванте"
+                  },
+                  "played": {
+                    "value": "38"
+                  },
+                  "wins": {
+                    "value": "16"
+                  },
+                  "draws": {
+                    "value": "7"
+                  },
+                  "losses": {
+                    "value": "15"
+                  },
+                  "goalDifference": {
+                    "value": "+4"
+                  },
+                  "points": {
+                    "value": "55"
+                  }
+                }
+              }
+            ]
+          },
+          "answers": [
+            {
+              "id": "ans_1",
+              "text": "2011/2012",
+              "slug": "no_pic",
+              "isCorrect": true
+            },
+            {
+              "id": "ans_2",
+              "text": "2008/2009",
+              "slug": "no_pic",
+              "isCorrect": false
+            },
+            {
+              "id": "ans_3",
+              "text": "2009/2010",
+              "slug": "no_pic",
+              "isCorrect": false
+            },
+            {
+              "id": "ans_4",
+              "text": "2010/2011",
+              "slug": "no_pic",
+              "isCorrect": false
+            },
+            {
+              "id": "ans_5",
+              "text": "2012/2013",
+              "slug": "no_pic",
+              "isCorrect": false
+            },
+            {
+              "id": "ans_6",
+              "text": "2013/2014",
+              "slug": "no_pic",
+              "isCorrect": false
+            },
+            {
+              "id": "ans_7",
+              "text": "2014/2015",
+              "slug": "no_pic",
+              "isCorrect": false
+            }
+          ],
+          "sourceQuestionId": "club_realmadrid_197"
+        },
+        {
+          "id": "mt_barcelona_realmadrid__club_barcelona_183",
+          "type": 307,
+          "kind": "season_table",
+          "questionText": "Какой это сезон?",
+          "difficulty": "easy",
+          "media": {
+            "questionSlug": "no_pic",
+            "dialogSlug": "no_pic",
+            "correctSlug": "no_pic"
+          },
+          "payload": {
+            "source": "standings",
+            "title": "Ла Лига",
+            "maxWrongOptions": 3,
+            "compact": true,
+            "columns": [
+              {
+                "key": "position",
+                "label": "М",
+                "width": 0.65,
+                "align": "center"
+              },
+              {
+                "key": "team",
+                "label": "Команда",
+                "width": 2.8,
+                "align": "left"
+              },
+              {
+                "key": "played",
+                "label": "И",
+                "width": 0.65,
+                "align": "center"
+              },
+              {
+                "key": "wins",
+                "label": "В",
+                "width": 0.65,
+                "align": "center"
+              },
+              {
+                "key": "draws",
+                "label": "Н",
+                "width": 0.65,
+                "align": "center"
+              },
+              {
+                "key": "losses",
+                "label": "П",
+                "width": 0.65,
+                "align": "center"
+              },
+              {
+                "key": "goalDifference",
+                "label": "РМ",
+                "width": 0.65,
+                "align": "center"
+              },
+              {
+                "key": "points",
+                "label": "О",
+                "width": 0.65,
+                "align": "center"
+              }
+            ],
+            "rows": [
+              {
+                "rank": 1,
+                "europeanCompetition": "champions_league",
+                "cells": {
+                  "position": {
+                    "value": "1"
+                  },
+                  "team": {
+                    "value": "Барселона"
+                  },
+                  "played": {
+                    "value": "38"
+                  },
+                  "wins": {
+                    "value": "31"
+                  },
+                  "draws": {
+                    "value": "1"
+                  },
+                  "losses": {
+                    "value": "6"
+                  },
+                  "goalDifference": {
+                    "value": "+59"
+                  },
+                  "points": {
+                    "value": "94"
+                  }
+                }
+              },
+              {
+                "rank": 2,
+                "europeanCompetition": "champions_league",
+                "cells": {
+                  "position": {
+                    "value": "2"
+                  },
+                  "team": {
+                    "value": "Реал Мадрид"
+                  },
+                  "played": {
+                    "value": "38"
+                  },
+                  "wins": {
+                    "value": "27"
+                  },
+                  "draws": {
+                    "value": "5"
+                  },
+                  "losses": {
+                    "value": "6"
+                  },
+                  "goalDifference": {
+                    "value": "+42"
+                  },
+                  "points": {
+                    "value": "86"
+                  }
+                }
+              },
+              {
+                "rank": 3,
+                "europeanCompetition": "champions_league",
+                "cells": {
+                  "position": {
+                    "value": "3"
+                  },
+                  "team": {
+                    "value": "Вильярреал"
+                  },
+                  "played": {
+                    "value": "38"
+                  },
+                  "wins": {
+                    "value": "22"
+                  },
+                  "draws": {
+                    "value": "6"
+                  },
+                  "losses": {
+                    "value": "10"
+                  },
+                  "goalDifference": {
+                    "value": "+26"
+                  },
+                  "points": {
+                    "value": "72"
+                  }
+                }
+              },
+              {
+                "rank": 4,
+                "europeanCompetition": "champions_league",
+                "cells": {
+                  "position": {
+                    "value": "4"
+                  },
+                  "team": {
+                    "value": "Атлетико Мадрид"
+                  },
+                  "played": {
+                    "value": "38"
+                  },
+                  "wins": {
+                    "value": "21"
+                  },
+                  "draws": {
+                    "value": "6"
+                  },
+                  "losses": {
+                    "value": "11"
+                  },
+                  "goalDifference": {
+                    "value": "+18"
+                  },
+                  "points": {
+                    "value": "69"
+                  }
+                }
+              },
+              {
+                "rank": 5,
+                "europeanCompetition": "champions_league",
+                "cells": {
+                  "position": {
+                    "value": "5"
+                  },
+                  "team": {
+                    "value": "Бетис"
+                  },
+                  "played": {
+                    "value": "38"
+                  },
+                  "wins": {
+                    "value": "15"
+                  },
+                  "draws": {
+                    "value": "15"
+                  },
+                  "losses": {
+                    "value": "8"
+                  },
+                  "goalDifference": {
+                    "value": "+11"
+                  },
+                  "points": {
+                    "value": "60"
+                  }
+                }
+              },
+              {
+                "rank": 6,
+                "europeanCompetition": "europa_league",
+                "cells": {
+                  "position": {
+                    "value": "6"
+                  },
+                  "team": {
+                    "value": "Сельта"
+                  },
+                  "played": {
+                    "value": "38"
+                  },
+                  "wins": {
+                    "value": "14"
+                  },
+                  "draws": {
+                    "value": "12"
+                  },
+                  "losses": {
+                    "value": "12"
+                  },
+                  "goalDifference": {
+                    "value": "+5"
+                  },
+                  "points": {
+                    "value": "54"
+                  }
+                }
+              }
+            ]
+          },
+          "answers": [
+            {
+              "id": "ans_1",
+              "text": "2025/2026",
+              "slug": "no_pic",
+              "isCorrect": true
+            },
+            {
+              "id": "ans_2",
+              "text": "2022/2023",
+              "slug": "no_pic",
+              "isCorrect": false
+            },
+            {
+              "id": "ans_3",
+              "text": "2023/2024",
+              "slug": "no_pic",
+              "isCorrect": false
+            },
+            {
+              "id": "ans_4",
+              "text": "2024/2025",
+              "slug": "no_pic",
+              "isCorrect": false
+            },
+            {
+              "id": "ans_5",
+              "text": "2026/2027",
+              "slug": "no_pic",
+              "isCorrect": false
+            },
+            {
+              "id": "ans_6",
+              "text": "2027/2028",
+              "slug": "no_pic",
+              "isCorrect": false
+            },
+            {
+              "id": "ans_7",
+              "text": "2028/2029",
+              "slug": "no_pic",
+              "isCorrect": false
+            }
+          ],
+          "sourceQuestionId": "club_barcelona_183"
+        }
+      ]
+    }
+  ]
+}

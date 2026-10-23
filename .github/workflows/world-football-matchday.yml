@@ -1,0 +1,40 @@
+name: World Football - select Matchday
+on:
+  workflow_dispatch:
+    inputs:
+      home:
+        description: Home club id (see world-football/easy-club-questions.json)
+        required: true
+        default: club_barcelona
+        type: string
+      away:
+        description: Away club id
+        required: true
+        default: club_realmadrid
+        type: string
+permissions:
+  contents: write
+concurrency:
+  group: world-football-matchday
+  cancel-in-progress: false
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Prepare verified easy questions
+        env:
+          HOME_CLUB: ${{ inputs.home }}
+          AWAY_CLUB: ${{ inputs.away }}
+        run: node world-football/select-matchday.mjs --home "$HOME_CLUB" --away "$AWAY_CLUB"
+      - name: Publish pointer, payload and manifest together
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -- world-football/content
+          git diff --cached --quiet && exit 0
+          git commit -m 'Publish World Football Matchday'
+          git push
