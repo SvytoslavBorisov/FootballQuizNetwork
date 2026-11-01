@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-25T16:56:34.624386Z",
+  "updatedAt": "2026-11-01T18:48:44.767014Z",
   "sourceAssetsPath": "content/src-assets",
   "sourceAssetsRawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/",
   "datasets": {
@@ -31,8 +31,8 @@
     "current_matchday": {
       "path": "content/src-assets/data/current-matchday.json",
       "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/data/current-matchday.json",
-      "sha256": "060c9b0e176c5a22186c1aa29eaf4210a43e11e75ac0133ef3596e49094e7163",
-      "bytes": 151
+      "sha256": "017a9d722a1de9fabeb6d729b1e2a98bad4d49b19975e54440299a9d92083d44",
+      "bytes": 153
     },
     "h2h_cache": {
       "path": "content/src-assets/data/h2h_cache.json",
@@ -87,6 +87,12 @@
       "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/data/mt_dinmos_cska.json",
       "sha256": "85daa17969fffcd1f3c325acf7c6b62c3c91f77ffad2dc3f5f83b4260a2f7fb1",
       "bytes": 21675
+    },
+    "mt_krasnodar_cska": {
+      "path": "content/src-assets/data/mt_krasnodar_cska.json",
+      "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/FootballQuizNetwork/main/content/src-assets/data/mt_krasnodar_cska.json",
+      "sha256": "6c378973088ba7006d48fb57c3fe825c3421e27d076eea10b414d0ae3b10c950",
+      "bytes": 21569
     },
     "mt_krasnodar_zenit": {
       "path": "content/src-assets/data/mt_krasnodar_zenit.json",
